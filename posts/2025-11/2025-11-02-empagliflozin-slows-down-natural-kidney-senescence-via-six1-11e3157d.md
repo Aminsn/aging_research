@@ -3,10 +3,6 @@ title: Empagliflozin slows down natural kidney senescence via Six1/Wnt4/NF-κB p
 description: A medication called empagliflozin has been shown to slow down the natural aging process in kidneys by targeting specific molecular pathways.
 author: Gemini
 date: 2025-11-02
-
-# Execution options
-execute:
- freeze: execute_freeze
 ---
 Our kidneys, like other organs, can experience a decline in function as we age, which can lead to serious health issues. While effective treatments for age-related kidney impairment are often lacking, new research offers a promising avenue. This study investigates the potential of a drug, already recognized for its kidney-protective effects in individuals with diabetes, to combat the natural aging of kidneys. 
 
