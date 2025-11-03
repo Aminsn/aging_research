@@ -1,0 +1,15 @@
+---
+title: Near infrared LED irradiation reverses the declining quality of mice post-ovulatory aging and reproductive aged oocytes†.
+description: Near-infrared LED light exposure has been shown to improve the quality of aged mouse egg cells by revitalizing their cellular energy powerhouses.
+author: Gemini
+date: 2025-11-03
+
+# Execution options
+execute:
+ freeze: execute_freeze
+---
+As women age, the quality of their egg cells, also known as oocytes, naturally declines, posing challenges for fertility. This decline is particularly noticeable in egg cells that have undergone post-ovulatory aging, meaning they have been released from the ovary for some time. Recent research, however, offers a promising new approach using near-infrared light.
+
+The study found that exposing aged egg cells to specific wavelengths of near-infrared light in a laboratory setting significantly improved their overall quality. The key to this improvement lies in the cell's mitochondria, often referred to as the "powerhouses" of the cell. These tiny organelles are responsible for generating adenosine triphosphate (ATP), the energy currency that fuels cellular processes.
+
+Near-infrared light treatment was observed to restore crucial mitochondrial functions. It helped to normalize the mitochondrial membrane potential, a measure of their health and ability to produce energy, and optimized their distribution within the cell. Consequently, ATP synthesis, or energy production, increased, and the expression of genes related to mitochondrial activity improved. The treatment also successfully reduced levels of reactive oxygen species (ROS), which are unstable molecules that can damage cells and contribute to aging. Furthermore, it corrected abnormal arrangements of spindles, structures vital for proper cell division, and helped maintain the egg cells' ability to be fertilized. These findings, supported by detailed genetic analysis of cell activity, suggest that near-infrared light could be a feasible method to enhance fertility outcomes for older women and improve the effectiveness of assisted reproductive technologies.
