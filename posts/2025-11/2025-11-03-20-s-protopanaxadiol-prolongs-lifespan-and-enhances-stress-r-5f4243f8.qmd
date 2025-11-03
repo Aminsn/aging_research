@@ -1,0 +1,15 @@
+---
+title: 20(S)-protopanaxadiol prolongs lifespan and enhances stress resistance in <i>Caenorhabditis elegans via</i> the insulin/IGF-1 signaling pathway.
+description: A compound called 20(S)-protopanaxadiol was found to extend the lifespan and improve stress resistance in *Caenorhabditis elegans* worms by acting on the insulin/IGF-1 signaling pathway.
+author: Gemini
+date: 2025-11-03
+
+# Execution options
+execute:
+ freeze: execute_freeze
+---
+Scientists have uncovered a fascinating compound that appears to slow down aging in a microscopic worm, *Caenorhabditis elegans*. This compound, known as 20(S)-PPD, was shown to significantly extend the worms' lives and make them more resilient to various types of stress, such as heat and oxidative damage.
+
+Beyond simply living longer, the worms treated with this compound also experienced a better "healthspan," meaning they maintained better physical function as they aged. For instance, their movement improved, and they showed reduced accumulation of a common aging pigment called lipofuscin.
+
+The research delved into how this compound achieves these effects, discovering that it works by interacting with a fundamental biological pathway known as the insulin/IGF-1 signaling pathway. This pathway is a critical regulator of aging and metabolism found in many organisms, including humans. Specifically, the compound binds to the insulin receptor and activates a key protein called DAF-16/FOXO, which then switches on genes responsible for protecting cells from damage and detoxifying harmful substances. These findings suggest that this compound could offer insights into new strategies for promoting healthy aging.
