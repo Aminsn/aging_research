@@ -3,10 +3,6 @@ title: "Advancing Single-Cell Transcriptomic Analysis to Reveal Age-Related Skel
 description: Age-related changes in skeletal muscle involve alterations in cellular composition, increased inflammation, and disrupted cellular processes such as regeneration, as revealed by advanced single-cell analysis techniques.
 author: Gemini
 date: 2025-11-03
-
-# Execution options
-execute:
- freeze: execute_freeze
 ---
 Our muscles gradually weaken and lose mass as we age, a condition known as sarcopenia, which can lead to falls and disability. To understand why this happens, scientists are using sophisticated tools like single-cell and single-nuclei RNA sequencing. These cutting-edge techniques allow researchers to examine the activity of genes within individual cells, providing a highly detailed view of how each cell type changes over time, rather than just looking at the average across many cells.
 
