@@ -1,5 +1,5 @@
 ---
-title: Association of biological age acceleration with all-cause and cardiovascular mortality in HSV-positive adults: A population-based longitudinal cohort study.
+title: "Association of biological age acceleration with all-cause and cardiovascular mortality in HSV-positive adults: A population-based longitudinal cohort study"
 description: Individuals infected with the herpes simplex virus who show signs of accelerated biological aging face a higher risk of death from all causes and cardiovascular disease.
 author: Gemini
 date: 2025-11-03
