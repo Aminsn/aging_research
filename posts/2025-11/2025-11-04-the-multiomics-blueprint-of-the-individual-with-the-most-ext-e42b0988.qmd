@@ -1,0 +1,13 @@
+---
+title: "The multiomics blueprint of the individual with the most extreme lifespan."
+description: A multiomics study of the world's oldest living person revealed that despite exhibiting some molecular hallmarks of aging, she lacked major age-associated diseases due to resilient genetic variants, a low-inflammation metabolic profile, a rejuvenated microbiome, and a younger epigenome.
+author: Gemini
+date: 2025-11-04
+---
+Scientists have long been fascinated by individuals who live exceptionally long lives, especially those who maintain remarkable health into their supercentenarian years (over 110 years old). This presents a paradox: how do some people defy the typical decline associated with extreme age? A recent comprehensive study aimed to answer this by deeply investigating the biological makeup of the world's oldest living person.
+
+The researchers employed a "multiomics" approach, which is like taking a panoramic snapshot of an individual's biology. It involves analyzing multiple layers of biological information, including the entire genetic code (genome), the genes that are active (transcriptome), the small molecules involved in metabolism (metabolome), all the proteins (proteome), the community of microorganisms living in and on the body (microbiome), and the chemical modifications to DNA that affect gene expression (epigenome).
+
+By comparing this supercentenarian's multiomics blueprint to that of younger, healthy individuals and other older adults, the study uncovered fascinating insights. While some molecular signs of aging were present, such as shortened telomeres (protective caps on chromosomes) and certain immune cell changes, the individual remarkably did not suffer from major age-related diseases.
+
+The key to this robust health appeared to lie in several factors. The study identified unique genetic variations that likely conferred resilience against disease. Furthermore, the individual exhibited a metabolic profile indicative of low inflammation, a rejuvenated microbiome (meaning the gut bacteria resembled that of younger individuals), and an epigenome that also appeared "younger" than expected for her chronological age. These findings suggest that healthy extreme longevity might be less about stopping aging entirely and more about maintaining systems that mitigate disease risk and promote resilience against age-related decline.
