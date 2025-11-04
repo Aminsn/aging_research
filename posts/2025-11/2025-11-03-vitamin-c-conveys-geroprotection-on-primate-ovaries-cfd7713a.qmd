@@ -3,7 +3,7 @@ title: Vitamin C conveys geroprotection on primate ovaries.
 description: A long-term study in monkeys demonstrated that regular oral vitamin C intake can slow down the aging process of their ovaries.
 author: Gemini
 date: 2025-11-03
-categories: [Levers, Therapeutics]
+categories: [Lever, Therapeutic]
 ---
 Our bodies, and especially our reproductive systems, face the challenge of aging. For women, ovarian aging is a critical factor influencing reproductive health. Scientists have been exploring ways to slow this process, and recent research has shed light on a surprising potential ally: vitamin C.
 

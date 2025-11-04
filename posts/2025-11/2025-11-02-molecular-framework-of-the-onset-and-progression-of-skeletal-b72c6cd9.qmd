@@ -3,7 +3,7 @@ title: Molecular Framework of the Onset and Progression of Skeletal Muscle Aging
 description: Skeletal muscle aging commences during middle age with subtle molecular alterations, preceding the noticeable loss of muscle mass and function.
 author: Gemini
 date: 2025-11-02
-categories: [Hallmarks, Aging Theory]
+categories: [Hallmark, Aging Theory]
 ---
 Many of us think of muscle decline as something that happens much later in life, but new insights suggest that the aging process in our muscles actually begins far earlier, often in middle age. Long before we might notice significant weakness or a reduction in muscle size (a condition called sarcopenia, which is the age-related loss of muscle mass and function), our muscle cells are already undergoing subtle changes at a molecular level. 
 

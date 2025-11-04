@@ -3,7 +3,7 @@ title: Age and sex influence diurnal memory oscillations, circadian rhythmicity,
 description: Memory performance and daily body clock patterns fluctuate depending on an individual's age and sex, with the gene Per1 playing a role in these processes.
 author: Gemini
 date: 2025-11-03
-categories: [Hallmarks, Aging Pathaways]
+categories: [Hallmark, Aging Pathaway]
 ---
 Have you ever noticed your memory seems sharper at certain times of the day? New research reveals that how well we remember things throughout the day, often called "diurnal memory oscillations," is significantly shaped by our age and our sex. It also highlights that our internal body clock, or "circadian rhythm," which dictates our sleep-wake cycles and other daily functions, is similarly influenced by these factors.
 

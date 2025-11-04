@@ -3,7 +3,7 @@ title: "An Ad Libitum-Fed Diet That Matches the Beneficial Lifespan Effects of 
 description: A new study in mice found that a specific low-protein, high-carbohydrate diet, consumed without restriction, extends lifespan and improves metabolic health similarly to caloric restriction, but through distinct cellular mechanisms.
 author: Gemini
 date: 2025-11-04
-categories: [Levers]
+categories: [Lever]
 ---
 For a long time, researchers have known that drastically cutting down on calories, a practice called caloric restriction, can lead to a longer and healthier life in many animals. However, consistently maintaining such a strict diet is incredibly difficult for people.
 
