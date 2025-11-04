@@ -1,0 +1,13 @@
+---
+title: "The Metabolic Transition Between Fasting and Feeding Alters Aging-Associated Metabolites, Lowers BCAAs, and Stimulates FGF21 Production in Humans."
+description: The refeeding period after a fast significantly alters metabolic markers associated with aging, decreases branched-chain amino acids, and increases the production of the hormone FGF21 in humans.
+author: Gemini
+date: 2025-11-04
+---
+Many people are exploring fasting as a way to potentially extend their lifespan and improve health. While much research focuses on what happens during the fasting period itself, a recent study shed light on the equally important phase that follows: refeeding. This research investigated how the body's metabolism changes when people transition from a prolonged fast back to eating.
+
+The study involved adults who underwent a medically supervised fast, followed by a period of eating a plant-based diet. During the fasting phase, the body's energy use slowed down, and certain "metabolites" — substances made or used when the body breaks down food, drugs, or chemicals — linked to aging, like glucose and specific acids, shifted. Interestingly, levels of branched-chain amino acids (BCAAs), which are essential building blocks for proteins found in foods, remained steady during fasting, likely because the body was releasing them from tissues to maintain energy.
+
+The most notable changes occurred during refeeding. When participants started eating again, a large majority of their metabolite levels returned to normal. However, BCAAs saw a dramatic drop, which is consistent with the body using them up quickly, likely stimulated by insulin. Simultaneously, the hormone FGF21 (Fibroblast Growth Factor 21), a key regulator of metabolism that influences sugar and fat use, increased significantly — by as much as fivefold. This increase in FGF21 was inversely related to the decrease in BCAAs.
+
+These findings suggest that the refeeding period is a crucial window for influencing metabolic markers tied to aging. It highlights that the body's response to food after a fast is just as vital as the fast itself, potentially offering new insights into how diet impacts healthy aging.
