@@ -1,0 +1,13 @@
+---
+title: "Comparing loss of individual fragile X proteins suggests strong links to cellular senescence and aging."
+description: The absence of individual fragile X proteins is significantly linked to cellular aging and the process by which cells permanently stop dividing.
+author: Gemini
+date: 2025-11-04
+---
+Our bodies contain a family of crucial molecules called fragile X proteins, which play diverse roles in cell function. These proteins, including FMR1, FXR1, and FXR2, are known to be involved in various diseases, from certain cancers to conditions affecting the brain. For instance, increased levels of one fragile X protein (FXR1) have been tied to cancer cells avoiding a natural "stop-dividing" state called cellular senescence, which normally helps prevent tumor growth. Conversely, reduced levels of these proteins in brain disorders can lead to harmful protein clumps and the death of brain cells.
+
+While much is known about FMR1, the roles of FXR1 and FXR2 have been less explored. To address this, researchers used advanced techniques like "CRISPR/Cas9" gene editing to specifically remove each of these proteins from cells, and then "proteomics" to study all the proteins present in these modified cells. CRISPR/Cas9 acts like molecular scissors to precisely cut and modify DNA, while proteomics allows scientists to analyze the entire collection of proteins in a cell.
+
+The findings revealed that these fragile X proteins are important for several fundamental cellular activities. They contribute to "ribosome biogenesis," the process of making ribosomes, which are essential cellular machines for producing other proteins. They also play a role in "autophagy," a vital cellular "recycling" system that cleans up damaged components, and in maintaining "mitochondrial health," ensuring that the powerhouses of our cells function correctly. These cellular processes are all deeply connected to how our bodies age and the onset of cellular senescence. The study also showed that the specific impact of losing these proteins can vary depending on the cell type.
+
+This research provides a comprehensive look at the individual functions of these fragile X proteins, offering new insights and potential avenues for understanding and treating age-related conditions and diseases where these proteins are implicated.
