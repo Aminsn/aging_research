@@ -3,7 +3,7 @@ title: "Sirolimus use in allogeneic hematopoietic cell transplant recipients: as
 description: The study investigated whether sirolimus, when used at standard doses to prevent complications after allogeneic hematopoietic cell transplantation, demonstrates a significant anti-aging effect by reducing cellular senescence.
 author: Gemini
 date: 2025-11-03
-categories: [trials, therapeutics]
+categories: [Trials, Therapeutics]
 ---
 Undergoing a blood stem cell transplant, a vital treatment for various blood cancers and disorders, can unfortunately accelerate the aging process in patients. This happens because the intense treatments involved can lead to an accumulation of "senescent cells"—cells that have stopped dividing and can release harmful substances, contributing to inflammation and tissue damage, a process sometimes called "inflammaging."
 

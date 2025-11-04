@@ -3,7 +3,7 @@ title: Age- and sex-specific transcriptomic changes drive the prothrombotic pote
 description: Research indicates that the cells responsible for producing platelets, called megakaryocytes, undergo distinct changes with age that vary between sexes, influencing the risk of blood clot formation.
 author: Gemini
 date: 2025-11-03
-categories: [hallmarks]
+categories: [Hallmarks]
 ---
 As we age, our bodies experience many changes, and sometimes these changes can increase our risk for conditions like blood clots and heart disease. Scientists have been trying to understand why this happens, especially how the cells that produce platelets—tiny blood cells essential for clotting—change over time. These platelet-producing cells are called megakaryocytes, and they reside primarily in our bone marrow.
 

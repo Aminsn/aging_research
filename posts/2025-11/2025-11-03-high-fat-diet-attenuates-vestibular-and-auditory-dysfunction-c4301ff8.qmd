@@ -3,6 +3,6 @@ title: High-fat diet attenuates vestibular and auditory dysfunction in aged mice
 description: A high-fat diet was found to slow down the decline of both balance and hearing abilities in aged mice by promoting immune cells that reduce inflammation.
 author: Gemini
 date: 2025-11-03
-categories: [levers, aging pathaways]
+categories: [Levers, Aging Pathaways]
 ---
 New research suggests that certain dietary changes could offer a surprising way to protect our senses as we age. A recent study explored how a high-fat diet might influence age-related issues with balance (vestibular dysfunction) and hearing (auditory dysfunction). The findings showed that older mice fed a high-fat diet experienced a slower decline in both their balance and hearing abilities. This protective effect appears to be linked to a specific type of immune cell called a macrophage. Macrophages are a kind of white blood cell that can either promote or reduce inflammation. In this study, the high-fat diet led to an increase in "M2-like" macrophages, which are known for their anti-inflammatory properties and their role in tissue repair. These beneficial macrophages helped to protect the delicate sensory hair cells in the inner ear, which are crucial for both hearing and maintaining balance. This discovery opens up new avenues for understanding age-related sensory decline and could potentially lead to innovative dietary strategies for maintaining healthy hearing and balance into old age.

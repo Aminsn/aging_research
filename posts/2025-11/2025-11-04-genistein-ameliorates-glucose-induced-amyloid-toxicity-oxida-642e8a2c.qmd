@@ -3,7 +3,7 @@ title: "Genistein ameliorates glucose-induced β-amyloid toxicity, oxidative str
 description: Genistein, a compound derived from soy, was observed to extend lifespan and reduce symptoms resembling Alzheimer's disease in a C. elegans model, by addressing toxicity caused by a specific protein accumulation, cellular damage from unstable molecules, and aspects of aging linked to high glucose levels.
 author: Gemini
 date: 2025-11-04
-categories: [levers, therapeutics]
+categories: [Levers, Therapeutics]
 ---
 Researchers have uncovered new insights into how a natural compound might help combat the effects of Alzheimer's disease, particularly when complicated by high blood sugar levels. It's becoming increasingly clear that Alzheimer's and type 2 diabetes share common underlying biological problems, leading scientists to call this connection "diabetic encephalopathy."
 

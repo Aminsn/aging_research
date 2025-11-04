@@ -3,7 +3,7 @@ title: "Telomerase and alternative lengthening of telomeres coexist in the regen
 description: Zebrafish maintain the protective caps on their chromosomes, called telomeres, during fin regeneration through both the telomerase enzyme and an alternative repair pathway, especially when telomerase is absent.
 author: Gemini
 date: 2025-11-04
-categories: [hallmarks, aging pathaways]
+categories: [Hallmarks, Aging Pathaways]
 ---
 Our bodies are made of cells, and inside each cell are chromosomes that carry our genetic information. At the very ends of these chromosomes are special protective caps called telomeres. Think of them like the plastic tips on shoelaces, preventing the shoelaces from fraying. Every time a cell divides, these telomeres get a little shorter, which is a natural part of aging.
 

@@ -3,7 +3,7 @@ title: "Spatiotemporal transcriptomic characteristics of immune and metabolic dy
 description: A comprehensive study mapped gene activity across different mouse brain regions throughout the aging process, revealing distinct patterns of immune system activation and metabolic changes over time.
 author: Gemini
 date: 2025-11-04
-categories: [hallmarks]
+categories: [Hallmarks]
 ---
 As we age, our brains undergo complex changes that can affect their function. A recent study delved deep into understanding these changes by creating a detailed map of gene activity across different parts of the mouse brain at various stages of aging. This approach, known as spatiotemporal transcriptomics, allowed researchers to see not just which genes were active, but also precisely where in the brain and at what age these activations occurred.
 

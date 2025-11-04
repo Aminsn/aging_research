@@ -3,7 +3,7 @@ title: "Obstructive sleep apnea and aging of the cardiovascular system: a multid
 description: Obstructive sleep apnea accelerates the aging of the cardiovascular system through multiple pathways, including cellular senescence, mitochondrial dysfunction, metabolic dysregulation, telomere attrition, impaired intercellular communication, and adipose tissue senescence.
 author: Gemini
 date: 2025-11-04
-categories: [hallmarks, aging pathaways]
+categories: [Hallmarks, Aging Pathaways]
 ---
 Many people experience sleep apnea, a common condition where breathing repeatedly stops and starts during sleep. While often associated with snoring and daytime fatigue, its impact extends much further, particularly affecting the heart and blood vessels. Recent research highlights how this sleep disorder can significantly speed up the aging process of your cardiovascular system.
 

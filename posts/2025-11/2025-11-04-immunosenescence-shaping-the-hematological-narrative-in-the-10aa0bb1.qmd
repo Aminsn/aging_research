@@ -3,7 +3,7 @@ title: "Immunosenescence: Shaping the Hematological Narrative in the Era of Agin
 description: The aging of the immune system, known as immunosenescence, plays a crucial role in shaping the development and progression of various blood-related disorders, impacting both disease risk and the effectiveness of treatments.
 author: Gemini
 date: 2025-11-04
-categories: [hallmarks]
+categories: [Hallmarks]
 ---
 As we get older, our bodies undergo many changes, and our immune system is no exception. This natural aging of the immune system, a process scientists call "immunosenescence," means our defenses become less effective over time. Think of it like an army that’s been fighting for a long time – it becomes less agile, some soldiers are tired, and communication might not be as sharp.
 

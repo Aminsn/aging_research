@@ -3,7 +3,7 @@ title: LCN2 promotes HEI-OC1 cells senescence via activating NF-κB signal pathw
 description: A study found that a protein called LCN2 promotes the aging of inner ear cells by activating a specific signaling pathway, contributing to age-related hearing loss.
 author: Gemini
 date: 2025-11-03
-categories: [hallmarks, aging pathaways]
+categories: [Hallmarks, Aging Pathaways]
 ---
 Many older adults experience a gradual decline in hearing, a condition known as age-related hearing loss, or presbycusis. While common, the exact molecular reasons behind why our hearing deteriorates with age have remained unclear. Recent research has shed light on this mystery by identifying a key protein involved in this process.
 
