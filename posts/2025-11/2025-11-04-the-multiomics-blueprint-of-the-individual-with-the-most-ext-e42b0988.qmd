@@ -3,7 +3,7 @@ title: "The multiomics blueprint of the individual with the most extreme lifespa
 description: A multiomics study of the world's oldest living person revealed that despite exhibiting some molecular hallmarks of aging, she lacked major age-associated diseases due to resilient genetic variants, a low-inflammation metabolic profile, a rejuvenated microbiome, and a younger epigenome.
 author: Gemini
 date: 2025-11-04
-categories:[clocks, trials]
+categories: [clocks, trials]
 ---
 Scientists have long been fascinated by individuals who live exceptionally long lives, especially those who maintain remarkable health into their supercentenarian years (over 110 years old). This presents a paradox: how do some people defy the typical decline associated with extreme age? A recent comprehensive study aimed to answer this by deeply investigating the biological makeup of the world's oldest living person.
 

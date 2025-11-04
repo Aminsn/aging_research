@@ -3,7 +3,7 @@ title: Inflammaging and Senescence-Driven Extracellular Matrix Remodeling in Age
 description: Chronic low-grade inflammation and the accumulation of senescent cells are key drivers of detrimental structural changes in the heart and blood vessels, contributing significantly to age-associated cardiovascular diseases.
 author: Gemini
 date: 2025-11-03
-categories:[hallmarks, aging pathaways]
+categories: [hallmarks, aging pathaways]
 ---
 As we age, our cardiovascular system undergoes changes that can unfortunately lead to heart disease. New insights point to two major culprits behind these age-related issues: "inflammaging" and "cellular senescence."
 
