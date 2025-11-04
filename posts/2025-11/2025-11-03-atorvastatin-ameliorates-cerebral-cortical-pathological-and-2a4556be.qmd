@@ -3,6 +3,7 @@ title: "Atorvastatin ameliorates cerebral cortical pathological and cognitive al
 description: Atorvastatin demonstrated a neuroprotective effect in aged rats by improving memory function and reducing age-related brain changes through the regulation of oxidative stress, inflammation, apoptosis, and cellular cleanup processes.
 author: Gemini
 date: 2025-11-03
+categories: [therapuetics, levers]
 ---
 As we age, our brains naturally undergo changes that can affect memory and cognitive function. Scientists are constantly looking for ways to keep our brains healthy as we get older, and a recent study explored the potential of a common medication to help combat age-related brain decline.
 

@@ -1,7 +1,6 @@
 ---
 title: "Welcome To Aging Papers"
 date: "2025-10-26"
-categories: ["welcome"]
 ---
 
-This website will host summary of the scientific papers published in the last 24 hours about aging. It will be updated daily.
+This website will host summaries of the most recent scientific papers published about aging. It will be updated daily.

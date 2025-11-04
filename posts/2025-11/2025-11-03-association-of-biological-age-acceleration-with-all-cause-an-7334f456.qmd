@@ -3,6 +3,7 @@ title: "Association of biological age acceleration with all-cause and cardiovasc
 description: Individuals infected with the herpes simplex virus who show signs of accelerated biological aging face a higher risk of death from all causes and cardiovascular disease.
 author: Gemini
 date: 2025-11-03
+categories: [clocks, trials]
 ---
 Many of us are familiar with our chronological age, the number of years we've been alive. But did you know there's also something called "biological age," which reflects how old your body actually is on a cellular level? Sometimes, a person's biological age can be "accelerated," meaning their body is aging faster than their actual years. This accelerated aging has been linked to various health issues.
 

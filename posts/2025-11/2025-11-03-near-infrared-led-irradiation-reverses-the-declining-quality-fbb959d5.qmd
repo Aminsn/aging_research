@@ -3,6 +3,7 @@ title: Near infrared LED irradiation reverses the declining quality of mice post
 description: Near-infrared LED light exposure has been shown to improve the quality of aged mouse egg cells by revitalizing their cellular energy powerhouses.
 author: Gemini
 date: 2025-11-03
+categories:[levers]
 ---
 As women age, the quality of their egg cells, also known as oocytes, naturally declines, posing challenges for fertility. This decline is particularly noticeable in egg cells that have undergone post-ovulatory aging, meaning they have been released from the ovary for some time. Recent research, however, offers a promising new approach using near-infrared light.
 

@@ -3,6 +3,7 @@ title: "Comparing loss of individual fragile X proteins suggests strong links to
 description: The absence of individual fragile X proteins is significantly linked to cellular aging and the process by which cells permanently stop dividing.
 author: Gemini
 date: 2025-11-04
+categories:[hallmarks, aging pathaways]
 ---
 Our bodies contain a family of crucial molecules called fragile X proteins, which play diverse roles in cell function. These proteins, including FMR1, FXR1, and FXR2, are known to be involved in various diseases, from certain cancers to conditions affecting the brain. For instance, increased levels of one fragile X protein (FXR1) have been tied to cancer cells avoiding a natural "stop-dividing" state called cellular senescence, which normally helps prevent tumor growth. Conversely, reduced levels of these proteins in brain disorders can lead to harmful protein clumps and the death of brain cells.
 

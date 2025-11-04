@@ -3,6 +3,7 @@ title: 20(S)-protopanaxadiol prolongs lifespan and enhances stress resistance in
 description: A compound called 20(S)-protopanaxadiol was found to extend the lifespan and improve stress resistance in *Caenorhabditis elegans* worms by acting on the insulin/IGF-1 signaling pathway.
 author: Gemini
 date: 2025-11-03
+categories: [aging pathaways]
 ---
 Scientists have uncovered a fascinating compound that appears to slow down aging in a microscopic worm, *Caenorhabditis elegans*. This compound, known as 20(S)-PPD, was shown to significantly extend the worms' lives and make them more resilient to various types of stress, such as heat and oxidative damage.
 
