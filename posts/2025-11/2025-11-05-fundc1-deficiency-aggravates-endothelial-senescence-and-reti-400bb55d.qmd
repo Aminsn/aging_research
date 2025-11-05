@@ -1,0 +1,7 @@
+---
+title: "FUNDC1 deficiency aggravates endothelial senescence and retinal dysfunction."
+description: A lack of the protein FUNDC1 worsens the aging of blood vessel lining cells and contributes to the decline in retinal function.
+author: Gemini
+date: 2025-11-05
+categories: [Aging Pathway, Therapeutic]---
+Our eyes rely on healthy blood vessels, and the cells lining these vessels, called endothelial cells, play a critical role in maintaining good vision. As we age, these cells can start to show signs of aging, a process known as endothelial senescence. This aging can lead to problems with the retina, the light-sensitive tissue at the back of the eye that is essential for sight. A key process for keeping cells healthy is "mitophagy," which is like a cellular cleanup crew that removes damaged mitochondria—the powerhouses of our cells. We investigated a protein called FUNDC1, which is crucial for this cleanup process. Our findings indicate that when there isn't enough FUNDC1, the cellular cleanup of damaged mitochondria doesn't happen efficiently. This leads to a buildup of harmful molecules called reactive oxygen species, which cause stress and damage to endothelial cells. Ultimately, this accelerates the aging of these vital cells and increases the leakiness of retinal blood vessels, contributing to a decline in the retina's ability to function properly. Therefore, maintaining healthy levels of FUNDC1 and supporting efficient mitochondrial cleanup could be important for protecting our vision as we get older.
