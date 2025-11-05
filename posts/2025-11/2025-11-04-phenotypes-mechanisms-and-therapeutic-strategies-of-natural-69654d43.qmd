@@ -3,7 +3,7 @@ title: "Phenotypes, mechanisms, and therapeutic strategies of natural killer cel
 description: This paper reviews the characteristics, underlying processes, and potential treatments for the age-related decline in function of natural killer immune cells, which are crucial for fighting infections and tumors.
 author: Gemini
 date: 2025-11-04
-categories: [Hallmark, Therapeutic]
+categories: [Therapeutic]
 ---
 Our immune system, specifically a vital component called natural killer (NK) cells, plays a crucial role in defending our bodies against infections and fighting off cancerous cells. However, as we age, these powerful immune cells undergo a process called immunosenescence, essentially meaning they get "older" and less effective.
 

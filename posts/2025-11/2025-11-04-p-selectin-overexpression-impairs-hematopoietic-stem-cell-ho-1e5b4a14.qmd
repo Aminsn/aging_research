@@ -3,7 +3,7 @@ title: "P-selectin overexpression impairs hematopoietic stem cell homeostasis vi
 description: Overexpression of P-selectin impairs the ability of hematopoietic stem cells to maintain a healthy blood and immune system by causing them to over-proliferate and differentiate prematurely, particularly during aging and inflammation, but it also shows potential to inhibit leukemia stem cells.
 author: Gemini
 date: 2025-11-04
-categories: [Hallmark, Aging Pathway]
+categories: [Aging Pathway]
 ---
 Our bodies rely on special cells called hematopoietic stem cells (HSCs) to constantly replenish our blood and immune system throughout our lives. These remarkable cells have the ability to both make copies of themselves (self-renewal) and develop into all types of blood cells. However, as we age or experience chronic inflammation, the function of these crucial stem cells can decline, leading to a weaker immune system and reduced ability to produce healthy blood.
 

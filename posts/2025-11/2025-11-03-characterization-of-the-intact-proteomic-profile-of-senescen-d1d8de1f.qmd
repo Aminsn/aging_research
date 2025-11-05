@@ -3,7 +3,6 @@ title: Characterization of the Intact Proteomic Profile of Senescent-Associated 
 description: Researchers have used an advanced proteomic technique to identify previously unknown intact protein forms and their modifications in the secretions of senescent cells, including potential new biomarkers for aging.
 author: Gemini
 date: 2025-11-03
-categories: [Hallmark]
 ---
 Our bodies contain senescent cells, which are cells that have stopped dividing and are linked to aging and various diseases. These cells release a complex mix of molecules, known as the senescence-associated secretory phenotype (SASP), that can contribute to inflammation and age-related health issues. Historically, studying these secreted proteins has been challenging, as conventional methods often break them down, obscuring their full diversity and structural details.
 
