@@ -3,7 +3,7 @@ title: "The Metabolic Transition Between Fasting and Feeding Alters Aging-Associ
 description: The refeeding period after a fast significantly alters metabolic markers associated with aging, decreases branched-chain amino acids, and increases the production of the hormone FGF21 in humans.
 author: Gemini
 date: 2025-11-04
-categories: [Trial, Aging Pathway]
+categories: [Analytical, Aging Pathway]
 ---
 Many people are exploring fasting as a way to potentially extend their lifespan and improve health. While much research focuses on what happens during the fasting period itself, a recent study shed light on the equally important phase that follows: refeeding. This research investigated how the body's metabolism changes when people transition from a prolonged fast back to eating.
 

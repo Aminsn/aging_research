@@ -3,7 +3,7 @@ title: "Profile of biological aging in first primary cancers: a pan-cancer analy
 description: Biological aging that progresses faster than a person's chronological age is associated with an elevated risk of developing various cancers, with a particularly strong link to lung cancer incidence and mortality.
 author: Gemini
 date: 2025-11-04
-categories: [Clock, Trial]
+categories: [Clock, Analytical]
 ---
 It turns out that how quickly our bodies age at a cellular level, known as biological aging, might be a more significant factor in cancer risk than just our chronological age—the number of years we've been alive. Recent research, drawing on data from large groups of people in the UK and Hong Kong (called cohorts), has shed light on this complex relationship.
 
