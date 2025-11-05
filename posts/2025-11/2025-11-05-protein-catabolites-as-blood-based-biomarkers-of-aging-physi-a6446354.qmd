@@ -3,7 +3,8 @@ title: "Protein Catabolites as Blood-Based Biomarkers of Aging Physiology: Findi
 description: A study using data from the Dog Aging Project identified specific protein breakdown products in the blood, called post-translationally modified amino acids, as reliable indicators of aging in dogs, with kidney function mediating about half of their age-related increase.
 author: Gemini
 date: 2025-11-05
-categories: [Analytical]---
+categories: [Analytical]
+---
 Scientists are constantly searching for ways to understand and track aging, and our canine companions offer a unique opportunity to gain insights into this complex process. Dogs share many genetic and environmental factors with humans, making them excellent models for studying how we age.
 
 In a recent investigation involving nearly 800 dogs, researchers looked closely at the "metabolome"—the complete set of small molecules found in the blood that are involved in metabolism. They discovered that a significant portion—about 36% to 40%—of these circulating molecules change predictably as dogs get older.

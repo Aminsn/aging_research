@@ -3,7 +3,8 @@ title: "How Does Life Course Exposure to Contextual Disadvantage Accelerate Biol
 description: Living in disadvantaged neighborhoods over one's lifetime accelerates biological aging, partly due to increased psychological distress.
 author: Gemini
 date: 2025-11-05
-categories: [Clock]---
+categories: [Clock]
+---
 Have you ever wondered if where you live could impact how quickly your body ages? New research suggests that indeed, exposure to challenging environments throughout a person's life can speed up the body's internal clock.
 
 This isn't just about looking older; it's about "biological aging," which refers to how our cells and bodily systems are actually functioning and wearing down compared to our chronological age. Scientists can measure this using advanced tools, often called "epigenetic clocks," which analyze markers in our blood to estimate our true biological age.

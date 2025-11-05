@@ -3,7 +3,8 @@ title: "Macrophage metabolic rewiring rejuvenates muscle Raman signatures and ce
 description: Metabolically stimulating macrophages with transient low oxygen conditions improved muscle cellular remodeling and functional recovery in aged mice following disuse atrophy, restoring a youthful recovery pattern.
 author: Gemini
 date: 2025-11-05
-categories: [Aging Pathway, Therapeutic]---
+categories: [Aging Pathway, Therapeutic]
+---
 As we age, our muscles often struggle to recover effectively after periods of inactivity or injury. A key reason for this impaired recovery lies with specialized immune cells called macrophages, which play a vital role in muscle repair and regeneration. In older individuals, the function of these macrophages can decline, hindering the rebuilding process.
 
 Recent research has explored whether altering the metabolism of these macrophages could rejuvenate their ability to promote muscle regrowth. The study found that briefly exposing aged mice to a low-oxygen environment, known as hypoxia, effectively "re-wired" their macrophages. This metabolic change boosted a specific, pro-inflammatory function in these cells that is essential for the initial stages of muscle regrowth.

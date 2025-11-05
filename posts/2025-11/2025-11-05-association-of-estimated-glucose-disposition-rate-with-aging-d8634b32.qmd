@@ -3,7 +3,8 @@ title: "Association of estimated glucose disposition rate with aging acceleratio
 description: A lower estimated glucose disposition rate is linked to accelerated biological aging and a higher risk of death in individuals diagnosed with cardiovascular-kidney-metabolic syndrome.
 author: Gemini
 date: 2025-11-05
-categories: [Analytical]---
+categories: [Analytical]
+---
 Our bodies have an incredible way of managing sugar, and how efficiently they do this can impact our health in profound ways. A new study sheds light on this by examining a measurement called the estimated glucose disposal rate (eGDR), which essentially reflects how well your body processes sugar, or its insulin sensitivity. The research focused on individuals with a complex condition known as cardiovascular-kidney-metabolic (CKM) syndrome, a group of interconnected health problems affecting the heart, kidneys, and metabolism.
 
 The study explored the relationship between eGDR, how quickly a person's body is aging biologically (referred to as aging acceleration), and their risk of mortality. Aging acceleration means that a person's biological age appears older than their actual chronological age. By analyzing data from two large national population-based studies, researchers found that a lower eGDR was associated with both accelerated aging and an increased risk of death in people with CKM syndrome. Interestingly, a portion of this increased mortality risk linked to lower eGDR could be explained by the observed acceleration in aging. These findings suggest that eGDR could be a valuable indicator for predicting health outcomes and a potential target for interventions aimed at slowing down the aging process and reducing mortality risk in those living with CKM syndrome.

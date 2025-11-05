@@ -3,7 +3,8 @@ title: "Fisetin topical delivery via ascorbyl palmitate/hyaluronan-enhanced limo
 description: A new delivery system using limosomes enhanced with ascorbyl palmitate and hyaluronan effectively transports the antioxidant Fisetin into the skin, significantly reducing signs of UVB-induced photoaging and inflammation.
 author: Gemini
 date: 2025-11-05
-categories: [Therapeutic]---
+categories: [Therapeutic]
+---
 Our skin is constantly exposed to environmental stressors, with ultraviolet B (UVB) radiation being a major culprit behind premature aging, characterized by wrinkles, loss of elasticity, and inflammation. Scientists are always looking for new ways to protect and repair skin from this damage.
 
 A recent breakthrough involves a natural compound called Fisetin, which is found in many fruits and vegetables and is known for its powerful antioxidant properties. However, Fisetin doesn't easily dissolve in water and struggles to penetrate the skin effectively, limiting its use in topical applications.

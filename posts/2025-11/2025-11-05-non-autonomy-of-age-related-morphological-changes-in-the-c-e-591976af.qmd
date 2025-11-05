@@ -3,7 +3,8 @@ title: "Non-autonomy of age-related morphological changes in the C. elegans germ
 description: Age-related changes in the morphology of the stem cell niche in C. elegans, specifically the distal tip cell, are surprisingly regulated by signals originating from the body wall muscle, rather than solely within the niche itself, through insulin-like signaling pathways.
 author: Gemini
 date: 2025-11-05
-categories: [Aging Pathway]---
+categories: [Aging Pathway]
+---
 As we age, our bodies experience a decline in the ability of tissues to renew and repair themselves, often linked to changes in our stem cells. These special cells, responsible for generating new cells, are supported and regulated by their local environment, known as a "niche." Imagine the niche as a carefully constructed home that helps stem cells do their job.
 
 Scientists studying the tiny worm *C. elegans* have made a fascinating discovery about how these stem cell niches change with age. They focused on the germline stem cell niche, which is formed by a cell called the distal tip cell (DTC). They observed that as the worms got older, the DTC's shape changed, specifically losing some of its long, arm-like extensions.

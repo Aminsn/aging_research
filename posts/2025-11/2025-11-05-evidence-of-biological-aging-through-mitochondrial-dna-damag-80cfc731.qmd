@@ -3,7 +3,8 @@ title: "Evidence of biological aging through mitochondrial DNA damage and dysreg
 description: Exposure to sulfur mustard causes long-lasting damage to the powerhouses of cells, called mitochondria, and disrupts their ability to clean up faulty components, leading to accelerated biological aging in affected individuals.
 author: Gemini
 date: 2025-11-05
-categories: [Aging Pathway]---
+categories: [Aging Pathway]
+---
 Our bodies are complex machines, and like any machine, they can show signs of wear and tear over time—a process we call aging. But sometimes, certain environmental exposures can speed up this process, leading to what's known as "accelerated biological aging." One such exposure, sulfur mustard, a chemical warfare agent, has been linked to severe long-term health problems.
 
 A recent study sheds light on a key mechanism behind this accelerated aging: damage to our cells' power generators, the mitochondria. Mitochondria are vital organelles responsible for producing energy for our cells, and they contain their own DNA, called mitochondrial DNA (mtDNA). This mtDNA is particularly vulnerable to damage.

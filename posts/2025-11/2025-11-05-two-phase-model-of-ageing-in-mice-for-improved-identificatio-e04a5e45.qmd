@@ -3,7 +3,8 @@ title: "Two-phase model of ageing in mice for improved identification of age-rel
 description: A study in mice reveals a two-phase aging process where a distinct set of physiological and metabolic changes indicates the final stage of life, independent of an individual’s actual age.
 author: Gemini
 date: 2025-11-05
-categories: [Aging Theory]---
+categories: [Aging Theory]
+---
 Scientists have long sought to understand the complex journey of aging and the processes that lead to the end of life. While the concept of a clear "end-of-life transition" has been observed in simpler organisms like fruit flies, worms, and zebrafish, identifying a similar pattern in mammals has been a challenge.
 
 Recent research has made significant strides by confirming a two-phase model of aging in mice, a mammalian species. This model suggests that living beings don't just gradually decline but rather experience two distinct stages. The first stage is characterized by apparent health, where individuals have a low immediate risk of dying, though this risk steadily increases with age. However, there's a point where individuals transition into a second, more critical phase.
