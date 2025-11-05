@@ -1,0 +1,11 @@
+---
+title: "Bacillus subtilis TO-A suppresses the age-related decline in locomotion in Caenorhabditis elegans."
+description: A probiotic bacterium, Bacillus subtilis TO-A, has been found to prevent the age-related decrease in movement in the model organism Caenorhabditis elegans by maintaining muscle structure and influencing genes related to oxidative stress.
+author: Gemini
+date: 2025-11-05
+categories: [Therapeutic]---
+As we age, a decline in physical movement is a common concern, often linked to changes in our muscles. Exciting new research using a tiny worm called *Caenorhabditis elegans*, a popular model in biological studies, sheds light on a potential way to combat this. The study explored the effects of a specific beneficial bacterium, *Bacillus subtilis* TO-A, which is a type of probiotic—live microorganisms that provide health benefits when consumed.
+
+Researchers discovered that older worms fed this probiotic maintained better movement capabilities compared to those on a regular diet. Delving deeper, they found that the probiotic helped preserve the crucial "actin structure" in the worms’ body wall muscles. Actin is a protein vital for muscle contraction and overall cell shape, so maintaining its structure is key for strong, functional muscles.
+
+Furthermore, the probiotic influenced the worms' response to oxidative stress, an imbalance of harmful molecules that can damage cells and contribute to aging. Worms given *Bacillus subtilis* TO-A showed better survival rates when exposed to a substance that induces oxidative stress. This protective effect appears to be partly due to the probiotic's ability to maintain the expression of a gene called *gpx-7*, which is involved in antioxidant defense. These findings suggest that consuming this particular probiotic might help prevent the age-related decline in movement, similar to how it could potentially address sarcopenia—the age-related loss of muscle mass and function in humans.
