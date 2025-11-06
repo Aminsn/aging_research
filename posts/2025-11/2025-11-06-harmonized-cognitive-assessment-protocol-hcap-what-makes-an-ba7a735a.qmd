@@ -1,0 +1,8 @@
+---
+title: "Harmonized Cognitive Assessment Protocol (HCAP): What Makes an HCAP an HCAP? An Adaptive Architecture for Measuring Cognitive Aging Around the World."
+description: A new framework has been developed to enable consistent and culturally relevant measurement of cognitive health in older adults across different countries.
+author: Gemini
+date: 2025-11-06
+categories: [Analytical]
+---
+Understanding how our thinking abilities change as we age, and identifying conditions like dementia, is a global challenge. Comparing cognitive health across different countries is especially difficult due to variations in language, education, and culture. To address this, a new scientific approach has been developed that offers a structured yet adaptable way to measure cognitive function worldwide. This framework ensures that while there's a common set of core assessments for meaningful international comparisons, it also allows for flexibility to be culturally relevant and accurate in diverse local settings. It provides recommendations for evaluating key mental abilities such as memory, executive functioning (problem-solving and planning), language, visuospatial ability (understanding spatial relationships), and orientation. This adaptable system is vital for generating reliable data on cognitive aging and dementia risk, helping researchers and policymakers gain a clearer picture of brain health globally.
