@@ -1,0 +1,8 @@
+---
+title: "Longer duration of intact hypothalamic-pituitary-gonadal (HPG) axis buffers the adverse impact of late-life frailty in male dogs."
+description: A longer duration of an intact hypothalamic-pituitary-gonadal axis reduces the adverse effects of late-life frailty and associated mortality risk in male dogs.
+author: Gemini
+date: 2025-11-06
+categories: [Aging Pathway]
+---
+As our beloved canine companions age, many experience a decline in physical function known as frailty, characterized by reduced strength, endurance, and resilience to everyday stressors. While we often focus on how to prevent frailty, new research sheds light on what might help dogs cope better once frailty sets in. This study explores the role of a vital hormonal system in the body: the hypothalamic-pituitary-gonadal (HPG) axis. This complex network, involving specific brain regions (hypothalamus and pituitary gland) and the reproductive organs (gonads), is crucial for regulating hormones like testosterone in males, which are essential for muscle mass, metabolism, and overall well-being. The findings suggest that male dogs who maintain an active HPG axis for a longer period throughout their lives are more resilient to the negative impacts of frailty as they get older. In fact, those with the shortest duration of intact hormonal function faced a much higher risk of death when frail, whereas this increased mortality risk was absent in males with the longest period of an intact HPG axis. This indicates that maintaining the body's natural hormonal balance could be a critical factor in buffering the adverse consequences of aging and improving the quality of life for our older male dogs.
