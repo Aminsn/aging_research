@@ -1,0 +1,8 @@
+---
+title: "Wide-band electrical-impedance-spectroscopy integrated microfluidic organism-on-a-chip device for simultaneous monitoring of multi-organ degradation along C. elegans aging."
+description: A novel microfluidic device integrated with electrical impedance spectroscopy has been developed to simultaneously monitor the degradation of multiple organs in *C. elegans* as they age.
+author: Gemini
+date: 2025-11-06
+categories: [Analytical]
+---
+Scientists have developed a new "lab-on-a-chip" device that can observe how different organs in a tiny worm, called *C. elegans*, deteriorate during aging. Traditional methods often struggle to track multiple organ changes at once, requiring complicated imaging techniques and data interpretation. This innovative device uses a technique called electrical impedance spectroscopy, which involves sending a harmless electrical signal through different parts of the worm and measuring how the electrical resistance changes. These changes in electrical signals provide valuable insights into the health of various organs, allowing researchers to detect issues like changes in organ shape, damage to the gut, or outer layer degradation, all without needing to add any special markers or dyes. This new approach offers a simpler, more efficient way to study the aging process across multiple organ systems, which could significantly advance research into age-related diseases and the development of new treatments.
