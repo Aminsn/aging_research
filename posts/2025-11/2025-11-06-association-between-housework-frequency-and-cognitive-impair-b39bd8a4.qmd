@@ -1,0 +1,8 @@
+---
+title: "Association between housework frequency and cognitive impairment among Chinese older adults: a prospective cohort study based on CLHLS."
+description: Older Chinese adults who performed less frequent housework showed a higher risk of developing cognitive impairment.
+author: Gemini
+date: 2025-11-06
+categories: [Lever]
+---
+New research suggests a fascinating link between daily activities and brain health in older adults. A recent study, which looked at a large group of Chinese seniors over several years, found that individuals who engaged in less frequent housework had a significantly increased risk of cognitive impairment. For example, those who rarely or never did housework faced nearly double the risk compared to those who performed it almost every day. This suggests that the physical and mental engagement involved in routine household tasks might play a protective role in maintaining cognitive function as we age. The study carefully considered other factors like demographics, lifestyle habits, and general health to ensure the findings were robust. Interestingly, the benefits of housework appeared consistent across different age groups and genders. While other factors like hearing loss and social isolation were also linked to cognitive decline, the findings highlight that everyday activities could be a simple, cost-effective way to support healthy brain aging.
