@@ -1,0 +1,8 @@
+---
+title: "Rewarding touch limits lifespan through neural to intestinal signaling."
+description: Rewarding tactile sensations, such as those mimicking food, can reduce the lifespan-extending benefits of a restricted diet by activating a signaling pathway from the nervous system to the gut.
+author: Gemini
+date: 2025-11-06
+categories: [Aging Pathway, Lever]
+---
+Many organisms, including tiny worms, can live longer when they eat less, a phenomenon known as dietary restriction, which is a reduction in calorie intake without malnutrition. While it was previously known that senses like smell could influence this effect, new research shows that even touch plays a significant role. When these worms, which are on a restricted diet, experience pleasant, food-like textures, it surprisingly shortens their lives. This "rewarding touch" sends signals from specialized touch-sensing cells called mechanoreceptors in their nervous system. These signals involve chemical messengers in the brain known as neurotransmitters, like dopamine and a substance similar to adrenaline (tyramine/adrenaline), as well as signaling molecules called neuropeptides, which include forms of insulin and Gonadotropin-Releasing Hormone (GnRH). These neural messages ultimately communicate with the intestine, where they affect a protein called FMO-2, which is a longevity effector known to influence how long an organism lives. Essentially, the feeling of "food" through touch, even without actual consumption, can trick the body into an accelerated aging process, overriding some of the benefits of eating less. This discovery highlights how various sensory inputs can profoundly influence the body's aging processes.
