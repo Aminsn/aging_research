@@ -1,0 +1,10 @@
+---
+title: "Geriatric syndromes in women living with HIV."
+description: Women living with HIV face an increased risk of developing age-related health conditions, known as geriatric syndromes, at an earlier stage than other populations.
+author: Gemini
+date: 2025-11-06
+categories: [Lever]
+---
+As people live longer with HIV due to effective treatments, a new set of health challenges, often seen in older age, are becoming more prominent, especially for women. These "geriatric syndromes" are common, complex health issues that significantly impact an individual's overall well-being and ability to function. Unlike specific diseases, these syndromes involve multiple body systems and can include problems like physical weakness (often called frailty), loss of muscle mass (sarcopenia), and difficulties with thinking and memory (cognitive decline). 
+
+Research highlights that women living with HIV are particularly susceptible to these conditions. They show a higher likelihood of experiencing weak and brittle bones (osteoporosis) and challenges with memory and thinking processes (cognitive decline) compared to both men with HIV and women without HIV. Additionally, issues such as loss of bladder control (urinary incontinence) and feelings of loneliness or social isolation are more common among women living with HIV, significantly affecting their quality of life. These age-related changes can also be influenced by the menopausal transition, adding another layer of complexity. Understanding these specific vulnerabilities is crucial for developing better screening methods and support strategies to help women living with HIV age healthily.
