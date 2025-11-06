@@ -1,0 +1,14 @@
+---
+title: "Requirements of health professionals and affected persons for an App-based dual-task training for hearing impaired older adults - a Delphi survey."
+description: A study investigating app-based training for older adults with hearing impairments found differences in preferred training methods and app features between health professionals and the affected individuals themselves.
+author: Gemini
+date: 2025-11-06
+categories: [Lever]
+---
+Navigating daily life with age-related hearing loss can be challenging, impacting both social interaction and physical activity. To help, researchers have been exploring cognitive-motor training, which combines mental and physical exercises, but these often overlook the specific needs of older adults with hearing impairments. This recent research aimed to understand what these individuals and the health professionals who support them truly want in a digital training program.
+
+The study used a Delphi survey, a method that gathers opinions from experts and users over several rounds to reach a consensus. They asked health and exercise professionals, along with older adults experiencing hearing loss, about their preferences for app features, exercise types (especially those combining cognitive and motor tasks, known as dual-task exercises), feedback mechanisms, and potential hurdles or aids to using such an app.
+
+Interestingly, while there was general agreement on many aspects, some significant differences emerged. For example, health professionals often highlighted the importance of exercises that challenge both senses and incorporate dual-task elements. However, the older adults surveyed leaned towards less physically demanding activities and those that included music or ambient sounds. They also preferred adaptable and enjoyable training over rigid strength exercises or very frequent sessions.
+
+These findings suggest that for digital training programs to be truly effective and engaging for older adults with hearing impairments, they must be highly personalized. Programs that are flexible, easy to use, and support the user's independence are more likely to be adopted and provide benefits. By accommodating sensory needs and focusing on user-centered design, these apps could significantly improve physical and cognitive well-being, ultimately boosting independence and quality of life.
