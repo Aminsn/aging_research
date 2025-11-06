@@ -1,0 +1,12 @@
+---
+title: "Electroacupuncture Plus Exercise for Sarcopenia in Older Adults: Protocol for a Randomized, Controlled, Assessor-Blinded Trial."
+description: This study protocol outlines a randomized controlled trial designed to evaluate whether adding electroacupuncture to a standard exercise program can better improve walking ability and other physical functions in older adults with sarcopenia compared to exercise alone.
+author: Gemini
+date: 2025-11-06
+categories: [Therapeutic, Lever]
+---
+As we age, many of us face a condition called sarcopenia, where we gradually lose muscle mass, strength, and overall physical performance. This can make everyday activities challenging and increase the risk of falls. While exercise and good nutrition are often recommended, their effectiveness can be limited, especially for older individuals with multiple health issues. 
+
+A new research initiative is exploring a potentially more effective approach: combining traditional exercise with electroacupuncture. Electroacupuncture is a technique where a mild electrical current is applied to acupuncture needles, aiming to stimulate muscles and nerves. 
+
+This upcoming study, a carefully designed clinical trial, will involve 122 older adults diagnosed with sarcopenia. Participants will be divided into two groups: one will follow a standard 12-week exercise program, while the other will receive the same exercise program plus electroacupuncture treatments targeting leg muscles. Researchers will measure changes in muscle mass, walking ability, balance, and strength to determine if the combination therapy offers greater benefits. The main goal is to see if this combined approach can improve muscle mass, which is a key indicator of sarcopenia. The findings from this trial could offer a promising new treatment option to help older adults maintain their independence and quality of life.
