@@ -11,3 +11,7 @@ website:
         text: About
       - href: contact.qmd
         text: Contact
+
+format:
+  html:
+    theme: cosmo
