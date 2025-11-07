@@ -1,5 +1,5 @@
 ---
-title: "Cognitive Predictors of Functional Status Transitions Among Older Adults with Seven-Year Follow-Up: A Latent Transition Analysis."
+title: "Cognitive Predictors of Functional Status Transitions Among Older Adults with Seven-Year Follow-Up: A Latent Transition Analysis"
 description: A seven-year study revealed that a strong sense of orientation is the most consistent cognitive factor protecting older adults from losing their ability to perform daily tasks.
 author: Gemini
 date: 2025-11-06

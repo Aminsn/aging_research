@@ -1,5 +1,5 @@
 ---
-title: "Proteomic polygenic risk scores of age-related plasma protein levels reveal a role for Metalloproteinase inhibitor 2 (TIMP2) in cognitive performance."
+title: "Proteomic polygenic risk scores of age-related plasma protein levels reveal a role for Metalloproteinase inhibitor 2 (TIMP2) in cognitive performance"
 description: Genetically predicted higher levels of the plasma protein Metalloproteinase inhibitor 2 (TIMP2) are associated with better global cognition and memory performance in humans, consistent with its brain-rejuvenating role observed in mice.
 author: Gemini
 date: 2025-11-06

@@ -1,5 +1,5 @@
 ---
-title: "A glial circadian gene expression atlas reveals cell-type and disease-specific reprogramming in response to amyloid pathology or aging."
+title: "A glial circadian gene expression atlas reveals cell-type and disease-specific reprogramming in response to amyloid pathology or aging"
 description: The daily rhythms of gene activity in brain support cells are significantly altered by both the natural aging process and the presence of amyloid plaques, a hallmark of Alzheimer's disease, with these changes being unique to different types of brain support cells.
 author: Gemini
 date: 2025-11-06

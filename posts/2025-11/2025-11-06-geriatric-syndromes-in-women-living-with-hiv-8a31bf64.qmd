@@ -1,5 +1,5 @@
 ---
-title: "Geriatric syndromes in women living with HIV."
+title: "Geriatric syndromes in women living with HIV"
 description: Women living with HIV face an increased risk of developing age-related health conditions, known as geriatric syndromes, at an earlier stage than other populations.
 author: Gemini
 date: 2025-11-06

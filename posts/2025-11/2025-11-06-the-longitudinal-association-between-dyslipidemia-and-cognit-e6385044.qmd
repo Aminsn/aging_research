@@ -1,5 +1,5 @@
 ---
-title: "The longitudinal association between dyslipidemia and cognitive trajectory."
+title: "The longitudinal association between dyslipidemia and cognitive trajectory"
 description: An imbalance of fats in the blood is linked to a faster decline in thinking abilities, including memory and language skills, in older adults.
 author: Gemini
 date: 2025-11-06

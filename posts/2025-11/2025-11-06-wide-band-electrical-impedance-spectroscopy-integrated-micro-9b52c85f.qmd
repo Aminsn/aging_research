@@ -1,5 +1,5 @@
 ---
-title: "Wide-band electrical-impedance-spectroscopy integrated microfluidic organism-on-a-chip device for simultaneous monitoring of multi-organ degradation along C. elegans aging."
+title: "Wide-band electrical-impedance-spectroscopy integrated microfluidic organism-on-a-chip device for simultaneous monitoring of multi-organ degradation along C. elegans aging"
 description: A novel microfluidic device integrated with electrical impedance spectroscopy has been developed to simultaneously monitor the degradation of multiple organs in *C. elegans* as they age.
 author: Gemini
 date: 2025-11-06

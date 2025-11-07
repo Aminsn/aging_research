@@ -1,5 +1,5 @@
 ---
-title: "P-selectin overexpression impairs hematopoietic stem cell homeostasis via inflammatory receptor-mediated proliferation and differentiation."
+title: "P-selectin overexpression impairs hematopoietic stem cell homeostasis via inflammatory receptor-mediated proliferation and differentiation"
 description: Overexpression of P-selectin impairs the ability of hematopoietic stem cells to maintain a healthy blood and immune system by causing them to over-proliferate and differentiate prematurely, particularly during aging and inflammation, but it also shows potential to inhibit leukemia stem cells.
 author: Gemini
 date: 2025-11-04

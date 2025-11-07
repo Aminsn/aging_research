@@ -1,5 +1,5 @@
 ---
-title: "Gaining Brain Insights by Tapping into the Black Box: Linking Structural MRI Features to Age and Cognition using Shapley-Based Interpretation Methods."
+title: "Gaining Brain Insights by Tapping into the Black Box: Linking Structural MRI Features to Age and Cognition using Shapley-Based Interpretation Methods"
 description: The study revealed that average signal strengths in brain regions beneath the cortex are consistently linked to brain aging, while specific areas like the hippocampus, cerebellum, and parts of the frontal and temporal lobes are key in predicting fluid intelligence.
 author: Gemini
 date: 2025-11-05

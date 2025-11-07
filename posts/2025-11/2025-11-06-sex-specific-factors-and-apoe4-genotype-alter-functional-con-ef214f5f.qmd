@@ -1,5 +1,5 @@
 ---
-title: "Sex-specific factors and APOEε4 genotype alter functional connectivity at middle age."
+title: "Sex-specific factors and APOEε4 genotype alter functional connectivity at middle age"
 description: Previous pregnancies and the APOEε4 genetic risk factor for Alzheimer's disease significantly alter how different brain regions communicate, influencing cognitive function in middle-aged individuals, particularly females.
 author: Gemini
 date: 2025-11-06

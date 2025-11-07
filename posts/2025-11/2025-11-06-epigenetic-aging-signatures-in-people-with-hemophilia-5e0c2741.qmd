@@ -1,5 +1,5 @@
 ---
-title: "Epigenetic Aging Signatures in People with Hemophilia."
+title: "Epigenetic Aging Signatures in People with Hemophilia"
 description: The study found weak evidence that individuals with severe hemophilia experience accelerated biological aging compared to those with mild hemophilia or healthy individuals, though hemophilic arthropathy was linked to an increased rate of biological aging.
 author: Gemini
 date: 2025-11-06

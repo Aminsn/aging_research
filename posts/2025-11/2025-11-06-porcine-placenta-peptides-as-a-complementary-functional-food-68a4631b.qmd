@@ -1,5 +1,5 @@
 ---
-title: "Porcine placenta peptides as a complementary functional food for skin rejuvenation: A 12-week randomized, double-blind, placebo-controlled trial."
+title: "Porcine placenta peptides as a complementary functional food for skin rejuvenation: A 12-week randomized, double-blind, placebo-controlled trial"
 description: A 12-week study found that oral supplementation with porcine placenta peptides significantly reduced wrinkles, improved skin hydration and elasticity, and decreased pigmentation in individuals with signs of skin aging.
 author: Gemini
 date: 2025-11-06

@@ -1,5 +1,5 @@
 ---
-title: "Environmental chemical factors associated with human biological age acceleration: an interpretable machine learning study."
+title: "Environmental chemical factors associated with human biological age acceleration: an interpretable machine learning study"
 description: An interpretable machine learning study identified specific environmental chemicals like blood toluene, a urinary benzene metabolite, and urinary benzophenone-3 as key contributors to an accelerated biological aging process in humans.
 author: Gemini
 date: 2025-11-04

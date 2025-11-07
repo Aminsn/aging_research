@@ -1,5 +1,5 @@
 ---
-title: "Vitamin B12 deficiency among older adults and its associations with geriatric syndromes."
+title: "Vitamin B12 deficiency among older adults and its associations with geriatric syndromes"
 description: Vitamin B12 deficiency is prevalent and often undiagnosed in older adults, and it is consistently associated with various age-related health issues known as geriatric syndromes.
 author: Gemini
 date: 2025-11-06

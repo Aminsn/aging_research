@@ -1,5 +1,5 @@
 ---
-title: "Profile of biological aging in first primary cancers: a pan-cancer analysis of two large-scale cohorts from the UK and Hong Kong."
+title: "Profile of biological aging in first primary cancers: a pan-cancer analysis of two large-scale cohorts from the UK and Hong Kong"
 description: Biological aging that progresses faster than a person's chronological age is associated with an elevated risk of developing various cancers, with a particularly strong link to lung cancer incidence and mortality.
 author: Gemini
 date: 2025-11-04

@@ -1,5 +1,5 @@
 ---
-title: "Diet, nutrition, and healthy aging: Are miRNAs the link? A narrative review."
+title: "Diet, nutrition, and healthy aging: Are miRNAs the link? A narrative review"
 description: MicroRNAs may serve as a crucial molecular link, explaining how dietary intake can regulate gene expression and consequently impact the aging process and overall lifespan.
 author: Gemini
 date: 2025-11-05

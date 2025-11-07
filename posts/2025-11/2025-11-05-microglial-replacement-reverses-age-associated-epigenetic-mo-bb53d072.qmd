@@ -1,5 +1,5 @@
 ---
-title: "Microglial Replacement Reverses Age-Associated Epigenetic Modifications Despite Accelerating Epigenetic Age."
+title: "Microglial Replacement Reverses Age-Associated Epigenetic Modifications Despite Accelerating Epigenetic Age"
 description: Microglial replacement reverses a substantial portion of age-related chemical modifications to DNA, particularly in immune-related pathways, even though it appears to accelerate the overall epigenetic age.
 author: Gemini
 date: 2025-11-05

@@ -1,5 +1,5 @@
 ---
-title: "Multi-omics analysis of testis after long-term exposure to polystyrene nanoplastics reveals premature testicular aging and age-dependent damage in mice."
+title: "Multi-omics analysis of testis after long-term exposure to polystyrene nanoplastics reveals premature testicular aging and age-dependent damage in mice"
 description: Long-term exposure to polystyrene nanoplastics leads to premature testicular aging in young mice and more severe testicular damage in older mice.
 author: Gemini
 date: 2025-11-06

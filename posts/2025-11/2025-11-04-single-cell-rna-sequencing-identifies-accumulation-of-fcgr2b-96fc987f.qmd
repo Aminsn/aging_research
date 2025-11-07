@@ -1,5 +1,5 @@
 ---
-title: "Single-Cell RNA Sequencing Identifies Accumulation of Fcgr2b + Virtual Memory-Like CD8 T Cells With Cytotoxic and Inflammatory Potential in Aged Mouse White Adipose Tissue."
+title: "Single-Cell RNA Sequencing Identifies Accumulation of Fcgr2b + Virtual Memory-Like CD8 T Cells With Cytotoxic and Inflammatory Potential in Aged Mouse White Adipose Tissue"
 description: Single-cell RNA sequencing revealed that aging in mice leads to an accumulation of a specific type of immune cell, called Fcgr2b+ virtual memory-like CD8 T cells, within white adipose tissue, which possess the ability to cause both cell damage and inflammation.
 author: Gemini
 date: 2025-11-04

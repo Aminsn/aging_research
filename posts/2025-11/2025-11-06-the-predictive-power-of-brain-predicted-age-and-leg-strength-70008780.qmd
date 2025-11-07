@@ -1,5 +1,5 @@
 ---
-title: "The Predictive Power of Brain-Predicted Age and Leg Strength on Mobility Decline in Aging: Findings from the Baltimore Longitudinal Study of Aging."
+title: "The Predictive Power of Brain-Predicted Age and Leg Strength on Mobility Decline in Aging: Findings from the Baltimore Longitudinal Study of Aging"
 description: The study found that both accelerated brain aging, as measured by brain-predicted age, and weaker leg strength independently predict a decline in mobility among older adults.
 author: Gemini
 date: 2025-11-06

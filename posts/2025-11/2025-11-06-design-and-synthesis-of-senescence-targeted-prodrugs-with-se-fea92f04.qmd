@@ -1,5 +1,5 @@
 ---
-title: "Design and Synthesis of Senescence-Targeted Prodrugs with Senomorphic and Senolytic Properties To Mitigate Chemotherapy-Induced Kidney Injury."
+title: "Design and Synthesis of Senescence-Targeted Prodrugs with Senomorphic and Senolytic Properties To Mitigate Chemotherapy-Induced Kidney Injury"
 description: Researchers have designed a new type of drug that can selectively eliminate harmful senescent cells and suppress the damaging secretions of other senescent cells, showing promise in mitigating kidney injury caused by chemotherapy.
 author: Gemini
 date: 2025-11-06

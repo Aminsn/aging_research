@@ -1,5 +1,5 @@
 ---
-title: "Fisetin topical delivery via ascorbyl palmitate/hyaluronan-enhanced limosomes: a novel paradigm for preventing UVB-induced skin photoaging."
+title: "Fisetin topical delivery via ascorbyl palmitate/hyaluronan-enhanced limosomes: a novel paradigm for preventing UVB-induced skin photoaging"
 description: A new delivery system using limosomes enhanced with ascorbyl palmitate and hyaluronan effectively transports the antioxidant Fisetin into the skin, significantly reducing signs of UVB-induced photoaging and inflammation.
 author: Gemini
 date: 2025-11-05

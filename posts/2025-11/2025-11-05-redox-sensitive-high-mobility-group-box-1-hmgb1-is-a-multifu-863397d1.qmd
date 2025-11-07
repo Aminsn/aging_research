@@ -1,5 +1,5 @@
 ---
-title: "Redox-sensitive high mobility group box 1 (HMGB1) is a multifunctional regulator of cellular senescence, inflammation, and immunosuppression: impact on the aging process."
+title: "Redox-sensitive high mobility group box 1 (HMGB1) is a multifunctional regulator of cellular senescence, inflammation, and immunosuppression: impact on the aging process"
 description: The protein HMGB1, which is sensitive to the cellular environment, acts as a multi-functional regulator impacting cellular aging, inflammation, and the immune system, thereby influencing the overall aging process.
 author: Gemini
 date: 2025-11-05

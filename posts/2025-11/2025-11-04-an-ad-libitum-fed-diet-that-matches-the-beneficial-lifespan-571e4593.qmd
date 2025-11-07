@@ -1,5 +1,5 @@
 ---
-title: "An Ad Libitum-Fed Diet That Matches the Beneficial Lifespan Effects of Caloric Restriction but Acts via Opposite Effects on the Energy-Splicing Axis."
+title: "An Ad Libitum-Fed Diet That Matches the Beneficial Lifespan Effects of Caloric Restriction but Acts via Opposite Effects on the Energy-Splicing Axis"
 description: A new study in mice found that a specific low-protein, high-carbohydrate diet, consumed without restriction, extends lifespan and improves metabolic health similarly to caloric restriction, but through distinct cellular mechanisms.
 author: Gemini
 date: 2025-11-04

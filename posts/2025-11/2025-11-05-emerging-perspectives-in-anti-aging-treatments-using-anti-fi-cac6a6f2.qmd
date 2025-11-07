@@ -1,5 +1,5 @@
 ---
-title: "Emerging Perspectives in Anti-aging Treatments Using Anti-Fibrotic Strategies."
+title: "Emerging Perspectives in Anti-aging Treatments Using Anti-Fibrotic Strategies"
 description: Excessive scar tissue buildup, known as fibrosis, is a key characteristic of aging organ degeneration and a significant factor in organ failure, suggesting anti-fibrotic treatments could offer new strategies for anti-aging.
 author: Gemini
 date: 2025-11-05

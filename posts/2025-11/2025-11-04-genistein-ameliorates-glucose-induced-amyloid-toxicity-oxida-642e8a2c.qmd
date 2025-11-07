@@ -1,5 +1,5 @@
 ---
-title: "Genistein ameliorates glucose-induced β-amyloid toxicity, oxidative stress, and aging in the C. elegans model of Alzheimer's disease."
+title: "Genistein ameliorates glucose-induced β-amyloid toxicity, oxidative stress, and aging in the C. elegans model of Alzheimer's disease"
 description: Genistein, a compound derived from soy, was observed to extend lifespan and reduce symptoms resembling Alzheimer's disease in a C. elegans model, by addressing toxicity caused by a specific protein accumulation, cellular damage from unstable molecules, and aspects of aging linked to high glucose levels.
 author: Gemini
 date: 2025-11-04

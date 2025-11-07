@@ -1,5 +1,5 @@
 ---
-title: "Recombinant type I & III chimeric collagen significantly enhances the vitality of fibroblasts and decelerates the skin aging process."
+title: "Recombinant type I & III chimeric collagen significantly enhances the vitality of fibroblasts and decelerates the skin aging process"
 description: A newly developed dual-function recombinant collagen, combining elements of type I and type III collagens, effectively boosts skin cell activity and reduces visible signs of aging.
 author: Gemini
 date: 2025-11-05

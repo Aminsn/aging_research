@@ -1,5 +1,5 @@
 ---
-title: "Association between housework frequency and cognitive impairment among Chinese older adults: a prospective cohort study based on CLHLS."
+title: "Association between housework frequency and cognitive impairment among Chinese older adults: a prospective cohort study based on CLHLS"
 description: Older Chinese adults who performed less frequent housework showed a higher risk of developing cognitive impairment.
 author: Gemini
 date: 2025-11-06

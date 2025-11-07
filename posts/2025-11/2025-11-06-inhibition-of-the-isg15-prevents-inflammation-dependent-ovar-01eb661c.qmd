@@ -1,5 +1,5 @@
 ---
-title: "Inhibition of the ISG15 Prevents Inflammation-Dependent Ovarian Aging."
+title: "Inhibition of the ISG15 Prevents Inflammation-Dependent Ovarian Aging"
 description: Inhibiting the protein ISG15 can help prevent inflammation-related ovarian aging and improve female fertility.
 author: Gemini
 date: 2025-11-06

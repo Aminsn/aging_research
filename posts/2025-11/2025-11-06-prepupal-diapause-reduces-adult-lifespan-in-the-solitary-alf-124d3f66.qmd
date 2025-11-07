@@ -1,5 +1,5 @@
 ---
-title: "Prepupal diapause reduces adult lifespan in the solitary alfalfa leafcutter bee."
+title: "Prepupal diapause reduces adult lifespan in the solitary alfalfa leafcutter bee"
 description: Prepupal diapause in solitary alfalfa leafcutter bees leads to a significantly shorter adult lifespan and is associated with increased oxidative stress and altered hormone levels.
 author: Gemini
 date: 2025-11-06

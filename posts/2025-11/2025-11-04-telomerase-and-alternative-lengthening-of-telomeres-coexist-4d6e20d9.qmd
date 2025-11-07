@@ -1,5 +1,5 @@
 ---
-title: "Telomerase and alternative lengthening of telomeres coexist in the regenerating zebrafish caudal fins."
+title: "Telomerase and alternative lengthening of telomeres coexist in the regenerating zebrafish caudal fins"
 description: Zebrafish maintain the protective caps on their chromosomes, called telomeres, during fin regeneration through both the telomerase enzyme and an alternative repair pathway, especially when telomerase is absent.
 author: Gemini
 date: 2025-11-04

@@ -1,5 +1,5 @@
 ---
-title: "Antagonistic regulation of LINE-1/Alu elements and their repressor APOBEC3B in cellular senescence."
+title: "Antagonistic regulation of LINE-1/Alu elements and their repressor APOBEC3B in cellular senescence"
 description: Reduced levels of the protein APOBEC3B in aging cells lead to increased activity of mobile genetic elements, contributing to DNA damage and the aging process.
 author: Gemini
 date: 2025-11-04

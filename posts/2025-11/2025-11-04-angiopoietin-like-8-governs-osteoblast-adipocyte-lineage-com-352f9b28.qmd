@@ -1,5 +1,5 @@
 ---
-title: "Angiopoietin-like 8 governs osteoblast-adipocyte lineage commitment during skeletal aging."
+title: "Angiopoietin-like 8 governs osteoblast-adipocyte lineage commitment during skeletal aging"
 description: A protein called Angiopoietin-like 8 (ANGPTL8) promotes the formation of fat cells over bone cells from stem cells in the bone marrow during aging, contributing to age-related bone loss and increased bone marrow fat.
 author: Gemini
 date: 2025-11-04

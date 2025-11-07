@@ -1,5 +1,5 @@
 ---
-title: "O304 is a mitochondrial uncoupler which extends C. elegans lifespan and induces vasorelaxation of rat mesenteric arteries."
+title: "O304 is a mitochondrial uncoupler which extends C. elegans lifespan and induces vasorelaxation of rat mesenteric arteries"
 description: A compound designated O304 has been found to extend the lifespan of C. elegans worms and relax rat blood vessels by acting as a mitochondrial uncoupler.
 author: Gemini
 date: 2025-11-04

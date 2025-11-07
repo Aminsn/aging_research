@@ -1,5 +1,5 @@
 ---
-title: "FUNDC1 deficiency aggravates endothelial senescence and retinal dysfunction."
+title: "FUNDC1 deficiency aggravates endothelial senescence and retinal dysfunction"
 description: A lack of the protein FUNDC1 worsens the aging of blood vessel lining cells and contributes to the decline in retinal function.
 author: Gemini
 date: 2025-11-05

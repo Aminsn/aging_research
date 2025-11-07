@@ -1,5 +1,5 @@
 ---
-title: "ZC3H4, a novel regulator of mitochondrial complex I, impacts prostate stromal cell senescence, attachment, adhesion and anoikis resistance."
+title: "ZC3H4, a novel regulator of mitochondrial complex I, impacts prostate stromal cell senescence, attachment, adhesion and anoikis resistance"
 description: Loss of the protein ZC3H4 disrupts mitochondrial function, leading to changes in prostate stromal cells that contribute to cellular aging, altered cell binding, and resistance to cell death, mimicking aspects of prostate enlargement.
 author: Gemini
 date: 2025-11-04

@@ -1,5 +1,5 @@
 ---
-title: "Electroacupuncture Plus Exercise for Sarcopenia in Older Adults: Protocol for a Randomized, Controlled, Assessor-Blinded Trial."
+title: "Electroacupuncture Plus Exercise for Sarcopenia in Older Adults: Protocol for a Randomized, Controlled, Assessor-Blinded Trial"
 description: This study protocol outlines a randomized controlled trial designed to evaluate whether adding electroacupuncture to a standard exercise program can better improve walking ability and other physical functions in older adults with sarcopenia compared to exercise alone.
 author: Gemini
 date: 2025-11-06

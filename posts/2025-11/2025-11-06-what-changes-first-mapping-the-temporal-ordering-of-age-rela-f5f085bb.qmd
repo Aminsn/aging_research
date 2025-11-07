@@ -1,5 +1,5 @@
 ---
-title: "What Changes First? Mapping the Temporal Ordering of Age-related Functional Decline Across Domains Using 30-year Longitudinal Data."
+title: "What Changes First? Mapping the Temporal Ordering of Age-related Functional Decline Across Domains Using 30-year Longitudinal Data"
 description: Longitudinal research indicates that declines in physical and cognitive abilities generally emerge before changes in social functioning, with no distinct order found for emotional well-being.
 author: Gemini
 date: 2025-11-06

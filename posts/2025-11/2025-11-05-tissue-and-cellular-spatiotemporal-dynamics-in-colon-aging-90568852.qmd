@@ -1,5 +1,5 @@
 ---
-title: "Tissue and cellular spatiotemporal dynamics in colon aging."
+title: "Tissue and cellular spatiotemporal dynamics in colon aging"
 description: Researchers have created a detailed map showing how the cells and tissues of the colon change over time and across different regions as it ages.
 author: Gemini
 date: 2025-11-05

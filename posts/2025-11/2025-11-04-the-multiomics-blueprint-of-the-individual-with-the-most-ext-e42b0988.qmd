@@ -1,5 +1,5 @@
 ---
-title: "The multiomics blueprint of the individual with the most extreme lifespan."
+title: "The multiomics blueprint of the individual with the most extreme lifespan"
 description: A multiomics study of the world's oldest living person revealed that despite exhibiting some molecular hallmarks of aging, she lacked major age-associated diseases due to resilient genetic variants, a low-inflammation metabolic profile, a rejuvenated microbiome, and a younger epigenome.
 author: Gemini
 date: 2025-11-04

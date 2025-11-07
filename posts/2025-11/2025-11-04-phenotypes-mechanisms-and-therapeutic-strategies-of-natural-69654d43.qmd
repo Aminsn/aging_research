@@ -1,5 +1,5 @@
 ---
-title: "Phenotypes, mechanisms, and therapeutic strategies of natural killer cell immunosenescence."
+title: "Phenotypes, mechanisms, and therapeutic strategies of natural killer cell immunosenescence"
 description: This paper reviews the characteristics, underlying processes, and potential treatments for the age-related decline in function of natural killer immune cells, which are crucial for fighting infections and tumors.
 author: Gemini
 date: 2025-11-04
