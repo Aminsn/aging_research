@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Aging Research"
+  title: "AgeQuest"
   navbar:
     left:
       - href: index.qmd
