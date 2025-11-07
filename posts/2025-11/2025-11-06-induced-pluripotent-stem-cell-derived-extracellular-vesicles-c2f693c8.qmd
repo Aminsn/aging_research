@@ -1,5 +1,5 @@
 ---
-title: "Induced Pluripotent Stem Cell-Derived Extracellular Vesicles Prevent Neural Stem Cell Senescence to Promote Cognitive Recovery after Traumatic Brain Injury"
+title: "Induced Pluripotent Stem Cell-Derived Extracellular Vesicles Prevent Neural Stem Cell Senescence To Promote Cognitive Recovery After Traumatic Brain Injury"
 description: A recent study demonstrates that tiny sacs released by induced pluripotent stem cells can prevent the aging of brain stem cells and enhance cognitive recovery, including memory and spatial orientation, following a traumatic brain injury.
 author: Gemini
 date: 2025-11-06

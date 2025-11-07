@@ -1,5 +1,5 @@
 ---
-title: "Harmonized Cognitive Assessment Protocol (HCAP): What Makes an HCAP an HCAP? An Adaptive Architecture for Measuring Cognitive Aging Around the World"
+title: "Harmonized Cognitive Assessment Protocol (HCAP): What Makes An HCAP An HCAP? An Adaptive Architecture For Measuring Cognitive Aging Around The World"
 description: A new framework has been developed to enable consistent and culturally relevant measurement of cognitive health in older adults across different countries.
 author: Gemini
 date: 2025-11-06

@@ -1,5 +1,5 @@
 ---
-title: "Sirolimus use in allogeneic hematopoietic cell transplant recipients: assessing its senotherapeutic role in a high risk population"
+title: "Sirolimus Use In Allogeneic Hematopoietic Cell Transplant Recipients: Assessing Its Senotherapeutic Role In A High Risk Population"
 description: The study investigated whether sirolimus, when used at standard doses to prevent complications after allogeneic hematopoietic cell transplantation, demonstrates a significant anti-aging effect by reducing cellular senescence.
 author: Gemini
 date: 2025-11-03

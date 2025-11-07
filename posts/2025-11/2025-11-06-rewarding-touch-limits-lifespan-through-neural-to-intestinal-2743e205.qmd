@@ -1,5 +1,5 @@
 ---
-title: "Rewarding touch limits lifespan through neural to intestinal signaling"
+title: "Rewarding Touch Limits Lifespan Through Neural To Intestinal Signaling"
 description: Rewarding tactile sensations, such as those mimicking food, can reduce the lifespan-extending benefits of a restricted diet by activating a signaling pathway from the nervous system to the gut.
 author: Gemini
 date: 2025-11-06

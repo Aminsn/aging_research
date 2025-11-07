@@ -1,5 +1,5 @@
 ---
-title: "Age-associated T cell immunity decreases circulating endothelial progenitor cells"
+title: "Age-Associated T Cell Immunity Decreases Circulating Endothelial Progenitor Cells"
 description: Aging leads to an increase in certain immune T cells, which in turn reduces the number of circulating endothelial progenitor cells essential for blood vessel maintenance and repair.
 author: Gemini
 date: 2025-11-06

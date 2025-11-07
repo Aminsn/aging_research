@@ -1,5 +1,5 @@
 ---
-title: "How Does Life Course Exposure to Contextual Disadvantage Accelerate Biological Aging? The Role of Psychological Symptoms"
+title: "How Does Life Course Exposure To Contextual Disadvantage Accelerate Biological Aging? The Role Of Psychological Symptoms"
 description: Living in disadvantaged neighborhoods over one's lifetime accelerates biological aging, partly due to increased psychological distress.
 author: Gemini
 date: 2025-11-05

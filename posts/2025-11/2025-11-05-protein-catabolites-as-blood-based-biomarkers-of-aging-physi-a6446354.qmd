@@ -1,5 +1,5 @@
 ---
-title: "Protein Catabolites as Blood-Based Biomarkers of Aging Physiology: Findings From the Dog Aging Project"
+title: "Protein Catabolites As Blood-Based Biomarkers Of Aging Physiology: Findings From The Dog Aging Project"
 description: A study using data from the Dog Aging Project identified specific protein breakdown products in the blood, called post-translationally modified amino acids, as reliable indicators of aging in dogs, with kidney function mediating about half of their age-related increase.
 author: Gemini
 date: 2025-11-05

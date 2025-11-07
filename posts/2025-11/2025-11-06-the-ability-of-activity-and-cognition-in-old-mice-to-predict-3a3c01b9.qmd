@@ -1,5 +1,5 @@
 ---
-title: "The Ability of Activity and Cognition in Old Mice to Predict Age of Death"
+title: "The Ability Of Activity And Cognition In Old Mice To Predict Age Of Death"
 description: A study in old mice revealed that while individual measures like voluntary running activity showed some connection to lifespan, a combination of various physical activity and cognitive factors significantly predicted their age of death.
 author: Gemini
 date: 2025-11-06

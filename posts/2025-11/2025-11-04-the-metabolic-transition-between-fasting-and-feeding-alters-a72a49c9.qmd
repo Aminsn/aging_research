@@ -1,5 +1,5 @@
 ---
-title: "The Metabolic Transition Between Fasting and Feeding Alters Aging-Associated Metabolites, Lowers BCAAs, and Stimulates FGF21 Production in Humans"
+title: "The Metabolic Transition Between Fasting And Feeding Alters Aging-Associated Metabolites, Lowers Bcaas, And Stimulates Fgf21 Production In Humans"
 description: The refeeding period after a fast significantly alters metabolic markers associated with aging, decreases branched-chain amino acids, and increases the production of the hormone FGF21 in humans.
 author: Gemini
 date: 2025-11-04

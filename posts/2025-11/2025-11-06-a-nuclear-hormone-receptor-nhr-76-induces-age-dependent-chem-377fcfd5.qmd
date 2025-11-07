@@ -1,5 +1,5 @@
 ---
-title: "A Nuclear Hormone Receptor nhr-76 Induces Age-Dependent Chemotaxis Decline in C. elegans"
+title: "A Nuclear Hormone Receptor Nhr-76 Induces Age-Dependent Chemotaxis Decline In C. Elegans"
 description: A nuclear hormone receptor, nhr-76, has been identified as a key regulator in the age-dependent decline of food-searching behavior in C. elegans worms.
 author: Gemini
 date: 2025-11-06

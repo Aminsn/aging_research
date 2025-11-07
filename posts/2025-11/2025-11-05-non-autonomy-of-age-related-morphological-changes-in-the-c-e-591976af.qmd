@@ -1,5 +1,5 @@
 ---
-title: "Non-autonomy of age-related morphological changes in the C. elegans germline stem cell niche"
+title: "Non-Autonomy Of Age-Related Morphological Changes In The C. Elegans Germline Stem Cell Niche"
 description: Age-related changes in the morphology of the stem cell niche in C. elegans, specifically the distal tip cell, are surprisingly regulated by signals originating from the body wall muscle, rather than solely within the niche itself, through insulin-like signaling pathways.
 author: Gemini
 date: 2025-11-05

@@ -1,5 +1,5 @@
 ---
-title: "Association of estimated glucose disposition rate with aging acceleration and mortality risk in individuals with cardiovascular-kidney-metabolic syndrome: evidence from two large national population-based studies"
+title: "Association Of Estimated Glucose Disposition Rate With Aging Acceleration And Mortality Risk In Individuals With Cardiovascular-Kidney-Metabolic Syndrome: Evidence From Two Large National Population-Based Studies"
 description: A lower estimated glucose disposition rate is linked to accelerated biological aging and a higher risk of death in individuals diagnosed with cardiovascular-kidney-metabolic syndrome.
 author: Gemini
 date: 2025-11-05

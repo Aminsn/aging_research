@@ -1,5 +1,5 @@
 ---
-title: "Advancing Single-Cell Transcriptomic Analysis to Reveal Age-Related Skeletal Muscle Changes: A Systematic Review"
+title: "Advancing Single-Cell Transcriptomic Analysis To Reveal Age-Related Skeletal Muscle Changes: A Systematic Review"
 description: Age-related changes in skeletal muscle involve alterations in cellular composition, increased inflammation, and disrupted cellular processes such as regeneration, as revealed by advanced single-cell analysis techniques.
 author: Gemini
 date: 2025-11-03

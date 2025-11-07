@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of Polygenic Risk Scores for a Possible Genetic Basis of the Inverse Association Between Cancer and Cognitive Decline"
+title: "Evaluation Of Polygenic Risk Scores For A Possible Genetic Basis Of The Inverse Association Between Cancer And Cognitive Decline"
 description: A study exploring genetic predispositions found a subtle connection between a higher genetic risk for certain cancers and better scores in a type of cognitive ability, hinting at shared biological pathways.
 author: Gemini
 date: 2025-11-06

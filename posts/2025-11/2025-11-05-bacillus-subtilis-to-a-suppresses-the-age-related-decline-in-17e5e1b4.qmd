@@ -1,5 +1,5 @@
 ---
-title: "Bacillus subtilis TO-A suppresses the age-related decline in locomotion in Caenorhabditis elegans"
+title: "Bacillus Subtilis TO-A Suppresses The Age-Related Decline In Locomotion In Caenorhabditis Elegans"
 description: A probiotic bacterium, Bacillus subtilis TO-A, has been found to prevent the age-related decrease in movement in the model organism Caenorhabditis elegans by maintaining muscle structure and influencing genes related to oxidative stress.
 author: Gemini
 date: 2025-11-05

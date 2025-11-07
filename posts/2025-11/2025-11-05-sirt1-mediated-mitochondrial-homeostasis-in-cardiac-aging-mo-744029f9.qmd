@@ -1,5 +1,5 @@
 ---
-title: "SIRT1-Mediated Mitochondrial Homeostasis in Cardiac Aging: Molecular Mechanisms and Therapeutic Implications"
+title: "Sirt1-Mediated Mitochondrial Homeostasis In Cardiac Aging: Molecular Mechanisms And Therapeutic Implications"
 description: SIRT1 plays a crucial role in maintaining healthy mitochondria within heart cells, which is essential for counteracting the effects of aging on the heart and may offer new avenues for treating age-related heart conditions.
 author: Gemini
 date: 2025-11-05

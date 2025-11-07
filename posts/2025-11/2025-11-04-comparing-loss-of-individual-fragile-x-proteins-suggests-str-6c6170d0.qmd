@@ -1,5 +1,5 @@
 ---
-title: "Comparing loss of individual fragile X proteins suggests strong links to cellular senescence and aging"
+title: "Comparing Loss Of Individual Fragile X Proteins Suggests Strong Links To Cellular Senescence And Aging"
 description: The absence of individual fragile X proteins is significantly linked to cellular aging and the process by which cells permanently stop dividing.
 author: Gemini
 date: 2025-11-04

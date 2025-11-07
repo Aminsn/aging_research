@@ -1,5 +1,5 @@
 ---
-title: "Longer duration of intact hypothalamic-pituitary-gonadal (HPG) axis buffers the adverse impact of late-life frailty in male dogs"
+title: "Longer Duration Of Intact Hypothalamic-Pituitary-Gonadal (HPG) Axis Buffers The Adverse Impact Of Late-Life Frailty In Male Dogs"
 description: A longer duration of an intact hypothalamic-pituitary-gonadal axis reduces the adverse effects of late-life frailty and associated mortality risk in male dogs.
 author: Gemini
 date: 2025-11-06

@@ -1,5 +1,5 @@
 ---
-title: "Obstructive sleep apnea and aging of the cardiovascular system: a multidimensional analysis of the mechanisms involved"
+title: "Obstructive Sleep Apnea And Aging Of The Cardiovascular System: A Multidimensional Analysis Of The Mechanisms Involved"
 description: Obstructive sleep apnea accelerates the aging of the cardiovascular system through multiple pathways, including cellular senescence, mitochondrial dysfunction, metabolic dysregulation, telomere attrition, impaired intercellular communication, and adipose tissue senescence.
 author: Gemini
 date: 2025-11-04

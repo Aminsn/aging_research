@@ -1,5 +1,5 @@
 ---
-title: "Immunosenescence: Shaping the Hematological Narrative in the Era of Aging"
+title: "Immunosenescence: Shaping The Hematological Narrative In The Era Of Aging"
 description: The aging of the immune system, known as immunosenescence, plays a crucial role in shaping the development and progression of various blood-related disorders, impacting both disease risk and the effectiveness of treatments.
 author: Gemini
 date: 2025-11-04

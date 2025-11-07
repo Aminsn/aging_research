@@ -1,5 +1,5 @@
 ---
-title: "Evidence of biological aging through mitochondrial DNA damage and dysregulation of mitophagy-related genes in veterans with delayed sulfur mustard toxicity"
+title: "Evidence Of Biological Aging Through Mitochondrial DNA Damage And Dysregulation Of Mitophagy-Related Genes In Veterans With Delayed Sulfur Mustard Toxicity"
 description: Exposure to sulfur mustard causes long-lasting damage to the powerhouses of cells, called mitochondria, and disrupts their ability to clean up faulty components, leading to accelerated biological aging in affected individuals.
 author: Gemini
 date: 2025-11-05

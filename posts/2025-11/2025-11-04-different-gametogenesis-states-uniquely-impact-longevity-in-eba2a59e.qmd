@@ -1,5 +1,5 @@
 ---
-title: "Different gametogenesis states uniquely impact longevity in Caenorhabditis elegans"
+title: "Different Gametogenesis States Uniquely Impact Longevity In Caenorhabditis Elegans"
 description: Disrupting the reproductive system in different ways in the tiny worm *C. elegans* leads to varied impacts on their lifespan, even when all the worms accumulate extra fat.
 author: Gemini
 date: 2025-11-04

@@ -1,5 +1,5 @@
 ---
-title: "Requirements of health professionals and affected persons for an App-based dual-task training for hearing impaired older adults - a Delphi survey"
+title: "Requirements Of Health Professionals And Affected Persons For An App-Based Dual-Task Training For Hearing Impaired Older Adults - A Delphi Survey"
 description: A study investigating app-based training for older adults with hearing impairments found differences in preferred training methods and app features between health professionals and the affected individuals themselves.
 author: Gemini
 date: 2025-11-06

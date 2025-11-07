@@ -1,5 +1,5 @@
 ---
-title: "METTL3-mediated modification of SIRT1 m6A methylation protects osteoblasts from TBHP-induced senescence and promotes osteoblast proliferation"
+title: "Mettl3-Mediated Modification Of Sirt1 M6A Methylation Protects Osteoblasts From TBHP-Induced Senescence And Promotes Osteoblast Proliferation"
 description: Research indicates that a specific genetic modification, METTL3-mediated SIRT1 m6A methylation, helps protect bone-forming cells from chemically-induced aging and promotes their multiplication.
 author: Gemini
 date: 2025-11-05

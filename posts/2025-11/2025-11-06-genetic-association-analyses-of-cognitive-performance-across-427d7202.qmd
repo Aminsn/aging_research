@@ -1,5 +1,5 @@
 ---
-title: "Genetic association analyses of cognitive performance across multi-ancestry older adults: Application of Tobit models"
+title: "Genetic Association Analyses Of Cognitive Performance Across Multi-Ancestry Older Adults: Application Of Tobit Models"
 description: A new study reveals that using Tobit models, a specific type of statistical analysis, is more effective at identifying genetic factors influencing cognitive abilities in a diverse group of older adults, especially when traditional tests hit a maximum score.
 author: Gemini
 date: 2025-11-06

@@ -1,5 +1,5 @@
 ---
-title: "Comprehensive analysis of aberrant alternative splicing and RNA binding proteins associated with age-related sensorineural hearing loss"
+title: "Comprehensive Analysis Of Aberrant Alternative Splicing And RNA Binding Proteins Associated With Age-Related Sensorineural Hearing Loss"
 description: Research has identified numerous altered gene processing events and their regulating proteins linked to age-related sensorineural hearing loss in a mouse model, with ISG15 emerging as a crucial regulator of these processes.
 author: Gemini
 date: 2025-11-05

@@ -1,5 +1,5 @@
 ---
-title: "Macrophage metabolic rewiring rejuvenates muscle Raman signatures and cellular remodeling during regrowth in aged mice"
+title: "Macrophage Metabolic Rewiring Rejuvenates Muscle Raman Signatures And Cellular Remodeling During Regrowth In Aged Mice"
 description: Metabolically stimulating macrophages with transient low oxygen conditions improved muscle cellular remodeling and functional recovery in aged mice following disuse atrophy, restoring a youthful recovery pattern.
 author: Gemini
 date: 2025-11-05

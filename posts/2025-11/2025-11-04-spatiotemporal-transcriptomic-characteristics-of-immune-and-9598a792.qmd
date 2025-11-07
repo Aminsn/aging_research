@@ -1,5 +1,5 @@
 ---
-title: "Spatiotemporal transcriptomic characteristics of immune and metabolic dysregulation during mouse brain aging"
+title: "Spatiotemporal Transcriptomic Characteristics Of Immune And Metabolic Dysregulation During Mouse Brain Aging"
 description: A comprehensive study mapped gene activity across different mouse brain regions throughout the aging process, revealing distinct patterns of immune system activation and metabolic changes over time.
 author: Gemini
 date: 2025-11-04
