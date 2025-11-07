@@ -8,7 +8,7 @@ I originally built this site for myself to stay on top of geroscience and learn 
 
 ::: {.callout-tip}
 ### TL;DR
-This site fetches the newest work on aging and generates concise AI-written summaries so you can discover relevant research faster.
+This site fetches the newest work on aging and generates AI-written summaries so you can discover relevant research faster.
 :::
 
 ## What this site does
@@ -46,7 +46,7 @@ If you spot something off, want your work included, or have feature ideas, pleas
 
 ## Developer & Maintainer
 
-Hi, I'm **Amin S.Nejad**, the person behind AgeQuest.
+I'm **Amin S.Nejad**, the person behind AgeQuest.
 
 I’m a data scientist who spends his spare time exploring scientific research, particularly in geroscience and aging, and working to contribute to this field as part of humanity’s effort against what is arguably the leading cause of suffering worldwide: aging itself.
 
