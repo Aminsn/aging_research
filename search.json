@@ -4,7 +4,42 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Aging is the most fundamental challenge facing humanity. Understanding why we age—and how to slow, stop, or even reverse the process—could redefine what it means to live a healthy and meaningful life. We’re dedicated to accelerating progress in aging and geroscience research by making cutting-edge discoveries more accessible, understandable, and actionable."
+    "text": "Aging science moves fast. Every day, new papers, datasets, interventions, and theories appear across journals, preprint servers, and labs — but most of us don’t have hours to scan them all. AgeQuest was created to solve exactly that problem.\nI originally built this site for myself to stay on top of geroscience and learn about the most recent findings. After using it, I realized it could help a wider audience, people who care about healthy longevity, and researchers who want to spend more time thinking and less time digging."
+  },
+  {
+    "objectID": "about.html#what-this-site-does",
+    "href": "about.html#what-this-site-does",
+    "title": "About",
+    "section": "What this site does",
+    "text": "What this site does\n\nFetches the newest work on aging, longevity, and geroscience from PubMed.\nGroups findings into useful themes (e.g., pathways & hallmarks, biomarkers & clocks, therapeutics, methods, lifestyle levers).\nGenerates an AI-written summary/blog-style post for each item to surface the core claim, model/population, and why it matters.\nKeeps the feed fresh so you always see what’s emerging right now."
+  },
+  {
+    "objectID": "about.html#who-its-for",
+    "href": "about.html#who-its-for",
+    "title": "About",
+    "section": "Who it’s for",
+    "text": "Who it’s for\n\nResearchers & scientists who want a daily pulse on aging biology.\n\nClinicians & translational folks tracking interventions, biomarkers, and geriatric outcomes.\n\nLongevity enthusiasts / general public seeking science-based updates instead of hype (blog posts are written to be approachable for the general public).\nIdea hunters, grant writers, PhD students, biotech founders, who need a steady stream of signals."
+  },
+  {
+    "objectID": "about.html#how-the-ai-is-used",
+    "href": "about.html#how-the-ai-is-used",
+    "title": "About",
+    "section": "How the AI is used",
+    "text": "How the AI is used\n\nAI helps summarize and rephrase research in a more readable way.\n\nIt aims to preserve the main finding, model/population, methods, and implications.\n\nFor anything you plan to cite, build on, or critique, please click through to the original source.\n\n\n\n\n\n\n\nImportantImportant\n\n\n\nThis is a discovery and triage tool, not a peer reviewer. Inclusion ≠ endorsement."
+  },
+  {
+    "objectID": "about.html#transparency-limits",
+    "href": "about.html#transparency-limits",
+    "title": "About",
+    "section": "Transparency & limits",
+    "text": "Transparency & limits\n\nNot every study here is equally strong.\n\nAI-written summaries can miss caveats or over-generalize.\n\nYou should still read the full paper if you work in that area.\n\nIf you spot something off, want your work included, or have feature ideas, please reach out, feedback from people actually doing aging research is the fastest way to improve this."
+  },
+  {
+    "objectID": "about.html#developer-maintainer",
+    "href": "about.html#developer-maintainer",
+    "title": "About",
+    "section": "Developer & Maintainer",
+    "text": "Developer & Maintainer\nHi, I’m Amin S.Nejad, the person behind AgeQuest.\nI’m a data scientist who spends his spare time exploring scientific research, particularly in geroscience and aging, and working to contribute to this field as part of humanity’s effort against what is arguably the leading cause of suffering worldwide: aging itself.\nLearn more about me at my personal website."
   },
   {
     "objectID": "posts/2025-11/2025-11-06-geriatric-syndromes-in-women-living-with-hiv-8a31bf64.html",
