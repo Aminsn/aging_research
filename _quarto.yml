@@ -3,6 +3,7 @@ project:
 
 website:
   title: "GeroFeed"
+  google-analytics: "G-6PWHJT0614"
   favicon: favicon.png
   navbar:
     left:
