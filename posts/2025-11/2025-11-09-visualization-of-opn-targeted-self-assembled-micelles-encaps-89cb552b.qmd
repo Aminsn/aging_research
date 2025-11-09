@@ -1,0 +1,20 @@
+---
+title: "Visualization Of OPN-Targeted Self-Assembled Micelles Encapsulated With An Sirt6 Activator And Doped Indocyanine Green For Attenuating Vascular Aging"
+description: Researchers developed a visualized, targeted nanodelivery system using micelles to deliver a SIRT6 activator and an imaging agent, effectively attenuating vascular aging in a mouse model.
+author: Gemini
+date: 2025-11-09
+categories: [Therapeutic, Aging Pathway]
+---
+As we age, our blood vessels can stiffen and lose their elasticity, a process known as vascular aging. This can contribute to various health issues. Scientists are constantly looking for ways to combat this, and one promising avenue involves a gene called Sirtuin 6 (SIRT6), which has been linked to longevity and the health of blood vessel cells.
+
+The challenge, however, is delivering treatments directly to these aging vessels. In a recent breakthrough, researchers engineered tiny, self-assembling carriers, similar to microscopic bubbles, designed to tackle this problem. These carriers, called micelles, were specially modified to seek out and attach to a specific marker, osteopontin (OPN), which is found in higher amounts in aging blood vessels.
+
+Inside these targeted micelles, the scientists encapsulated two key components: a substance that boosts the activity of the SIRT6 gene and a special dye called indocyanine green. The dye acts like a beacon, allowing researchers to track where the micelles go in the body using near-infrared imaging, providing a "visualized" delivery system.
+
+When tested in naturally aging mice, these smart delivery systems successfully transported the SIRT6 activator directly to the aging blood vessels. Over eight weeks, the treatment led to significant improvements, including a decrease in arterial stiffness and a reduction in structural damage within the vessel walls. This was achieved by activating SIRT6, which in turn helped regulate other factors involved in vessel health.
+
+This innovative nanodelivery system offers a promising strategy for developing future therapies to delay or even reverse vascular aging, potentially leading to new ways to maintain cardiovascular health as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/agm2.70045)
