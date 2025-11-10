@@ -7,6 +7,5 @@ listing:
   categories: true
 ---
 
-::: {.callout-tip}
-Click on a title to read the full post.
-:::
+**Click on a title to read the full post.**
+
