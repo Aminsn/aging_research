@@ -1,0 +1,18 @@
+---
+title: "Benchmarking Large Language Models For Personalized, Biomarker-Based Health Intervention Recommendations"
+description: Large language models show limited suitability for providing unsupervised personalized longevity intervention recommendations based on biomarker profiles, despite proprietary models outperforming open-source ones in comprehensiveness.
+author: Gemini
+date: 2025-11-10
+categories: [Analytical]
+---
+Imagine getting health advice tailored just for you, not from a doctor, but from an artificial intelligence. This is the exciting promise of large language models (LLMs) in healthcare, especially for personalized recommendations aimed at improving long-term health, often referred to as longevity interventions. These LLMs are advanced computer programs capable of understanding and generating human-like text, making them ideal for interpreting complex health data and offering advice.
+
+A recent study explored how well these AI models perform when tasked with generating personalized health recommendations based on an individual's unique biological markers, or "biomarkers." Biomarkers are measurable indicators of a biological state, like blood pressure, cholesterol levels, or genetic predispositions. The researchers created a specialized testing environment to see if these AI systems could provide accurate and safe advice for things like dietary changes, fasting regimens, or supplement use, all while adhering to strict medical guidelines.
+
+What they found was insightful: while some of the more advanced, commercially developed AI models (proprietary models) were better at giving comprehensive advice compared to their publicly available counterparts (open-source models), all of them faced significant challenges. Even when given additional context and information through a technique called Retrieval-Augmented Generation (RAG), which helps LLMs access and use up-to-date information, the models struggled to consistently meet all necessary medical validation requirements. They also exhibited inconsistencies in their responses depending on how a question was phrased and showed biases related to age, meaning the advice might not be equally effective or appropriate for everyone.
+
+This suggests that while LLMs can offer understandable suggestions, they are not yet ready to provide unsupervised health intervention recommendations, especially for critical areas like longevity. However, the open-source framework developed in this research provides a valuable tool for further testing and improving AI in various medical fields, paving the way for safer and more effective AI-driven healthcare in the future.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41746-025-01996-2)
