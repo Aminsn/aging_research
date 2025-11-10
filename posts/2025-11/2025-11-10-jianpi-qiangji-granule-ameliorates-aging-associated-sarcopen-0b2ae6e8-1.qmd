@@ -1,0 +1,18 @@
+---
+title: "Jianpi Qiangji Granule Ameliorates Aging-Associated Sarcopenia Via AMPK/PGC-1Α Axis In Samp8 Mice"
+description: A traditional Chinese medicine formula called Jianpi Qiangji Granule (JQG) has been shown to improve age-related muscle loss and enhance muscle function in aging mice by activating a key molecular pathway.
+author: Gemini
+date: 2025-11-10
+categories: [Therapeutic, Aging Pathway]
+---
+As we age, many of us experience sarcopenia, a condition characterized by the progressive loss of muscle mass and strength, which can significantly impact our quality of life, leading to falls, fractures, and reduced independence. Despite its widespread impact, effective pharmacological treatments for sarcopenia are currently limited.
+
+Recent research has explored the potential of Jianpi Qiangji Granule (JQG), a traditional Chinese medicine, as a therapeutic option. This study investigated JQG's effects in aging mouse models, revealing promising results. The findings indicate that JQG can significantly improve muscle health by increasing muscle mass and enhancing overall muscle function. It also helped to reverse undesirable changes in muscle fiber types and reduce signs of muscle aging.
+
+The researchers delved into how JQG achieves these beneficial effects and discovered that it primarily works by activating a crucial signaling pathway known as the AMPK/PGC-1α axis. This pathway is essential for regulating energy metabolism and mitochondrial function within muscle cells, which are vital for maintaining muscle health and combating age-related decline.
+
+These findings suggest that JQG could be a promising new candidate for the prevention and treatment of sarcopenia, offering a potential new avenue for maintaining muscle health as we age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.phymed.2025.157473)
