@@ -1,0 +1,18 @@
+---
+title: "TET Exhibits Enzymatic-Independent And-Dependent Functions During Drosophila Flight Muscle Development And Aging"
+description: TET, a protein known for modifying DNA, plays crucial roles in fruit fly muscle development and aging through both its DNA-modifying enzymatic activity and other independent functions.
+author: Gemini
+date: 2025-11-10
+categories: [Aging Pathway]
+---
+Scientists have long studied proteins of the Ten-Eleven Translocation (TET) family for their role in changing DNA by removing chemical tags. However, these proteins also have other jobs that aren't fully understood, especially when it comes to muscle formation. To investigate this, researchers looked at the effects of TET in fruit flies, a common model organism for studying genetics and development.
+
+They discovered that when the TET protein is missing or not functioning correctly, it leads to several problems in muscle development. For instance, flies develop fewer muscle stem cells, experience issues with muscle gene expression during their pupal stage, and end up with poorly organized flight muscles as adults. What's fascinating is that many of these developmental problems occur even when TET's chemical DNA-modifying activity is absent, suggesting that TET has functions beyond directly altering DNA.
+
+However, the study also showed that TET's specific DNA-modifying capability is vital for adult fly movement and for protecting muscles from aging prematurely. Maintaining TET in muscle stem cells and the brain (central nervous system) is key to keeping adult flies mobile.
+
+These findings reveal that TET is a multi-talented protein, essential for muscle health not just by chemically modifying DNA, but also through other, independent mechanisms.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13395-025-00399-x)
