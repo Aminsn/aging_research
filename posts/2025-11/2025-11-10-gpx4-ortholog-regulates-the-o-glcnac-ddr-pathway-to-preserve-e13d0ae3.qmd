@@ -1,0 +1,16 @@
+---
+title: "Gpx4 Ortholog Regulates The O-Glcnac-DDR Pathway To Preserve Intestinal Stem Cell Homeostasis During Aging And Oxidative Stress"
+description: A protective enzyme, similar to mammalian GPX4, helps maintain the health and function of intestinal stem cells by linking nutrient sensing and DNA repair mechanisms, especially during aging and stress.
+author: Gemini
+date: 2025-11-10
+categories: [Aging Pathway]
+---
+Our bodies are constantly renewing themselves, and special cells called stem cells are at the heart of this process, ensuring our tissues and organs stay healthy. However, as we age or face environmental stresses, these vital stem cells can become damaged, leading to various health problems.
+
+Recent research sheds light on a crucial protective mechanism. Scientists have found that a particular enzyme, similar to one called GPX4 in humans, plays a key role in keeping these important stem cells functioning properly. This enzyme acts like a cellular guardian, especially in the gut, which faces a lot of wear and tear.
+
+How does it work? This guardian enzyme connects two important cellular processes. One is called O-GlcNAcylation, which is essentially how cells sense and respond to the nutrients around them, almost like a "fuel gauge." The other is the DNA damage response, the cell's internal repair crew that fixes any harm to our genetic material. By linking these two pathways, the enzyme ensures that when cells are under stress or experiencing changes due to aging, their stem cells are protected. This connection helps maintain a healthy balance, preventing stem cells from malfunctioning or becoming overactive, which can contribute to age-related decline and even diseases like cancer.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.freeradbiomed.2025.10.286)
