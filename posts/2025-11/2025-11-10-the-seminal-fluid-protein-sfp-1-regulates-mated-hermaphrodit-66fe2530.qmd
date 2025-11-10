@@ -1,0 +1,14 @@
+---
+title: "The Seminal Fluid Protein SFP-1 Regulates Mated Hermaphrodite Aging And Fat Metabolism In C. Elegans"
+description: A protein found in the seminal fluid of male *C. elegans* worms, called SFP-1, is transferred to hermaphrodites during mating and causes them to age faster and deplete their fat reserves.
+author: Gemini
+date: 2025-11-10
+categories: [Aging Pathway]
+---
+Sexual interactions can profoundly impact the physiology and aging process in many species. In the tiny roundworm *C. elegans*, mating is known to shorten the lifespan of hermaphrodites (individuals with both male and female reproductive organs) and alter their body fat. Until recently, the specific male-derived signals responsible for these changes remained a mystery.
+
+New research has identified a key player: a protein named SFP-1. This protein, produced by males and present in their seminal fluid, is transferred to the hermaphrodite during mating. Once inside the hermaphrodite, SFP-1 doesn't just stay put; it actively travels to the intestinal cells, where it is absorbed. Inside these cells, SFP-1 interacts with and activates a crucial regulatory protein called SKN-1. This activation essentially reprograms the hermaphrodite's metabolism, leading to a significant reduction in their fat stores and, ultimately, accelerating their aging process and shortening their lifespan. This discovery sheds light on how male reproductive factors can directly influence the health and longevity of their mates.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s44318-025-00610-1)
