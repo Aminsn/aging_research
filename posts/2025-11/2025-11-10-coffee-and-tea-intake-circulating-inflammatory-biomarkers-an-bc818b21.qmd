@@ -1,0 +1,18 @@
+---
+title: "Coffee And Tea Intake, Circulating Inflammatory Biomarkers, And Long-Term Risk Of Dementia: Findings From Two Longitudinal Studies"
+description: Higher coffee consumption, specifically two or more cups per day, is associated with a reduced long-term risk of dementia, a relationship partially explained by the beverage's impact on inflammatory markers in the body, while moderate tea intake may also be linked to a lower dementia risk.
+author: Gemini
+date: 2025-11-10
+categories: [Lever]
+---
+Many of us start our day with a warm cup of coffee or tea, but did you know these daily rituals might be doing more than just waking you up? Recent research has explored the connection between how much coffee and tea people drink and their long-term risk of developing dementia.
+
+The findings suggest that regularly consuming at least two cups of coffee daily is associated with a significantly lower chance of developing dementia over many years. This protective effect seems to be partly due to how coffee influences certain "inflammatory biomarkers" in our blood. These biomarkers are substances that indicate inflammation in the body, which plays a role in various diseases, including those affecting the brain. The study identified several specific markers, like C-reactive protein (CRP) and interleukins, whose levels are affected, thereby mediating some of coffee's beneficial impact.
+
+Tea drinkers also have good news: moderate consumption, specifically up to two cups per day, was similarly linked to a reduced risk of dementia. These insights come from a comprehensive study that tracked thousands of participants over several years, observing their beverage habits and health outcomes.
+
+Understanding these connections means that simple dietary choices like enjoying your daily coffee or tea could be a part of a broader strategy for maintaining brain health as we age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s10654-025-01302-0)
