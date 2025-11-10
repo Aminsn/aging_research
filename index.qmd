@@ -6,3 +6,5 @@ listing:
   type: default
   categories: true
 ---
+
+Click on a title to read the full post.
