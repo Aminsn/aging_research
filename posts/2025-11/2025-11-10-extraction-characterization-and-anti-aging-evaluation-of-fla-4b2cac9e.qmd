@@ -1,0 +1,14 @@
+---
+title: "Extraction, Characterization, And Anti-Aging Evaluation Of Flavonoids From <I>Citrus Reticulata</I> 'Zhangshuensis'"
+description: Flavonoids extracted from a specific citrus variety were found to possess potent antioxidant and anti-aging properties, significantly extending the lifespan and stress resistance of nematodes.
+author: Gemini
+date: 2025-11-10
+categories: [Therapeutic]
+---
+Imagine tapping into the power of nature to boost your health and even slow down the aging process. Recent research has focused on a unique type of mandarin orange, known as ZhangTouHong, which has long been valued for its potential medicinal properties. Scientists have developed an efficient method to extract a concentrated blend of beneficial plant compounds, called flavonoids, from this special citrus. Flavonoids are natural substances found in fruits and vegetables that are well-known for their antioxidant capabilities, helping to protect our cells from damage.
+
+Through this new extraction process, the concentration of these valuable flavonoids was significantly increased. Researchers meticulously identified a remarkable 48 different flavonoid compounds present in this extract, including several that may be entirely new to science. The exciting part came with the evaluation of their biological effects. Tests showed that these citrus flavonoids possess excellent antioxidant activity, meaning they effectively neutralize harmful molecules in the body. More impressively, they demonstrated significant anti-aging capabilities, extending the lifespan of tiny worms called nematodes (often used as models in aging studies) by over 21% and improving their resilience against stress by more than 35%. This groundbreaking work lays the foundation for developing new functional foods or anti-aging products derived from this exceptional citrus resource.
+
+---
+
+Source: [link to paper](https://doi.org/10.1039/d5fo02218e)
