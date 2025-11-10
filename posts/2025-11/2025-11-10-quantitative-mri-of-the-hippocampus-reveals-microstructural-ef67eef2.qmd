@@ -1,0 +1,16 @@
+---
+title: "Quantitative MRI Of The Hippocampus Reveals Microstructural Trajectories Of Aging And Alzheimer'S Disease Pathology"
+description: Quantitative MRI can detect microstructural changes in the hippocampus, such as demyelination and iron deposition, that are associated with both healthy aging and early Alzheimer's disease pathology.
+author: Gemini
+date: 2025-11-10
+categories: [Analytical]
+---
+Our brains undergo changes as we age, and a key area for memory, the hippocampus, is particularly affected. While we know that this region can shrink in conditions like Alzheimer's disease, this research explores even smaller, "microstructural" changes that happen before larger, more visible degeneration occurs. Think of it like seeing the subtle wear and tear on tiny components before a whole machine breaks down.
+
+Using advanced magnetic resonance imaging (MRI) techniques, researchers were able to map these minute changes across the surface of the hippocampus in both healthy older adults at risk for Alzheimer's and younger individuals. They looked at specific measures that are sensitive to different tissue properties, revealing patterns consistent with things like demyelination (where the protective coating around nerve fibers wears away) and the accumulation of iron in the brain.
+
+These detailed measurements allowed scientists to see how these microstructural alterations are linked to the normal aging process, the earliest signs of Alzheimer's disease, and even genetic risk factors. By providing a kind of "in-vivo histology"—meaning looking at tissue details in living individuals—this approach offers a new window into understanding the very first stages of age- and disease-related brain changes, going beyond just measuring overall brain volume.
+
+---
+
+Source: [link to paper](https://doi.org/10.1073/pnas.2502674122)
