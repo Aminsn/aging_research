@@ -1,0 +1,18 @@
+---
+title: "Ribosome Dysregulation And Intervention In Age-Related Infertility"
+description: A recent study found that age-related infertility in women is associated with increased activity of genes responsible for making ribosomes in egg cells and surrounding support cells, and that a drug called rapamycin can improve embryo quality and pregnancy success in women experiencing infertility.
+author: Gemini
+date: 2025-11-10
+categories: [Aging Pathway, Therapeutic]
+---
+As women get older, fertility naturally declines, and the exact reasons for this have long been unclear. Recent research sheds light on this mystery by focusing on the tiny factories within our cells responsible for making proteins, called ribosomes. These cellular machines are crucial for all life processes, including the development of healthy eggs.
+
+The study found that in women in their mid-thirties, there are noticeable changes in their egg cells (oocytes) and the surrounding support cells (cumulus cells). Specifically, there's an unexpected increase in the activity of genes that produce ribosomes. While ribosomes are essential, having too many or having them function improperly, a condition known as dysregulation, can throw a cell's delicate balance off kilter. The research also highlighted other cellular issues, such as disruptions in the cells' waste disposal and recycling systems (lysosomes and proteostasis), and alterations in how DNA is organized and expressed.
+
+These findings suggest that a mismanaged protein-making process contributes significantly to the challenges of age-related infertility. But there's also good news: the study explored a potential intervention. A medication known as rapamycin, which helps to regulate protein production and cellular maintenance pathways, was used. Remarkably, women who had previously undergone unsuccessful in vitro fertilization (IVF) cycles due to problems with embryo development, achieved high-quality embryos and went on to have successful pregnancies and live births after short-term treatment with rapamycin.
+
+This breakthrough suggests that targeting ribosome dysregulation could be a promising strategy to address age-related infertility, offering new hope for many facing these challenges.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.xcrm.2025.102424)
