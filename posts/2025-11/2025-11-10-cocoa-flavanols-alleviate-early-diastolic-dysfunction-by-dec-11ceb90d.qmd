@@ -1,0 +1,18 @@
+---
+title: "Cocoa Flavanols Alleviate Early Diastolic Dysfunction By Decreasing Left Atrial Volume In A Randomized Double Blinded Trial In Healthy Older Individuals"
+description: Cocoa flavanol consumption was found to improve early signs of heart relaxation problems and reduce the size of heart chambers in healthy older adults.
+author: Gemini
+date: 2025-11-10
+categories: [Lever]
+---
+Ever wondered if that delicious chocolate could offer more than just a sweet treat? Recent research suggests that natural compounds found in cocoa, called flavanols, may play a significant role in heart health, particularly as we age. 
+
+As people get older, the heart can sometimes struggle to relax properly between beats, a condition known as early diastolic dysfunction. This can lead to an enlargement of the heart's upper left chamber, called the left atrium, which is a sign that future heart problems could be on the horizon. 
+
+A study involving healthy older individuals explored whether regularly consuming cocoa flavanols could positively impact these age-related changes. In a well-designed experiment where neither the participants nor the researchers knew who was receiving the flavanols versus a look-alike control, significant improvements were observed. Participants who consumed cocoa flavanols daily for 30 days showed a reduction in the size of both the left atrium and the main pumping chamber of the heart, the left ventricle. This suggests that the flavanols helped reverse the subtle changes in heart structure that can lead to dysfunction. Additionally, those receiving flavanols experienced a drop in their systolic blood pressure, the upper number in a blood pressure reading. 
+
+These findings suggest that incorporating cocoa flavanols into the diet could be a promising way to help prevent age-related heart issues and support overall cardiovascular wellness by improving how the heart fills with blood and maintaining healthy heart chamber size.
+
+---
+
+Source: [link to paper](https://doi.org/10.1039/d5fo02589c)
