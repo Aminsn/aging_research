@@ -1,0 +1,16 @@
+---
+title: "Ejiao Alleviates Sarcopenia By AKT/Mtor/Foxo3A And AMPK Pathways In An Aging Rat Model Induced By D-Galactose Combined With Restricted Movement"
+description: Ejiao significantly improves muscle function and provides a promising avenue for sarcopenia treatment by reducing oxidative stress, enhancing ATP levels, and modulating key pathways involved in protein synthesis and muscle function.
+author: Gemini
+date: 2025-11-11
+categories: [Therapeutic, Aging Pathway]
+---
+As we age, many of us face a common challenge called sarcopenia, which is the progressive loss of muscle mass and strength. This condition can lead to reduced mobility and a lower quality of life. Scientists are constantly looking for new ways to combat sarcopenia, and recent research has shed light on a traditional Chinese medicine called Ejiao (donkey-hide gelatin) as a potential solution. 
+
+A study conducted on an aging rat model, where sarcopenia was induced, found that Ejiao administration led to significant improvements. The rats showed increased body weight and muscle mass, along with better movement and healthier muscle tissue. Beyond these visible improvements, the researchers delved into the underlying mechanisms. They discovered that Ejiao effectively reduced oxidative stress, which is a process that damages cells, and boosted the energy (ATP) levels within the muscles. 
+
+The key to Ejiao's benefits appears to lie in its ability to influence crucial cellular communication pathways: the AKT/mTOR/Foxo3a pathway and the AMPK pathway. These pathways are like control centers within muscle cells, regulating everything from protein synthesis (building new muscle) to protein degradation (breaking down old muscle). By modulating these pathways, Ejiao helps to maintain a healthy balance, promoting muscle growth and improving overall muscle function. These findings suggest that Ejiao could be a valuable therapeutic candidate for preventing and treating sarcopenia, offering hope for healthier aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jep.2025.120819)
