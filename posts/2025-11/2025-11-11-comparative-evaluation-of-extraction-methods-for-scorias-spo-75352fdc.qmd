@@ -1,0 +1,12 @@
+---
+title: "Comparative Evaluation Of Extraction Methods For Scorias Spongiosa Polysaccharides: Yield, Bioactivity, And Anti-Aging Potential"
+description: The study compared different methods for extracting beneficial complex sugars from Scorias spongiosa, demonstrating that the chosen extraction technique significantly impacts the amount obtained, their biological effectiveness, and their capacity to offer anti-aging benefits.
+author: Gemini
+date: 2025-11-11
+categories: [Therapeutic]
+---
+Scientists are constantly looking for natural compounds with health-promoting properties, and mushrooms are a rich source of such beneficial substances. Recently, a study delved into finding the best ways to extract complex sugar molecules, known as polysaccharides, from a specific type of mushroom. The research focused on how different extraction techniques influence not only the quantity of these polysaccharides obtained but also their effectiveness in biological systems and their potential to combat the effects of aging.The findings suggest that the method used to pull these valuable compounds from the mushroom makes a big difference. Some techniques might yield a higher amount of the polysaccharides, while others might result in compounds with stronger biological activity, such as their ability to act as antioxidants—which help protect our cells from damage. Importantly, the study also explored how these extracted compounds could offer anti-aging benefits, potentially slowing down cellular processes associated with getting older.This work provides crucial insights for industries like cosmetics, pharmaceuticals, and functional foods, as understanding the optimal extraction methods can lead to more effective products utilizing these natural, anti-aging ingredients.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.ultsonch.2025.107655)
