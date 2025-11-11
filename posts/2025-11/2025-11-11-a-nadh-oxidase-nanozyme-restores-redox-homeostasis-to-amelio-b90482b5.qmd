@@ -1,0 +1,18 @@
+---
+title: "A NADH Oxidase Nanozyme Restores Redox Homeostasis To Ameliorate Multi-Organ Aging And Ischemic Cardiomyopathy"
+description: A vanadium-based nanozyme has been shown to restore the balance of critical molecules involved in cellular energy (redox homeostasis), thereby reducing signs of aging in multiple organs and improving heart function after a heart attack.
+author: Gemini
+date: 2025-11-11
+categories: [Therapeutic, Aging Pathway]
+---
+Our bodies rely on a delicate balance of molecules like NAD+ and NADH, which are essential for generating energy in our cells. When this balance is disrupted, with too much NADH and too little NAD+, it contributes to cellular aging and can worsen conditions like heart attacks. This imbalance, often called "redox imbalance," can lead to cells becoming old and dysfunctional, a process known as senescence.
+
+Scientists have developed tiny artificial enzymes, called nanozymes, that can mimic the functions of natural enzymes. A recent breakthrough introduces a new vanadium-based nanozyme that acts like an enzyme called NADH oxidase. This nanozyme works by converting excess NADH back into NAD+, effectively correcting the redox imbalance.
+
+In studies with aged mice, administering this nanozyme helped restore the proper NAD+/NADH balance and reduced markers of aging in vital organs such as the heart, liver, and spleen. Furthermore, in a model of heart attack, injecting the nanozyme directly into the damaged heart tissue helped reprogram cellular metabolism, reduce oxidative stress (damage caused by unstable molecules), decrease the area of injury, and improve overall heart function.
+
+To enhance its therapeutic effects even further, this nanozyme was also integrated with stem cells into a smart, responsive gel. This innovative combination not only prolonged the survival of the stem cells but also led to even better heart repair. These findings suggest a promising new strategy using these artificial enzymes to combat the effects of aging and improve recovery from ischemic heart disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.34133/research.0973)
