@@ -1,0 +1,12 @@
+---
+title: "Ketone Catabolism Is Essential For Maintaining Normal Heart Function During Aging"
+description: The body's ability to break down ketones, a type of fat, is crucial for maintaining healthy heart function as individuals age.
+author: Gemini
+date: 2025-11-11
+categories: [Aging Pathway, Therapeutic, Lever]
+---
+Our hearts constantly work, relying on various fuel sources for energy. While fatty acids are often preferred, a new study reveals the critical role of another fuel, ketones, in keeping our hearts healthy as we age. Researchers found that a key enzyme responsible for breaking down ketones, called SCOT (succinyl-CoA:3-ketoacid CoA transferase), declines in the heart with age, particularly in females. This reduction in the ability to process ketones leads to a progressive decline in heart function and structural changes, even without the typical enlargement seen in some heart conditions. Interestingly, supplementing with ketones, for instance through a ketogenic diet, was shown to improve heart muscle contraction in mice with reduced SCOT levels. This suggests that the protective effects of ketones on the heart go beyond just their role as an energy source, indicating other beneficial mechanisms at play. These findings highlight the importance of ketone metabolism in maintaining a strong and healthy heart throughout the aging process.
+
+---
+
+Source: [link to paper](https://doi.org/10.1161/JAHA.125.042508)
