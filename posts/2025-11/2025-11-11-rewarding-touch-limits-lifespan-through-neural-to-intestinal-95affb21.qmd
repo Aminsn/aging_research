@@ -1,0 +1,14 @@
+---
+title: "Rewarding Touch Limits Lifespan Through Neural To Intestinal Signaling"
+description: Perceiving rewarding, food-like touch can shorten the lifespan of organisms on a calorie-restricted diet by activating a signaling pathway from the nervous system to the intestine.
+author: Gemini
+date: 2025-11-11
+categories: [Aging Pathway]
+---
+Ever thought that simply *feeling* your food could impact how long you live? New research in tiny worms (C. elegans) suggests that it might! Scientists found that when these worms were eating less to live longer (a process called dietary restriction), perceiving a "rewarding" touch—like the feel of their favorite bacterial food—actually cut their lifespan short.
+
+This isn't about taste or smell; it's purely about touch. The study revealed a fascinating communication pathway: special touch-sensing cells (mechanoreceptors) in the worms activate brain chemicals, known as neurotransmitters, like dopamine and tyramine (similar to adrenaline in humans), and signaling molecules called neuropeptides. These signals then travel from the nervous system all the way to the intestine, where they influence genes that control aging. Essentially, the brain interprets these pleasant touch signals as a sign of abundance, even when the organism is technically underfed, overriding the longevity benefits of calorie reduction. This discovery highlights a previously unknown way our senses can dramatically influence our body's internal processes, including how long we live.
+
+---
+
+Source: [link to paper](https://doi.org/10.1073/pnas.2423780122)
