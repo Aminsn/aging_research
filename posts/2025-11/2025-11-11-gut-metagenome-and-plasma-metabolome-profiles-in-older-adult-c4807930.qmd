@@ -1,0 +1,14 @@
+---
+title: "Gut Metagenome And Plasma Metabolome Profiles In Older Adults Suggest Pyruvate Metabolism As A Link Between Sleep Quality And Frailty"
+description: Research indicates that a metabolic pathway involving pyruvate, influenced by the gut microbiome, may link poor sleep quality to increased physical vulnerability in older adults.
+author: Gemini
+date: 2025-11-11
+categories: [Analytical, Aging Pathway]
+---
+Many older adults experience both poor sleep and a condition called frailty, which is a state of increased vulnerability and decline in overall health. Scientists have long suspected a connection, but the exact mechanisms were unclear. Recent investigations looked into the role of the gut microbiome—the community of tiny organisms, like bacteria, living in our gut—and the small molecules and chemicals found in the blood.
+
+The findings suggest that the gut microbiome plays a significant part in connecting sleep quality to frailty. Individuals with poorer sleep tended to have an imbalance in their gut bacteria, showing fewer beneficial microbes and more bacteria that can become harmful under certain conditions. To better understand this, a "gut microbiome sleep quality index" was developed, and a higher score, indicating a healthier microbial balance, was linked to less frailty. A key discovery was that the way certain gut bacteria process a molecule called pyruvate, which is important for energy production, appears to be a crucial link in this relationship. This suggests that the intricate interactions between our gut, our sleep patterns, and our overall health are deeply connected as we age, potentially paving the way for new strategies to promote healthier aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.celrep.2025.116297)
