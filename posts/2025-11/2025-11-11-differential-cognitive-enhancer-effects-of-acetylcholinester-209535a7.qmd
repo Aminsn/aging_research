@@ -1,0 +1,12 @@
+---
+title: "Differential Cognitive Enhancer Effects Of Acetylcholinesterase Inhibitors And Memantine On Age-Related Deficits In Vigilance And Sustained Attention: A Preclinical Validation Study"
+description: This preclinical study demonstrated that different Alzheimer's disease medications have distinct effects on age-related attention and vigilance deficits in rats, with some improving reaction time and others improving accuracy.
+author: Gemini
+date: 2025-11-11
+categories: [Therapeutic]
+---
+Our recent research investigated how different medications used for Alzheimer's disease might help with attention and focus issues that come with aging. Using a specialized test in aged rats, which measures how quickly and accurately they respond to signals over time (known as psychomotor vigilance), we observed varied outcomes. We found that one type of medication, called an acetylcholinesterase inhibitor (which boosts a brain chemical important for memory), improved reaction times at lower doses. However, higher doses of this drug, and another similar one, actually worsened performance. Interestingly, a different class of medication, memantine, which works through a separate brain pathway, didn't affect how fast the rats reacted but significantly improved their accuracy by reducing errors. These findings highlight that different drugs can target distinct aspects of cognitive function, even when they are broadly considered "cognitive enhancers." This underscores the importance of understanding these specific effects when developing treatments for age-related cognitive decline.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s12993-025-00302-0)
