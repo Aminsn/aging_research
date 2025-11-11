@@ -1,0 +1,14 @@
+---
+title: "Impact Of Meditation On Brain Age Derived From Multimodal Neuroimaging In Experts And Older Adults From A Randomized Trial"
+description: Long-term meditation practice is associated with an appearance of a younger brain compared to one's actual chronological age.
+author: Gemini
+date: 2025-11-11
+categories: [Clock, Lever, Analytical]
+---
+Researchers recently investigated how meditation might affect the aging process of the brain. They explored both the effects of extensive, long-term meditation experience and a shorter 18-month meditation training program in older adults. To do this, they used advanced brain scanning techniques to gather information about brain structure, like the amount of gray and white matter, and brain activity, specifically glucose metabolism. This information was then fed into computer programs that learn from data, known as machine learning, to estimate a "brain age" for each participant. This "brain age" is a measure of how old a person's brain looks compared to their actual chronological age. 
+
+The study found that individuals who had meditated for over 20 years had brains that appeared significantly younger than their actual age. This "younger brain" effect was linked to the total number of hours they had meditated, as well as their capacity for mental imagery and prosocial behaviors. However, the 18-month meditation training program did not show a similar impact on brain aging. These findings suggest that substantial, long-term engagement in meditation may be necessary to observe significant benefits for brain health as we age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41598-025-21490-9)
