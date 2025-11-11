@@ -1,0 +1,16 @@
+---
+title: "Telomerase Depletion Accelerates Ageing Of The Zebrafish Brain"
+description: Depleting telomerase in zebrafish accelerates various hallmarks of brain aging, including increased inflammation, impaired blood-brain barrier function, and heightened anxiety-like behavior.
+author: Gemini
+date: 2025-11-11
+categories: [Aging Pathway]
+---
+Our brains, like the rest of our bodies, undergo changes as we age. Scientists are constantly working to understand what drives this process. One key player in cellular health is an enzyme called telomerase. This enzyme helps maintain special protective caps on the ends of our chromosomes, called telomeres, which shorten with each cell division. When telomeres become too short, cells can enter a state of "senescence," essentially stopping their function and contributing to aging.
+
+Recent research using zebrafish, a small fish often studied by scientists due to its genetic similarities to humans, sheds light on the crucial role of this enzyme in brain aging. The study found that when the activity of telomerase was reduced, the zebrafish brains showed accelerated signs of aging. These signs included an increase in neuro-inflammation, which is inflammation specifically occurring in the brain, and a breakdown of the blood-brain barrier, a vital protective filter that controls what substances can enter the brain. Furthermore, the fish exhibited increased anxiety-like behaviors.
+
+These findings suggest that maintaining proper telomerase function is not only important for overall cellular health but plays a protective role against the accumulation of age-related damage in the brain. This research provides a deeper understanding of the mechanisms behind brain aging and highlights potential areas for future interventions to promote brain health as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/acel.70280)
