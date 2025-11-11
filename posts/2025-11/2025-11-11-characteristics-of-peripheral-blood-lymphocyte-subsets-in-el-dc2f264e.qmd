@@ -1,0 +1,12 @@
+---
+title: "Characteristics Of Peripheral Blood Lymphocyte Subsets In Elderly Patients With Psoriasis"
+description: Elderly individuals with psoriasis exhibit specific changes in their immune cell populations, including a decrease in certain T cells and an increase in natural killer cells, with B cells showing potential as markers for disease severity.
+author: Gemini
+date: 2025-11-11
+categories: [Analytical]
+---
+Psoriasis, a chronic skin condition, affects people differently as they age. Recent research has shed light on how the immune system of older adults with psoriasis behaves compared to younger patients and healthy individuals. This study found that elderly psoriasis patients experience notable shifts in their immune cell profiles, which are various types of white blood cells that play key roles in the body's defense system. Specifically, they tend to have fewer CD8+ T cells, which are a type of white blood cell important for fighting infections and regulating the immune response. Conversely, they show an increase in natural killer (NK) cells, another type of immune cell involved in immediate defense against threats. The balance between different T cell types, known as the Th/Ts ratio, was also found to be higher in older patients with psoriasis. Interestingly, the number of B cells, which are immune cells responsible for producing antibodies, showed a stronger link to how severe the psoriasis was in elderly individuals, suggesting they could be useful indicators for tracking the disease in this age group. These findings highlight that age plays a crucial role in shaping the immune response in psoriasis, offering new insights into how the disease progresses in older adults.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s12979-025-00540-w)
