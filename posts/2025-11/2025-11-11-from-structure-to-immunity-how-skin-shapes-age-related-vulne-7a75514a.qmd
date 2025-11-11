@@ -1,0 +1,12 @@
+---
+title: "From Structure To Immunity: How Skin Shapes Age-Related Vulnerability To Chikungunya Virus Infections"
+description: This review explores how age-related changes in the skin's structure, immune system, and microbial community influence vulnerability to Chikungunya virus infections, especially in infants and the elderly.
+author: Gemini
+date: 2025-11-11
+categories: [Aging Pathway]
+---
+Chikungunya virus, a disease transmitted by mosquitoes, can cause significant illness, with infants and older adults often experiencing more severe forms of the disease. The skin acts as the body's first line of defense and is where the virus initially enters the body. As people age, the skin undergoes changes in its physical structure, the types of immune cells present, and the balance of microorganisms that live on its surface, collectively known as the microbiome. These age-related transformations can significantly alter how the skin responds to the virus, affecting how the infection progresses and how severe the illness becomes. Understanding these specific changes in the skin at different life stages is crucial for developing targeted strategies to prevent and treat infections from mosquito-borne viruses, particularly for the most vulnerable populations. Such insights can lead to more effective, age-specific interventions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.tim.2025.10.001)
