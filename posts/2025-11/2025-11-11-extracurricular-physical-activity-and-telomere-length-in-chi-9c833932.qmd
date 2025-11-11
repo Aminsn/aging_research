@@ -1,0 +1,16 @@
+---
+title: "Extracurricular Physical Activity And Telomere Length In Childhood: Findings From The INMA Study"
+description: Children who engaged in higher levels of extracurricular physical activity at age four showed an increase in their telomere length ranking by age eight, indicating a potential for reduced cellular damage and support for healthy aging.
+author: Gemini
+date: 2025-11-11
+categories: [Lever]
+---
+Ever wondered if getting kids active early has long-term benefits beyond just fitness? A recent study suggests it might impact our very cells! Researchers looked at children from age four to eight, focusing on their extracurricular physical activity levels and something called "telomere length."
+
+Telomeres are like protective caps on the ends of our chromosomes, which house our DNA. Think of them as the plastic tips on shoelaces; they prevent fraying. Each time a cell divides, telomeres naturally get a little shorter. This shortening is linked to cellular aging and can influence our overall health as we get older.
+
+The study found that children who were more physically active outside of school at age four tended to have longer telomeres, or at least maintained their telomere length better, by age eight. This suggests that early physical activity could potentially help protect our cells from damage and contribute to healthier aging right from childhood. While we've known about the benefits of activity for adults, this research highlights how crucial it might be even in very young children for supporting long-term cellular health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41390-025-04445-8)
