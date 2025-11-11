@@ -1,0 +1,20 @@
+---
+title: "Lactobacillus Salivarius-Derived Indole-3-Acetic Acid Promotes AHR-Parp1 Axis-Mediated DNA Repair To Mitigate Intestinal Aging"
+description: Researchers found that a molecule produced by the beneficial gut bacterium Lactobacillus salivarius can activate a specific pathway to repair DNA, which helps to slow down the aging of the intestine.
+author: Gemini
+date: 2025-11-11
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our intestines can start to show signs of wear and tear, a process called intestinal aging. This often leads to an imbalance in our gut bacteria (known as gut dysbiosis), reduced gut function, and damage to the DNA within our intestinal cells. These issues can contribute to various health problems associated with getting older.
+
+However, a recent discovery sheds light on a potential way to combat this. It turns out that a friendly gut bacterium, *Lactobacillus salivarius*, produces a natural compound called indole-3-acetic acid (IAA). This IAA plays a crucial role in activating a key pathway in the intestine.
+
+When IAA is present, it switches on a protein called the aryl hydrocarbon receptor (AHR). This activated AHR then teams up with another important enzyme, PARP1 (poly (ADP-ribose) polymerase 1), which is known for its role in repairing DNA. This partnership, known as the AHR-PARP1 axis, boosts PARP1's activity, enhancing a process called PARylation, which is vital for effective DNA repair.
+
+By strengthening the intestine's ability to repair its own DNA, this mechanism effectively slows down intestinal aging. This also leads to several benefits, including a stronger intestinal barrier (which prevents harmful substances from entering the body), reduced inflammation, and a decrease in cellular senescence, where cells stop dividing and can contribute to aging.
+
+These findings suggest a promising new approach to develop treatments that could target this AHR-PARP1 pathway, potentially helping to prevent or alleviate age-related problems in the gut.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/advs.202515794)
