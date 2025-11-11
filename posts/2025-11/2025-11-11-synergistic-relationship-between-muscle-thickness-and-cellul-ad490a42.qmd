@@ -1,0 +1,16 @@
+---
+title: "Synergistic Relationship Between Muscle Thickness And Cellular Health After Resistance Training In Older Women"
+description: A 12-week resistance training program in older women leads to increased muscle thickness, which is linked to improvements in indicators of cellular health.
+author: Gemini
+date: 2025-11-11
+categories: [Lever]
+---
+As we age, maintaining muscle mass and overall cellular health becomes increasingly important. Recent research sheds light on how resistance training can be a powerful tool in this regard for older women. This study explored the connection between muscle growth and the well-being of our cells after a period of strength training.
+
+Researchers found that women who participated in a 12-week resistance training program experienced significant increases in their muscle size. What's more, these gains in muscle were synergistically associated with positive changes in several indicators of cellular health. These indicators were measured using a technique called bioelectrical impedance analysis (BIA), which provides insights into aspects like how well cells are functioning and the balance of fluids inside and outside them (like intracellular and extracellular water).
+
+Essentially, as muscles got bigger and stronger, the cells throughout the body also showed signs of being healthier. This suggests that the benefits of lifting weights extend beyond just visible muscle gains; they contribute to fundamental improvements at a cellular level, potentially playing a crucial role in promoting better health and vitality in older women.
+
+---
+
+Source: [link to paper](https://doi.org/10.1249/MSS.0000000000003884)
