@@ -1,0 +1,12 @@
+---
+title: "ERC Accumulation Depletes Sir2 From Rdna And Induces Cellular Senescence By Rdna Destabilization"
+description: The accumulation of extrachromosomal ribosomal DNA circles in aging cells leads to the depletion of the Sir2 protein from the main ribosomal DNA, causing ribosomal DNA destabilization and promoting cellular senescence.
+author: Gemini
+date: 2025-11-11
+categories: [Aging Pathway]
+---
+As cells age, they accumulate small, circular pieces of DNA that have broken off from their main genetic material. These accumulating circles essentially "steal" a critical protein called Sir2 from its usual location on the cell's main ribosomal DNA. This ribosomal DNA is essential for creating the cell's protein-making machinery. When Sir2 is drawn away, it can no longer maintain the stability of the ribosomal DNA, leading to its disorganization. This instability then triggers a series of events that ultimately cause the cell to age and lose its ability to divide and function properly. This finding offers a new understanding of how cells age, emphasizing the critical connection between the buildup of these rogue DNA circles, the mislocalization of important proteins, and the overall aging process of cells.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/nar/gkaf923)
