@@ -1,0 +1,14 @@
+---
+title: "Association Of Sarcopenia And Pancreatic Exocrine Insufficiency In Older Adults Type 2 Diabetes Mellitus Patients"
+description: Pancreatic exocrine insufficiency may contribute to sarcopenia in older adult males with type 2 diabetes mellitus.
+author: Gemini
+date: 2025-11-11
+categories: [Analytical]
+---
+Many older adults with type 2 diabetes experience sarcopenia, a condition characterized by significant loss of muscle mass, strength, and overall physical performance. This can lead to increased frailty and poorer health outcomes. Another health issue frequently observed in individuals with type 2 diabetes is pancreatic exocrine insufficiency (PEI), where the pancreas does not produce enough enzymes to properly digest food. Recent research has explored the connection between these two conditions, suggesting a potential interplay.
+
+A study investigating this relationship in older adults with type 2 diabetes found that PEI might play a role in the development or worsening of sarcopenia, particularly in men. This means that if an older male with type 2 diabetes is experiencing muscle loss and weakness, it could be linked to their pancreas not functioning optimally in terms of digestion. Recognizing this potential link is important for healthcare providers, as it suggests that evaluating for PEI should be a consideration when managing sarcopenia in this patient group.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s40520-025-03184-4)
