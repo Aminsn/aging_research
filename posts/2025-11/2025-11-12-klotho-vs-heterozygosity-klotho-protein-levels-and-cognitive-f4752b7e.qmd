@@ -1,0 +1,12 @@
+---
+title: "KLOTHO-VS Heterozygosity, Α-KLOTHO Protein Levels And Cognitive Performance In Alzheimer'S Disease"
+description: Individuals with the KLOTHO-VS gene variant heterozygosity showed better memory performance, especially in those with early memory impairment and a specific genetic risk factor for Alzheimer's disease.
+author: Gemini
+date: 2025-11-12
+categories: [Aging Pathway]
+---
+Recent research explored a specific genetic variation, referred to as KL-VS heterozygosity, and its potential connection to brain health. This genetic variation involves having two different versions of a particular gene. The study found that individuals with this genetic variation who were experiencing early memory problems, known as amnestic mild cognitive impairment, tended to exhibit better memory performance. This protective effect on memory was even more noticeable in those who also carried the APOE ε4 gene, a known genetic risk factor for Alzheimer's disease. These findings suggest that having this specific gene variant might be associated with a lower chance of being diagnosed with mild cognitive impairment or Alzheimer's, and could help maintain better memory function during the initial stages of the disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13195-025-01878-5)
