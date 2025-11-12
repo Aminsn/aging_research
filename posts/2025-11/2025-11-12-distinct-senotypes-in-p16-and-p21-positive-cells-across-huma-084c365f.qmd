@@ -1,0 +1,16 @@
+---
+title: "Distinct Senotypes In P16- And P21-Positive Cells Across Human And Mouse Aging Tissues"
+description: Cells marked by p16 and p21, both indicators of cellular aging, represent largely distinct populations with different characteristics and contributions to aging across various human and mouse tissues.
+author: Gemini
+date: 2025-11-12
+categories: [Aging Pathway, Analytical]
+---
+As we age, some of our cells enter a state called senescence, where they stop dividing but remain active, releasing molecules that can contribute to age-related issues in our bodies. For a long time, scientists have used specific proteins, p16 and p21, as common indicators to identify these "senescent cells." However, it wasn't clear if all cells identified by these markers were the same.
+
+Recent research has shown that cells positive for p16 and those positive for p21 are largely separate groups, not overlapping much, in both human and mouse tissues as they age. This means that these two types of aging cells are distinct entities with their own unique traits. The study also found that the specific signals and substances these cells release, known as the "senescence-associated secretory phenotype" (SASP), vary significantly depending on whether the cell is p16-positive or p21-positive, and also on the particular tissue they are found in. For instance, p16-positive cells might have very specific local effects, while p21-positive cells might have broader, more consistent effects across different tissues.
+
+This discovery is crucial because it suggests that p16-positive and p21-positive senescent cells play different roles in how we age and develop age-related diseases. Understanding these differences means that future treatments aimed at targeting senescent cells for healthier aging might need to be specifically tailored to remove or modify one type of cell over another, rather than a one-size-fits-all approach.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s44318-025-00601-2)
