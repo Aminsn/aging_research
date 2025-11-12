@@ -1,0 +1,16 @@
+---
+title: "Dietary Iron Attenuates Epigenetic Aging Through DNA Methylation Remodeling And Extends Survival In Older Adults"
+description: Higher dietary iron intake is associated with favorable epigenetic profiles related to aging and a reduced risk of death from various causes in older adults.
+author: Gemini
+date: 2025-11-12
+categories: [Clock, Lever]
+---
+Our bodies have a fascinating internal timekeeper, often referred to as a "biological clock," that can reflect how quickly we are aging at a cellular level. This clock is heavily influenced by something called epigenetics, which are changes to our genetic material that don't alter the underlying DNA sequence but can affect how our genes are expressed. One key epigenetic mechanism is DNA methylation, where small chemical tags are added to our DNA, influencing gene activity. When these tags are altered in specific patterns, they can indicate biological aging. 
+
+A recent study investigated the connection between what older adults eat, specifically their iron intake, and this epigenetic aging process. Researchers found that older adults who consumed more dietary iron tended to have more favorable epigenetic profiles, meaning their biological clocks appeared to be ticking slower. This was particularly evident in certain DNA methylation markers that are known to predict mortality. The study also revealed that a higher intake of iron was associated with a reduced risk of death from all causes, as well as from heart and respiratory diseases.
+
+The science behind this suggests that iron plays a crucial role in "remodeling" DNA methylation. It acts as an essential helper for enzymes, like TET enzymes, that are involved in removing those chemical tags from DNA. This process is vital for maintaining healthy gene regulation. Essentially, by supporting these enzymes, iron helps maintain appropriate DNA methylation patterns, potentially slowing down aspects of epigenetic aging and thereby contributing to a longer, healthier life in older adults.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13148-025-01986-x)
