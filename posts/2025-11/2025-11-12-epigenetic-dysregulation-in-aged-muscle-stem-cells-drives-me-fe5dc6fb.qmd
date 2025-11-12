@@ -1,0 +1,16 @@
+---
+title: "Epigenetic Dysregulation In Aged Muscle Stem Cells Drives Mesenchymal Progenitor Expansion Via IL-6 And Spp1 Signaling"
+description: Aged muscle stem cells independently drive the expansion of fibro-adipogenic progenitors and promote muscle scarring through specific epigenetic changes and signaling pathways.
+author: Gemini
+date: 2025-11-12
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our muscles naturally weaken and lose mass, a condition known as sarcopenia. This decline is often linked to a decrease in the ability of muscle stem cells to repair and regenerate muscle tissue, along with an increase in scar tissue formation, or fibrosis. Researchers have discovered a fascinating mechanism behind this age-related muscle deterioration. They found that older muscle stem cells, even without the influence of other cell types, can directly signal to another type of cell called fibro-adipogenic progenitors (FAPs) to multiply excessively and contribute to muscle scarring.
+
+This process is driven by changes in how genes are regulated, known as epigenetic dysregulation. Specifically, in aged muscle stem cells, there's a reduction in a particular "off switch" (a repressive epigenetic mark called histone H3K27me3) on a gene known as Nfbk1. When this "off switch" is diminished, the Nfbk1 gene becomes more active. This increased activity then triggers the production of two signaling molecules, IL-6 and Spp1. These molecules are essentially messengers that tell the FAPs to proliferate and create more fibrotic, or scar, tissue in the muscle.
+
+Importantly, the study also showed that when the signaling of IL-6 and Spp1 was blocked, either in laboratory experiments or in aged mice, the uncontrolled growth of FAPs and the formation of muscle scar tissue were reduced. These findings shed new light on how aging muscle stem cells contribute to the development of muscle fibrosis and the overall decline in muscle function with age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s43587-025-01002-0)
