@@ -1,0 +1,16 @@
+---
+title: "Luteoloside Alleviates Bleomycin-Induced Pulmonary Fibrosis In Mice Via Sirt1-Mediated Protective Effect Against Alveolar Epithelial Cell Senescence"
+description: Luteoloside, a compound found in plants, was shown to reduce lung scarring, oxidative stress, and cell aging in mice with bleomycin-induced pulmonary fibrosis, with its protective effects being mediated by a protein called SIRT1.
+author: Gemini
+date: 2025-11-12
+categories: [Therapeutic, Aging Pathway]
+---
+Lung fibrosis, a condition where lung tissue becomes scarred and thickened, can severely impair breathing. A significant factor in this disease is the aging, or "senescence," of alveolar epithelial cells, which are crucial cells lining the air sacs in our lungs. Currently, there are limited specific treatments for this progressive and debilitating illness. 
+
+Recent research has explored the potential of a plant-derived compound called luteoloside. This compound, a type of flavonoid glycoside, is known for its various biological activities. In studies using mice with induced lung fibrosis (often mimicked using a drug called bleomycin), luteoloside demonstrated promising results. It was found to reduce the development of lung scarring, diminish oxidative stress—an imbalance between damaging free radicals and protective antioxidants—and slow down the aging process of lung cells.
+
+The protective effects of this compound appear to be mediated by a protein called SIRT1. SIRT1 plays a vital role in regulating various cellular processes, including aging and metabolism. By activating SIRT1, luteoloside helped to reverse the aging and dysfunction of lung cells, specifically preventing problems with mitochondria, the powerhouses within cells. This suggests that treatments targeting SIRT1 through compounds like luteoloside could offer a new approach to combating lung fibrosis by addressing the underlying cellular aging processes.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41598-025-21752-6)
