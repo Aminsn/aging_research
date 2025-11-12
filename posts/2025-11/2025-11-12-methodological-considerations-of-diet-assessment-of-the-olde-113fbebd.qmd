@@ -1,0 +1,16 @@
+---
+title: "Methodological Considerations Of Diet Assessment Of The Older Indian Population In The Longitudinal Aging Study In India-Harmonised Diagnostic Assessment Of Dementia (LASI-DAD)"
+description: The study successfully developed and implemented a comprehensive food frequency questionnaire for assessing the dietary intake of older Indian adults across diverse regions.
+author: Gemini
+date: 2025-11-12
+categories: [Lever]
+---
+As global populations age, understanding factors that influence cognitive health, like diet, becomes increasingly vital, especially in countries such as India. Researchers have developed a robust tool, known as a food frequency questionnaire (FFQ), specifically designed to capture the complex dietary patterns of older adults in India. This questionnaire is a survey that asks individuals how often they consume certain foods over a specific period, typically a year, to estimate their usual dietary intake.
+
+The development of this tool was a significant undertaking, considering India's vast diversity in food habits influenced by socio-economic status, geography, culture, religion, and seasonal availability. To ensure its effectiveness, the questionnaire was translated into 12 different Indian languages and incorporated a wide array of local food products. It underwent rigorous pre-testing and pilot testing on a sample of over a thousand respondents before being refined and implemented more broadly across 24 Indian states, reaching thousands of older adults. The data collection was modernized using an electronic system on tablets for direct interviews, making the process efficient and accurate.
+
+Comprising 88 food items across four key sections—food consumption habits, food frequency, herbal/non-herbal/Ayurvedic supplements, and spice intake—this comprehensive questionnaire typically took about 31 minutes to complete, with an impressive response rate. This innovative approach provides a valuable means to collect detailed dietary data, which will be instrumental in exploring the potential connections between diet and cognitive function in the older Indian population, contributing to our understanding of healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s12889-025-24970-9)
