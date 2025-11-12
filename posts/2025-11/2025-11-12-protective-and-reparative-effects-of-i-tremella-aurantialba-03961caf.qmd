@@ -1,0 +1,16 @@
+---
+title: "Protective And Reparative Effects Of <I>Tremella Aurantialba</I> Extract Against Skin Photoaging And Its Underlying Mechanisms"
+description: An extract from the mushroom *Tremella aurantialba* demonstrates protective and reparative effects against skin aging caused by sun exposure by reducing oxidative stress, inflammation, and restoring skin barrier function and microbiota balance.
+author: Gemini
+date: 2025-11-12
+categories: [Therapeutic, Aging Pathway]
+---
+Sun exposure can accelerate skin aging, leading to wrinkles, loss of elasticity, and changes in pigmentation. A recent study investigated a natural extract derived from the mushroom *Tremella aurantialba* to understand its potential benefits for sun-damaged skin. Researchers found that this extract offers both protection and repair for skin affected by ultraviolet (UV) radiation. 
+
+In laboratory tests, the extract helped skin cells survive UV exposure, boosted their ability to migrate (a key process in wound healing), and significantly reduced harmful molecules called reactive oxygen species (ROS), which contribute to cellular damage. In animal studies, the extract reduced abnormal skin thickening and inflammation caused by UV rays, and helped rebuild damaged collagen fibers, which are essential for skin structure and firmness. 
+
+The research also uncovered the deeper ways the extract works. It influences the skin's metabolism, particularly pathways involving lipids (fats), which are crucial for maintaining a healthy skin barrier. Furthermore, the extract was shown to help restore a healthy balance of bacteria on the skin, an important factor for overall skin health and repair. It also affected genes related to lipid metabolism, the body's natural daily rhythms, and how the skin responds to oxygen-related compounds, indicating it helps repair the skin barrier and reduces sun damage by managing oxidative stress. These findings suggest that this mushroom extract could be a promising ingredient for products aimed at preventing and repairing sun-induced skin aging, such as functional foods and cosmetics.
+
+---
+
+Source: [link to paper](https://doi.org/10.4014/jmb.2507.07053)
