@@ -1,0 +1,20 @@
+---
+title: "Mesenchymal Stem Cell Derived Extracellular Vesicles Reverses Neural Aging Via OSKM Modulation"
+description: MicroRNAs within extracellular vesicles derived from mesenchymal stem cells have been shown to reactivate aging cells by increasing specific transcription factors, suggesting a reversal of neural aging.
+author: Gemini
+date: 2025-11-12
+categories: [Therapeutic, Aging Pathway]
+---
+Our bodies naturally age, and with that comes a decline in the function of various cells, particularly in the brain. Scientists have been exploring new ways to combat this process, and recent research points to a fascinating approach involving tiny communicators released by special cells in our body.
+
+Imagine minuscule "packages" sent out by certain adult stem cells, known as mesenchymal stem cells. These packages, called extracellular vesicles, are like microscopic messengers carrying important biological cargo, including small genetic molecules called microRNAs. These microRNAs act as regulators, influencing how our genes are expressed.
+
+In a groundbreaking study, researchers found that these microRNAs, when delivered via extracellular vesicles, could effectively "wake up" aged, or senescent, cells in the brain. They do this by influencing a set of master control genes, known as OSKM (which stands for OCT4, SOX2, KLF4, and C-MYC). These genes are typically associated with keeping cells young and capable of developing into various other cell types. By boosting the activity of these OSKM factors, especially SOX2, the microRNAs help reactivate the aging cells.
+
+This process was observed to modulate neural pathways linked to aging, specifically by reducing the expression of genes associated with aging in a brain region crucial for memory, the hippocampus. The result was a reactivation of neural cells, essentially turning back the clock on some aspects of neural aging.
+
+This discovery marks a significant step forward in regenerative medicine, showcasing the remarkable potential of these stem cell-derived messengers to stimulate key rejuvenation factors and combat the effects of aging in the nervous system.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s12964-025-02469-5)
