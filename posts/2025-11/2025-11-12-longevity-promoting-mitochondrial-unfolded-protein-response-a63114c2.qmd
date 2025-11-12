@@ -1,0 +1,14 @@
+---
+title: "Longevity-Promoting Mitochondrial Unfolded Protein Response Activation Requires Elements Of The Pebow Complex"
+description: Reduced function of the VDAC-1 protein extends lifespan by activating a cellular stress response in mitochondria, a process that requires components of the PeBoW complex.
+author: Gemini
+date: 2025-11-12
+categories: [Aging Pathway]
+---
+Our cells rely on tiny powerhouses called mitochondria to generate energy and maintain balance. When mitochondria experience stress, a crucial defense mechanism kicks in, known as the mitochondrial unfolded protein response (UPRmt). This response helps keep the mitochondrial proteins healthy and is even linked to how long an organism lives.
+
+Researchers have found that decreasing the activity of a specific protein called VDAC-1, located on the outer membrane of mitochondria, can actually extend lifespan. This longevity boost happens because the reduction in VDAC-1 function triggers the UPRmt. What's more, a group of proteins known as the PeBoW complex plays an essential role in this process. Without the PeBoW complex, the UPRmt cannot be fully activated, even in the presence of mitochondrial stress. This discovery highlights a previously unrecognized role for the PeBoW complex in controlling mitochondrial health and influencing lifespan.
+
+---
+
+Source: [link to paper](https://doi.org/10.1101/gad.352979.125)
