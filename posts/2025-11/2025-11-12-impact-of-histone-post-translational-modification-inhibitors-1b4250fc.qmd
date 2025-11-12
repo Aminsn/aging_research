@@ -1,0 +1,18 @@
+---
+title: "Impact Of Histone Post-Translational Modification Inhibitors On Lifespan, Reproduction, And Stress Response In The Rotifer Brachionus Manjavacas"
+description: Inhibiting specific histone modifications in the rotifer *Brachionus manjavacas* can extend lifespan and improve stress resistance without negatively affecting reproduction.
+author: Gemini
+date: 2025-11-12
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies are amazing, and how our genes are controlled plays a huge role in how we age and respond to stress. It's not just the DNA sequence itself, but also how that DNA is packaged, that influences which genes are active. This packaging involves proteins called histones, and chemical tags added to these histones—known as histone post-translational modifications—can essentially turn genes "on" or "off" without changing the underlying genetic code. Think of it like a dimmer switch for your genes.
+
+Researchers recently explored how manipulating these dimmer switches could impact aging and resilience in a tiny aquatic creature called a rotifer (*Brachionus manjavacas*), which serves as a valuable model for studying aging. They focused on blocking the activity of certain enzymes, called histone deacetylases (HDACs) and histone methyltransferase SETDB1, that are responsible for adding or removing these chemical tags on histones.
+
+They tested three different compounds: β-hydroxybutyrate and sodium butyrate, which inhibit HDACs, and mithramycin A, which inhibits SETDB1. The results were quite intriguing! β-hydroxybutyrate was found to significantly extend the rotifers' lifespan. Mithramycin A had an even broader effect, increasing both lifespan and improving their ability to withstand heat stress. Sodium butyrate, while not affecting lifespan, did enhance the rotifers' resistance to heat stress.
+
+Crucially, none of these treatments negatively impacted the rotifers' ability to reproduce, suggesting that these benefits in longevity and stress resistance weren't a trade-off for fertility. These findings offer exciting insights into the role of histone modifications in the aging process and suggest new avenues for developing interventions to promote a longer, healthier life and improve resilience to environmental challenges.
+
+---
+
+Source: [link to paper](https://doi.org/10.1371/journal.pone.0324769)
