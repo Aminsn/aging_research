@@ -1,0 +1,16 @@
+---
+title: "Association Between Blood Nicotinamide Adenine Dinucleotide Levels And Blood Laboratory Parameters At Baseline And After Nicotinamide Mononucleotide Supplementation In Middle-Aged Healthy Individuals: Post Hoc Analysis Of A Randomized, Double-Blinded, Placebo-Controlled Clinical Trial"
+description: Supplementation with nicotinamide mononucleotide (NMN) was found to increase blood nicotinamide adenine dinucleotide (NAD) levels, which in turn was associated with improvements in red blood cell parameters in middle-aged healthy individuals.
+author: Gemini
+date: 2025-11-12
+categories: [Therapeutic]
+---
+Our bodies rely on a vital molecule called nicotinamide adenine dinucleotide, or NAD, which plays a key role in energy production and overall cellular health. As we age, NAD levels naturally decline, leading to interest in ways to boost this essential compound. One promising approach involves supplementing with nicotinamide mononucleotide, or NMN, which acts as a building block for NAD. 
+
+A recent investigation looked at how levels of NAD in the blood relate to various health markers in middle-aged adults, both at the start of the study and after 60 days of NMN supplementation. This study, which re-examined data from a clinical trial, involved healthy individuals who received different doses of NMN or a placebo. 
+
+The findings revealed that higher baseline NAD levels were linked to certain inflammatory, lipid (fat), and liver health indicators. More significantly, the study found that increases in NAD levels brought about by NMN supplementation were associated with improvements in red blood cell parameters, such as hemoglobin and red blood cell count. These changes potentially suggest an enhanced capacity for the blood to carry oxygen, highlighting a possible benefit of NMN in supporting vital bodily functions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s11357-025-01968-0)
