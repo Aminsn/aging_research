@@ -1,0 +1,12 @@
+---
+title: "Effects Of Protein-Based Multinutrient Therapy On Sarcopenia In Older Adults: A Systematic Review And Meta-Analysis"
+description: Protein-based multinutrient therapy significantly improved handgrip strength, gait speed, and Insulin-like Growth Factor-1 levels in older adults with sarcopenia.
+author: Gemini
+date: 2025-11-13
+categories: [Therapeutic, Lever, Analytical]
+---
+As we age, many of us face a condition called sarcopenia, which is essentially the progressive loss of muscle strength, mass, and overall physical function. This age-related muscle decline is a significant public health concern, and currently, there are no specific medications to treat it. However, research has explored nutritional interventions as a complementary approach to help manage this condition. A recent comprehensive review of multiple studies investigated the effectiveness of protein-based multinutrient therapy in older adults with sarcopenia. The findings suggest that this type of nutritional support can lead to meaningful improvements in several key areas. Specifically, participants showed significant gains in handgrip strength, which is a common indicator of overall muscle strength, and gait speed, reflecting an improvement in how quickly they could walk. Additionally, levels of Insulin-like Growth Factor-1 (IGF-1), a hormone crucial for muscle growth and repair, also increased. While these are promising results, the therapy did not show significant effects on broader measures of physical performance, such as the Short Physical Performance Battery scores, or on muscle mass as measured by the Skeletal Muscle Index. This indicates that while nutritional therapy can be a valuable part of managing sarcopenia, particularly for enhancing certain aspects of muscle strength and function, it may not address all facets of the condition. More high-quality research is still needed to further validate and refine these findings.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s40520-025-03114-4)
