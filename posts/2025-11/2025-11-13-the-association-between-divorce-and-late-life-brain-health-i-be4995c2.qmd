@@ -1,0 +1,16 @@
+---
+title: "The Association Between Divorce And Late-Life Brain Health In A Racially And Ethnically Diverse Cohort Of Older Adults"
+description: A study on a diverse group of older adults indicated that a history of divorce was not significantly linked to late-life brain health outcomes, including brain volume and white matter changes.
+author: Gemini
+date: 2025-11-13
+categories: [Lever]
+---
+As we age, understanding what contributes to our brain health is incredibly important. Researchers are constantly investigating various life experiences and their potential impact on how our brains function later in life. One common stressful life event that many people experience is divorce.
+
+Recently, a study explored whether having a history of divorce was associated with specific indicators of brain health in older adults from various racial and ethnic backgrounds. The researchers looked at factors like the overall size of different brain regions and the presence of certain changes in the brain's white matter, which can sometimes indicate aging or damage.
+
+Interestingly, the findings suggested that, for the measures examined in this study, there wasn't a clear or significant connection between experiencing a divorce and these late-life brain health indicators. This means that while divorce is undoubtedly a major life event, its direct link to the specific physical markers of brain health studied here was not strongly evident. This highlights the complex interplay of factors influencing brain aging and suggests that the impact of such events might be more nuanced or involve other individual experiences not captured in this particular analysis.
+
+---
+
+Source: [link to paper](https://doi.org/10.1097/WAD.0000000000000698)
