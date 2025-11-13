@@ -1,0 +1,14 @@
+---
+title: "Association Of Biological Age Acceleration With Mortality In Adults With Diabetes Or Prediabetes: A Mediating Role Of Physical Activity"
+description: Adults with diabetes or prediabetes who experience accelerated biological aging face a higher risk of mortality, a risk that is partially mitigated by engaging in higher levels of physical activity.
+author: Gemini
+date: 2025-11-13
+categories: [Clock, Lever]
+---
+Our bodies age at different rates, a concept known as biological age, which can sometimes be "accelerated" beyond our chronological age. A recent study explored how this accelerated biological aging impacts adults living with diabetes or prediabetes, and whether lifestyle factors like physical activity play a role. The research found a significant connection: individuals whose bodies showed signs of aging faster than their years suggested faced a higher risk of death from all causes.
+
+However, there's good news. The study, which included over 7,000 participants, revealed that engaging in more physical activity was associated with a lower risk of mortality. Importantly, physical activity was found to partially explain the link between accelerated biological aging and increased mortality risk. This means that staying active can help counteract some of the negative health consequences associated with a faster biological aging process in people with diabetes or prediabetes. In fact, physical activity accounted for a notable portion of the association between accelerated biological aging and all-cause mortality. These findings underscore the critical role of an active lifestyle in promoting healthier aging, especially for those managing diabetes or prediabetes.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s40520-025-03204-3)
