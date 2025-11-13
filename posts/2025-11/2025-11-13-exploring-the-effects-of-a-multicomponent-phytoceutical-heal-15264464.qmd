@@ -1,0 +1,18 @@
+---
+title: "Exploring The Effects Of A Multicomponent Phytoceutical Health Product In A Drosophila Melanogaster Ageing And Repetitive Concussion Model"
+description: A natural health product, CONKA1, was found to improve lifespan, motor activity, and reduce cellular damage from oxidative stress in fruit flies, even when subjected to repetitive concussions.
+author: Gemini
+date: 2025-11-13
+categories: [Therapeutic]
+---
+Scientists are increasingly interested in understanding how repeated head injuries, like concussions, can affect our long-term health, potentially contributing to age-related conditions and brain disorders. A recent study utilized a unique approach, using fruit flies (Drosophila melanogaster) as a model to investigate these complex issues. These tiny insects, despite their size, share many biological similarities with humans, making them valuable for studying the effects of aging and repeated head trauma.
+
+The research revealed that repetitive concussions in fruit flies led to significant long-term problems, including reduced mobility, a shorter lifespan, and an increase in "oxidative stress" – a type of cellular damage caused by an imbalance of harmful molecules called free radicals. This oxidative stress was observed in both the brain and body of the flies.
+
+However, the study also explored the potential benefits of a novel natural health product, CONKA1, which is a blend of several plant-based ingredients like ashwagandha, turmeric, lemon balm, rhodiola, and bilberry. When administered to the flies, CONKA1 showed promising protective effects. It helped to reduce the extra mobility deficits caused by concussions, extended their lifespan, and decreased the levels of oxidative stress in both their brains and bodies.
+
+These findings suggest that fruit flies can be a valuable tool for mimicking the effects of repetitive concussions and for evaluating new health products aimed at protecting against such injuries and their long-term consequences. The study highlights the potential of natural compounds to support brain health and overall well-being in the face of aging and head trauma.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/jpp/rgaf062)
