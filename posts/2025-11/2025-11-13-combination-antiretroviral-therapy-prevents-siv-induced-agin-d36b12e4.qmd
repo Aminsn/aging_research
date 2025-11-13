@@ -1,0 +1,16 @@
+---
+title: "Combination Antiretroviral Therapy Prevents SIV-Induced Aging In The Hippocampus And Neurodegeneration Throughout The Brain"
+description: Combination antiretroviral therapy effectively reverses accelerated brain aging and reduces nerve cell damage caused by simian immunodeficiency virus infection.
+author: Gemini
+date: 2025-11-13
+categories: [Therapeutic, Aging Pathway]
+---
+Living with HIV can sometimes lead to brain-related issues, even with modern treatments. One reason for this is that the virus can cause the brain to age faster than it should, leading to problems with thinking and memory. Researchers have been working to understand this process better and find ways to protect the brain.
+
+A recent study investigated how a virus similar to HIV affects the brain in monkeys, specifically looking at signs of accelerated aging and damage to brain cells. They focused on key proteins, like p16 and SIRT1, which are known to be involved in the aging process of cells, and also examined evidence of neurodegeneration, which is the progressive loss of brain cells.
+
+The findings revealed that the viral infection indeed led to increased markers of accelerated aging and significant nerve cell damage in various parts of the brain. Crucially, when the infected animals were treated with combination antiretroviral therapy (cART), the same type of medication used to treat HIV in humans, these signs of accelerated aging were reversed. The therapy also significantly reduced nerve cell damage, particularly in the hippocampus, a brain region vital for memory, and decreased brain inflammation. This suggests that cART not only controls the viral infection but also offers a protective effect on the brain, potentially preventing or mitigating the long-term neurological complications associated with such viral infections.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s13365-025-01275-6)
