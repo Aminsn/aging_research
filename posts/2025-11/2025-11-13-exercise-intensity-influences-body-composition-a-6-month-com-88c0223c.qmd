@@ -1,0 +1,16 @@
+---
+title: "Exercise Intensity Influences Body Composition: A 6-Month Comparison Of High-Intensity Interval, Moderate- And Low-Intensity Training Among Healthy Older Adults"
+description: A 6-month study found that high-intensity exercise effectively reduced body fat and preserved muscle mass in healthy older adults, while moderate-intensity exercise also reduced fat but led to some loss of muscle.
+author: Gemini
+date: 2025-11-13
+categories: [Lever]
+---
+As we get older, maintaining a healthy body composition—meaning a good balance of muscle and fat—becomes increasingly important for overall health and well-being. Researchers recently explored how different exercise intensities impact body composition in older adults over a six-month period. They compared the effects of high-intensity training, moderate-intensity training, and low-intensity activity.
+
+The findings suggest that pushing yourself a bit more during workouts could be beneficial. Participants engaging in high-intensity exercise saw a reduction in body fat and, importantly, were able to maintain their muscle mass. This is crucial because preserving muscle helps with strength, mobility, and metabolism as we age. Moderate-intensity exercise also helped reduce body fat, but it was associated with a decrease in lean mass, which includes muscle.
+
+Both high- and moderate-intensity workouts showed similar positive effects on reducing visceral fat, the type of fat stored around internal organs that is linked to various health risks. While the observed improvements were not drastically large, the study indicates that incorporating higher-intensity exercise, when appropriate and feasible, could be a valuable strategy for older adults looking to improve their body composition and, consequently, their health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.maturitas.2025.108763)
