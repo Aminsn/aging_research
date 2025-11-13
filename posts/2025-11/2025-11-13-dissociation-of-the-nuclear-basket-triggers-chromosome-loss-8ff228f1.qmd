@@ -1,0 +1,18 @@
+---
+title: "Dissociation Of The Nuclear Basket Triggers Chromosome Loss In Aging Yeast"
+description: Aging in yeast causes the nuclear basket to detach from the nuclear pore complex, leading to the asymmetric distribution and loss of chromosomes, a process linked to the leakage of unprocessed genetic material.
+author: Gemini
+date: 2025-11-13
+categories: [Aging Pathway]
+---
+As cells age, they often become more prone to errors in how they divide their genetic material, called chromosomes. These errors can lead to an abnormal number of chromosomes, a condition known as aneuploidy, which is a hallmark of aging in many organisms. Recent research using yeast, a simple model organism, has shed light on a key mechanism behind this phenomenon.
+
+The study found that in older yeast cells, a crucial part of the cell's internal structure, specifically a component of the nuclear pore complex called the nuclear basket, becomes detached. The nuclear pore complex acts like a gatekeeper, controlling what goes in and out of the cell's nucleus, where the chromosomes are stored. The nuclear basket is a structure on the inner side of this gate.
+
+When this nuclear basket detaches in aging cells, it triggers a cascade of events. Firstly, chromosomes are no longer evenly distributed during cell division; instead, they are partitioned asymmetrically, often leading to their loss. Secondly, the detachment of the nuclear basket also causes "pre-mRNAs" – which are like initial drafts of genetic instructions that need to be processed before they can be used – to leak out of the nucleus into the main body of the cell before they are ready. The researchers discovered that removing specific unprocessed sections (called introns) from three particular pre-mRNAs involved in chromosome segregation was enough to prevent chromosome loss in old cells.
+
+This suggests that the nuclear basket plays a vital role in maintaining the quality control of these genetic instructions. When it fails, the leakage of unprocessed pre-mRNAs disrupts the delicate process of chromosome segregation, ultimately contributing to chromosome loss and the overall aging process. This discovery provides a new understanding of how cellular aging can lead to genetic instability.
+
+---
+
+Source: [link to paper](https://doi.org/10.7554/eLife.104530)
