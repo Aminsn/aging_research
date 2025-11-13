@@ -1,0 +1,14 @@
+---
+title: "Factors Associated With Risk Of Clonal Haematopoiesis Of Indeterminate Potential: A Systematic Review And Meta-Analysis"
+description: A systematic review and meta-analysis found that hypertension, HIV infection, and smoking are linked to an increased risk of Clonal Haematopoiesis of Indeterminate Potential (CHIP), while Asian ethnicity is associated with a lower risk, with these associations varying by specific gene mutations.
+author: Gemini
+date: 2025-11-13
+categories: [Analytical]
+---
+Recent research sheds light on the factors that increase or decrease the likelihood of developing a condition called Clonal Haematopoiesis of Indeterminate Potential, often shortened to CHIP. This condition involves the presence of blood stem cells with specific genetic mutations, which can elevate the risk of developing blood cancers and other non-blood-related diseases. Researchers conducted a comprehensive analysis of numerous studies to identify common threads in who develops CHIP.
+
+The findings indicate that certain lifestyle and health factors play a role. For instance, individuals with high blood pressure, those living with HIV, and people who smoke were found to have a higher chance of developing CHIP. Conversely, individuals of Asian descent appeared to have a lower risk compared to those of White ethnicity. An important insight from this study is that CHIP is not a uniform condition; the risk factors can differ depending on the specific gene mutation involved in the clonal haematopoiesis. This understanding is vital because it suggests that personalized approaches may be needed for prevention and early detection. Identifying these risk factors is a crucial step towards developing strategies to prevent CHIP or intervene early to slow its progression and reduce the associated disease risks.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/jha2.70173)
