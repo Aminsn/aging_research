@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Aging science moves fast. Every day, new papers, datasets, interventions, and theories appear across journals, preprint servers, and labs — but most of us don’t have hours to scan them all. GeroFeed was created to solve exactly that problem.\nI originally built this site for myself to stay on top of geroscience and learn about the most recent findings. After using it, I realized it could help a wider audience, people who care about healthy longevity, and researchers who want to spend more time thinking and less time digging."
+    "text": "Aging science moves fast. Every day, new papers, datasets, interventions, and theories appear across journals, preprint servers, and labs — but most of us don’t have hours to scan them all. GeroFeed was created to solve exactly that problem."
   },
   {
     "objectID": "about.html#what-this-site-does",
@@ -33,13 +33,6 @@
     "title": "About",
     "section": "Transparency & limits",
     "text": "Transparency & limits\n\nNot every study here is equally strong.\n\nAI-written summaries can miss caveats or over-generalize.\n\nYou should still read the full paper if you work in that area.\n\nIf you spot something off, want your work included, or have feature ideas, please reach out, feedback from people actually doing aging research is the fastest way to improve this."
-  },
-  {
-    "objectID": "about.html#developer-maintainer",
-    "href": "about.html#developer-maintainer",
-    "title": "About",
-    "section": "Developer & Maintainer",
-    "text": "Developer & Maintainer\nI’m Amin S.Nejad, the person behind GeroFeed.\nI’m a data scientist who spends his spare time exploring scientific research, particularly in geroscience and aging, and working to contribute to this field as part of humanity’s effort against what is arguably the leading cause of suffering worldwide: aging itself.\nLearn more about me at my personal website."
   },
   {
     "objectID": "posts/2025-11/2025-11-11-differential-cognitive-enhancer-effects-of-acetylcholinester-209535a7.html",
