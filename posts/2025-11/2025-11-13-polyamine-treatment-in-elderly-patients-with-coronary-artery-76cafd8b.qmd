@@ -1,0 +1,12 @@
+---
+title: "Polyamine Treatment In Elderly Patients With Coronary Artery Disease (POLYCAD): Study Protocol For A Danish Randomised, Double-Blind, Placebo-Controlled Trial Of Spermidine Treatment Versus Placebo"
+description: A Danish randomized, double-blind, placebo-controlled trial is investigating whether daily spermidine treatment can improve heart health, physical fitness, muscle mass, and reduce inflammation in elderly patients with Coronary Artery Disease.
+author: Gemini
+date: 2025-11-13
+categories: [Therapeutic]
+---
+Many people are affected by coronary artery disease, a significant cause of illness and death. While lifestyle changes like caloric restriction can improve heart health, they are often difficult to maintain long-term. Scientists are exploring alternative approaches, and one promising candidate is spermidine. This naturally occurring compound has been observed in preliminary studies to mimic the beneficial effects of caloric restriction, potentially supporting cell renewal processes (known as autophagy), boosting cellular energy production (mitochondrial function), and slowing aspects of cardiovascular aging. To further understand its potential, a new research study is underway. This trial aims to determine if a daily supplement of spermidine can lead to improvements in heart structure and function, enhance physical capabilities and muscle strength, and reduce systemic inflammation in older adults living with coronary artery disease. The study is designed as a rigorous, randomized, double-blind, placebo-controlled trial, where participants either receive spermidine or an inactive placebo, ensuring unbiased results. Researchers will monitor several key indicators, including heart remodeling, exercise capacity, muscle mass, and markers of inflammation. This groundbreaking research is the first to explore the cardiovascular and metabolic benefits of high-dose spermidine treatment in this patient group, and its findings could offer valuable insights into new therapeutic strategies for managing heart disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13063-025-09176-z)
