@@ -1,0 +1,16 @@
+---
+title: "The Association Between CKD And Frailty In The FRASNET Study: Suggestion Of A Novel Egfr Threshold As A Key Determinant Of Frailty In The Elderly"
+description: The study identified a new estimated glomerular filtration rate (eGFR) threshold of 53.5 ml/min/1.73 m2 that is significantly associated with frailty in older adults, suggesting a critical level of kidney function for maintaining physical resilience.
+author: Gemini
+date: 2025-11-13
+categories: [Analytical]
+---
+This research sheds light on the often-overlooked connection between kidney health and frailty, a common condition in older age characterized by reduced physical reserves and increased vulnerability to health problems. The study, involving over a thousand non-hospitalized older adults, found that a decline in kidney function is strongly linked to an increased risk of becoming frail.
+
+Specifically, the findings suggest a new important benchmark: when kidney function, measured by a metric called estimated Glomerular Filtration Rate (eGFR), drops below 53.5 milliliters per minute per 1.73 square meters, older individuals are more likely to experience frailty. This eGFR value essentially tells us how well the kidneys are filtering waste from the blood. A lower number indicates reduced kidney efficiency.
+
+While various health issues can contribute to frailty in younger older adults (65-75 years old), this study highlights that for those who are older, a specific level of impaired kidney function appears to be a key factor in developing frailty. Additionally, the research pointed to changes in how the kidneys handle sodium, suggesting that the "tubular function" (another aspect of kidney operation beyond just filtering) might play a role in frailty as well. These insights could pave the way for earlier detection and targeted interventions to help maintain independence and quality of life for aging populations.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s40620-025-02442-y)
