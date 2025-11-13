@@ -1,0 +1,18 @@
+---
+title: "An Fmri Approach To Assess Intracranial Arterial-To-Venous Cardiac Pulse Delay In Aging"
+description: A new method using functional MRI can measure the delay between arterial and venous pulsations in the brain, revealing that this delay shortens with age and is faster in men compared to women.
+author: Gemini
+date: 2025-11-13
+categories: [Analytical]
+---
+Each heartbeat sends a ripple of pressure through our bodies, including our brains. This rhythmic pressure wave travels from the major arteries, through the brain tissue and surrounding fluid, eventually compressing the large veins in the head. The time difference it takes for this pulse to travel from the arteries to the veins, known as the arterial-to-venous (A-V) delay, is a crucial indicator of how flexible and healthy the brain's internal environment is, a property called intracranial compliance.
+
+Researchers have developed an innovative technique to measure this A-V delay using standard resting-state functional magnetic resonance imaging (fMRI). fMRI is typically used to observe brain activity, but this new application leverages its sensitivity to subtle vessel pulsations in both large cerebral arteries and a major vein called the superior sagittal sinus (SSS).
+
+Applying this automated method to a large dataset of individuals aged 35 to 90 years, the study found that the average A-V delay was about 78 milliseconds. Importantly, this delay became shorter by approximately 4 milliseconds for every decade of aging. Furthermore, men exhibited an A-V delay that was consistently 12 milliseconds faster than women, highlighting significant age- and sex-related differences in brain biomechanics. The research also uncovered a unique pattern within the SSS, where the pulsation occurred earlier at the back and later at the front, suggesting that this large vein is passively compressed by the surrounding intracranial pulse.
+
+This breakthrough demonstrates a previously unknown capability of fMRI, expanding its potential applications beyond neuronal and blood flow analysis to include a biomechanical dimension. Given the widespread availability of fMRI, this new approach could be instrumental in future studies to investigate brain mechanical changes in various health conditions and diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1162/IMAG.a.969)
