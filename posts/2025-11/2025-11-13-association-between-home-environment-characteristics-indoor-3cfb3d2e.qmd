@@ -1,0 +1,16 @@
+---
+title: "Association Between Home Environment Characteristics, Indoor Dust Microbiota And Frailty Among Community-Dwelling Older Adult Couples"
+description: Certain home environment factors, including specific temperature ranges and the makeup of indoor dust microbes, are linked to frailty in older adult couples.
+author: Gemini
+date: 2025-11-13
+categories: [Lever]
+---
+As we age, many of us spend more time in our homes, making the indoor environment crucial for our well-being. A recent study explored how the characteristics of our homes, particularly the unseen world of indoor dust microbes, might be connected to frailty in older adults. Frailty is a common condition in older age, characterized by a general decline in physical and mental resilience, making individuals more vulnerable to health problems.
+
+The research looked at various environmental factors, such as temperature, lighting, and air quality, alongside the diverse community of bacteria and fungi living in household dust – known as the indoor dust microbiota. The findings suggest that a specific range of environmental temperature, measured by what's called the wet-bulb globe temperature (a comprehensive measure of heat stress that combines temperature, humidity, wind speed, and radiation), was negatively associated with frailty. This means that a more comfortable thermal environment might be beneficial.
+
+Furthermore, the study revealed interesting connections with the microscopic inhabitants of our homes. A lower diversity of certain bacteria in the dust seemed to be protective against frailty, while a lower diversity of certain fungi appeared to be linked to an increased risk of frailty. These connections highlight the complex interplay between our immediate surroundings and our health as we get older, suggesting that managing our indoor environment could play a role in promoting healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/ageing/afaf321)
