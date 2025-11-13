@@ -1,0 +1,12 @@
+---
+title: "Age Differences In Spontaneous Cerebrovascular Reactivity At Rest"
+description: Older adults, even those without cognitive impairment, exhibit reduced spontaneous cerebrovascular reactivity at rest compared to younger adults, especially in brain regions like the medial temporal lobe.
+author: Gemini
+date: 2025-11-13
+categories: [Aging Pathway]
+---
+Our brains rely on a healthy blood supply to function optimally, and the ability of brain blood vessels to respond to changes in the body, known as cerebrovascular reactivity (CVR), is crucial for maintaining cognitive health. While traditional CVR measurements often involve controlled breathing exercises, a new approach looks at "spontaneous CVR" (sCVR), which measures how blood vessels react to natural, subtle shifts in carbon dioxide levels while a person is simply resting. This method offers a way to assess brain vascular health without requiring active participation. A recent study investigated how sCVR differs between younger and older adults. Researchers compared healthy younger individuals (ages 18-34) with a group of older adults (ages 55-87) who showed no signs of cognitive decline. The findings revealed that older adults had lower sCVR across their entire brain, with the most pronounced differences observed in areas vital for memory, such as the medial temporal lobe. This suggests that even in older individuals who are still cognitively sharp, there are subtle age-related declines in how their brain blood vessels respond. These results highlight sCVR as a potential early indicator of brain vascular aging, opening doors for future research into early detection and intervention strategies for age-related brain health issues.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s11357-025-01935-9)
