@@ -1,0 +1,18 @@
+---
+title: "Evaluation And Research Progress On Rodent Models Of Late-Onset Hypogonadism: A Comprehensive Review"
+description: This comprehensive review synthesizes the characteristics, methodologies, and assessment criteria of various rodent models employed in the study of late-onset hypogonadism, critically evaluating their strengths and weaknesses to inform optimal model selection for future research.
+author: Gemini
+date: 2025-11-13
+categories: [Aging Pathway]
+---
+As men age, some experience a condition called late-onset hypogonadism (LOH), characterized by a decline in male hormones and associated symptoms. To better understand this condition and develop effective treatments, scientists rely heavily on animal models. However, the diverse ways these models are created and evaluated have made it challenging to compare findings across studies.
+
+Recent research has shed light on the different types of rodent models used for studying LOH. These include naturally aged animals, which are important because aging is a direct factor in LOH. For instance, Wistar and Sprague-Dawley rats should be at least 18 months old to accurately reflect the effects of aging seen in human LOH. Certain strains, like aged Brown Norway rats, are considered particularly good models for male reproductive aging due to their specific hormonal and testicular changes. Rapid-aging mice, such as SAMP8 mice, also show age-dependent declines in male hormone levels, making them valuable tools.
+
+The review also discusses models where male hormone deficiency is induced, for example, through surgical removal of the testes (gonadectomy). However, this approach creates a sudden drop in hormones, which may not accurately mimic the gradual onset of LOH in humans. The paper emphasizes that an ideal animal model should not only reflect changes in hormone levels but also exhibit the various clinical symptoms of LOH.
+
+By summarizing the features, methods, and evaluation systems of these diverse rodent models, this work provides crucial guidance for researchers. It helps them select the most appropriate model for their specific research questions, ultimately accelerating our understanding of LOH and the development of new therapies. Future studies using natural aging models are encouraged to look beyond just hormone levels and explore specific subtypes of LOH based on hormonal profiles.
+
+---
+
+Source: [link to paper](https://doi.org/10.32604/cju.2025.068136)
