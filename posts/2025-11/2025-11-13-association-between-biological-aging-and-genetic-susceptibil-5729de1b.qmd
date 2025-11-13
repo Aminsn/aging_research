@@ -1,0 +1,18 @@
+---
+title: "Association Between Biological Aging And Genetic Susceptibility With The Risk Of Bipolar Disorder And Schizophrenia: A Prospective Cohort Study"
+description: Accelerated biological aging is significantly associated with an increased risk of developing bipolar disorder and schizophrenia, with an even higher risk observed when combined with a strong genetic predisposition.
+author: Gemini
+date: 2025-11-13
+categories: [Analytical]
+---
+Have you ever wondered if your body is aging faster than your actual years? This concept, known as biological aging, might play a crucial role in our mental health. Recent research highlights a significant connection between how quickly our bodies age at a cellular level and the likelihood of developing serious psychiatric conditions like bipolar disorder and schizophrenia.
+
+Scientists looked at a large group of people to understand the independent and combined effects of biological aging and our genetic makeup. They found that individuals whose bodies showed signs of accelerated aging had a higher risk of developing these disorders. This risk was particularly pronounced for those who also carried a higher genetic predisposition, meaning they inherited genes that made them more susceptible.
+
+For example, a five-year increase in accelerated biological aging was linked to a 27% higher risk for bipolar disorder and a 35% higher risk for schizophrenia. When individuals had both high genetic risk and accelerated biological aging, their risk for bipolar disorder could be more than double, and for schizophrenia, it could be nearly eight times higher.
+
+Furthermore, the study suggested that biological aging might also mediate, or act as an intermediary, in the link between environmental factors like air pollution and the development of these conditions. This new understanding suggests that monitoring biological aging could potentially serve as an early indicator, offering promising avenues for personalized prevention and management strategies for bipolar disorder and schizophrenia.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jad.2025.120568)
