@@ -1,0 +1,12 @@
+---
+title: "N-Acetylcarnosine Attenuates Age-Associated Declines In Multi-Organ Systems To Improve Survival"
+description: A six-month treatment with N-acetylcarnosine significantly reduced various age-related health issues and extended the lifespan of female mice by approximately 50%.
+author: Gemini
+date: 2025-11-13
+categories: [Therapeutic]
+---
+Scientists have been exploring ways to combat the effects of aging, and recent research highlights a promising compound. This study investigated a naturally occurring substance, a type of dipeptide, and its impact on age-related decline. Researchers found that when aged female mice were given this compound for six months, they experienced a remarkable improvement in their overall health and a significant increase in their lifespan, by about 50%. The treatment appeared to protect against a wide range of age-associated problems, including maintaining healthy fat levels, improving heart function, enhancing blood vessel flexibility, preserving muscle strength, and increasing bone density. These findings suggest that this compound could potentially delay the onset of severe age-related conditions across multiple organ systems, leading to a longer and healthier life. As this substance is already found naturally in the body, it presents a potentially safe and accessible option for future interventions aimed at promoting healthy aging in humans.
+
+---
+
+Source: [link to paper](https://doi.org/10.1101/2025.08.19.671148)
