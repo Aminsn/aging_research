@@ -1,0 +1,18 @@
+---
+title: "Evaluation And Research Progress On Rodent Models Of Late-Onset Hypogonadism: A Comprehensive Review"
+description: A comprehensive review summarizes and analyzes the characteristics, methods, and evaluation systems of various rodent models used in late-onset hypogonadism research to guide optimal model selection and development.
+author: Gemini
+date: 2025-11-13
+categories: [Aging Pathway]
+---
+As men age, some may experience a condition called late-onset hypogonadism (LOH), where their bodies produce less testosterone, leading to various symptoms. To better understand this condition and develop effective treatments, scientists often rely on animal models, particularly rodents. These models help researchers investigate the disease's mechanisms and test new therapies. 
+
+However, there hasn't been a consistent way to create and assess these animal models, which can slow down progress in understanding LOH and finding cures. A recent review aimed to address this by thoroughly examining different rodent models used in LOH research. 
+
+The review outlines the features, methods, and evaluation techniques of these models, discussing the strengths and weaknesses of each. For instance, an ideal model should show signs of aging naturally, and rats or mice used should be at least 18 months old to accurately mirror human aging in LOH. 
+
+Crucially, since LOH is fundamentally linked to a decline in the number and function of testosterone-producing cells (called Leydig cells) in the testes, models should typically preserve these organs, especially when studying primary LOH. The review also points out that surgically removing the gonads is not a good way to simulate LOH because the human condition develops gradually, not suddenly. Ultimately, this comprehensive look serves as a valuable guide for researchers, helping them choose and develop better rodent models to advance our knowledge and treatment of late-onset hypogonadism.
+
+---
+
+Source: [link to paper](https://doi.org/10.32604/cju.2025.068136)
