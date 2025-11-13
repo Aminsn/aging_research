@@ -1,0 +1,18 @@
+---
+title: "Ppp1R3G Inhibition Impairs Opcs Differentiation And Myelination In Aged Mice"
+description: A protein called PPP1R3G is crucial for maintaining the brain's white matter and cognitive function in aging, and its decline contributes to age-related cognitive impairment.
+author: Gemini
+date: 2025-11-13
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our brains undergo changes that can affect our thinking and memory. A key part of a healthy brain is its "white matter," which acts like the insulation around electrical wires, allowing brain signals to travel quickly and efficiently. This insulation is called myelin, and it's produced by specialized cells that develop from oligodendrocyte precursor cells (OPCs).
+
+Recent research has shed light on a protein, previously known for its role in cell metabolism, that is now understood to be vital for maintaining this crucial brain insulation as we get older. Scientists found that levels of this protein naturally decrease with age in the brain. When this protein is low, it leads to significant problems with memory and learning, similar to age-related cognitive decline.
+
+Further investigation revealed that a reduction in this protein impairs the ability of OPCs to mature and form new myelin. This disruption also affects the energy-producing powerhouses within these cells, called mitochondria, leading to their dysfunction. Essentially, without enough of this protein, the brain struggles to repair and maintain its myelin, which in turn impacts cognitive abilities.
+
+These findings suggest that the decline of this protein could be a new explanation for why cognitive function diminishes with age. More importantly, it identifies this protein as a potential target for future treatments aimed at preserving brain health and combating age-related cognitive decline.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.intimp.2025.115365)
