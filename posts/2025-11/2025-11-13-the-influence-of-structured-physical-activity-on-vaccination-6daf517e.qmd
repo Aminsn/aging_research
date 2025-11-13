@@ -1,0 +1,12 @@
+---
+title: "The Influence Of Structured Physical Activity On Vaccination Response From Adults To Older Individuals: A Systematic Review On The Immunoinflammatory Crosstalk Of COVID-19"
+description: Regular structured physical activity can improve the body's immune response to COVID-19 vaccination and reduce inflammation in adults and older individuals.
+author: Gemini
+date: 2025-11-13
+categories: [Lever]
+---
+New research suggests that consistent physical activity plays a vital role in strengthening our body's defense system against illnesses. It indicates that engaging in structured exercise, particularly at a moderate to high intensity several times a week, can boost how effectively our immune system responds to vaccines, such as those for COVID-19. This benefit is partly due to the activity's ability to lessen "chronic low-grade inflammation," which is a persistent, mild activation of the immune system that can hinder vaccine effectiveness, especially as we age. While a single exercise session can offer a temporary immune lift, maintaining a routine of moderate physical activity over several months can lead to sustained improvements in immune function. This highlights that integrating regular exercise into our lives could be a simple yet powerful way to enhance vaccine protection, particularly for older adults whose immune systems naturally become less robust over time.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s12979-025-00515-x)
