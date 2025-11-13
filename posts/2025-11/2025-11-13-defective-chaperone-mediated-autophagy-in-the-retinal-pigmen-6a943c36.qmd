@@ -1,0 +1,12 @@
+---
+title: "Defective Chaperone-Mediated Autophagy In The Retinal Pigment Epithelium Of Age-Related Macular Degeneration Patients"
+description: A specific cellular cleaning process called chaperone-mediated autophagy is found to be defective in the retinal pigment epithelium of patients with age-related macular degeneration, contributing to the disease.
+author: Gemini
+date: 2025-11-13
+categories: [Aging Pathway, Therapeutic]
+---
+Age-related macular degeneration (AMD) is a leading cause of irreversible central vision loss, and a key factor in its progression is the early degeneration of cells in the retinal pigment epithelium (RPE). Scientists have been investigating the underlying reasons for this vulnerability. This research focused on a crucial cellular recycling system known as chaperone-mediated autophagy (CMA). CMA is responsible for breaking down and recycling specific damaged proteins within cells, acting like a cellular waste disposal system. The study found that in RPE cells from AMD patients, the activity of CMA was significantly reduced compared to healthy individuals. This reduction led to an accumulation of damaged proteins, disrupting the cells' normal function. These findings were further supported by experiments using RPE cells grown from stem cells of AMD patients, which showed similar CMA impairment. Importantly, when CMA was pharmacologically activated, it helped restore the balance of proteins, reduced cellular stress caused by harmful molecules (oxidative stress), and improved the cells' energy production. These discoveries suggest that enhancing CMA could be a promising new therapeutic strategy to protect RPE cells, slow down the progression of AMD, and potentially prevent vision loss.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s44321-025-00329-w)
