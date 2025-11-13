@@ -1,0 +1,12 @@
+---
+title: "Neuronal Pentraxin 1 Accelerates Post-Stroke Atherosclerosis By Inducing Endothelial Cell Senescence"
+description: A protein called neuronal pentraxin 1 (NPTX1) increases after a stroke and speeds up the development of atherosclerosis, a condition where arteries harden, by causing the cells lining blood vessels to age prematurely.
+author: Gemini
+date: 2025-11-13
+categories: [Aging Pathway, Therapeutic]
+---
+After a stroke, the body undergoes many changes, and new research sheds light on how a specific protein, neuronal pentraxin 1 (NPTX1), can worsen recovery. This protein, which normally plays a role in brain function, significantly increases in the body following a stroke. This surge in NPTX1 contributes to the accelerated hardening and narrowing of arteries, a condition known as atherosclerosis, which is a major risk factor for future cardiovascular problems. The mechanism behind this involves NPTX1 inducing premature aging, or "senescence," in the endothelial cells that line our blood vessels. These aged cells can then contribute to the buildup of plaque in the arteries. Importantly, studies have shown that reducing the levels of NPTX1 can help to lessen both the progression of atherosclerosis and the aging of these crucial blood vessel cells after a stroke, suggesting a potential new target for therapies aimed at improving long-term outcomes for stroke survivors.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.intimp.2025.115363)
