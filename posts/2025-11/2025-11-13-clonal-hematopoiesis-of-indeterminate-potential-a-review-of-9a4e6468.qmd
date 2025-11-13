@@ -1,0 +1,18 @@
+---
+title: "Clonal Hematopoiesis Of Indeterminate Potential: A Review Of Its Cardiorenal Implications And Aging"
+description: Clonal hematopoiesis of indeterminate potential (CHIP), an age-related condition characterized by acquired mutations in blood stem cells, is linked to an increased risk of developing cardiovascular and kidney diseases.
+author: Gemini
+date: 2025-11-13
+categories: [Aging Pathway]
+---
+As we age, our bodies undergo many changes, some of which can increase our risk for various health conditions. One such age-related phenomenon is called clonal hematopoiesis of indeterminate potential, or CHIP. This isn't a disease itself, but rather a state where certain blood stem cells acquire genetic changes, or "mutations," and then multiply, leading to a population of genetically identical cells, or a "clone," in the blood.
+
+While CHIP is considered non-cancerous, it's recognized as a precursor to certain blood cancers. More importantly for general health, recent research highlights its significant connections to heart and kidney health. Scientists have found that individuals with CHIP have a higher chance of developing cardiovascular diseases, which affect the heart and blood vessels. This includes conditions like atherosclerosis, where plaque builds up in the arteries, and an increased risk of events such as heart attacks and strokes.
+
+Beyond the heart, CHIP also impacts kidney health. It has been associated with a faster decline in kidney function, measured by the estimated glomerular filtration rate, and a greater risk of acute kidney injury, a sudden loss of kidney function.
+
+The mutations most commonly found in CHIP, such as those in genes like DNMT3A and TET2, appear to drive these connections through various inflammatory pathways in the body. Understanding CHIP and its implications is crucial because it sheds light on new ways to assess and potentially manage the risk of heart and kidney problems as people get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/ndt/gfaf055)
