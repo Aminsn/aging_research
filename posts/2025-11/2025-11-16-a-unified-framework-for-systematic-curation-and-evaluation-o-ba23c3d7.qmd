@@ -1,0 +1,18 @@
+---
+title: "A Unified Framework For Systematic Curation And Evaluation Of Aging Biomarkers"
+description: Researchers developed an open-source framework called Biolearn to standardize the evaluation of aging biomarkers, revealing that different biomarkers are optimal for predicting chronological age versus mortality and healthspan.
+author: Gemini
+date: 2025-11-16
+categories: [Error during API call: name 'requests' is not defined]
+---
+Understanding how our bodies age is crucial for developing ways to extend healthy lifespans. Scientists use "aging biomarkers" – measurable indicators in our bodies – to track this process. However, evaluating these biomarkers has been challenging because of inconsistent methods and scattered data across different studies.
+
+To address this, a new open-source platform called Biolearn has been developed. This tool provides a standardized way to collect, organize, and assess various aging biomarkers from a large number of individuals. It helps researchers compare different biomarkers fairly by harmonizing data from diverse sources and applying consistent computational analyses.
+
+Through this systematic evaluation, an important discovery emerged: biomarkers that are good at predicting a person's actual age (often called "aging clocks") are not necessarily the best at predicting their risk of mortality or future health. For instance, one type of biomarker was highly accurate for chronological age, while another was more effective at predicting lifespan and overall health. This suggests that different biomarkers capture distinct aspects of the aging process.
+
+This new framework is a significant step forward for aging research. By providing a unified approach to evaluate these biological indicators, it paves the way for more reliable and reproducible studies, ultimately accelerating the development of interventions to promote healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s43587-025-00987-y)
