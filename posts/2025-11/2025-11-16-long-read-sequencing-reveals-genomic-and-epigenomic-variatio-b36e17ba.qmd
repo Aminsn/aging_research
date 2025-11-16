@@ -1,0 +1,18 @@
+---
+title: "Long-Read Sequencing Reveals Genomic And Epigenomic Variation In The Dark Genome Of Human Alzheimer'S Disease"
+description: Long-read sequencing has revealed significant genomic and epigenomic changes within the previously unexamined "dark genome" regions of human brains affected by Alzheimer's disease.
+author: Gemini
+date: 2025-11-16
+categories: [Error during API call: name 'requests' is not defined]
+---
+Our understanding of Alzheimer's disease has largely focused on the more accessible parts of our genetic code. However, a significant portion of our DNA, often called the "dark genome," has remained a mystery due to its complex and repetitive nature, making it difficult to study with traditional methods. This "dark genome" is like the unexplored territory of our genetic map, and it holds clues that could be vital for understanding diseases like Alzheimer's.
+
+Recent advancements in DNA sequencing technology, specifically "long-read sequencing," are now allowing scientists to explore these previously hidden regions. Unlike older methods that read short fragments of DNA, long-read sequencing can read much longer stretches, providing a more complete picture of these intricate areas. This new capability has led to groundbreaking discoveries in Alzheimer's research.
+
+Researchers have now found that these "dark" regions of the genome in Alzheimer's brains are far from silent. They exhibit significant "genomic variation," meaning changes in the DNA sequence itself, and "epigenomic variation," which refers to alterations in how DNA is packaged and regulated without changing the underlying sequence. These epigenomic changes, such as "DNA demethylation" (the removal of chemical tags on DNA), can influence gene activity.
+
+Specifically, the study uncovered an increase in "retrotransposons," often called "jumping genes," which are segments of DNA that can move around the genome and potentially disrupt normal cell function. They also observed an enrichment of "non-allelic homologous recombination" (NAHR), a type of DNA rearrangement, within these repetitive regions. These changes were particularly noticeable in critical areas of chromosomes called "centromeres" and in "ribosomal DNA" (rDNA), which are essential for producing proteins in our cells. These variations were present across different stages of Alzheimer's disease, suggesting they may play a role throughout the disease's progression. This research opens new avenues for understanding the complex genetic landscape of Alzheimer's and could lead to novel diagnostic tools and therapeutic strategies.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/alz.70852)
