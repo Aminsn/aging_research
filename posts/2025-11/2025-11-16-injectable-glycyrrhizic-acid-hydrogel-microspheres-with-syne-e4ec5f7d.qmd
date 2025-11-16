@@ -1,0 +1,12 @@
+---
+title: "Injectable Glycyrrhizic Acid Hydrogel Microspheres With Synergistic Anti-Senescence And Osteogenic Effects For Osteoporosis Therapy"
+description: Researchers developed injectable hydrogel microspheres containing glycyrrhizic acid that effectively promoted bone formation and reduced cellular aging in a mouse model of osteoporosis.
+author: Gemini
+date: 2025-11-16
+categories: [Error during API call: name 'requests' is not defined]
+---
+Osteoporosis, a condition that makes bones weak and brittle, is often linked to the accumulation of "senescent cells"—sometimes called "zombie cells"—in the bone marrow. These aging cells don't function properly and can contribute to inflammation and hinder bone repair. A new approach involves using tiny, injectable gel-like beads, known as hydrogel microspheres, that release a natural compound called glycyrrhizic acid, found in licorice. These microspheres are designed to tackle osteoporosis by both encouraging the formation of new bone and combating the negative effects of these senescent cells. In laboratory tests, the microspheres were shown to suppress cellular aging, shift immune cells (macrophages) from a pro-inflammatory state to a healing state, and boost the ability of stem cells to develop into bone-forming cells. When tested in an animal model of osteoporosis, the injectable microspheres successfully promoted bone regeneration and reduced the harmful inflammatory environment caused by aging cells. This innovative strategy offers a promising way to treat osteoporosis by simultaneously addressing bone loss and cellular aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/jbm.a.38016)
