@@ -1,0 +1,18 @@
+---
+title: "Dental Ageing Offers New Insights Into The First Epigenetic Clock For Common Dolphins (<I>Delphinus Delphis</I>)"
+description: Researchers have developed the first DNA-based "epigenetic clock" for common dolphins, enabling accurate age estimation from skin samples, even from deceased animals, which is vital for conservation efforts.
+author: Gemini
+date: 2025-11-16
+categories: [Error during API call: name 'requests' is not defined]
+---
+Determining the precise age of wild dolphins is a significant challenge, yet it is crucial for understanding their population dynamics, survival rates, and reproductive patterns. Traditional methods, such as examining growth layers in teeth, are invasive and can be unreliable, especially for older animals where tooth wear can lead to inaccuracies.
+
+Scientists have now introduced an innovative solution: a molecular "age clock." This advanced tool estimates an animal's age by analyzing specific chemical modifications on its DNA, known as epigenetic markers, which change predictably over time.
+
+For common dolphins, this groundbreaking clock was developed by correlating age estimates from traditional tooth analysis of deceased dolphins with the patterns of epigenetic markers found in their skin samples. A key finding is that even samples from deceased dolphins, including those with some decomposition, can provide reliable data for building these DNA-based age estimation tools. This means that valuable information can be extracted from existing collections of samples from stranded or accidentally caught animals, expanding the possibilities for research.
+
+This new molecular clock offers a practical and less invasive way to determine a dolphin's age, providing essential insights into their lifespan, reproductive timing, and the survival rates of their young. Such information is indispensable for monitoring population changes early and implementing timely conservation strategies to protect common dolphins, a species increasingly threatened by human activities like fishing, pollution, and habitat degradation. Furthermore, this research paves the way for applying similar DNA-based age estimation methods to other dolphin and whale species, many of which also lack comprehensive age data.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/ece3.72424)
