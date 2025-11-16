@@ -1,0 +1,18 @@
+---
+title: "Aging Represses Oncogenic KRAS-Driven Lung Tumorigenesis And Alters Tumor Suppression"
+description: Aging can suppress the initiation and growth of lung tumors driven by the oncogenic KRAS gene and alters the effectiveness of tumor suppression.
+author: Gemini
+date: 2025-11-16
+categories: [Error during API call: name 'requests' is not defined]
+---
+It’s a common understanding that cancer risk increases with age, but did you know that for many cancers, the incidence actually slows down in the very oldest populations? This intriguing observation suggests that aging might have some protective mechanisms against cancer. A recent study explored this paradox by investigating how aging affects lung cancer driven by a specific gene called KRAS.
+
+KRAS is an "oncogene," meaning it's a gene that, when mutated, can promote the development of cancer. Using advanced mouse models designed to mimic human lung cancer, researchers found that the aging process itself can actually slow down both the start and the growth of tumors caused by this oncogene. This means that as an organism gets older, its body might become less hospitable for these specific cancer cells to thrive.
+
+The study also revealed that aging changes how effectively "tumor suppressor genes" work. These genes normally act as brakes on cell growth, preventing uncontrolled division that leads to cancer. The impact of inactivating some of these crucial genes, particularly one called PTEN, was significantly reduced in older individuals. PTEN is a key player in a cellular pathway (the PI3K-AKT pathway) that regulates cell growth and survival, so its reduced impact in older age suggests a complex interplay.
+
+Interestingly, even the cancer cells themselves in older mice retained molecular signatures of aging, indicating that the effects of age are deeply ingrained and persist even after cells become cancerous. These findings suggest that aging isn't just about accumulating damage that leads to cancer; it also involves active processes that can suppress tumor development. This complex relationship between aging and cancer offers new avenues for understanding and potentially combating age-related cancers.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s43587-025-00986-z)
