@@ -1,0 +1,18 @@
+---
+title: "Redox Homeostasis In Ferroptosis And Aging: A Causal Role For Fard-1 And Dhs-25 In Caenorhabditis Elegans"
+description: The study reveals a causal link between ferroptosis, a specific type of iron-dependent cell death, and the process of physiological aging, demonstrating that this connection is mediated by an imbalance in the body's natural antioxidant systems in the model organism *Caenorhabditis elegans*.
+author: Gemini
+date: 2025-11-16
+categories: [Error during API call: name 'requests' is not defined]
+---
+As we age, our bodies undergo a natural decline, and a key factor in this process is often an imbalance in our internal chemistry, specifically related to how our cells handle stress and damaging molecules. This imbalance, known as disturbed redox homeostasis, is increasingly recognized as a hallmark of aging. Recently, scientists have been exploring the role of a particular type of cell death, called ferroptosis, in this aging process. Ferroptosis is distinct because it relies on iron and leads to the destructive breakdown of fats in cell membranes, often when the cell's protective antioxidant systems fail.
+
+Using the tiny worm *Caenorhabditis elegans*, a powerful model for studying aging, researchers have uncovered a significant connection. They found that ferroptosis plays a direct role in how these worms age, primarily by disrupting their redox homeostasis. As the worms got older, they progressively lost their ability to counteract external stressors, showing an increase in harmful molecules like hydroxyl radicals and a decrease in protective antioxidants such as glutathione.
+
+Further investigation revealed that certain genes involved in maintaining this delicate chemical balance become less active with age. Among these, two genes, *fard-1* (which helps process fatty acids) and *dhs-25* (a type of enzyme called a dehydrogenase), were found to be particularly important. When these genes were not functioning correctly, the worms became more susceptible to ferroptosis, experienced greater lipid damage, had lower levels of glutathione, and ultimately lived shorter lives.
+
+Intriguingly, a similar gene in mammals, a close relative of *dhs-25*, also showed reduced activity in cells that were more prone to ferroptosis. These findings strongly suggest that ferroptosis is a key driver of aging in *C. elegans* due to oxidative stress, and they highlight *fard-1* and *dhs-25* as potential targets for future interventions aimed at promoting healthier aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.redox.2025.103912)
