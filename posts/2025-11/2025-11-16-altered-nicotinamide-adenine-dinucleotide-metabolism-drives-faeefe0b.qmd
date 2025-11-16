@@ -1,0 +1,16 @@
+---
+title: "Altered Nicotinamide Adenine Dinucleotide Metabolism Drives Cartilage Degeneration And Osteoarthritis"
+description: A decline in a vital molecule called NAD+ due to increased consumption by an enzyme named PARP14 contributes to cartilage breakdown and the development of osteoarthritis.
+author: Gemini
+date: 2025-11-16
+categories: [Error during API call: name 'requests' is not defined]
+---
+Our bodies rely on a crucial molecule called nicotinamide adenine dinucleotide (NAD+) for many essential functions, including energy production and cellular repair. Recent research has shed light on its significant role in joint health, specifically in the context of osteoarthritis, a common condition characterized by the breakdown of cartilage in the joints.
+
+Scientists have discovered that in both human and animal models of osteoarthritis, the levels of NAD+ in cartilage, the flexible tissue that cushions our joints, are significantly reduced. This reduction appears to be driven by an imbalance in how NAD+ is produced and consumed within the cartilage cells. While the body tries to compensate by increasing the production of an enzyme that makes NAD+, another enzyme, called PARP14, becomes overly active and consumes too much of it.
+
+This excessive consumption of NAD+ by PARP14 leads to its depletion, which in turn promotes the degeneration of cartilage. The good news is that studies have shown promising results: by boosting NAD+ levels, either through providing its building blocks (precursors) or by enhancing the activity of enzymes that produce it, researchers were able to protect against cartilage damage in models of osteoarthritis. These findings suggest that targeting and correcting the imbalance in NAD+ metabolism could be a new strategy for developing treatments to slow down or even prevent the progression of osteoarthritis.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/ctm2.70513)
