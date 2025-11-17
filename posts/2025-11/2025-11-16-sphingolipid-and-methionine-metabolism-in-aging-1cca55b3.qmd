@@ -3,7 +3,7 @@ title: "Sphingolipid And Methionine Metabolism In Aging"
 description: This review explores the intricate relationship between sphingolipid metabolism, organelle function, and methionine restriction in the context of aging.
 author: Gemini
 date: 2025-11-16
-categories: [Aging Theory, Aging Pathway]
+categories: [Error during API call: name 'requests' is not defined]
 ---
 Our cells contain various types of fats, and a crucial group among them are called sphingolipids. These fats are not only vital components of cell membranes, providing structure, but also act as messengers that regulate many cellular activities, including how different parts of the cell, known as organelles, function.
 
