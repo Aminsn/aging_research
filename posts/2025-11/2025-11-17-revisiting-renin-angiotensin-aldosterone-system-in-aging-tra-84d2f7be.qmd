@@ -1,0 +1,12 @@
+---
+title: "Revisiting Renin-Angiotensin-Aldosterone System In Aging: Translational Insights From Bench To Bedside And Back"
+description: Aging causes a shift in the body's blood pressure and fluid regulation system, leading to an increase in harmful components within tissues that contribute to age-related diseases, while protective elements of the system decline.
+author: Gemini
+date: 2025-11-17
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+Our bodies have a complex system, often called the RAAS, that plays a vital role in controlling blood pressure, fluid balance, and the health of our heart and kidneys. For a long time, we understood this system as a simple network of hormones circulating throughout the body. However, our understanding has grown, revealing it as a much more intricate network with local effects within our tissues and cells. As we age, this essential system undergoes significant changes. While some of its circulating components might decrease, the parts of the system that promote inflammation, tighten blood vessels (vasoconstriction), and cause scarring (fibrosis) in tissues actually become more active in older tissues. Think of it like a delicate balance being thrown off: the "bad" guys, specifically the angiotensin (Ang)II/AngII type 1 receptor (AT1R) axis, get stronger, and the "good" guys, which normally protect against damage and promote relaxation of blood vessels (AngII/AT2R and Ang-(1-7)/Mas receptor pathways), become weaker. These age-related shifts in the RAAS are not just a natural part of getting older; they are increasingly recognized as key drivers of many age-related diseases, including heart disease, kidney problems, and high blood pressure. Understanding how aging specifically impacts this system provides new avenues for developing treatments. Scientists are now exploring ways to target these imbalanced components to promote healthier aging and reduce the burden of age-related illnesses, moving from laboratory discoveries to patient care and back again to refine our approaches.
+
+---
+
+Source: [link to paper](https://doi.org/10.1172/JCI195633)
