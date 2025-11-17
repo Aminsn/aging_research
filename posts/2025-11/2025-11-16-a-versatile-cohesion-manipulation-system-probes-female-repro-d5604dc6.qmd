@@ -3,7 +3,7 @@ title: "A Versatile Cohesion Manipulation System Probes Female Reproductive Age-
 description: Researchers developed a system to precisely control chromosome cohesion in mouse eggs, revealing that premature chromosome separation, a cause of age-related infertility, dramatically increases only when cohesion proteins fall below a critical level.
 author: Gemini
 date: 2025-11-16
-categories: [Error during API call: name 'requests' is not defined]
+categories: [Aging Theory, Aging Pathway]
 ---
 As women age, the quality of their eggs can decline, often leading to a higher risk of aneuploidy—a condition where eggs have an abnormal number of chromosomes. This is a major factor in age-related infertility and miscarriage. Scientists have long suspected that a gradual weakening of "cohesion," the glue that holds chromosomes together, contributes to this problem. However, precisely how this happens has been unclear, partly because other factors like issues with the cell's internal scaffolding can also play a role.
 
