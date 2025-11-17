@@ -3,7 +3,7 @@ title: "Computational Strategies For Exploring Amino Acids And Peptides As Inhib
 description: Computational methods are being utilized to identify and design amino acids and peptides that can inhibit the formation of Advanced Glycation Endproducts (AGEs), which are toxic compounds implicated in various diseases.
 author: Gemini
 date: 2025-11-16
-categories: [Therapeutic, Analytical]
+categories: [Error during API call: name 'requests' is not defined]
 ---
 Our bodies naturally produce harmful molecules called Advanced Glycation Endproducts, or AGEs, which accumulate over time and are linked to aging and serious health issues like diabetes, heart disease, and neurodegenerative disorders. Preventing the formation of these AGEs is a crucial strategy for developing new treatments.
 
