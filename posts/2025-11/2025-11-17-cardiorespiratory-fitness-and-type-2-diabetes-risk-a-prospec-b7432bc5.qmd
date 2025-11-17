@@ -1,0 +1,12 @@
+---
+title: "Cardiorespiratory Fitness And Type 2 Diabetes Risk: A Prospective Cohort Study With Mediation Analysis Of Biological Aging In The UK Biobank"
+description: Higher cardiorespiratory fitness is strongly associated with a reduced risk of developing type 2 diabetes, with biological aging partially mediating this protective effect.
+author: Gemini
+date: 2025-11-17
+categories: [Lever, Clock, Analytical]
+---
+Maintaining good cardiorespiratory fitness, which refers to how efficiently your heart and lungs deliver oxygen to your muscles during sustained physical activity, is a powerful way to safeguard your health. New research highlights a significant connection between being fit and a lower risk of developing type 2 diabetes. The study found that individuals with higher levels of fitness had a substantially reduced chance of developing this common metabolic condition. What's particularly interesting is that part of this protective effect appears to be linked to "biological aging" – essentially, how old your body's cells and systems are functioning, which can be different from your actual chronological age. In simpler terms, being physically fit seems to slow down the aging process at a cellular level, and this slower biological aging contributes to a lower risk of diabetes. This underscores the importance of regular physical activity not just for immediate health benefits, but also for long-term protection against diseases like type 2 diabetes by keeping our bodies metabolically younger.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/dom.70261)
