@@ -1,0 +1,18 @@
+---
+title: "Antipsychotic Polypharmacy And Epigenetic Age Acceleration In Schizophrenia"
+description: The study found some evidence that individuals with schizophrenia spectrum disorders on multiple antipsychotic medications, particularly females, showed a deceleration in their biological aging based on epigenetic markers, and this effect was not related to the medication dose.
+author: Gemini
+date: 2025-11-17
+categories: [Clock, Therapeutic, Analytical]
+---
+Living with conditions like schizophrenia spectrum disorders, which affect how a person thinks, feels, and behaves, often involves managing symptoms with medication. Many individuals are prescribed more than one antipsychotic medication at a time, a practice known as polypharmacy. Recent research has explored how these treatments might influence biological aging, which is different from a person's chronological age.
+
+Our bodies have a "biological clock" that can be estimated by looking at chemical tags on our DNA, a process called DNA methylation. These tags can change over time and in response to various factors, providing insights into our true biological age. Scientists use "epigenetic clocks" to measure this biological age. If someone's biological age is older than their actual age, it's referred to as epigenetic age acceleration.
+
+In a recent study involving 153 patients with schizophrenia spectrum disorders, researchers investigated whether taking multiple antipsychotic medications was linked to changes in this biological aging process. They analyzed DNA methylation patterns from blood cells using several different epigenetic clocks.
+
+The findings suggested some interesting patterns: individuals receiving multiple antipsychotic medications showed signs of slightly decelerated biological aging compared to those on a single medication. This effect was particularly noticeable in females. Interestingly, the study also found that this observed modulation of biological aging was not dependent on the dose of the antipsychotic medications. These insights help us better understand the broader biological impacts of antipsychotic treatments and highlight the complex interplay between medication, sex, and the aging process in individuals with schizophrenia spectrum disorders.
+
+---
+
+Source: [link to paper](https://doi.org/10.1055/a-2668-0722)
