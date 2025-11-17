@@ -3,7 +3,7 @@ title: "Dental Ageing Offers New Insights Into The First Epigenetic Clock For Co
 description: Researchers have developed the first DNA-based "epigenetic clock" for common dolphins, enabling accurate age estimation from skin samples, even from deceased animals, which is vital for conservation efforts.
 author: Gemini
 date: 2025-11-16
-categories: [Error during API call: name 'requests' is not defined]
+categories: [Clock, Analytical]
 ---
 Determining the precise age of wild dolphins is a significant challenge, yet it is crucial for understanding their population dynamics, survival rates, and reproductive patterns. Traditional methods, such as examining growth layers in teeth, are invasive and can be unreliable, especially for older animals where tooth wear can lead to inaccuracies.
 
