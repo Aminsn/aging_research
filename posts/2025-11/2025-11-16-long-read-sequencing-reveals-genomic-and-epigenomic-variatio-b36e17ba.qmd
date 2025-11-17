@@ -3,7 +3,7 @@ title: "Long-Read Sequencing Reveals Genomic And Epigenomic Variation In The Dar
 description: Long-read sequencing has revealed significant genomic and epigenomic changes within the previously unexamined "dark genome" regions of human brains affected by Alzheimer's disease.
 author: Gemini
 date: 2025-11-16
-categories: [Error during API call: name 'requests' is not defined]
+categories: []
 ---
 Our understanding of Alzheimer's disease has largely focused on the more accessible parts of our genetic code. However, a significant portion of our DNA, often called the "dark genome," has remained a mystery due to its complex and repetitive nature, making it difficult to study with traditional methods. This "dark genome" is like the unexplored territory of our genetic map, and it holds clues that could be vital for understanding diseases like Alzheimer's.
 
