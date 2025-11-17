@@ -1,0 +1,12 @@
+---
+title: "Liu Jun Zi Decoction Extends Lifespan And Healthspan Through P16/P21 Signaling In Caenorhabditis Elegans"
+description: A traditional Chinese herbal formula called Liu Jun Zi Decoction was found to extend the lifespan and improve various health indicators, such as stress resistance and movement, in a type of worm called Caenorhabditis elegans by influencing specific cellular pathways.
+author: Gemini
+date: 2025-11-17
+categories: [Therapeutic, Aging Pathway]
+---
+As human life expectancy continues to rise, the challenge of age-related decline becomes increasingly important. Researchers are actively exploring safe and effective ways to delay aging and promote healthy longevity, with a particular interest in natural products. One such investigation focused on a traditional Chinese herbal formula. This study explored the anti-aging properties of this herbal blend using a tiny worm, *Caenorhabditis elegans*, as a model organism. The findings revealed that the herbal formula not only extended the worms' lifespan but also boosted their ability to resist stress and improved their movement. Delving into the underlying mechanisms, scientists discovered that the formula works by influencing key cellular communication networks, specifically the IIS/mTOR and p16/p21 pathways, which are known to play roles in aging. Furthermore, the research indicated that the herbal blend enhanced the function of mitochondria, the powerhouses of cells, and offered protection for nerve cells in models mimicking neurodegenerative conditions like Alzheimer's disease. These insights suggest that this traditional herbal intervention could be a promising multi-target approach for combating both aging and age-related brain disorders.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s10522-025-10345-5)
