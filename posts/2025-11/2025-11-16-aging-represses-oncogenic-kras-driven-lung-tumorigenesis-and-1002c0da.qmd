@@ -3,7 +3,7 @@ title: "Aging Represses Oncogenic KRAS-Driven Lung Tumorigenesis And Alters Tumo
 description: Aging can suppress the initiation and growth of lung tumors driven by the oncogenic KRAS gene and alters the effectiveness of tumor suppression.
 author: Gemini
 date: 2025-11-16
-categories: [Aging Theory, Aging Pathway, Analytical]
+categories: [Error during API call: name 'requests' is not defined]
 ---
 It’s a common understanding that cancer risk increases with age, but did you know that for many cancers, the incidence actually slows down in the very oldest populations? This intriguing observation suggests that aging might have some protective mechanisms against cancer. A recent study explored this paradox by investigating how aging affects lung cancer driven by a specific gene called KRAS.
 
