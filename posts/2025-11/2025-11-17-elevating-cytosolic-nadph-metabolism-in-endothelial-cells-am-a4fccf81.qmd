@@ -1,0 +1,18 @@
+---
+title: "Elevating Cytosolic NADPH Metabolism In Endothelial Cells Ameliorates Vascular Aging"
+description: Researchers found that increasing the levels of a molecule called NADPH in the fluid portion of endothelial cells, which line blood vessels, can help to reverse the effects of vascular aging.
+author: Gemini
+date: 2025-11-17
+categories: [Aging Pathway, Therapeutic]
+---
+Our blood vessels naturally age, and this process can contribute to various heart and circulatory problems. A recent study sheds light on a promising new way to combat this. It focuses on the "endothelial cells" that form the inner lining of our blood vessels, playing a crucial role in their health.
+
+The research highlights the importance of a molecule called NADPH (nicotinamide adenine dinucleotide phosphate) within these endothelial cells. Specifically, it's the NADPH found in the "cytosol" – the jelly-like substance filling the cell – that appears to be key. Scientists discovered that by boosting the levels of this cytosolic NADPH, they could significantly improve the health of aging blood vessels.
+
+How does it work? The study points to an enzyme called glucose-6-phosphate dehydrogenase (G6PD) as a major player. When G6PD activity is increased, it leads to higher levels of NADPH. This, in turn, helps the cells by increasing "reduced glutathione" (a powerful antioxidant that protects cells from damage) and by inhibiting "HDAC3 activity" (a process linked to aging). Essentially, more NADPH helps the cells better defend themselves against the stresses of aging.
+
+Intriguingly, the researchers also found that folic acid, a common vitamin, could effectively increase NADPH levels and alleviate vascular aging in animal models. This discovery suggests that targeting the body's NADPH metabolism could offer a novel strategy for developing treatments to prevent or even reverse age-related cardiovascular diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41467-025-64652-z)
