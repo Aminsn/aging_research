@@ -1,0 +1,18 @@
+---
+title: "The Roles Of Eda2R In Ageing And Disease"
+description: A recent study identifies the ectodysplasin A2 receptor (EDA2R) as a key regulator and biomarker of aging, demonstrating that its increased expression with age actively promotes inflammation and tissue damage, while its inhibition can lessen these effects.
+author: Gemini
+date: 2025-11-18
+categories: [Aging Theory, Aging Pathway, Clock, Therapeutic, Lever]
+---
+Scientists have recently uncovered a significant player in the aging process: a protein receptor called EDA2R. This receptor, which sits on the surface of cells, appears to be a crucial indicator and driver of how our bodies age. Researchers found that the amount of EDA2R in various tissues in both humans and animals tends to increase with age.
+
+Elevated levels of this receptor are linked to signs of accelerated aging, including cellular senescence (when cells stop dividing but remain active, potentially causing harm), frailty, obesity, and higher levels of inflammatory markers in the body. Beyond just being a marker, EDA2R actively contributes to aging by triggering inflammation and causing damage to tissues. Conversely, reducing its activity has been shown to lessen these detrimental effects.
+
+At a molecular level, EDA2R activates specific internal cell communication pathways, known as non-canonical and canonical NF-κB signaling. These pathways then promote processes that lead to inflammation and the breakdown of tissues, thereby speeding up the aging process. Variations in the gene for EDA2R have also been associated with conditions like hair loss (alopecia), changes in facial aging, lipid profiles, and prostate cancer. The receptor’s elevated levels are also connected to a broad spectrum of age-related health issues, including heart disease, dementia, various cancers, and metabolic disorders.
+
+These findings suggest that targeting EDA2R could offer new strategies for combating age-related conditions. While specific drugs to block EDA2R are not yet available, current research indicates that lifestyle interventions such as calorie restriction, regular physical activity, and certain nutritional supplements may help in lowering EDA2R levels. This opens promising avenues for future therapeutic developments aimed at promoting healthier aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/acel.70282)
