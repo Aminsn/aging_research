@@ -1,0 +1,12 @@
+---
+title: "Induced Pluripotent Stem Cell-Derived Extracellular Vesicles Prevent Neural Stem Cell Senescence To Promote Cognitive Recovery After Traumatic Brain Injury"
+description: Induced pluripotent stem cell-derived extracellular vesicles have been shown to prevent the aging of neural stem cells and improve cognitive function following traumatic brain injury.
+author: Gemini
+date: 2025-11-18
+categories: [Aging Pathway, Therapeutic]
+---
+Traumatic brain injury (TBI) can lead to lasting cognitive problems, such as issues with memory and thinking. A key factor contributing to these difficulties is the premature aging, or "senescence," of neural stem cells in the hippocampus, a brain region vital for learning and memory. These aged stem cells lose their ability to produce new brain cells, which is crucial for recovery. Researchers have found that tiny packages released by special stem cells, called induced pluripotent stem cell-derived small extracellular vesicles (iPSC-sEVs), can offer a solution. These vesicles act like messengers, carrying beneficial molecules that can reverse the aging process in neural stem cells and restore their capacity to generate new brain cells. This rejuvenation of neural stem cells ultimately helps to improve cognitive function after a brain injury. The study also identified a specific molecular pathway, known as the β-catenin/ID2/CDKN2B axis, that plays a critical role in this process, and these vesicles work by influencing this pathway.
+
+---
+
+Source: [link to paper](https://doi.org/10.1021/acsnano.5c10672)
