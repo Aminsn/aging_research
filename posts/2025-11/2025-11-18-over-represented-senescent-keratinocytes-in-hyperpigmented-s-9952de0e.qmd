@@ -1,0 +1,18 @@
+---
+title: "Over-Represented Senescent Keratinocytes In Hyperpigmented Spots Promote Melanocyte Activation Via Igfbp3 And NGF"
+description: Aged skin cells, called senescent keratinocytes, found in dark spots on the skin, release specific proteins (IGFBP3 and NGF) that activate pigment-producing cells, leading to increased melanin production and the formation of these spots.
+author: Gemini
+date: 2025-11-18
+categories: [Aging Pathway, Therapeutic]
+---
+Have you ever wondered why some areas of your skin develop dark spots as you age or after inflammation? Recent research sheds light on a key player in this process: senescent cells. These are cells that have stopped dividing but remain active, and they accumulate in our tissues over time. While their role in general aging is known, their specific contribution to skin pigmentation has been less understood.
+
+This new study reveals that in hyperpigmented spots—such as sun spots, melasma, and marks left after acne—there's an abundance of senescent keratinocytes, a type of skin cell. These aged keratinocytes aren't just sitting idly; they are actively secreting specific signaling molecules, namely Insulin-like Growth Factor-Binding Protein 3 (IGFBP3) and Nerve Growth Factor (NGF).
+
+These secreted molecules act as messengers, directly stimulating melanocytes, which are the cells responsible for producing melanin, the pigment that gives our skin its color. When activated by IGFBP3 and NGF, melanocytes not only produce more melanin but also develop more "branches" (dendrites), which are crucial for transferring melanin to surrounding skin cells. This increased melanin production and transfer is what ultimately leads to the visible darkening and formation of hyperpigmented spots.
+
+Understanding this mechanism opens new avenues for addressing pigmentation concerns. The research also explored how certain skincare ingredients, like sucrose dilaurate, glabridin, and niacinamide, can help by reducing the release of these activating factors from senescent keratinocytes. This offers promising strategies for developing more effective treatments and preventative measures for various types of skin discoloration.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/ijms262110724)
