@@ -1,0 +1,16 @@
+---
+title: "Ketone Catabolism Is Essential For Maintaining Normal Heart Function During Aging"
+description: The heart relies on the breakdown of ketones for energy to maintain normal function as it ages, and a decline in this process contributes to age-related heart problems.
+author: Gemini
+date: 2025-11-18
+categories: [Aging Pathway, Therapeutic, Lever]
+---
+Our hearts are constantly working, and to do so, they need a steady supply of energy. While they typically prefer burning fats, they can also use other fuel sources, like ketones. Ketones are molecules produced by the liver, especially during times of fasting or low carbohydrate intake, and they can serve as an alternative energy source for various organs, including the brain and heart. The process by which the heart breaks down these ketones for energy is called ketolysis. 
+
+Recent research has shed light on the critical role of this process, particularly as we age. Scientists found that a key enzyme involved in ketolysis, called SCOT (succinyl-CoA:3-ketoacid CoA transferase), naturally decreases in the heart over time. This reduction in SCOT means the heart becomes less efficient at using ketones for fuel. 
+
+What happens when the heart can't properly break down ketones? Studies in mice showed that a decline in SCOT led to a progressive weakening of heart function and changes in its structure, a condition known as cardiac dysfunction or cardiomyopathy. Interestingly, simply providing extra ketones through a specialized diet helped to partially restore heart function in these aging hearts. This suggests that ketones might protect the heart not just by providing energy, but also through other beneficial mechanisms that are independent of their direct breakdown for fuel. These findings highlight that the heart's ability to process ketones is vital for keeping it healthy as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.1161/JAHA.125.042508)
