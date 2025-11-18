@@ -1,0 +1,12 @@
+---
+title: "Herbacetin And Gossypetin Glycosides From Sedum Kamtschaticum Fisch. & C. A. Mey. And S. Takesimense Nakai, And Their Antioxidant, Anti-Aging, And Monoamine Oxidase Inhibitory Activities"
+description: Compounds isolated from Sedum kamtschaticum and Sedum takesimense plants, specifically gossypetin and herbacetin, demonstrated significant antioxidant, anti-aging, and selective monoamine oxidase-B inhibitory activities.
+author: Gemini
+date: 2025-11-18
+categories: [Therapeutic]
+---
+Researchers have recently explored two species of the Sedum plant, *Sedum kamtschaticum* and *Sedum takesimense*, known for their diverse biological properties. The study aimed to identify the natural compounds within these plants and investigate their potential health benefits. Using advanced analytical techniques, scientists successfully identified a variety of beneficial compounds, including several flavonoids, which are a type of plant chemical known for their health-promoting effects. Among these, specific compounds called gossypetin and herbacetin, along with their sugar-attached forms (glycosides), were found to be particularly active. These compounds showed strong antioxidant capabilities, meaning they can help protect our cells from damage caused by harmful molecules. They also exhibited anti-aging effects, suggesting a potential to promote longevity. Furthermore, the study revealed that gossypetin and herbacetin are potent inhibitors of an enzyme called monoamine oxidase-B (MAO-B). Monoamine oxidases are enzymes in the body that break down important brain chemicals, or neurotransmitters, like dopamine and serotonin, which are crucial for mood regulation and other brain functions. By inhibiting MAO-B, these plant compounds could potentially help maintain balanced levels of these neurotransmitters. These findings suggest that the active compounds from these Sedum plants could serve as promising starting points for developing new functional foods or medications to combat age-related diseases and address imbalances in brain chemistry.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.phytochem.2025.114716)
