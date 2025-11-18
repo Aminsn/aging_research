@@ -1,0 +1,16 @@
+---
+title: "Targeting Lysosomal Acidification To Restore Microglial Homeostasis And Mitigate Memory Decline During Male Brain Ageing"
+description: A common antihistamine, ketotifen, was found to restore the acidity of cellular waste-disposal units in the brains of aged male mice, leading to healthier brain immune cells, reduced inflammation, and improved memory.
+author: Gemini
+date: 2025-11-18
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our brains can experience a decline in function, often linked to issues within our brain's immune cells, called microglia. These cells are crucial for clearing waste and maintaining a healthy brain environment. A key part of their function relies on tiny compartments within cells called lysosomes, which act like recycling centers, breaking down and disposing of cellular debris. However, with aging, these lysosomes can become less acidic, impairing their ability to function properly.
+
+Recent research has shown that restoring the acidity of these lysosomes can have a profound impact on brain health. In a study, aged male mice were given a common medication, ketotifen, which is an antihistamine already approved for human use. This treatment successfully re-acidified the lysosomes in their brain microglia. This change triggered a cascade of positive effects: the microglia returned to a healthy, active state, inflammation in the brain was significantly reduced, and the connections between brain cells, known as synapses, became stronger. Ultimately, the mice showed remarkable improvements in their ability to learn and remember.
+
+These findings suggest a promising new approach to combat age-related cognitive decline. Because ketotifen is already available and can easily enter the brain, this discovery offers an immediate and practical strategy to protect against the early stages of memory loss as we age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bbi.2025.106170)
