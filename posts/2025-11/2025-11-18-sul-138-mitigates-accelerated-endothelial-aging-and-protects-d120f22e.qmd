@@ -1,0 +1,12 @@
+---
+title: "SUL-138 Mitigates Accelerated Endothelial Aging And Protects The Kidney"
+description: A compound called SUL-138 has been found to reverse accelerated aging in the lining of blood vessels and protect the kidneys from damage.
+author: Gemini
+date: 2025-11-18
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+As we age, the delicate lining of our blood vessels, known as the endothelium, can also show signs of aging. This "endothelial aging" can lead to problems with how our blood vessels function, such as reduced ability to widen and allow proper blood flow. A key player in this aging process is often the mitochondria, the powerhouses within our cells, which can become dysfunctional and contribute to cellular damage and inflammation. Researchers have been investigating new ways to combat this. A promising new compound has been identified that works by protecting these vital mitochondria. By safeguarding mitochondrial function, this compound helps to restore the healthy operation of blood vessels, improving their ability to dilate and reducing harmful inflammation. This protective effect extends to other organs, notably the kidneys, preventing the kind of damage often seen with aging blood vessels. This discovery suggests a new approach to maintaining vascular health and protecting organs like the kidneys as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.1042/CS20255735)
