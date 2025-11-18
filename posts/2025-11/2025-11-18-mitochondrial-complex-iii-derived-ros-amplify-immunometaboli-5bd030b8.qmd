@@ -1,0 +1,12 @@
+---
+title: "Mitochondrial Complex III-Derived ROS Amplify Immunometabolic Changes In Astrocytes And Promote Dementia Pathology"
+description: Mitochondrial complex III in astrocytes generates reactive oxygen species that intensify immunometabolic alterations and contribute to the progression of dementia.
+author: Gemini
+date: 2025-11-18
+categories: [Aging Pathway, Therapeutic]
+---
+Our brains rely on specialized support cells called astrocytes, which play a crucial role in maintaining brain health. In neurodegenerative diseases like dementia, these astrocytes can become dysfunctional. A recent study sheds light on a key player in this process: tiny powerhouses within our cells called mitochondria. These mitochondria, specifically a part known as complex III, can produce harmful molecules called reactive oxygen species (ROS) when astrocytes are exposed to stress signals associated with brain diseases. These ROS act like a signal, triggering a cascade of detrimental changes within the astrocytes. They alter how astrocytes process energy (their metabolism) and how they respond to inflammation (their immune function). This harmful cycle ultimately contributes to the damage seen in brain cells and the progression of dementia. Importantly, researchers found that by blocking the production of these specific ROS from mitochondrial complex III in animal models, they could reduce dementia-related pathology and even extend lifespan. This discovery points to a promising new avenue for developing treatments that target these specific mitochondrial ROS to combat neurodegenerative diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s42255-025-01390-y)
