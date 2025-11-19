@@ -1,0 +1,18 @@
+---
+title: "The <I>Bud31</I> Homologous Gene In <I>Schizosaccharomyces Pombe</I> Is Evolutionarily Conserved And Can Be Linked To Cellular Processes Regulated By The TOR Pathway"
+description: The BUD31 homologous gene in fission yeast, *Schizosaccharomyces pombe*, is evolutionarily conserved and plays a role in cellular processes regulated by the TOR pathway, offering insights into human diseases like cancer.
+author: Gemini
+date: 2025-11-19
+categories: [Aging Pathway, Analytical]
+---
+Scientists have been investigating a gene called BUD31 in humans, which is linked to various important cellular functions, including those implicated in cancer. To better understand its fundamental role, researchers turned to a simpler organism, fission yeast (*Schizosaccharomyces pombe*), which possesses a similar gene known as *cwf14*.
+
+When the *cwf14* gene was removed from yeast cells, the cells exhibited several issues, such as problems with their size and division, altered responses to stress, and accelerated aging. These processes are notably controlled by the TOR pathway, a critical cellular signaling network that manages growth, metabolism, and lifespan. Further experiments solidified this connection between the *cwf14* gene and the TOR pathway.
+
+The study also revealed that many genes affected by the absence of *cwf14* are involved in transporting nutrients, particularly in sensing nitrogen levels. Interestingly, while the *cwf14* protein is associated with the spliceosome (a complex that removes non-coding sections from RNA), most of the affected genes do not contain these non-coding sections, suggesting an indirect influence. Advanced computational analysis demonstrated that BUD31-like genes are remarkably similar across different species, from yeast to humans, highlighting their evolutionary importance. Crucially, introducing the human BUD31 gene into the yeast mutants partially restored their normal functions, indicating that the human and yeast genes are functionally alike.
+
+These findings from yeast provide valuable insights that can help us better understand the underlying mechanisms of human diseases, such as cancer.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/cells14211736)
