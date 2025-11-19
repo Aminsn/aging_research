@@ -1,0 +1,18 @@
+---
+title: "Aging-Related Epigenetic Instability In Lncrnas And Mirnas Mediates The Development Of Hypertension"
+description: Aging leads to changes in the regulation of non-coding RNAs, specifically long non-coding RNAs and microRNAs, which contributes to the development of high blood pressure by affecting blood vessel function and inflammation.
+author: Gemini
+date: 2025-11-19
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our bodies undergo many changes, and one area of increasing interest for scientists is how these changes contribute to common conditions like high blood pressure. Recent research highlights the crucial role of tiny molecules called non-coding RNAs in this process. Unlike typical RNAs that carry instructions for making proteins, these non-coding RNAs, such as long non-coding RNAs (lncRNAs) and microRNAs (miRNAs), act as regulators, influencing how our genes are expressed without changing the underlying DNA sequence.
+
+Think of it like this: your DNA is the blueprint, and epigenetics (the study of these regulatory changes) is like the annotations on that blueprint, telling your cells which parts to read and how often. With aging, these annotations can become unstable, particularly for lncRNAs and miRNAs. When these specific non-coding RNAs are dysregulated, they can negatively impact the health of our blood vessels.
+
+For instance, they can reduce the availability of nitric oxide, a molecule essential for keeping blood vessels relaxed, and increase inflammation. These changes can lead to stiffer arteries and, consequently, higher blood pressure. This complex interplay affects key systems involved in blood pressure control, including the cells lining our blood vessels, the muscles in their walls, and even hormonal systems like the renin-angiotensin-aldosterone system.
+
+Understanding these intricate molecular mechanisms, including the communication between different types of non-coding RNAs, is opening new avenues for developing better diagnostic tools and more effective treatments for age-related high blood pressure.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.ejphar.2025.178150)
