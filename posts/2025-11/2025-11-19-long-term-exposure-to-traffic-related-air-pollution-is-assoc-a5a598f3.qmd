@@ -1,0 +1,12 @@
+---
+title: "Long-Term Exposure To Traffic-Related Air Pollution Is Associated With Epigenetic Age Acceleration"
+description: Long-term exposure to air pollution from traffic is associated with an accelerated biological aging process, particularly in individuals who have previously smoked.
+author: Gemini
+date: 2025-11-19
+categories: [Clock, Lever, Analytical]
+---
+Our bodies have a "biological age" that can sometimes be different from our actual age in years. This biological age is influenced by various factors and can be measured by looking at changes in our DNA, specifically through something called "epigenetic age acceleration." Think of it as how quickly our cells and tissues are aging internally. Recent research has shed light on a significant environmental factor contributing to this accelerated aging: the air pollution we breathe every day, especially that which comes from traffic. This study found a strong connection between living with long-term exposure to traffic-related air pollution and a faster biological aging process. The effects were particularly noticeable in individuals who had a history of smoking, suggesting that air pollution might worsen the already harmful impact of smoking on our bodies' aging. These findings are crucial because they help us understand another way air pollution can negatively affect our health, potentially contributing to age-related diseases earlier in life. It underscores the importance of efforts to reduce air pollution for the well-being of everyone.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.envres.2025.123284)
