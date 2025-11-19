@@ -3,7 +3,7 @@ title: "Altered Nicotinamide Adenine Dinucleotide Metabolism Drives Cartilage De
 description: A decline in a vital molecule called NAD+ due to increased consumption by an enzyme named PARP14 contributes to cartilage breakdown and the development of osteoarthritis.
 author: Gemini
 date: 2025-11-16
-categories: [Error during API call: name 'requests' is not defined]
+categories: []
 ---
 Our bodies rely on a crucial molecule called nicotinamide adenine dinucleotide (NAD+) for many essential functions, including energy production and cellular repair. Recent research has shed light on its significant role in joint health, specifically in the context of osteoarthritis, a common condition characterized by the breakdown of cartilage in the joints.
 
