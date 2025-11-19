@@ -1,0 +1,20 @@
+---
+title: "The M<Sup>6</Sup>A Demethylase FTO Links Tlr7 To Mitochondrial Oxidation Driving Age-Associated B Cell Formation In Systemic Lupus Erythematosus"
+description: A recent study reveals that a protein called FTO, when highly active, promotes the formation of specific immune cells that contribute to the development of systemic lupus erythematosus by disrupting the normal function of cellular powerhouses.
+author: Gemini
+date: 2025-11-19
+categories: [Aging Pathway, Therapeutic]
+---
+Scientists have uncovered a crucial pathway that contributes to the development of systemic lupus erythematosus (SLE), an autoimmune disease where the body’s immune system mistakenly attacks its own tissues. The research focuses on a type of immune cell called age-associated B cells (ABCs), which are known to expand excessively and produce harmful autoantibodies in SLE patients.
+
+The study found that a protein called FTO, an enzyme that removes a specific chemical tag from RNA, is highly expressed in these problematic ABCs in SLE patients. This elevated FTO level was directly linked to kidney damage, a common complication of lupus. When FTO was overactive in immune cells, it led to an increase in ABCs and worsened lupus-like symptoms in animal models. Conversely, blocking FTO activity helped to reduce the autoimmune response.
+
+Further investigation revealed that FTO’s activity is boosted by a signaling pathway involving Toll-like receptor 7 (TLR7), a protein that plays a role in immune responses. FTO then promotes the differentiation of ABCs by targeting another protein called ATP6V1G1, which is crucial for the proper functioning of lysosomes—the cell’s recycling centers.
+
+Essentially, when FTO is overactive, it impairs the cell’s ability to clear out damaged mitochondria (the cell’s powerhouses) through a process called lysosomal autophagy. This accumulation of faulty mitochondria leads to cellular dysfunction, characterized by reduced energy production and an increase in harmful reactive oxygen species. This dysfunction, in turn, drives the formation of the problematic ABCs.
+
+These findings suggest that targeting this newly identified pathway—involving TLR7, FTO, and ATP6V1G1—could offer a promising new strategy for developing treatments for systemic lupus erythematosus.
+
+---
+
+Source: [link to paper](https://doi.org/10.1126/scitranslmed.adu6015)
