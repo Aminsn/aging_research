@@ -1,0 +1,18 @@
+---
+title: "Chameau (Hbo1) Regulates Starvation Resistance In <I>Drosophila Melanogaster</I> In A Temperature-Dependent Manner"
+description: The gene Chameau (HBO1) is crucial for fruit flies to survive starvation at cooler temperatures, but its importance diminishes at slightly warmer temperatures, where the flies can resist starvation even without it.
+author: Gemini
+date: 2025-11-20
+categories: [Aging Pathway]
+---
+Ever wondered how tiny fruit flies manage to survive when food is scarce? A recent study sheds light on a fascinating aspect of their survival, revealing that a specific gene, called Chameau (Chm), plays a critical role in their ability to withstand starvation, but only under certain environmental conditions.
+
+Researchers found that Chm, a type of protein modifier, is essential for fruit flies to endure periods without food when the temperature is around 23°C or cooler. However, the surprising discovery was that if the temperature increased by just a couple of degrees, or was at 25°C and above, the flies no longer needed Chm to survive starvation. It seems that the slightly warmer temperatures boost the flies' metabolism in a way that compensates for the absence of Chm, effectively bypassing its function.
+
+This temperature-dependent effect was observed across various physiological responses. For instance, at higher temperatures, the flies with a non-functional Chm gene showed improved regulation of genes involved in their response to starvation, better weight management, and corrected levels of trehalose, a sugar important for energy storage. Interestingly, supplementing the flies' diet with citrate, a molecule involved in energy production, also helped them survive starvation at lower temperatures, mimicking some of the effects of increased warmth.
+
+These findings highlight how a gene's importance can be highly dependent on environmental factors like temperature. This has significant implications for understanding how organisms adapt to changing climates and how specific genetic functions might become more or less critical as global temperatures fluctuate.
+
+---
+
+Source: [link to paper](https://doi.org/10.26508/lsa.202503524)
