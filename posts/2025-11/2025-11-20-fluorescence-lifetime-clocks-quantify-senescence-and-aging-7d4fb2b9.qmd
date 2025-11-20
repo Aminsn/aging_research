@@ -1,0 +1,12 @@
+---
+title: "Fluorescence Lifetime Clocks Quantify Senescence And Aging"
+description: A new imaging technique uses specialized fluorescent dyes to visually measure aging and cellular senescence in living systems in real-time, from individual cells to whole organisms.
+author: Gemini
+date: 2025-11-20
+categories: [Clock, Analytical]
+---
+Scientists have developed a novel method to track aging and cellular senescence, a state where cells stop dividing but remain active, contributing to age-related conditions. While existing "aging clocks" rely on analyzing molecular changes in samples, they often don't provide immediate, live feedback. This new approach utilizes a technique called fluorescence lifetime imaging, which measures how long light emitted from special dyes persists. Researchers engineered highly sensitive dyes that specifically target ribosomal RNA (rRNA) within a cell's nucleolus, a structure crucial for making proteins. By observing changes in this rRNA using the dyes and fluorescence lifetime imaging, they can visually quantify age-related and senescence-dependent changes. This innovative strategy eliminates the need for extensive sample preparation, such as isolating DNA, and allows for real-time measurements directly within living organisms. It has been successfully applied across various scales, from individual cells and tissues to model organisms like C. elegans and mice, and even human samples, significantly expanding the tools available for studying the biology of aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s43587-025-01001-1)
