@@ -1,0 +1,20 @@
+---
+title: "Endothelial Lrrc8A Delays Vascular Ageing In Natural And Accelerated Ageing Mouse Models"
+description: A protein called LRRC8A, found in the inner lining of blood vessels, has been shown to slow down the aging process of blood vessels by influencing key cellular pathways.
+author: Gemini
+date: 2025-11-20
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+As we age, our blood vessels can stiffen and become less functional, a process known as vascular aging. This contributes to many age-related health problems. Recent research has shed light on a crucial player in this process: a protein called LRRC8A, located in the endothelial cells that line our blood vessels. These cells are vital for maintaining healthy blood flow and vessel function.
+
+The study found that levels of LRRC8A naturally decrease in the blood vessels as we get older. This decline appears to accelerate vascular aging by promoting issues with cell division, leading to cellular senescence (where cells stop dividing and can even harm surrounding healthy cells), and increasing oxidative stress (damage caused by unstable molecules).
+
+Delving deeper, scientists discovered that LRRC8A works by modulating a critical cellular communication system known as the AMPK-SIRT1 axis. This pathway is well-known for its role in regulating cell metabolism, stress resistance, and longevity. When LRRC8A is present, it helps activate this pathway, which in turn counteracts harmful processes like the p53-dependent senescence pathway and boosts beneficial ones like the FOXO3-dependent antioxidant pathway, protecting cells from damage.
+
+Excitingly, the research also showed that treatments designed to activate AMPK and SIRT1 could effectively reverse endothelial cell senescence and vascular aging in situations where LRRC8A was deficient. Furthermore, a gene therapy approach, specifically targeting endothelial cells with LRRC8A, successfully delayed the progression of vascular aging in naturally aging mice.
+
+These findings suggest that maintaining or restoring LRRC8A levels, or targeting the pathways it influences, could offer promising new strategies to combat vascular aging and the chronic conditions associated with it.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/cvr/cvaf212)
