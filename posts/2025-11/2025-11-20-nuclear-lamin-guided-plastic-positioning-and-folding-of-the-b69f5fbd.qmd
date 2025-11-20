@@ -1,0 +1,12 @@
+---
+title: "Nuclear-Lamin-Guided Plastic Positioning And Folding Of The Human Genome"
+description: The study reveals that nuclear lamins are essential for the precise three-dimensional positioning and folding of the human genome, influencing chromosome organization, gene activity, and stem cell function.
+author: Gemini
+date: 2025-11-20
+categories: [Aging Pathway]
+---
+Imagine the vast amount of genetic material, our genome, neatly packed inside the tiny nucleus of every cell. It’s not just a random jumble; it’s highly organized in a complex 3D structure, which is crucial for its proper functioning, including how genes are turned on or off. Recent research has shed light on the key players in maintaining this intricate organization: a group of proteins called lamins. These proteins form a supportive network just inside the nucleus, acting like a scaffold for our genetic material. When scientists removed these lamin proteins from human stem cells, they observed dramatic changes. The entire 3D arrangement of the genome was disrupted, with chromosomes shifting their positions and the larger organizational structures within the nucleus falling apart. These structural changes had significant consequences, affecting how genes were expressed and even impairing the normal function of the stem cells. Interestingly, reintroducing a specific lamin protein could partially restore the genome's organization and cellular health. This work underscores the vital role of these structural proteins in orchestrating the genome's architecture and highlights how their malfunction can contribute to various diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.celrep.2025.116529)
