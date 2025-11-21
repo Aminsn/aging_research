@@ -1,0 +1,18 @@
+---
+title: "NAD<Sup>+</Sup> Reverses Alzheimer'S Neurological Deficits Via Regulating Differential Alternative RNA Splicing Of <I>Eva1C</I>"
+description: A recent study found that increasing levels of the natural molecule NAD+ can reverse neurological problems associated with Alzheimer's disease by correcting errors in how RNA is processed, specifically through a protein called EVA1C.
+author: Gemini
+date: 2025-11-21
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies rely on a precise process called RNA splicing, which essentially tells our cells how to build proteins. In conditions like Alzheimer's disease, this process can go awry, leading to "editing errors" that result in faulty proteins and contribute to the death of brain cells.
+
+Exciting new research has uncovered a potential way to fix these errors. Scientists found that boosting the levels of a natural molecule called NAD+ can correct these dysfunctional RNA splicing events. This correction is largely dependent on a key protein named EVA1C, which plays a crucial role in managing how RNA messages are put together.
+
+Interestingly, levels of EVA1C are significantly lower in the memory-related regions of the brain in Alzheimer's patients compared to healthy individuals. Further experiments showed that the memory-boosting effects of NAD+ were diminished when EVA1C was suppressed, highlighting its importance in this pathway. The researchers even utilized artificial intelligence to understand how EVA1C interacts with other proteins, revealing a connection between our metabolism, RNA processing, and how our bodies manage proteins—all processes that are impaired in Alzheimer's.
+
+These findings suggest that maintaining healthy NAD+ levels could be a promising strategy to preserve memory and slow down the progression of neurodegeneration, potentially paving the way for new therapies that target RNA splicing.
+
+---
+
+Source: [link to paper](https://doi.org/10.1126/sciadv.ady9811)
