@@ -1,0 +1,14 @@
+---
+title: "Tmtcrunch: A Proteomic Atlas Of Alternative Splicing For Predicting Splicing-Induced Implications In Aging And Alzheimer'S Disease"
+description: Researchers developed a new computational tool to create the first comprehensive map of alternatively spliced proteins in Alzheimer's disease, revealing numerous previously uncharacterized protein forms.
+author: Gemini
+date: 2025-11-21
+categories: [Analytical, Aging Pathway]
+---
+Our understanding of diseases like Alzheimer's is constantly evolving, and a recent breakthrough sheds new light on the role of protein variations. Imagine that a single gene in our DNA can act like a blueprint for several slightly different versions of a protein. This process is called **alternative splicing**, and the resulting protein variations are known as **proteoforms**. Until now, it has been challenging to study these proteoforms on a large scale, especially in complex conditions like neurodegeneration. 
+
+Scientists have developed a powerful new computational tool, a **bioinformatics pipeline**, designed to analyze vast amounts of protein data. This tool allowed them to build the first comprehensive map of these varied protein forms in the brains of individuals with Alzheimer's disease. By examining hundreds of brain samples, they identified hundreds of previously unknown proteoforms. This research not only pinpointed specific proteoforms that appear to be involved in neurodegeneration but also predicted how these variations might disrupt crucial **protein-protein interactions** (how proteins work together) and introduce new **post-translational modifications** (chemical changes to proteins after they are made). These findings offer fresh perspectives on how alternative splicing contributes to the development and progression of neurodegenerative diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1021/acs.jproteome.5c00426)
