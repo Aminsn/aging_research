@@ -1,0 +1,18 @@
+---
+title: "Emerging And Re-Emerging Viruses As Triggers Of Human Endogenous Retrovirus Activation: Implications For Aging And Age-Related Pathologies"
+description: Emerging and re-emerging viruses can trigger the activation of ancient viral remnants in our DNA, called human endogenous retroviruses (HERVs), which contributes to aging and age-related diseases by promoting cellular senescence and chronic inflammation.
+author: Gemini
+date: 2025-11-22
+categories: [Aging Theory, Aging Pathway]
+---
+Our bodies carry a fascinating genetic legacy: about 8% of our DNA consists of "human endogenous retroviruses" (HERVs), remnants of ancient viral infections that integrated into our genome millions of years ago. While these genetic elements are typically kept dormant in our youth, a recent study highlights how they can "wake up" as we age. This awakening isn't just a passive part of getting older; it actively drives the aging process and contributes to various age-related health problems.
+
+When these dormant viral sequences become active, they can produce virus-like particles that, surprisingly, can cause healthy neighboring cells to age prematurely, spreading a kind of "contagious aging" throughout the body. Additionally, the accumulation of genetic material from these reactivated elements can trigger a persistent, low-grade inflammatory response, a phenomenon often referred to as "inflammaging," which is a hallmark of aging.
+
+What's particularly intriguing is the role of common viruses we encounter. The research suggests that emerging and re-emerging viruses, such as SARS-CoV-2, Epstein-Barr Virus, and Herpes Simplex Virus, can act as direct triggers, further activating these ancient retroviruses, especially in older individuals whose natural genetic silencing mechanisms are already weakened. This connection between external viral infections and the activation of our internal viral "fossils" is strongly linked to a range of age-related conditions, including neurodegenerative diseases like Alzheimer's and ALS, autoimmune disorders such as Multiple Sclerosis, and even certain cancers.
+
+Understanding this intricate relationship opens new avenues for research into how we age and how we might develop new strategies to combat age-related diseases by targeting the activity of these ancient viral passengers.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.mam.2025.101422)
