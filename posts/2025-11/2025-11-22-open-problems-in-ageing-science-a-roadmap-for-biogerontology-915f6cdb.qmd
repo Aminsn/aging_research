@@ -1,0 +1,12 @@
+---
+title: "Open Problems In Ageing Science: A Roadmap For Biogerontology"
+description: A recent paper identifies 100 critical unanswered questions in the field of aging and longevity science to guide future research and accelerate progress.
+author: Gemini
+date: 2025-11-22
+categories: [Aging Theory, Therapeutic, Analytical]
+---
+The field of understanding why and how we age has seen incredible advancements, yet many fundamental mysteries persist. A recent effort has compiled a comprehensive list of 100 crucial, unresolved questions that scientists are currently grappling with. These questions were gathered by engaging with the scientific community and then analyzed using advanced computational techniques, similar to how a computer understands human language, to pinpoint areas where our knowledge is incomplete or where new research is most needed. The identified challenges span a broad spectrum of topics. They delve into the tiny molecular and cellular processes that drive aging within our bodies, explore how different species age, and examine the use of various organisms as models to study longevity. The list also covers the search for "biomarkers"—indicators that can measure biological age or the effectiveness of anti-aging interventions—and the development of new treatments to extend both lifespan and healthspan, meaning not just living longer, but living healthier for longer. By clearly outlining these critical areas, this work provides a valuable guide for researchers, helping to focus efforts and accelerate discoveries that could ultimately lead to more effective ways to combat age-related diseases and promote healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s11357-025-01964-4)
