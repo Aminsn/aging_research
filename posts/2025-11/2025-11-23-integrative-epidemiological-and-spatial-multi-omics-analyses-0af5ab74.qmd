@@ -1,0 +1,14 @@
+---
+title: "Integrative Epidemiological And Spatial Multi-Omics Analyses Reveal Spp1⁺ Macrophages With Senescence-Like Features As Key Mediators Linking No₂ Exposure To Coronary Heart Disease"
+description: Exposure to nitrogen dioxide, a common air pollutant, is linked to an increased risk of coronary heart disease through its effect on specific immune cells called SPP1⁺ macrophages, which exhibit features of cellular aging.
+author: Gemini
+date: 2025-11-23
+categories: [Aging Pathway, Clock, Lever, Analytical]
+---
+Have you ever wondered how the air we breathe impacts our heart health? New research sheds light on a crucial connection between a common air pollutant, nitrogen dioxide (NO₂), and the risk of developing coronary heart disease. This study reveals that tiny immune cells, specifically a type called SPP1⁺ macrophages, act as key players in this process. These macrophages, which are a type of white blood cell that cleans up cellular debris and fights infections, were found to have "senescence-like features," meaning they show signs of aging and dysfunction. Think of them as cells that are prematurely worn out. 
+
+By combining large-scale health data with advanced techniques that examine many biological molecules at once (multi-omics) and pinpoint their exact location in tissues (spatial analysis), scientists were able to see how NO₂ exposure leads to these aging macrophages. These "senescent" macrophages then contribute to the development of heart disease. This groundbreaking work helps us understand the biological mechanisms behind how air pollution harms our hearts, offering new avenues for developing strategies to prevent and treat cardiovascular diseases in polluted environments.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jhazmat.2025.140429)
