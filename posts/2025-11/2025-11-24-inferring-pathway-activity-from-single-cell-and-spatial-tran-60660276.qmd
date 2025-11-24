@@ -1,0 +1,16 @@
+---
+title: "Inferring Pathway Activity From Single-Cell And Spatial Transcriptomics Data With Paasc"
+description: A new computational method accurately infers the activity of biological pathways from single-cell and spatial gene expression data, outperforming existing tools in various applications and across different data types.
+author: Gemini
+date: 2025-11-24
+categories: [Analytical]
+---
+Understanding how individual cells function and communicate within tissues is fundamental to biology and medicine. Recent technological advancements allow scientists to examine the genetic activity of thousands of cells individually, or even within their spatial context in a tissue. However, making sense of this vast amount of complex data to understand which biological processes, or "pathways," are active in each cell has been a significant challenge. 
+
+To address this, researchers have developed a novel computational approach. This method works by simultaneously mapping both cells and their genes into a shared analytical space. From this shared view, it then uses statistical techniques to pinpoint and score the activity of specific biological pathways within each individual cell. 
+
+This new tool has been rigorously tested and shown to be highly effective. It accurately identifies dynamic cellular states and spatial patterns of gene activity. Compared to other existing methods, it demonstrates superior performance in tasks such as identifying gene sets specific to certain cell types, uncovering pathways linked to cellular aging, and exploring cell types associated with genetic traits. Importantly, it maintains its accuracy even when dealing with variations in data collection and is robust across different types of genomic data, including those that measure gene expression, chromatin accessibility, and spatial information. This advancement significantly improves our ability to decipher cellular dynamics, understand aging processes, and shed light on disease mechanisms.
+
+---
+
+Source: [link to paper](https://doi.org/10.1371/journal.pcbi.1013666)
