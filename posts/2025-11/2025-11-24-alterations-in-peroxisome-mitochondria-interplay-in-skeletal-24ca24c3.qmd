@@ -1,0 +1,16 @@
+---
+title: "Alterations In Peroxisome-Mitochondria Interplay In Skeletal Muscle Accelerate Muscle Dysfunction"
+description: Disruptions in the communication and function of peroxisomes and mitochondria within muscle cells contribute to accelerated muscle decline and weakness.
+author: Gemini
+date: 2025-11-24
+categories: [Aging Pathway]
+---
+Our muscles are vital for movement, energy use, and overall health. Inside our muscle cells, two tiny but mighty components, called organelles, work closely together: peroxisomes and mitochondria. Peroxisomes are like recycling centers, crucial for processing fats (lipid metabolism) and neutralizing harmful byproducts called reactive oxygen species. Mitochondria, often called the "powerhouses" of the cell, generate most of the energy our bodies need.
+
+Recent research has shed light on the critical partnership between these two organelles. Scientists investigated what happens when the function of peroxisomes is impaired, specifically by interfering with a protein called Pex5, which is essential for peroxisomes to work correctly. They found that when Pex5 was inhibited in muscle, it disrupted the vital connection between peroxisomes and mitochondria. This led to several problems, including difficulties in processing fats, reduced muscle strength, and poorer exercise performance. Furthermore, the mitochondria themselves showed structural and functional issues, which in turn sped up age-related muscle problems like muscle wasting (atrophy) and the breakdown of the connections between nerves and muscles (neuromuscular junction degeneration).
+
+These findings highlight that maintaining healthy peroxisome function and their close interaction with mitochondria is crucial for keeping our muscles strong and healthy, especially as we age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41467-025-64833-w)
