@@ -1,0 +1,16 @@
+---
+title: "A Senescence-Responsive Nanodrug Amplifies Radiotherapy Efficacy"
+description: A newly developed nanodrug improves the effectiveness of radiation therapy for cancer by specifically targeting and eliminating harmful senescent cells in tumors while reducing treatment side effects.
+author: Gemini
+date: 2025-11-24
+categories: [Therapeutic]
+---
+Radiotherapy is a crucial treatment for many cancers, but its effectiveness can be limited by tumor resistance and damage to healthy tissues. A key culprit in these limitations are "senescent cells" – cells that have stopped dividing but linger in the body, often releasing harmful signals that can promote tumor growth and contribute to side effects.
+
+Scientists have now engineered a clever solution: a tiny drug delivery system, or "nanodrug," designed to tackle these issues. This innovative nanodrug acts like a "one-two punch." It combines a special agent, called a "senolytic," which specifically seeks out and eliminates these problematic senescent cells. This senolytic agent is encased within a gold-shelled liposome, a microscopic bubble that ensures the drug is delivered precisely to the tumor and released over time.
+
+In laboratory tests, this nanodrug successfully cleared out senescent cancer cells and made radiation therapy more effective by increasing the death of cancer cells. It also shut down the harmful signals, known as the "senescence-associated secretory phenotype" (SASP), that senescent cells release, which can otherwise encourage tumor progression. When tested in living models, the nanodrug efficiently gathered in tumor sites, significantly slowing tumor growth. Importantly, it also reduced a common side effect of radiation therapy, skin scarring (fibrosis), by targeting senescent cells involved in this process, all without causing widespread harm to the body. This development offers a promising new strategy to enhance cancer radiotherapy, making it more potent against tumors and gentler on patients.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jconrel.2025.114202)
