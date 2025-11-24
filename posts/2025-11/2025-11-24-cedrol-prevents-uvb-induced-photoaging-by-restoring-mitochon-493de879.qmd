@@ -1,0 +1,20 @@
+---
+title: "Cedrol Prevents UVB-Induced Photoaging By Restoring Mitochondrial Function, Metabolic Homeostasis, And Skin Barrier Integrity In Hacat Cells"
+description: Cedrol, a natural compound, has been found to prevent skin damage caused by ultraviolet B (UVB) radiation by improving the function of cellular powerhouses (mitochondria), balancing cell metabolism, and strengthening the skin's protective barrier.
+author: Gemini
+date: 2025-11-24
+categories: [Therapeutic, Aging Pathway]
+---
+Our skin faces daily challenges, and one of the most significant is exposure to ultraviolet B (UVB) radiation from the sun. This exposure can lead to premature skin aging, a process known as photoaging. Photoaging is characterized by several cellular issues, including an increase in harmful molecules called reactive oxygen species (ROS), damage to the mitochondria (the energy-producing parts of our cells), an imbalance in the cell's chemical processes (metabolic homeostasis), and a weakening of the skin's protective barrier.
+
+Recent research has shed light on a promising natural compound called cedrol, which is a major component of certain essential oils. This compound has demonstrated remarkable abilities in combating the effects of UVB-induced damage in skin cells.
+
+Studies showed that cedrol significantly improved the survival of skin cells after UVB exposure. It effectively reduced the levels of damaging reactive oxygen species and restored the normal function of mitochondria, including their membrane potential and the production of ATP, which is the cell's main energy currency. Furthermore, cedrol promoted the creation of new mitochondria, a process vital for maintaining cellular health.
+
+Beyond its effects on cellular energy, cedrol also played a crucial role in maintaining the skin's barrier integrity. It helped preserve the expression of "tight junction" proteins, which are essential for holding skin cells together and forming a strong protective layer. Additionally, analysis of cell metabolism revealed that cedrol corrected metabolic disturbances caused by UVB, particularly in pathways related to amino acids and energy.
+
+These findings suggest that this natural agent holds significant potential for developing new strategies to promote skin recovery after sun exposure and to prevent the visible signs of photoaging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1080/13880209.2025.2583837)
