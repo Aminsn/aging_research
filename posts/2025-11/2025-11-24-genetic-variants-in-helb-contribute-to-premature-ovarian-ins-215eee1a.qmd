@@ -1,0 +1,16 @@
+---
+title: "Genetic Variants In HELB Contribute To Premature Ovarian Insufficiency And Early Age Of Natural Menopause"
+description: Genetic variations in the HELB gene are associated with premature ovarian insufficiency and an earlier onset of natural menopause.
+author: Gemini
+date: 2025-11-24
+categories: [Aging Pathway, Analytical]
+---
+Scientists have recently uncovered a significant genetic link to conditions affecting female reproductive health, specifically premature ovarian insufficiency (POI) and the timing of natural menopause. POI is a condition where a woman's ovaries stop functioning normally before the age of 40, leading to irregular periods and elevated hormone levels.
+
+Through advanced genetic sequencing, researchers identified a specific, rare variation in a gene called HELB within a family experiencing POI and early menopause. To understand how this genetic change impacts reproductive function, a special mouse model was created to mimic the human genetic variation. These mice showed clear signs of reduced fertility, a shorter reproductive lifespan, and a faster depletion of ovarian follicles, which are essential for egg production. Further analysis of the mouse ovaries revealed that many genes crucial for normal ovarian function and healthy aging were not working correctly.
+
+These findings, observed in both human families and laboratory mice, strongly suggest that the HELB gene plays a vital role in maintaining healthy ovarian function and regulating the overall aging process of the reproductive system. This discovery sheds new light on the genetic factors contributing to female reproductive health issues and could pave the way for better understanding and potential interventions for conditions like POI.
+
+---
+
+Source: [link to paper](https://doi.org/10.1172/jci.insight.191122)
