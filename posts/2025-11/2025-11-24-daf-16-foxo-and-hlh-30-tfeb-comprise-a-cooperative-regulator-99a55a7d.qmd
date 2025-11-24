@@ -1,0 +1,18 @@
+---
+title: "DAF-16/FOXO And HLH-30/TFEB Comprise A Cooperative Regulatory Axis Controlling Tubular Lysosome Induction In C. Elegans"
+description: Two key proteins, DAF-16/FOXO and HLH-30/TFEB, work together to promote the formation of tubular lysosomes, which are crucial for maintaining overall health and extending healthy aging in the nematode C. elegans.
+author: Gemini
+date: 2025-11-24
+categories: [Aging Pathway, Therapeutic]
+---
+We all aspire to live longer, but more importantly, to live healthier for longer. Scientists are actively researching ways to extend "healthspan"—the duration of life spent in good health. Inside our cells, tiny compartments called lysosomes act as the cell's recycling centers, breaking down waste and damaged components. Efficient lysosomes are crucial for maintaining cellular health.
+
+Researchers have uncovered that two important cellular regulators, DAF-16/FOXO and HLH-30/TFEB, collaborate in the tiny worm *C. elegans* to enhance the function of these recycling centers. Instead of remaining spherical, these lysosomes can transform into long, tube-like structures, significantly improving their efficiency in clearing cellular debris. This "tubular" shape is central to their enhanced activity.
+
+This improved cellular clean-up system leads to better overall health as the worms age, helping them maintain vitality for longer. Intriguingly, scientists discovered that they could artificially stimulate the formation of these tubular lysosomes by increasing the levels of another protein called SVIP. This finding suggests that targeting SVIP could offer a strategy to boost cellular recycling and promote healthier aging, even if one of the primary regulators is not functioning optimally.
+
+This discovery provides new insights into how our cells maintain health as we age and opens promising avenues for developing strategies to extend not just lifespan, but also healthspan.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41467-025-64832-x)
