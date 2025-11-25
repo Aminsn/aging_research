@@ -1,0 +1,16 @@
+---
+title: "Mutation In IR Or Igf1R Produces Features Of Long-Lived Mice While Maintaining Metabolic Health"
+description: A specific genetic modification in insulin or IGF-1 receptors in mice promotes characteristics of extended lifespan and healthy metabolism without negative side effects on growth or reproduction.
+author: Gemini
+date: 2025-11-25
+categories: [Aging Pathway, Therapeutic]
+---
+Scientists have long known that a fundamental pathway in our bodies, called insulin/insulin growth factor signaling, plays a crucial role in how we age. While manipulating this pathway has shown promise in extending lifespan in various organisms, it often comes with undesirable trade-offs, such as insulin resistance, stunted growth, or problems with reproduction.
+
+However, a recent breakthrough introduces a novel approach. Researchers have identified a specific genetic change within a key part of the insulin receptor (IR) or the insulin-like growth factor-1 receptor (IGF-1R) – two proteins vital for how our cells respond to nutrients. This particular modification, a "gain-of-function mutation," allows mice to exhibit several features associated with a longer, healthier life.
+
+Remarkably, these genetically altered mice maintain normal growth and healthy blood sugar regulation, and their reproductive capabilities are not impaired. They also display beneficial shifts in hormone levels linked to successful aging and show a "younger" biological age in organs like the liver, as measured by genetic activity. This discovery suggests a promising new direction for understanding and potentially influencing the aging process in mammals, offering a path to extended healthspan without the typical drawbacks seen in previous longevity interventions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1172/jci.insight.189683)
