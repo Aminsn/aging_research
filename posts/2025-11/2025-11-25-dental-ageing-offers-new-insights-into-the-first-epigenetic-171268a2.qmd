@@ -1,0 +1,16 @@
+---
+title: "Dental Ageing Offers New Insights Into The First Epigenetic Clock For Common Dolphins (<I>Delphinus Delphis</I>)"
+description: Scientists have developed the first epigenetic clock for common dolphins, which can accurately estimate their age using DNA from skin samples, even from deceased animals, and provides new insights into the reliability of dental aging methods.
+author: Gemini
+date: 2025-11-25
+categories: [Clock, Analytical]
+---
+Understanding the exact age of wild dolphins is crucial for their conservation, helping us track population changes, survival rates, and reproductive patterns. However, determining age in these marine mammals has always been a challenge. Traditionally, scientists have relied on examining teeth, similar to counting tree rings, but there have been concerns about the accuracy of this method, especially for older animals. 
+
+Now, a groundbreaking study introduces a new way to tell a dolphin's age: an "epigenetic clock." This innovative tool works by looking at specific chemical modifications on a dolphin's DNA, called DNA methylation, which change predictably as an animal gets older. Think of it like a biological timestamp embedded in their genetic material. 
+
+What makes this research particularly exciting is that it successfully developed this age-telling clock using skin samples from common dolphins that were found stranded or accidentally caught in fishing gear. This is a significant step because it confirms that even samples from deceased animals can be used reliably. The study also addressed previous doubts about dental aging, showing that it can indeed provide valuable information for calibrating these new DNA-based age estimates. This means we can now use existing collections of dolphin teeth to develop similar "clocks" for other dolphin and whale species. This new method offers a powerful tool for conservationists, providing more accurate data to protect these intelligent marine creatures.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/ece3.72424)
