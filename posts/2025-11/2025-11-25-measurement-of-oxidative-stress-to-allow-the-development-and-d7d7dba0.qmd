@@ -1,0 +1,12 @@
+---
+title: "Measurement Of Oxidative Stress To Allow The Development And Use Of New Therapies In Lower Urinary Tract Dysfunction: ICI-RS 2025"
+description: The paper highlights that oxidative stress plays a significant role in the development of various lower urinary tract dysfunctions and explores potential biomarkers and therapeutic strategies.
+author: Gemini
+date: 2025-11-25
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies constantly produce reactive oxygen species, which are natural byproducts of metabolism. Normally, our bodies have defenses to neutralize these, maintaining a healthy balance. However, when these harmful molecules overwhelm the body's defenses, it leads to a state called oxidative stress, causing damage to cells and tissues. This imbalance has been increasingly linked to a range of bladder and urinary problems, collectively known as lower urinary tract dysfunction (LUTD). These conditions can manifest as issues like an overactive bladder, difficulty emptying the bladder, bladder pain, or frequent nighttime urination. Researchers have found that reduced blood flow and oxygen supply to the pelvic region, often due to factors like aging, hardening of the arteries, or blockages in the bladder, can trigger this damaging oxidative stress. Identifying this stress is crucial for developing new treatments. Scientists are exploring specific indicators, such as a molecule called 8-hydroxydeoxyguanosine, which can be detected in blood and urine and signals DNA damage caused by oxidative stress. Promising new avenues for treatment include compounds that activate soluble guanylate cyclase, which have shown positive effects in addressing issues like prostate enlargement, bladder overactivity, and cellular aging. While significant progress has been made in understanding this connection, further research is essential to precisely link the severity of oxidative stress to specific urinary symptoms, pinpoint the most accurate diagnostic markers, and develop highly effective targeted therapies.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/nau.70179)
