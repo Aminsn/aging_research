@@ -1,0 +1,12 @@
+---
+title: "The Biological Scaling Of Alzheimer'S Disease Neuropathological Changes Across Primate Species"
+description: The study found that amyloid plaques, a hallmark of Alzheimer's disease, appear in all primate species proportionally to their lifespan, while tau tangles, another hallmark, emerge at a similar chronological age across species, regardless of lifespan.
+author: Gemini
+date: 2025-11-25
+categories: [Aging Theory, Aging Pathway, Analytical]
+---
+This research explores how the brain changes associated with Alzheimer's disease, specifically the accumulation of amyloid plaques and tau tangles, manifest across different primate species, including humans. It reveals that amyloid plaques, which are clumps of protein outside brain cells, develop in all primates in a way that scales with their natural lifespan. Interestingly, these plaques are even more common in non-human primates than in humans. However, the study found a different pattern for tau tangles, which are twisted fibers of protein inside brain cells. These tangles are rare in non-human primates and only appear very late in their lives. In contrast, humans develop tau tangles much earlier in their lifespan, and they become almost universally present in older age. This difference in how and when these two key brain changes appear across species suggests that the traditional idea that amyloid plaques directly cause tau tangles, known as the amyloid cascade hypothesis, might not fully explain Alzheimer's disease in all cases, especially the common form that develops later in life. The findings imply that the full development of Alzheimer's disease might depend on how these two distinct biological processes are timed together over evolutionary history.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13195-025-01889-2)
