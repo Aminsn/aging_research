@@ -1,0 +1,12 @@
+---
+title: "Mirna Changes With Ageing And Caloric Restriction In Male Rat Skeletal Muscle: Potential Roles In Muscle Cell Function"
+description: Ageing significantly alters the expression of numerous microRNAs in male rat skeletal muscle, and caloric restriction can normalize a substantial portion of these changes, influencing muscle cell function.
+author: Gemini
+date: 2025-11-25
+categories: [Aging Pathway, Lever, Analytical]
+---
+Our muscles naturally change as we get older, often leading to a decline in strength and function. Recent research has shed light on a key player in this process: tiny molecules called microRNAs, or miRNAs. These small molecules act like genetic switches, controlling which genes are turned on or off in our cells. This study found that as male rats age, many of these miRNAs change their activity in skeletal muscle. Some miRNAs become more active, potentially hindering muscle development, metabolism, and important cellular cleanup processes like autophagy, which removes damaged cell parts, and pathways like AMPK, crucial for energy balance and longevity. Other miRNAs become less active, possibly leading to an increase in inflammation. However, there's good news: the study also explored the impact of caloric restriction, a diet where calorie intake is reduced without causing malnutrition. It was discovered that this dietary intervention could reverse a significant number of these age-related miRNA changes, bringing them closer to levels seen in younger muscle. This suggests that caloric restriction might help maintain muscle health by rebalancing these crucial genetic regulators. For instance, one specific miRNA, miR-96-5p, which increases with age, was shown to negatively affect muscle cell survival, the creation of new mitochondria (the powerhouses of our cells), and the ability of muscle cells to develop and repair themselves. The findings offer new insights into how muscle ages and how lifestyle choices, like diet, could potentially counteract these effects.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s10522-025-10336-6)
