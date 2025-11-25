@@ -1,0 +1,18 @@
+---
+title: "Expanded Mosaic Chromosomal Alterations, Frailty, And Risks Of All-Cause And Cause-Specific Mortality Among Chinese And The UK Adults: Evidence From Two Prospective Cohorts"
+description: Expanded mosaic chromosomal alterations are significantly associated with an increased risk of death from all causes and specific diseases, particularly cancer, independent of an individual's frailty level.
+author: Gemini
+date: 2025-11-25
+categories: [Clock, Analytical]
+---
+As we age, our bodies undergo various changes, some visible and some hidden. Recent research sheds light on one such hidden change: large-scale genetic alterations in some of our blood cells, known as mosaic chromosomal alterations (mCAs). These alterations are essentially an indicator of "genomic aging," reflecting changes in our genetic material over time.
+
+This study, involving a large number of adults from China and the UK, investigated the link between these genetic changes and the risk of dying from various causes. Researchers also considered an individual's "frailty index," which is a measure of overall health and vulnerability based on a collection of health deficits, essentially indicating "phenotypic aging" or how old someone appears biologically.
+
+The findings revealed that individuals with a higher presence of these expanded mCAs faced an increased risk of death from all causes, as well as specific causes like cancer, circulatory diseases, and respiratory diseases. What's particularly significant is that this increased risk was largely independent of how frail an individual appeared. This means that even people who seem relatively healthy and not very frail could still have a higher risk of mortality, especially from cancer, if they carry these genetic alterations. In fact, the study found that individuals with fewer signs of frailty but with these expanded mCAs had a comparable or even higher risk of cancer mortality than those who were more frail but did not have these genetic changes.
+
+This research suggests that looking at these genetic alterations in blood cells could offer a valuable new way to assess an individual's risk of mortality, especially for cancer, complementing existing measures of overall health and frailty. It highlights the importance of understanding both the visible and invisible aspects of aging to gain a more complete picture of health and disease risk.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s12916-025-04452-w)
