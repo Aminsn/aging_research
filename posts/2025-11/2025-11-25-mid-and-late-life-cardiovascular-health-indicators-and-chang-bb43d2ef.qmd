@@ -1,0 +1,12 @@
+---
+title: "Mid- And Late-Life Cardiovascular Health Indicators And Changes In Biological Ageing Markers; A Multi-Cohort Study"
+description: Modifiable cardiovascular risk factors such as smoking, physical inactivity, and poor cardiometabolic health are linked to a faster pace of biological aging, while healthy lifestyle choices are associated with slower aging.
+author: Gemini
+date: 2025-11-25
+categories: [Clock, Lever, Analytical]
+---
+Our bodies age at different rates, a concept known as biological aging, which can be influenced by various factors. A recent multi-cohort study explored how heart health indicators in middle and later life affect this pace of aging. Researchers analyzed genetic markers from nearly 5,000 individuals across three different groups, using a specialized measure called DunedinPACE to track how quickly their bodies were aging at a cellular level. The findings revealed that certain lifestyle choices and health conditions significantly impact this process. For instance, habits like smoking, having a higher body mass index (BMI), and elevated blood sugar levels were consistently associated with a faster rate of biological aging over a five-year period. Conversely, engaging in regular physical activity, maintaining a healthy diet, and achieving better scores on a comprehensive cardiovascular health assessment were linked to a slower pace of aging. This research suggests that by focusing on and improving these modifiable aspects of cardiovascular health, individuals may be able to slow down their biological aging process and potentially reduce their risk of developing age-related diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.ebiom.2025.106016)
