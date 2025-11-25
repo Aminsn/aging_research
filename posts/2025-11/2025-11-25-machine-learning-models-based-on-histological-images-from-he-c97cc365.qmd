@@ -1,0 +1,18 @@
+---
+title: "Machine-Learning Models Based On Histological Images From Healthy Donors Identify Imageqtls And Predict Chronological Age"
+description: Machine-learning models can analyze microscopic tissue images from healthy individuals to identify genetic factors influencing tissue appearance and accurately predict a person's chronological age.
+author: Gemini
+date: 2025-11-25
+categories: [Clock, Analytical]
+---
+Our bodies are incredibly complex, and understanding how our genes influence the tiny details of our tissues can offer profound insights into health and disease. Recent research has unveiled a powerful new approach that uses artificial intelligence to decode these intricate relationships directly from microscopic images of healthy human tissues. 
+
+Scientists developed a sophisticated system that connects the visual characteristics seen in tissue samples—like the shape and size of cell nuclei—to an individual's genetic makeup, the activity of their genes, and even their chronological age. By analyzing thousands of these detailed images, the researchers identified hundreds of "image quantitative trait loci" (imageQTLs). Think of imageQTLs as specific genetic variations that are consistently linked to particular visual features within our tissues. For example, a certain genetic marker might be associated with a specific pattern in how cells are arranged or the size of their nuclei. 
+
+Beyond just identifying these links, the team also created advanced deep-learning models. These AI models can accurately predict which genes are active in a tissue simply by looking at its image. Even more remarkably, another model was developed that can predict a person's actual age directly from these tissue images, especially by focusing on features related to the cell nucleus. This was made possible by a clever computational method that compresses very large image files and extracts meaningful features from them. 
+
+This groundbreaking work provides a comprehensive framework for exploring the connections between our genes, how our genes are expressed, our age, and the physical appearance of our tissues. It deepens our understanding of how genetic changes influence tissue structure and offers new avenues for studying age-related changes in the body. All the tools and data from this study have been made publicly available, paving the way for future discoveries in medicine and biology.
+
+---
+
+Source: [link to paper](https://doi.org/10.1073/pnas.2423469122)
