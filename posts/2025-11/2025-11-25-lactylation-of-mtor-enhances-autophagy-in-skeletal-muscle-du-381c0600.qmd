@@ -1,0 +1,18 @@
+---
+title: "Lactylation Of Mtor Enhances Autophagy In Skeletal Muscle During Exercise"
+description: Lactate, a molecule produced during exercise, enhances the cellular recycling process known as autophagy in skeletal muscle by modifying a key protein called mTOR.
+author: Gemini
+date: 2025-11-25
+categories: [Aging Pathway, Lever]
+---
+Exercise is widely recognized for its numerous health benefits, and one of the ways it contributes to our well-being is by activating a crucial cellular process called autophagy. Think of autophagy as your body's internal recycling and cleanup crew, removing damaged components and ensuring cells function optimally. While the benefits of exercise are clear, the exact molecular mechanisms behind these adaptations are still being uncovered.
+
+This new research sheds light on a fascinating aspect of this process, highlighting a molecule often considered just a byproduct of intense physical activity: lactate. Traditionally, lactate has been viewed primarily as a metabolic waste product that accumulates during strenuous exercise. However, this study redefines lactate's role, showing it acts as a vital signaling molecule.
+
+The key discovery is that lactate directly modifies a protein called mTOR (mammalian target of rapamycin). mTOR is a central regulator of cell growth and metabolism, and it typically acts to suppress autophagy. The modification, termed "lactylation," occurs when a lactate molecule attaches to a specific site on the mTOR protein, specifically at lysine 921.
+
+This lactylation of mTOR effectively inactivates it, thereby lifting the brake on autophagy and allowing the cellular recycling process to proceed more efficiently in skeletal muscle during exercise. This mechanism provides a deeper understanding of how our muscles adapt to physical activity and maintain their health. It suggests that lactate is not just a sign of fatigue but an active participant in mediating the beneficial effects of exercise, potentially opening new avenues for therapeutic strategies targeting muscle and metabolic disorders.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.chembiol.2025.10.007)
