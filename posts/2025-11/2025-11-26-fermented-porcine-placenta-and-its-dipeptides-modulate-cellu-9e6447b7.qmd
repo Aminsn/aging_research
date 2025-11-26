@@ -1,0 +1,16 @@
+---
+title: "Fermented Porcine Placenta And Its Dipeptides Modulate Cellular Senescence In Human Keratinocytes"
+description: Fermented porcine placenta and its dipeptides demonstrate anti-aging effects on human skin cells by improving mitochondrial function and reducing markers associated with cellular aging.
+author: Gemini
+date: 2025-11-26
+categories: [Aging Pathway, Therapeutic]
+---
+Our skin constantly faces challenges that lead to aging, such as damage from environmental stressors, declining energy production within cells, and disruptions in cell growth. Recent research has explored natural compounds that could help combat these effects. One such compound, derived from fermented porcine placenta, has shown promising results in laboratory studies on human skin cells, specifically keratinocytes, which are the main type of cell found in the outer layer of our skin.
+
+This compound was found to significantly reduce several key indicators of cellular aging. It decreased the activity of an enzyme called senescence-associated β-galactosidase and lowered the levels of a protein known as p16, both of which are commonly associated with older, less functional cells. Furthermore, it boosted the production of adenosine triphosphate (ATP), the primary energy currency of cells, and activated important signaling pathways (SIRT1–PGC-1α) that are crucial for maintaining healthy mitochondria, the powerhouses of our cells.
+
+The study also delved into specific components of this fermented product, identifying two dipeptides—small protein fragments—called leucine–glycine and proline–hydroxyproline, which contribute to its beneficial effects. Leucine–glycine was observed to improve the balance of important molecules involved in cellular energy and antioxidant defense, while proline–hydroxyproline influenced cell cycle regulation and increased the expression of sirtuin 3, a protein linked to cellular protection. Interestingly, the complete fermented product exhibited a broader range of anti-aging benefits than the individual dipeptides alone, suggesting a synergistic action of its various bioactive components. These findings highlight a multi-faceted approach to combating skin aging by enhancing cellular energy and stress response mechanisms.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/cimb47110941)
