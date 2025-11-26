@@ -1,0 +1,12 @@
+---
+title: "Mitochondrial Sirtuins Sir-2.2 And Sir-2.3 Regulate Lifespan In C. Elegans"
+description: A study revealed that removing the activity of mitochondrial sirtuins sir-2.2 or sir-2.3 in C. elegans worms can extend their lifespan by over 25%.
+author: Gemini
+date: 2025-11-26
+categories: [Aging Pathway, Aging Theory]
+---
+Our bodies, and indeed those of many organisms, contain tiny cellular powerhouses called mitochondria, which are crucial for energy production. Within these mitochondria, there's a family of proteins known as sirtuins, which are like cellular managers, overseeing various biochemical processes. While some sirtuins are well-understood, the roles of others have been a bit of a mystery. Recent research using the tiny worm *C. elegans*, a common model organism in biology, has shed light on two specific mitochondrial sirtuins. Scientists discovered that when these worms were genetically modified to lack either of these particular sirtuins, they lived significantly longer—up to 25-30% longer than their counterparts. This extended lifespan, however, wasn't universal; it depended on the worms' diet, suggesting a complex interplay between these proteins, nutrition, and aging. Further investigation revealed that the absence of these sirtuins led to changes in how the worms handled oxidative stress, a type of cellular damage caused by reactive molecules. It appears that a mild increase in stress, known as a hormetic response, might be contributing to their longer lives. Interestingly, while these two sirtuins are similar, they don't completely overlap in function, indicating they each have unique ways of influencing stress response and longevity. These findings open new avenues for understanding the intricate mechanisms of aging and could potentially inform future strategies for promoting healthy longevity.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/genetics/iyaf185)
