@@ -1,0 +1,16 @@
+---
+title: "Proteome Organ Aging And Cardiometabolic Risk In A Population At Risk For Heart Failure"
+description: Accelerated biological aging in the heart, arteries, and kidneys, as measured by proteins in the blood, is linked to the severity of heart failure, with some differences observed between men and women.
+author: Gemini
+date: 2025-11-26
+categories: [Clock, Analytical]
+---
+Our bodies age at different rates, and this biological aging can vary from organ to organ. This variation can significantly impact our risk for chronic diseases, including heart failure. Recent advancements in "proteomics" – the study of proteins – allow scientists to measure how quickly specific organs like the heart, arteries, and kidneys are aging beyond a person's chronological age. This accelerated aging, known as organ-specific aging acceleration (OAA), can be detected through blood tests.
+
+New research explored how this organ aging relates to the severity of heart failure and whether these patterns differ between men and women. The findings revealed a clear connection: faster aging in the heart, arteries, and kidneys is indeed associated with more severe stages of heart failure. For instance, accelerated heart aging was linked to advanced heart failure (Stage C/D) in both men and women. Interestingly, accelerated artery aging was specifically tied to heart failure severity only in women, suggesting a potential sex-specific role of blood vessel aging. Furthermore, having accelerated aging in multiple organs (two or more) was associated with over three times higher odds of being in advanced stages of heart failure.
+
+The study also identified key risk factors for this accelerated organ aging. Diabetes emerged as the most relevant factor contributing to faster aging in both arteries and kidneys. Additionally, a measure called the triglyceride-glucose body mass index (TyG-BMI), which reflects insulin resistance and metabolic health, was significantly associated with advanced kidney aging, particularly in women. These insights suggest that metabolic issues like diabetes and insulin resistance might share common underlying mechanisms with the aging processes that contribute to heart failure. Understanding these connections could pave the way for more personalized approaches to prevent and manage heart failure, potentially by targeting organ-specific aging processes and related metabolic risk factors.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s12933-025-02980-6)
