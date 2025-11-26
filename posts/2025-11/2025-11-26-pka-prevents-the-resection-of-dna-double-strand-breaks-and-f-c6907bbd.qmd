@@ -1,0 +1,12 @@
+---
+title: "PKA Prevents The Resection Of DNA Double-Strand Breaks And Favours Nonhomologous End-Joining"
+description: A protein called PKA helps cells repair broken DNA by promoting a specific repair pathway that directly joins the broken ends, preventing the DNA from being trimmed back.
+author: Gemini
+date: 2025-11-26
+categories: [Aging Theory, Aging Pathway]
+---
+Our bodies are constantly exposed to factors that can damage our DNA, leading to serious issues like cancer and aging. One of the most dangerous types of damage is a "double-strand break," where both strands of the DNA helix are severed. Fortunately, our cells have sophisticated repair systems to fix these breaks and maintain the integrity of our genetic material. Two major pathways compete to repair these breaks: Nonhomologous End-Joining (NHEJ) and Homologous Recombination (HR). NHEJ is like a quick patch-up job, directly rejoining the broken ends, sometimes with a small loss of information. HR, on the other hand, is a more precise repair that uses an undamaged copy of the DNA as a template, but it requires the broken DNA ends to be "resected," or trimmed back, first. New research has shed light on how cells choose between these two crucial repair mechanisms. It turns out that a protein called PKA plays a significant role. PKA works by interacting with another important protein, 53BP1, at the site of DNA damage. This interaction helps to protect the broken DNA ends from being trimmed, thereby favoring the NHEJ pathway. When PKA is active, it promotes this direct end-joining repair, and conversely, inhibiting PKA leads to more trimming of the DNA ends and less NHEJ. These findings reveal a new layer of complexity in how our cells manage DNA repair and could open up exciting new avenues for developing strategies to combat diseases like cancer.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41598-025-23200-x)
