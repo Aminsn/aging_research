@@ -1,0 +1,20 @@
+---
+title: "Ipscs Derived Sevs Ameliorate NK Cell Senescence By Targeting CISH-Stat3"
+description: Small vesicles released by induced pluripotent stem cells can reverse the aging of natural killer immune cells and enhance their ability to fight tumors by targeting a specific cellular pathway.
+author: Gemini
+date: 2025-11-26
+categories: [Therapeutic, Aging Pathway, Analytical]
+---
+Our immune system’s natural killer (NK) cells are crucial for fighting off infections and cancer. However, as we age, these cells can become "senescent," meaning they lose their effectiveness and ability to protect us. This decline in function, known as immunosenescence, contributes to increased susceptibility to diseases like cancer in older individuals.
+
+Recent research has explored a novel approach to rejuvenate these aging NK cells using tiny messengers called small extracellular vesicles (sEVs) derived from induced pluripotent stem cells (iPSCs). iPSCs are a special type of stem cell that can develop into almost any cell type in the body. These iPSC-sEVs act like tiny packages, delivering beneficial contents to other cells.
+
+This study found that treating aged mice with iPSC-sEVs effectively reversed many signs of NK cell aging. The rejuvenated NK cells showed a significantly improved ability to kill tumor cells and even helped recruit other immune cells, like T cells, to the tumor site.
+
+The mechanism behind this rejuvenation involves a specific cellular pathway. The iPSC-sEVs work by reducing the activity of a protein called CISH (Cytokine-inducible SH2-containing protein) in senescent NK cells. When CISH activity is lowered, another crucial protein, STAT3 (Signal Transducer and Activator of Transcription 3), becomes more active. This activation of STAT3 is key to restoring the NK cells' youthful function and their ability to fight off threats.
+
+These findings suggest that iPSC-sEVs could be a promising "cell-free" therapy – meaning it doesn't involve directly transplanting cells – for boosting the immune system in the elderly and potentially treating age-related diseases, including cancer.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13287-025-04761-0)
