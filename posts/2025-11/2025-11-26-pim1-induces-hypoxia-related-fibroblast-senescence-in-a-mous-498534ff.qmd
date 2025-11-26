@@ -1,0 +1,18 @@
+---
+title: "Pim1 Induces Hypoxia-Related Fibroblast Senescence In A Mouse Model Of Stress Urinary Incontinence"
+description: The protein PIM1 is a key factor linking low oxygen conditions to cellular aging in fibroblasts, which contributes to stress urinary incontinence in a mouse model, and inhibiting PIM1 shows promise as a treatment.
+author: Gemini
+date: 2025-11-26
+categories: [Aging Pathway, Therapeutic]
+---
+Many women experience stress urinary incontinence (SUI), a condition where activities like coughing or sneezing lead to involuntary urine leakage. This often occurs due to weakened pelvic floor muscles and tissues, frequently after events like childbirth. Recent research sheds light on a crucial mechanism behind this condition, focusing on how a lack of oxygen, known as hypoxia, can contribute to tissue damage. 
+
+Scientists have discovered that when tissues in the vaginal wall experience low oxygen levels, a specific protein called PIM1 becomes highly active. This active PIM1 then triggers a process called cellular senescence in fibroblasts, which are cells vital for maintaining tissue structure. Cellular senescence is essentially a state where cells stop dividing and start releasing substances that can harm surrounding healthy tissue, contributing to the weakening seen in SUI.
+
+The study found that PIM1 promotes this cellular aging by halting the cell cycle and impairing the cell's ability to repair its DNA. Importantly, when researchers used a compound called AZD-1208 to block PIM1, they observed significant improvements in bladder function and a reduction in these aged cells in a mouse model.
+
+These findings suggest a new understanding of how SUI develops, highlighting a pathway involving low oxygen, PIM1, and cellular aging. Targeting PIM1 with inhibitors like AZD-1208 could offer a novel therapeutic strategy for treating SUI, particularly for prevention after childbirth.
+
+---
+
+Source: [link to paper](https://doi.org/10.1371/journal.pone.0335501)
