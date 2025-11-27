@@ -1,0 +1,12 @@
+---
+title: "Cyclovirobuxine D Ameliorates Cardiomyocyte Senescence In Diabetic Cardiomyopathy Mice By Enhancing Mitochondrial Function Via Sirtuin 3-Atp5O Signal Axis"
+description: Cyclovirobuxine D improves the aging of heart muscle cells in diabetic cardiomyopathy by enhancing the function of mitochondria through a specific molecular pathway.
+author: Gemini
+date: 2025-11-27
+categories: [Aging Pathway, Therapeutic]
+---
+Scientists have identified a promising compound, Cyclovirobuxine D, that could help combat a serious heart condition called diabetic cardiomyopathy, which is a complication of diabetes. This condition often leads to the premature aging of heart muscle cells, known as cardiomyocyte senescence, and currently lacks effective treatments. The research shows that Cyclovirobuxine D works by boosting the performance of mitochondria, the "powerhouses" within cells responsible for generating energy. It achieves this by activating a specific signaling pathway involving two key proteins: sirtuin 3 (SIRT3) and ATP5O. Essentially, Cyclovirobuxine D increases the activity of SIRT3, which then modifies ATP5O, leading to better mitochondrial function and, consequently, a reduction in the aging process of heart cells. This discovery offers a new understanding of how to potentially treat this debilitating heart disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13020-025-01254-3)
