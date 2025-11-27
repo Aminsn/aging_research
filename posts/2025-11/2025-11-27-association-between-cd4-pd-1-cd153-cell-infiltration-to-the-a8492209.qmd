@@ -1,0 +1,20 @@
+---
+title: "Association Between Cd4+/PD-1+/Cd153+ Cell Infiltration To The Aging Liver And Progression Of Hepatic Steatosis In A Novel MASH Model NI Mouse"
+description: A study identified a link between the infiltration of specific immune cells, called CD4+/PD-1+/CD153+ cells, into the aging liver and the worsening of fat accumulation in a new mouse model of metabolic disorder-associated steatohepatitis.
+author: Gemini
+date: 2025-11-27
+categories: [Aging Theory, Aging Pathway]
+---
+Metabolic disorder-associated steatohepatitis, or MASH, is a serious liver condition that can lead to liver cancer. Recent research has shed light on a particular type of immune cell, known as senescence-associated T (SA-T) cells, which are identified by specific markers (CD4+/PD-1+/CD153+). These cells are known to release substances that cause ongoing inflammation in the body.
+
+Scientists have discovered that these SA-T cells play a role in the accumulation of fat in aging liver cells, a process called hepatic steatosis. To better understand this, a new mouse model, called the Nishiura (NI) mouse, was developed. These mice, even on a normal diet, showed signs of liver damage, including discoloration and tumor-like growths as they aged. This was accompanied by an increase in SA-T cells in their spleen and their infiltration into the liver.
+
+Further experiments showed that when SA-T cells from older NI mice were transferred into younger NI mice, it led to severe fat accumulation and scarring (fibrosis) in the liver. This suggests a direct role for these cells in driving liver disease progression.
+
+Importantly, a study in humans also supported these findings, showing a connection between the number of SA-T cells in liver tissue samples and the severity of hepatitis in older patients with fatty liver disease.
+
+This research highlights that these specific immune cells are critical players in the development and progression of MASH, especially as the liver ages, offering new avenues for understanding and potentially treating this complex disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.labinv.2025.104260)
