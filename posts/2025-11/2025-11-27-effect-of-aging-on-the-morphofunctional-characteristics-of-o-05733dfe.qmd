@@ -1,0 +1,16 @@
+---
+title: "Effect Of Aging On The Morphofunctional Characteristics Of Oral Cavity Mesenchymal Stromal Cells: A Scoping Review"
+description: Aging, particularly after 35 years, negatively impacts the ability of mesenchymal stromal cells from the oral cavity to multiply and transform into other cell types, though their surface markers remain stable.
+author: Gemini
+date: 2025-11-27
+categories: [Aging Theory, Therapeutic]
+---
+As we age, our bodies undergo many changes, and even our cells are affected. A recent review looked into how aging influences special cells found in the mouth, called mesenchymal stromal cells (MSCs). These cells are crucial for regeneration and repair because they can self-renew and differentiate into various cell types, like bone or cartilage cells.
+
+The findings indicate that around the age of 35, these oral MSCs start to show signs of "senescence," which is essentially cellular aging. This process reduces their ability to multiply (proliferation), survive (viability), form colonies (clonogenic capacity), and transform into specialized cells, especially bone and cartilage cells. Younger individuals generally have more robust MSCs in these aspects.
+
+Interestingly, certain identifying markers on the surface of these MSCs do not change with age, suggesting that while their function might decline, their basic identity remains intact. The review also highlighted that even with age-related limitations, MSCs from older donors still hold promise for therapies, particularly if they are used early in laboratory cultures. This suggests a need for more research into ways to boost the regenerative power of these cells from older individuals.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/biomedicines13112776)
