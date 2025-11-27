@@ -1,0 +1,18 @@
+---
+title: "Ace1-Targeting Peptide Acein Ameliorates UV-Induced Skin Damage And Aging In Vivo And In Vitro Via Downregulation Of The Pro-Aging Factor Clec4G"
+description: A peptide called Acein has been found to reduce skin damage and aging caused by ultraviolet (UV) radiation by targeting a specific protein and decreasing a factor associated with aging.
+author: Gemini
+date: 2025-11-27
+categories: [Aging Pathway, Therapeutic]
+---
+Our skin faces constant challenges, and one of the most significant is damage from ultraviolet (UV) radiation, which can lead to premature aging, often called photoaging. This process involves a cascade of harmful effects, including increased oxidative stress, inflammation, and the breakdown of collagen, a vital protein for skin elasticity and structure. 
+
+Recent research has explored the potential of a special type of molecule, a peptide, to combat these effects. This particular peptide, previously shown to extend the lifespan in simple organisms by regulating a specific protein, has now been investigated for its ability to protect human skin from UV-induced damage. 
+
+In laboratory studies, this peptide demonstrated remarkable protective qualities. It effectively reduced the signs of cellular damage and inflammation caused by UV exposure. Furthermore, it helped prevent the degradation of collagen and improved the overall health and movement of skin cells. The research also uncovered a key mechanism: UV radiation increases the levels of two specific proteins in the skin, and the peptide was able to reverse this increase. Further investigation revealed that these two proteins interact, with one acting as a crucial messenger in the photoaging process. 
+
+Moving beyond lab dishes, studies on live models confirmed these promising results. Topical application of the peptide significantly reduced oxidative stress, inflammation, and collagen breakdown in the skin, while also mitigating a cellular process linked to aging. These findings suggest that this peptide could be a novel and effective ingredient for developing new ways to protect human skin from the damaging and aging effects of UV radiation.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bcp.2025.117542)
