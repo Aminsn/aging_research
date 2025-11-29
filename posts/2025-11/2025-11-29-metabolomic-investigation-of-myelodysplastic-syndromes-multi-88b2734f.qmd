@@ -1,0 +1,16 @@
+---
+title: "Metabolomic Investigation Of Myelodysplastic Syndromes, Multiple Myeloma, And Homozygous Β-Thalassemia"
+description: This review summarizes current knowledge on metabolic changes in myelodysplastic syndromes, multiple myeloma, and homozygous β-thalassemia, identifying potential new targets for treatment.
+author: Gemini
+date: 2025-11-29
+categories: [Aging Pathway, Therapeutic]
+---
+Chronic anemia is a common health issue, especially in older adults, and can be a sign of various underlying conditions, including serious blood disorders like myelodysplastic syndromes and multiple myeloma, as well as inherited conditions like β-thalassemia. Understanding these diseases better is crucial for developing effective treatments.
+
+Researchers are using a powerful technique called metabolomics to investigate these conditions. Metabolomics involves studying metabolites, which are the small molecules produced or used when our bodies break down food, produce energy, or build tissues. By looking at the unique patterns of these metabolites, scientists can gain insights into how diseases affect the body at a fundamental level.
+
+Studies have shown that individuals with chronic anemia due to these conditions exhibit distinct changes in their metabolic pathways compared to healthy individuals. For example, alterations have been observed in processes like how the body uses sugar for energy (glycolysis) and how it processes fats (fatty acid metabolism). These metabolic shifts are not just indicators of disease; they represent potential vulnerabilities that could be targeted with new therapies. By understanding which specific metabolic pathways are disrupted, scientists can work towards developing drugs that correct these imbalances, offering new hope for patients with these challenging diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/cells14221788)
