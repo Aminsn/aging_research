@@ -1,0 +1,18 @@
+---
+title: "Regional Brain Aging Patterns Reveal Disease-Specific Pathways Of Neurodegeneration"
+description: A new deep learning framework can create detailed maps of brain aging, revealing specific patterns of accelerated aging linked to different neurodegenerative diseases like Alzheimer's, frontotemporal dementia, and schizophrenia.
+author: Gemini
+date: 2025-11-29
+categories: [Clock, Analytical]
+---
+Our brains age, but not always uniformly. This uneven aging can be a key indicator of neurological and psychiatric disorders. Traditionally, methods to assess brain aging have provided a single, overall "brain age" number, which doesn't capture the complex, regional differences that are crucial for understanding these conditions. 
+
+Now, a new advanced artificial intelligence tool, called BrainAgeMap, offers a more detailed view. This tool uses standard MRI scans to create highly specific, pixel-by-pixel maps of how different parts of the brain are aging compared to a person's actual age. This difference, known as brain-predicted age difference (brain-PAD), can highlight areas of accelerated aging.
+
+The researchers found that this tool can identify unique patterns of accelerated brain aging specific to various disorders, including Alzheimer's disease, a type of dementia called frontotemporal dementia, and even schizophrenia. For instance, in individuals with mild cognitive impairment (a precursor to Alzheimer's), the hippocampus—a brain region vital for memory—showed accelerated aging, which could predict whether their condition would worsen. Furthermore, the maps revealed a strong connection between accelerated aging in the temporal lobe and the presence of tau pathology, a hallmark of Alzheimer's disease, providing a link to the underlying molecular changes. The regional brain aging patterns were also connected to individual differences in memory function in people with mild cognitive impairment and Alzheimer's.
+
+This innovative approach provides a powerful way to pinpoint the specific pathways of neurodegeneration, opening doors for earlier and more accurate diagnoses, better ways to group patients for treatment, and improved monitoring of how well new therapies are working.
+
+---
+
+Source: [link to paper](https://doi.org/10.1101/2025.11.12.25339989)
