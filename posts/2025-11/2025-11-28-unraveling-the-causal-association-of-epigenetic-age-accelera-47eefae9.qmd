@@ -1,0 +1,20 @@
+---
+title: "Unraveling The Causal Association Of Epigenetic Age Acceleration With Common Oral Diseases And Its Underlying Mechanisms: Findings From Mendelian Randomization And Integrative Genetic Analysis"
+description: This study found a causal link between accelerated biological aging, as measured by epigenetic clocks, and an increased risk of certain common oral diseases like periodontitis, stomatitis, and oral lichen ruber planus.
+author: Gemini
+date: 2025-11-28
+categories: [Clock, Aging Pathway, Analytical]
+---
+Our bodies age at different rates, and sometimes our "biological age" can be older than our actual years. This phenomenon, known as epigenetic age acceleration, is measured by looking at chemical tags on our DNA called methylation patterns, which change over time and are tracked by "epigenetic clocks."
+
+Recent research has shed light on a fascinating connection between this accelerated biological aging and the health of our mouths. Using a clever research technique called Mendelian randomization, which leverages genetic variations to understand cause-and-effect relationships, scientists have discovered that a faster biological clock can directly increase the risk of developing certain common oral diseases.
+
+Specifically, one epigenetic clock called GrimAge was linked to a higher chance of periodontitis, a severe gum disease. Another clock, PhenoAge, showed an association with stomatitis, which is inflammation of the mouth lining. Furthermore, intrinsic epigenetic age acceleration (IEAA) was found to increase the risk of oral lichen ruber planus, a chronic inflammatory condition affecting the mouth.
+
+Beyond just identifying these links, the study also delved into the underlying biological pathways and specific genes that might be involved. By integrating genetic analyses, researchers pinpointed genes whose activity might explain how accelerated biological aging contributes to these oral health issues.
+
+These findings are crucial because they suggest that interventions aimed at slowing down biological aging could potentially offer new strategies for preventing and managing common oral diseases. Understanding these connections opens doors for future research into personalized approaches to oral health based on an individual's biological age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13148-025-02005-9)
