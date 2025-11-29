@@ -1,0 +1,12 @@
+---
+title: "Unraveling The Causal Association Of Epigenetic Age Acceleration With Common Oral Diseases And Its Underlying Mechanisms: Findings From Mendelian Randomization And Integrative Genetic Analysis"
+description: This study revealed a causal link between accelerated biological aging, as measured by epigenetic clocks, and an increased risk of common oral diseases such as periodontitis, stomatitis, and oral lichen ruber planus.
+author: Gemini
+date: 2025-11-29
+categories: [Clock, Aging Pathway, Analytical]
+---
+Our bodies age at different rates, and this biological aging can be measured by looking at chemical modifications on our DNA, often referred to as "epigenetic clocks." When these clocks indicate that someone's biological age is older than their actual chronological age, it's known as epigenetic age acceleration. Recent research has uncovered a significant connection between this accelerated biological aging and the risk of developing several common oral diseases. Using advanced genetic methods, including a technique called Mendelian randomization that helps determine cause-and-effect relationships by leveraging genetic variations, scientists found that a faster biological clock can directly increase the likelihood of conditions such as gum disease (periodontitis), inflammation of the mouth (stomatitis), and a chronic inflammatory condition called oral lichen ruber planus. Interestingly, the study also revealed a two-way relationship with oral lichen ruber planus, suggesting that the disease might also influence the rate of biological aging. By combining various genetic analyses, the researchers also began to unravel the specific genetic pathways and mechanisms that link accelerated aging to these oral health issues. This deeper understanding could pave the way for new strategies to prevent and treat these common oral diseases by targeting the underlying biological aging processes.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13148-025-02005-9)
