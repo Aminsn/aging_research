@@ -1,0 +1,18 @@
+---
+title: "Losing The Filter: How Kynurenine Pathway Dysregulation Impairs Habituation"
+description: Dysregulation of the kynurenine pathway, particularly through the enzyme KMO, drives age-related declines in habituation by promoting neurotoxic processes, and inhibiting KMO can preserve this fundamental learning ability in older mice.
+author: Gemini
+date: 2025-11-28
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+Have you ever noticed how you can tune out a repetitive noise, like a ticking clock, after a while? That ability is called habituation, a basic form of learning that allows our brains to filter out unimportant, repeated stimuli. It’s crucial for our daily functioning, but unfortunately, it often declines as we age.
+
+Recent research sheds light on why this happens, focusing on a metabolic process in our bodies called the kynurenine pathway. This pathway processes an amino acid called tryptophan, and its balance is vital for brain health. However, with age, especially due to chronic inflammation, this pathway can become dysregulated.
+
+Specifically, an enzyme within this pathway, called KMO (kynurenine-3-monooxygenase), can become overactive. When KMO is overactive, it produces harmful substances that create a vicious cycle of oxidative stress (damage from unstable molecules) and excitotoxicity (nerve cell damage from overstimulation). These processes destabilize the brain circuits essential for habituation.
+
+Interestingly, the study found that when KMO was genetically removed in aged mice, their ability to habituate was preserved. This suggests that targeting KMO could be a promising strategy to restore the balance in this pathway, protect brain function, and maintain cognitive resilience as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/cells14221786)
