@@ -1,0 +1,16 @@
+---
+title: "Fibroblast Growth Factor Signaling Induces A Chondrocyte-Like State Of Peripheral Nerve Fibroblast During Aging"
+description: A recent study found that signaling from fibroblast growth factors, originating from fat cells, causes peripheral nerve fibroblasts to transform into a cartilage-like state during aging.
+author: Gemini
+date: 2025-11-28
+categories: [Aging Pathway, Analytical, Therapeutic]
+---
+As we age, our peripheral nerves, which are crucial for transmitting signals between the brain and the rest of the body, undergo structural and cellular changes that can lead to a decline in their function. These changes can impact our quality of life and increase the risk of various diseases. Scientists have been working to understand the underlying mechanisms driving these age-related alterations.
+
+New research has shed light on some of these molecular processes. By examining the sciatic nerves of mice at a very detailed level, researchers observed shifts in the types of immune cells called macrophages present during nerve aging. Initially, there was an increase in macrophages that "eat" cellular debris, followed by a rise in those associated with long-term inflammation.
+
+A significant discovery from this work is the role of specific signaling molecules called fibroblast growth factors (FGFs). These FGFs, released by fat cells (adipocytes), appear to activate a transformation in peripheral nerve fibroblasts. Fibroblasts are cells that produce the connective tissue in our bodies. Under the influence of FGF signaling, these nerve fibroblasts begin to resemble chondrocytes, which are the cells responsible for forming cartilage. This "chondrocyte-like" state is characterized by the expression of certain genetic markers, and experiments showed that one type of FGF (FGF2) could induce this change in human nerve fibroblasts, while another (FGF1) could block it. This finding provides crucial insights into the molecular pathways contributing to the aging of our peripheral nerves.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41467-025-65297-8)
