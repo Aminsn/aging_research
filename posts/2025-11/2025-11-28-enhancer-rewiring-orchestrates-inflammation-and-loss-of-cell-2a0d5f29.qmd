@@ -1,0 +1,18 @@
+---
+title: "Enhancer Rewiring Orchestrates Inflammation And Loss Of Cell Identity During Muscle Stem Cell Aging"
+description: Aging muscle stem cells, particularly in males, exhibit increased inflammation and lose their specialized identity due to significant changes in how their DNA is organized and regulated.
+author: Gemini
+date: 2025-11-28
+categories: [Aging Theory, Aging Pathway, Analytical]
+---
+As we age, our bodies lose the ability to repair and regenerate tissues, a process often linked to the decline of our stem cells. This is particularly true for skeletal muscle stem cells, known as MuSCs, which become less effective with age, leading to reduced muscle repair capabilities.
+
+Recent research has shed light on the molecular changes occurring in these crucial cells. Scientists used advanced techniques to examine the entire genetic landscape, including how genes are turned on or off (epigenome), which genes are active (transcriptome), and how the DNA is folded within the cell (3D genome), in MuSCs from mice of different ages and sexes.
+
+The findings revealed that even in early stages of aging, especially in male mice, MuSCs start to show signs of increased inflammation and begin to lose their unique muscle-specific characteristics. As aging progresses, these issues become more pronounced, with even higher levels of inflammation and widespread activation of "enhancers"—regions of DNA that act like switches to boost gene activity. There are also significant alterations in the "3D genome rewiring," meaning the way the DNA is physically organized inside the cell nucleus changes dramatically.
+
+These molecular shifts, including changes in how genes are regulated and the three-dimensional structure of the DNA, contribute to the degenerative changes seen in aging muscle. They also affect how muscle stem cells respond to signals and ultimately lead to a loss of their ability to maintain and repair muscle tissue. Understanding these progressive molecular changes is key to explaining why muscle stem cells become less functional with age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/acel.70289)
