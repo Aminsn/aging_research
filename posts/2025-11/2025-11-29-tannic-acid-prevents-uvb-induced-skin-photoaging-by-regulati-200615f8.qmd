@@ -1,0 +1,20 @@
+---
+title: "Tannic Acid Prevents UVB-Induced Skin Photoaging By Regulating Ferroptosis Through Nrf2/Slc7A11/Gpx4 Signaling"
+description: Tannic acid effectively prevents skin aging caused by ultraviolet B (UVB) radiation by reducing oxidative stress and a specific type of cell death called ferroptosis, through the activation of a protective cellular pathway.
+author: Gemini
+date: 2025-11-29
+categories: [Therapeutic, Aging Pathway]
+---
+Our skin is constantly exposed to environmental factors, and one of the biggest culprits for accelerated aging, known as photoaging, is ultraviolet B (UVB) radiation. This exposure can lead to significant damage to skin tissues. But what if a natural compound could offer protection?
+
+Recent research has shed light on the potential of tannic acid, a natural substance found in many plants, which is known for its strong antioxidant properties. This compound has been found to combat the harmful effects of UVB on skin cells.
+
+The study revealed that tannic acid works by significantly reducing the damage caused by oxidative stress, a process where harmful molecules called free radicals overwhelm the body's ability to neutralize them. More importantly, it intervenes in a specific type of cell death called ferroptosis. Ferroptosis is an iron-dependent process characterized by the accumulation of oxidized fats, which can severely damage cells. By inhibiting this process, tannic acid helps to keep skin cells healthy.
+
+At a deeper level, tannic acid achieves these protective effects by activating a crucial cellular defense system. This system involves a protein called NRF2, which acts as a master switch for genes that produce antioxidants. It also upregulates SLC7A11 and GPX4, two proteins that are vital for maintaining the cell's antioxidant capacity and directly neutralizing harmful oxidized fats, thereby preventing ferroptosis. In animal studies, tannic acid was also shown to improve skin thickness and collagen integrity, both of which are negatively impacted by UVB exposure.
+
+These findings provide a strong foundation for developing new natural products based on tannic acid to protect our skin from the aging effects of sun exposure.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jphotobiol.2025.113309)
