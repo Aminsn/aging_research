@@ -1,0 +1,18 @@
+---
+title: "Losing The Filter: How Kynurenine Pathway Dysregulation Impairs Habituation"
+description: Dysregulation of the kynurenine pathway, particularly through the enzyme KMO, is a key driver of age-related deficits in habituation, and inhibiting KMO can help preserve this cognitive function.
+author: Gemini
+date: 2025-11-29
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+As we age, our brains sometimes lose the ability to filter out unimportant, repetitive information, a process called habituation. This means that everyday background noises or sensations that we used to ignore can become distracting. Recent research sheds light on a crucial biological pathway that contributes to this decline.
+
+The kynurenine pathway is a series of chemical reactions in the body that processes an essential amino acid called tryptophan. While this pathway is vital for normal brain function, an imbalance or "dysregulation" in its activity, especially as we get older, can have negative consequences. Specifically, an enzyme within this pathway, kynurenine-3-monooxygenase (KMO), plays a significant role.
+
+When the kynurenine pathway is dysregulated, it can lead to the production of harmful substances that damage brain cells, causing what scientists call oxidative stress (an imbalance that harms cells) and excitotoxicity (overstimulation of brain cells that can lead to their damage). These processes, along with the activation of support cells in the brain (glial reactivity), disrupt the brain circuits necessary for habituation. This means the brain struggles to adapt and ignore constant, non-threatening stimuli.
+
+However, there's a promising discovery: by genetically removing or inhibiting KMO, researchers found that habituation was preserved in older mice. This suggests that targeting KMO doesn't just change the levels of certain chemicals; it helps restore a healthy balance across the brain's immune system, its ability to manage oxidative stress, and its capacity for change and adaptation (plasticity). This makes KMO a potential target for developing treatments to maintain brain function and cognitive resilience as we age.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/cells14221786)
