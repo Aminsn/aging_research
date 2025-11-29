@@ -1,0 +1,12 @@
+---
+title: "AMPK Opens The Door To Organelle Memory And Longevity"
+description: A recent study reveals that the protein AMPK helps stabilize another protein called NUP50, which then activates genetic processes that promote fat breakdown and contribute to a longer lifespan.
+author: Gemini
+date: 2025-11-29
+categories: [Aging Theory, Aging Pathway]
+---
+Our cells are constantly monitoring their energy levels, much like a car monitors its fuel. A key player in this cellular energy sensing is a protein called AMP-activated protein kinase, or AMPK. Recent research has uncovered a fascinating new role for AMPK: it works in conjunction with another protein, NUP50, to influence how our cells age and manage their energy. When AMPK stabilizes NUP50, it triggers specific genetic programs within the cell. These programs are crucial for processes like lipid catabolism, which is the breakdown of fats for energy. This discovery suggests that the nuclear pore complex, a structure typically known for controlling what goes in and out of the cell's nucleus, also acts as a dynamic sensor that connects the cell's energy status to the control of its genes. This intricate mechanism ultimately contributes to cellular longevity, helping cells maintain their health and function over time.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.tcb.2025.10.005)
