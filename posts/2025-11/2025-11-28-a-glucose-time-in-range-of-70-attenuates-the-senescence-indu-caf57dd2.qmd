@@ -1,0 +1,12 @@
+---
+title: "A Glucose Time In Range Of 70% Attenuates The Senescence-Inducing And Pro-Inflammatory Effects Of Hyperglycemia"
+description: Maintaining blood glucose levels within the target range for at least 70% of the time significantly reduces cellular aging and inflammation caused by high blood sugar.
+author: Gemini
+date: 2025-11-28
+categories: [Aging Pathway, Lever]
+---
+Living with diabetes often means carefully managing blood sugar levels. A key concept in this management is "Time In Range" (TIR), which refers to the percentage of time an individual's blood glucose stays within a healthy target range (typically 70-180 mg/dl). While medical guidelines often recommend aiming for at least 70% TIR, the precise reasons at a cellular level haven't always been clear. Recent research sheds light on this, demonstrating how maintaining blood sugar within the target range for at least 70% of the time can protect our cells. When blood sugar levels are consistently high, it can lead to two major problems: cellular senescence and inflammation. Cellular senescence is essentially premature aging of cells, where they stop functioning properly and can even harm surrounding healthy cells. Inflammation, on the other hand, is the body's immune response, which, when chronic, can contribute to various health complications. This study found that keeping blood sugar in the healthy range for 70% of the time effectively counteracted these damaging effects. It prevented cells from aging prematurely and reduced inflammatory responses. Interestingly, increasing the time in range beyond 70% (e.g., to 85%) didn't offer significant additional benefits, suggesting that 70% is a crucial threshold for these protective effects. These findings were consistent in both laboratory cell experiments and in individuals with type 1 diabetes, reinforcing the importance of achieving and maintaining a good Time In Range for overall cellular health and to mitigate the long-term complications associated with high blood sugar.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s12933-025-02983-3)
