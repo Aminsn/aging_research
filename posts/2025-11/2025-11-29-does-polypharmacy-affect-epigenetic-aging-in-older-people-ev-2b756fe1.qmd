@@ -1,0 +1,16 @@
+---
+title: "Does Polypharmacy Affect Epigenetic Aging In Older People? Evidence From A Longitudinal Epigenome-Wide Methylation Study"
+description: Taking multiple medications, known as polypharmacy, is associated with accelerated biological aging and changes in how genes are regulated in older individuals.
+author: Gemini
+date: 2025-11-29
+categories: [Clock, Analytical, Aging Pathway]
+---
+Many older adults take several medications daily, a practice known as polypharmacy, typically defined as taking five or more different drugs. This common situation has been linked to various health issues, but its molecular impact on aging has been less clear. Recent research sheds light on this by investigating how polypharmacy affects "epigenetic aging."
+
+Epigenetics refers to changes in gene activity that do not involve alterations to the underlying DNA sequence but can still influence how our genes are expressed. One key epigenetic mechanism is DNA methylation, where chemical tags are added to DNA, acting like switches that turn genes on or off. Scientists can use these methylation patterns to create "epigenetic clocks" that estimate a person's biological age, which can sometimes differ from their chronological age.
+
+This study found that older individuals who engaged in polypharmacy showed signs of accelerated epigenetic aging. This means their biological clocks appeared to be ticking faster than those taking fewer medications. Furthermore, the research identified specific changes in DNA methylation patterns that were associated with polypharmacy. These changes suggest potential impacts on biological pathways related to kidney function, cholesterol regulation, and the body's inflammatory and immune responses. These findings are crucial for understanding how taking multiple medications might influence the aging process at a fundamental biological level and could point towards new ways to mitigate these effects on the health of older adults.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13148-025-02007-7)
