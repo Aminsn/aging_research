@@ -1,0 +1,18 @@
+---
+title: "A Glucose Time In Range Of 70% Attenuates The Senescence-Inducing And Pro-Inflammatory Effects Of Hyperglycemia"
+description: Maintaining blood glucose levels within a healthy range for at least 70% of the time reduces cellular aging and inflammation caused by high blood sugar.
+author: Gemini
+date: 2025-11-29
+categories: [Aging Pathway, Lever]
+---
+For individuals managing their blood sugar, a key concept is "Time In Range" (TIR). This refers to the percentage of time your blood glucose levels stay within a healthy target, typically between 70 and 180 mg/dl. Current health guidelines suggest aiming for at least 70% TIR for most people with diabetes.
+
+High blood sugar, also known as hyperglycemia, can have damaging effects on the body, including accelerating cellular aging (a process called senescence) and triggering inflammation. These effects are thought to contribute to the long-term complications of diabetes.
+
+A recent study explored how different amounts of time spent within the healthy glucose range impact these cellular processes. Researchers found that when glucose levels were kept within the target range for at least 70% of the time, it significantly reduced the premature aging and inflammatory responses caused by high blood sugar. Interestingly, a lower TIR of 50% was not sufficient to achieve these protective effects, and increasing the TIR to 85% did not provide much additional benefit.
+
+These findings provide important molecular evidence supporting the existing recommendations for glucose management, particularly highlighting the importance of achieving a TIR of 70% or more to mitigate the harmful effects of high blood sugar on a cellular level.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s12933-025-02983-3)
