@@ -1,0 +1,16 @@
+---
+title: "Phenotypic And Metabonomics Studies Of Fmos In C. Elegans And Their Roles In Lifespan Extension"
+description: Genetic modifications affecting Flavin-Containing Monooxygenases (FMOs) in C. elegans, specifically the loss of fmo-4 and fmo-3 or overexpression of fmo-2, resulted in elevated tryptophan levels and an extended lifespan.
+author: Gemini
+date: 2025-11-29
+categories: [Aging Pathway, Analytical]
+---
+Scientists are constantly searching for ways to understand and potentially extend healthy aging. Recent research using the tiny worm *C. elegans* has shed light on a group of enzymes called Flavin-Containing Monooxygenases, or FMOs, which are known for helping the body detoxify harmful substances. However, these enzymes also appear to play a crucial role in how long an organism lives.
+
+This study systematically explored how changes in different *fmo* genes affect the worms' internal chemistry, known as their metabolome, and their lifespan. By carefully analyzing the levels of various molecules in the worms, researchers discovered that when certain *fmo* genes, specifically *fmo-4* and *fmo-3*, were less active, or when another gene, *fmo-2*, was more active, the worms had higher amounts of a molecule called tryptophan. This increase in tryptophan was directly associated with the worms living longer.
+
+Interestingly, while the loss of *fmo-4* also impacted the worms' ability to hatch embryos and their resilience to stress, another *fmo* gene, *fmo-1*, extended lifespan without showing obvious changes in the measured metabolic profile, suggesting that different FMOs might influence longevity through various pathways. These findings provide valuable insights into the biological processes of aging and could pave the way for new strategies to promote healthy aging in humans.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s11306-025-02367-4)
