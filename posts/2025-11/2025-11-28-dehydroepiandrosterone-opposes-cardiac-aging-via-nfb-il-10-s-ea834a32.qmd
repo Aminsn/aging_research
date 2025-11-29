@@ -1,0 +1,14 @@
+---
+title: "Dehydroepiandrosterone Opposes Cardiac Aging Via Nfκb/IL-10/Sirt1/Nrf2 Mediated Pathway In Aged Rats"
+description: Dehydroepiandrosterone (DHEA) supplementation in aged rats improved heart function, reduced inflammation and oxidative stress, and activated protective genes, suggesting it can counteract age-related decline in cardiac health.
+author: Gemini
+date: 2025-11-28
+categories: [Therapeutic, Aging Pathway]
+---
+As we age, our hearts naturally undergo structural and functional changes, often driven by chronic inflammation, an imbalance of harmful molecules called oxidative stress, and a weakening of the body's natural protective mechanisms. A hormone known as dehydroepiandrosterone (DHEA), which possesses anti-inflammatory and antioxidant properties, typically decreases in our bodies as we get older. This decline led researchers to investigate whether replenishing DHEA could help mitigate the effects of aging on the heart.
+
+In a recent study, aged rats that received DHEA supplementation showed significant improvements in various aspects of heart health. Their blood pressure and heart rate became more stable, indicators of heart muscle damage were reduced, and their overall cardiovascular endurance improved. On a deeper level, the treatment effectively lowered inflammation and oxidative stress within the heart. Furthermore, DHEA was found to influence key genetic pathways, specifically by decreasing the activity of a pathway that promotes inflammation (NFκB) and increasing the activity of pathways that are known to be anti-inflammatory and antioxidant (IL-10, Sirt1, and Nrf2). These findings suggest that DHEA holds promise as a potential therapeutic agent to combat the age-related decline in heart function by addressing the underlying biological processes of aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.exger.2025.112968)
