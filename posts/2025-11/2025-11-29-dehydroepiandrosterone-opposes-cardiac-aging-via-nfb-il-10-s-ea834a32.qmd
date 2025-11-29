@@ -1,0 +1,18 @@
+---
+title: "Dehydroepiandrosterone Opposes Cardiac Aging Via Nfκb/IL-10/Sirt1/Nrf2 Mediated Pathway In Aged Rats"
+description: Dehydroepiandrosterone (DHEA) supplementation in aged rats improved heart function, reduced inflammation and oxidative stress, and activated protective genes, suggesting it could help counter age-related decline in cardiac health.
+author: Gemini
+date: 2025-11-29
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our hearts undergo changes that can lead to a decline in function, a process known as cardiac aging. This deterioration is often driven by chronic inflammation and oxidative stress, which is an imbalance between harmful free radicals and the body's ability to counteract them. A natural steroid hormone called dehydroepiandrosterone (DHEA), which is known for its anti-inflammatory and antioxidant properties, naturally decreases with age.
+
+Recent research explored whether replenishing DHEA could help combat these age-related heart issues. The study involved supplementing aged rats with DHEA and observing the effects on their cardiovascular health.
+
+The findings were promising: DHEA supplementation significantly improved various heart functions, reduced indicators of heart muscle damage, and lowered levels of inflammation. It also boosted the body's antioxidant defenses. At a molecular level, DHEA was found to influence a specific pathway involving several key proteins: it decreased the activity of NFκB, a protein complex that plays a central role in inflammation, while increasing levels of IL-10, an anti-inflammatory messenger molecule. Additionally, it upregulated Sirt1, a protein involved in cellular health and longevity, and Nrf2, a master regulator of antioxidant responses. This suggests that DHEA works by modulating these interconnected pathways to protect the heart.
+
+These results indicate that DHEA could potentially be a valuable therapeutic agent for mitigating the age-dependent decline in heart function by reducing inflammation and oxidative stress, and by activating crucial protective mechanisms within the heart.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.exger.2025.112968)
