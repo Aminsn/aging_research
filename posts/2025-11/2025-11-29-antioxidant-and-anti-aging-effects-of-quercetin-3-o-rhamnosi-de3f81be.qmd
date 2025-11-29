@@ -1,0 +1,16 @@
+---
+title: "Antioxidant And Anti-Aging Effects Of Quercetin 3-O-Rhamnoside Isolated From Houttuynia Cordata Thunb Extract On Caenorhabditis Elegans"
+description: A compound called quercetin 3-O-rhamnoside, isolated from Houttuynia cordata Thunb extract, demonstrated significant antioxidant and anti-aging effects in Caenorhabditis elegans, including extended lifespan and improved stress resistance.
+author: Gemini
+date: 2025-11-29
+categories: [Therapeutic, Aging Pathway]
+---
+Our bodies naturally produce reactive oxygen species (ROS), which are byproducts of normal metabolism. While our bodies have ways to counteract these, an excess of ROS, often due to aging and lifestyle, can lead to oxidative stress, contributing to various diseases and the aging process itself. While synthetic antioxidants exist, their long-term safety is a subject of ongoing discussion.
+
+This has led researchers to explore natural sources for compounds with antioxidant and anti-aging properties. One such source is the plant *Houttuynia cordata*, known for its rich flavonoid content. Scientists isolated a specific compound, quercetin 3-O-rhamnoside (also known as quercitrin), from an extract of this plant.
+
+To understand its potential benefits, the compound was tested on *Caenorhabditis elegans*, a small nematode widely used in aging research because its biological processes share similarities with humans and it has a relatively short lifespan. The study found that this natural compound significantly enhanced the activity of antioxidant enzymes within the nematodes and reduced the accumulation of harmful ROS. Furthermore, it extended the lifespan of the nematodes and improved their ability to withstand environmental stressors like heat. The research also indicated that the compound modulated the expression of specific proteins, such as daf-2, daf-16, and sir-2.1, which are directly involved in the aging process of these organisms. These findings suggest that this natural compound holds promise for influencing antioxidant and anti-aging pathways.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.freeradbiomed.2025.11.026)
