@@ -1,0 +1,16 @@
+---
+title: "Fibroblast Growth Factor Signaling Induces A Chondrocyte-Like State Of Peripheral Nerve Fibroblast During Aging"
+description: A recent study found that increased signaling from fibroblast growth factors, originating from fat cells, causes peripheral nerve fibroblasts to adopt a cartilage-like state during aging, contributing to age-related nerve changes.
+author: Gemini
+date: 2025-11-29
+categories: [Aging Pathway, Analytical, Therapeutic]
+---
+As we age, our peripheral nerves, which are crucial for transmitting signals between our brain and the rest of our body, undergo changes that can lead to a decline in function. Scientists have been working to understand the underlying mechanisms of these age-related alterations. 
+
+New research sheds light on one such mechanism, revealing that a specific type of signaling molecule, called fibroblast growth factor (FGF), plays a key role. This signaling, originating from fat cells (adipocytes), appears to activate a transformation in the fibroblasts of our peripheral nerves. Fibroblasts are common cells in connective tissue, and in this case, they begin to take on characteristics similar to chondrocytes, which are the cells found in cartilage. 
+
+Specifically, a particular FGF, known as FGF2, was shown to induce the expression of markers typically found in cartilage cells within aged human nerve fibroblasts. Interestingly, this process could be prevented by another related molecule, FGF1. These findings suggest that the FGF signaling pathway contributes to the aging of peripheral nerves by prompting these fibroblasts to adopt a cartilage-like state, offering new insights into how our nerves change as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41467-025-65297-8)
