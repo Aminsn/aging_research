@@ -1,0 +1,16 @@
+---
+title: "Interleukin-17F Induces Ischemic Injury In Aged Mice By Causing Endothelial Cells' Senescence And Dysfunction"
+description: Elevated levels of Interleukin-17F are linked to increased severity of peripheral arterial disease and cardiovascular issues in older individuals, by causing premature aging and impaired function of blood vessel lining cells.
+author: Gemini
+date: 2025-11-29
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our bodies undergo various changes, and sometimes these changes can lead to health problems. A recent study sheds light on a specific protein, Interleukin-17F (IL-17F), and its significant role in a condition called peripheral arterial disease (PAD), which affects blood circulation, especially in the legs.
+
+The research found that older individuals with higher levels of IL-17F in their blood tend to experience more severe PAD and face a greater risk of heart-related complications. This is because IL-17F appears to accelerate the aging process and impair the function of endothelial cells, which are the crucial cells lining our blood vessels. When these cells become "senescent" or aged, they don't work as effectively, leading to poor blood flow and tissue damage, particularly in situations where blood supply is already reduced (ischemia).
+
+Interestingly, while another related protein, Interleukin-17A, showed similar levels across different age groups, IL-17F levels were notably higher in older individuals. The good news is that when scientists neutralized IL-17F in aged mice with restricted blood flow, they observed improved formation of new blood vessels and better recovery of blood circulation. This discovery suggests that targeting and blocking IL-17F could be a promising new approach to treat PAD and improve cardiovascular health in the elderly.
+
+---
+
+Source: [link to paper](https://doi.org/10.1096/fj.202501109RR)
