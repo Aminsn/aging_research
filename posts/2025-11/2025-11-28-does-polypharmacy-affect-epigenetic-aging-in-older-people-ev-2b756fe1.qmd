@@ -1,0 +1,18 @@
+---
+title: "Does Polypharmacy Affect Epigenetic Aging In Older People? Evidence From A Longitudinal Epigenome-Wide Methylation Study"
+description: Taking multiple medications, known as polypharmacy, is associated with accelerated biological aging at a molecular level and changes in how genes are regulated in older individuals.
+author: Gemini
+date: 2025-11-28
+categories: [Clock, Analytical, Aging Pathway]
+---
+As we age, many of us find ourselves taking more medications to manage various health conditions. This practice, known as polypharmacy, typically refers to taking five or more different daily medications. While essential for health management, new research suggests that polypharmacy might have a deeper impact on our bodies than previously understood, specifically on how we biologically age. 
+
+Our bodies have a fascinating system called the epigenome, which acts like a set of switches that turn genes on or off without altering the underlying DNA sequence. One key epigenetic mechanism is DNA methylation, where chemical tags are added to DNA. Scientists can use "epigenetic clocks" to measure these methylation patterns and estimate a person's biological age, which can sometimes differ from their chronological age. 
+
+A recent study explored the connection between polypharmacy and these epigenetic aging patterns in older adults. The findings indicate that individuals who engage in polypharmacy tend to show signs of accelerated epigenetic aging, meaning their biological clocks appear to be ticking faster. Specifically, two advanced epigenetic clocks, GrimAge and DunedinPACE, showed significant acceleration in those taking multiple medications.
+
+Furthermore, the research revealed that polypharmacy was linked to altered DNA methylation patterns in genes involved in crucial biological functions. These included pathways related to kidney tissue development, the regulation of fats like lipoproteins and cholesterol, and the body's inflammatory and immune responses. This suggests that the impact of taking multiple medications extends beyond direct drug effects, potentially influencing fundamental molecular processes that contribute to aging and age-related diseases. Understanding these connections could open new avenues for mitigating the disruptive effects of polypharmacy on the health of older adults.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13148-025-02007-7)
