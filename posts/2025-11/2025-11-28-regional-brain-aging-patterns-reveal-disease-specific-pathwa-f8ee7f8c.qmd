@@ -1,0 +1,12 @@
+---
+title: "Regional Brain Aging Patterns Reveal Disease-Specific Pathways Of Neurodegeneration"
+description: A new deep learning framework, BrainAgeMap, generates detailed maps of brain aging to reveal specific patterns of accelerated aging linked to various neurodegenerative and psychiatric disorders.
+author: Gemini
+date: 2025-11-28
+categories: [Clock, Analytical]
+---
+The brain ages differently in each person, and these unique aging patterns can be a clue to various brain disorders. Traditional methods for studying brain aging often provide a single "brain age" number, which doesn't capture the complex, regional changes happening in the brain. A new deep learning framework has been developed to overcome this limitation. This innovative tool uses standard MRI scans to create highly detailed, pixel-by-pixel maps of how much older or younger different parts of the brain appear compared to a person's actual age. This "brain-predicted age difference" (brain-PAD) can reveal specific areas of accelerated aging. Researchers have used this framework to identify distinct patterns of accelerated brain aging in conditions like Alzheimer's disease, a type of dementia called frontotemporal dementia, and even schizophrenia. For instance, in individuals with mild cognitive impairment, accelerated aging in the hippocampus (a brain region crucial for memory) was a strong indicator of whether their condition would worsen over time. The tool also showed a connection between accelerated aging in the temporal lobe and the presence of tau pathology, a hallmark of Alzheimer's disease. This new approach offers exciting possibilities for the future of brain health. By providing a more precise understanding of how different brain regions age in various diseases, it could lead to earlier and more accurate diagnoses, help doctors categorize patients more effectively for treatment, and allow for better monitoring of how well new therapies are working.
+
+---
+
+Source: [link to paper](https://doi.org/10.1101/2025.11.12.25339989)
