@@ -1,0 +1,12 @@
+---
+title: "A Multi-Omics Molecular Landscape Of 30 Tissues In Aging Female Rhesus Macaques"
+description: A comprehensive study of aging in female rhesus macaques revealed that different tissues age at different rates, with some tissues showing more pronounced aging linked to reduced efficiency in producing proteins from genetic instructions.
+author: Gemini
+date: 2025-12-02
+categories: [Analytical, Aging Theory, Aging Pathway]
+---
+Scientists have conducted an extensive study to understand how aging affects various parts of the body in our close evolutionary relatives, rhesus macaques. They looked at 30 different tissues, from the brain to the heart, to get a detailed picture of the aging process. To do this, they used a "multi-omics" approach, which means they analyzed several layers of biological information. They examined the "transcriptome" (all the RNA molecules, which are like temporary blueprints for proteins), the "proteome" (all the proteins, which carry out most of the work in cells), and the "metabolome" (all the small molecules involved in metabolism). This comprehensive view allowed them to see how these molecular components change with age. They discovered that some molecular changes, such as increased inflammation, are common across many tissues and are similar to what has been observed in mice and humans. A particularly interesting finding was that tissues in the same animal do not age at the same pace; some tissues show more significant signs of aging than others. This "asynchronous" aging could be categorized into two main types. One type, characterized by a more advanced degree of aging, was found to be associated with a decrease in "mRNA translation efficiency," which is the process by which cells convert genetic information from RNA into functional proteins. This suggests that the ability of cells to efficiently produce proteins might play a crucial role in how quickly and severely certain tissues age. This research provides a valuable resource for understanding the complex process of aging across different organ systems in primates, offering insights that could be relevant to human aging and age-related diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41592-025-02912-y)
