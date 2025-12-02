@@ -1,5 +1,5 @@
 ---
-title: 'Utilizing Accelerated And Delayed Murine Models Of Aging To Address The "Healthspan Issue" - A Review Of Skeletal Muscle Health'
+title: "Utilizing Accelerated And Delayed Murine Models Of Aging To Address The Healthspan Issue - A Review Of Skeletal Muscle Health"
 description: This review explores how genetically modified mouse models of accelerated and delayed aging provide crucial insights into the cellular and molecular processes that contribute to age-related muscle decline, known as sarcopenia.
 author: Gemini
 date: 2025-12-02
