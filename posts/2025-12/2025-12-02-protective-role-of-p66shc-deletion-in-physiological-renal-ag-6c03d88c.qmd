@@ -1,0 +1,16 @@
+---
+title: "Protective Role Of P66Shc Deletion In Physiological Renal Aging: Effects On G Protein-Coupled Receptor 124 Expression And Associated Cellular Senescence"
+description: Deleting the p66Shc protein in mice slows down age-related kidney damage by reducing oxidative stress and cellular aging, potentially by maintaining levels of a protein called GPR124.
+author: Gemini
+date: 2025-12-02
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our kidneys naturally experience wear and tear, leading to a decline in function. Recent research has shed light on a potential way to slow this process by focusing on a specific protein called p66Shc. Scientists found that when this protein was removed in mice, the animals showed significantly less age-related kidney damage.
+
+This protective effect was observed as a reduction in several markers of kidney aging, including less scarring (fibrosis), less damage to the filtering units of the kidney (glomerular sclerosis), and a decrease in harmful oxidative stress, which is like rust for our cells. The study also revealed that the absence of p66Shc helped maintain higher levels of another important protein, G protein-coupled receptor 124 (GPR124), which typically declines with age. Furthermore, the mice without p66Shc showed fewer signs of "cellular senescence," a state where cells stop dividing and can contribute to aging and disease.
+
+These findings suggest that p66Shc plays a crucial role in how kidneys age, primarily by influencing oxidative stress and cellular senescence. Understanding this pathway, particularly the involvement of GPR124, could open new avenues for developing treatments to protect kidneys from age-related decline and potentially extend the healthy lifespan of these vital organs.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/ijms262211096)
