@@ -1,0 +1,16 @@
+---
+title: "Intact Corticostriatal Function In Aged System X<Sub>C</Sub><Sup>-</Sup> - Deficient Mice"
+description: A study found that aged mice lacking the xCT protein, which is part of a system that regulates brain chemicals, surprisingly maintain normal function in a key brain pathway and exhibit typical social behaviors, unlike younger mice with the same genetic alteration.
+author: Gemini
+date: 2025-12-02
+categories: [Aging Pathway]
+---
+Our brains rely on a delicate balance of chemical messengers to function properly. One important system, called system x<sub>c</sub><sup>-</sup>, involves a protein known as xCT, which helps manage a crucial brain chemical called glutamate. In younger mice, a deficiency in xCT has been linked to problems in a brain circuit called the corticostriatal pathway, leading to behaviors often associated with conditions like autism spectrum disorder, such as repetitive actions and reduced social interaction.
+
+However, new research has revealed a surprising twist in older mice. Contrary to what was observed in their younger counterparts, aged mice lacking the xCT protein showed no impairments in their corticostriatal pathway. Their brain cells communicated normally, and their social behaviors were comparable to those of healthy aged mice. This unexpected resilience appears to be linked to the normalization of glutamate levels within their brain cells as they age. Additionally, these mice exhibited lower levels of certain harmful byproducts of aging, called advanced glycation end-products, which may offer protection against age-related brain damage.
+
+These findings suggest that the brain has a remarkable capacity to adapt and maintain function even in the face of genetic changes, potentially offering new insights into how we might protect the brain from age-related decline.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41398-025-03686-9)
