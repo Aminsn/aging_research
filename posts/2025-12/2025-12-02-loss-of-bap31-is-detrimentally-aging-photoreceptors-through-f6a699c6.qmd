@@ -1,0 +1,16 @@
+---
+title: "Loss Of Bap31 Is Detrimentally Aging Photoreceptors Through ER Stress-Mediated Retinal Degeneration"
+description: The absence of the protein BAP31 in photoreceptor cells contributes to age-related retinal degeneration by triggering stress in the endoplasmic reticulum.
+author: Gemini
+date: 2025-12-02
+categories: [Aging Pathway, Analytical]
+---
+Our eyes rely on specialized cells called photoreceptors to detect light and enable vision. Unfortunately, these cells can degenerate over time, leading to conditions like retinal degeneration, which currently lack effective treatments. A key factor in this process is "ER stress," a cellular imbalance that occurs when a cell's protein-making machinery, the endoplasmic reticulum (ER), becomes overwhelmed. This stress can ultimately lead to the death of crucial nerve cells in the retina. 
+
+Recent research has shed light on the role of a protein called BAP31, which resides in the ER and helps regulate this stress and cell survival. Scientists investigated what happens when BAP31 is reduced in the rod photoreceptor cells of mice. They found that these mice developed symptoms strikingly similar to retinitis pigmentosa, a human retinal degenerative disease, including impaired vision and a loss of photoreceptor cells. 
+
+Further examination showed that as these mice aged, the layer of their retina containing photoreceptors progressively thinned, and the rod cells themselves became damaged. Genetic analysis revealed that genes vital for vision were less active, while markers of ER stress were significantly increased. These findings suggest that a deficiency in BAP31 disrupts the delicate balance within the ER, leading to stress that ultimately causes photoreceptor cells to degenerate. This discovery provides a deeper understanding of the mechanisms behind retinal degeneration and could open new avenues for therapeutic strategies.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/cells14221802)
