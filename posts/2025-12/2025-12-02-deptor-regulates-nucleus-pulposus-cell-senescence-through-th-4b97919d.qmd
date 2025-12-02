@@ -1,0 +1,18 @@
+---
+title: "DEPTOR Regulates Nucleus Pulposus Cell Senescence Through The Mtorc1/S6K1/Atg1 Pathway To Alleviate Intervertebral Disk Degeneration"
+description: The protein DEPTOR is found at lower levels in degenerated intervertebral disks, and its overexpression can reduce cellular aging and inflammation in nucleus pulposus cells by modulating the mTORC1/S6K1/ATG1 pathway, thereby promoting cellular self-cleaning and inhibiting the release of harmful substances.
+author: Gemini
+date: 2025-12-02
+categories: [Aging Pathway, Therapeutic]
+---
+Our spinal discs, which act as cushions between our vertebrae, can undergo a process called degeneration, leading to chronic back pain. A key factor in this degeneration is the aging of specialized cells within these discs, known as nucleus pulposus cells. When these cells age, they can stop functioning properly and even release harmful signals that worsen the problem.
+
+Recent research has shed light on a crucial protein called DEPTOR, which appears to play a significant role in maintaining the health of these disc cells. Scientists found that in degenerated discs, the levels of DEPTOR were noticeably lower. When they increased DEPTOR levels in laboratory settings, they observed remarkable improvements.
+
+DEPTOR works by influencing a central cellular pathway known as mTORC1, which is like a master switch controlling cell growth, metabolism, and aging. Specifically, DEPTOR helps to reduce the release of inflammatory and aging-related substances (a process called senescence-associated secretory phenotype, or SASP) by acting through one branch of this pathway (mTORC1/S6K1). Simultaneously, it boosts the cell's natural "self-cleaning" process, called autophagy, which removes damaged cellular components, through another branch (mTORC1/ATG1).
+
+This discovery suggests that by targeting and potentially restoring DEPTOR levels, we might be able to slow down or even prevent the aging of disc cells, offering a promising new avenue for developing treatments for intervertebral disk degeneration.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41420-025-02819-9)
