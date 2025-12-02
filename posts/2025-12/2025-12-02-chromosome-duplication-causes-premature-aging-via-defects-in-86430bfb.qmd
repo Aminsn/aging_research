@@ -1,0 +1,18 @@
+---
+title: "Chromosome Duplication Causes Premature Aging Via Defects In Ribosome Quality Control"
+description: Chromosome duplication, a condition where cells have an abnormal number of chromosomes, leads to premature aging by disrupting the cell's ability to maintain the quality of its protein-making machinery.
+author: Gemini
+date: 2025-12-02
+categories: [Aging Theory, Aging Pathway]
+---
+Have you ever wondered why some conditions are associated with early signs of aging? New research sheds light on a fundamental cellular process that might be a key player. It turns out that when cells have an extra or missing chromosome—a condition known as aneuploidy—it can trigger a cascade of events leading to premature aging. 
+
+The study, conducted in yeast, found that this chromosomal imbalance disrupts a crucial cellular cleanup crew called the Ribosome Quality Control (RQC) pathway. Think of ribosomes as tiny factories that build all the proteins our cells need to function. The RQC pathway is like the quality control team, ensuring that these factories run smoothly and that any faulty products (incomplete or damaged proteins) are quickly identified and removed. 
+
+When there are extra chromosomes, the RQC pathway struggles to keep up. This leads to a buildup of defective proteins, which can clump together into harmful "protein aggregates." These aggregates interfere with normal cell functions, preventing cells from entering a resting state called quiescence (a kind of cellular hibernation) and ultimately shortening their lifespan. 
+
+Interestingly, the researchers found that boosting the activity of the RQC pathway or increasing the availability of ubiquitin (a small protein tag that marks faulty proteins for destruction) could help alleviate some of these aging-related problems. This discovery has significant implications for understanding and potentially treating human conditions like Down syndrome, which is caused by an extra chromosome and is characterized by premature aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1371/journal.pbio.3003509)
