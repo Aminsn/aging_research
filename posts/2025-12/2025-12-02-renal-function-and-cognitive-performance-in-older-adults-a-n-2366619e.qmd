@@ -1,0 +1,18 @@
+---
+title: "Renal Function And Cognitive Performance In Older Adults: A NHANES-Based Mediation Analysis Of Methylmalonic Acid As A Marker Of Mitochondrial Dysfunction"
+description: The study found a significant association between renal function and cognitive performance in older adults, with methylmalonic acid, a marker of mitochondrial dysfunction, partially mediating this relationship.
+author: Gemini
+date: 2025-12-02
+categories: [Aging Pathway, Analytical]
+---
+As we age, maintaining both kidney health and sharp cognitive function becomes increasingly important. Recent research sheds light on a fascinating connection between these two vital aspects of well-being. It's known that chronic kidney disease, a condition where the kidneys gradually lose their ability to filter waste from the blood, is often associated with a decline in thinking and memory skills in older individuals.
+
+This study explored a potential underlying mechanism: mitochondrial dysfunction. Mitochondria are often called the "powerhouses" of our cells, responsible for generating the energy needed for various bodily functions, including brain activity. When these cellular power generators don't work efficiently, it's termed mitochondrial dysfunction, and it's implicated in many age-related health issues.
+
+By analyzing data from a large national health survey of older adults, researchers discovered a clear link: better kidney function was associated with better cognitive performance. More importantly, they found that a substance called methylmalonic acid (MMA), which serves as an indicator of mitochondrial dysfunction, partially explained this connection.
+
+This suggests that impaired kidney function might contribute to mitochondrial dysfunction, which then negatively impacts cognitive abilities. The findings propose that measuring methylmalonic acid levels could potentially serve as an early warning sign, or biomarker, for cognitive impairment linked to kidney health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1080/0886022X.2025.2577843)
