@@ -1,0 +1,20 @@
+---
+title: "Integrating Iso-Seq And RNA-Seq Data For The Reannotation Of The Killifish Telencephalon Transcriptome"
+description: Researchers combined long-read and short-read sequencing technologies to create a more comprehensive and accurate map of gene activity in the killifish brain, revealing novel genes and changes in gene expression associated with aging.
+author: Gemini
+date: 2025-12-02
+categories: [Analytical, Aging Pathway]
+---
+Scientists have made a significant leap in understanding the biology of the African turquoise killifish, a fascinating animal often used to study aging. Previously, the existing maps of its genetic activity were incomplete, making it challenging to fully understand how genes function and change as the fish ages.
+
+To overcome this, a team of researchers employed a powerful combination of two advanced sequencing techniques: Iso-seq and RNA-seq. Think of Iso-seq as a method that reads entire "instruction manuals" (full-length gene messages, or isoforms) from beginning to end, providing a complete picture of each version of a gene. RNA-seq, on the other hand, reads many shorter fragments of these manuals, which is excellent for precisely measuring how active each gene is.
+
+By integrating the detailed, full-length information from Iso-seq with the quantitative data from RNA-seq, the scientists constructed a much more complete and accurate "transcriptome" – essentially, a comprehensive catalog of all the active gene messages in the killifish brain. This new catalog includes thousands of previously unrecorded gene versions.
+
+Crucially, this enhanced understanding allowed them to pinpoint specific changes in how genes are processed, particularly in a mechanism called "alternative splicing" (where different parts of a gene's message are selectively included or excluded), that occur as the killifish ages. These changes impact vital cellular functions, such as how proteins are made and how cells monitor their genetic instructions.
+
+This detailed new resource will be invaluable for future studies, paving the way for a deeper understanding of brain function and the molecular mechanisms underlying aging in this important research model.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41597-025-06073-7)
