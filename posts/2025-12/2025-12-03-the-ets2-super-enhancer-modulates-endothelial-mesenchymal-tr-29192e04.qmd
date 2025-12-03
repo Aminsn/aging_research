@@ -1,0 +1,16 @@
+---
+title: "The Ets2 Super-Enhancer Modulates Endothelial-Mesenchymal Transition During Cardiac Aging"
+description: The Ets2 super-enhancer controls the expression of the Ets2 gene in heart lining cells, which in turn influences heart aging and a process where these cells change their identity, contributing to heart disease.
+author: Gemini
+date: 2025-12-03
+categories: [Aging Pathway, Analytical, Therapeutic]
+---
+As we age, our hearts can undergo changes that lead to conditions like stiffness and reduced function, a process known as cardiac aging. A key factor in this decline is often the dysfunction of the endothelial cells, which line our blood vessels. These cells can sometimes undergo a transformation called endothelial-mesenchymal transition (EndoMT), where they change into a different cell type that contributes to scarring, or fibrosis, in the heart.
+
+Recent research has shed light on a crucial player in this process: a specific region of DNA called the Ets2 super-enhancer. This super-enhancer acts like a powerful switch, regulating the activity of a gene named Ets2 within the heart's endothelial cells. When the Ets2 super-enhancer is not functioning correctly, it leads to lower levels of Ets2, which then promotes the harmful EndoMT process and accelerates cellular aging, known as senescence.
+
+Crucially, the Ets2 gene helps maintain the identity of endothelial cells by regulating other important genes, such as TIE1. By ensuring proper Ets2 function, the heart can better resist the changes associated with EndoMT and prevent cells from entering a state of senescence, which contributes to heart damage. Understanding how this super-enhancer and the Ets2 gene work provides new avenues for developing treatments to combat cardiovascular aging and related diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/cvr/cvaf242)
