@@ -1,0 +1,18 @@
+---
+title: "Sirt6 Prevents The Age-Related Decline Of H<Sub>2</Sub>S Through The Control Of One-Carbon Metabolism"
+description: Sirt6 restores the production of hydrogen sulfide (H2S) in the liver of older animals to levels seen in younger animals by regulating one-carbon metabolism.
+author: Gemini
+date: 2025-12-03
+categories: [Aging Pathway]
+---
+As we age, the levels of a vital molecule called hydrogen sulfide (H2S) tend to decrease in the liver. H2S is a "gasotransmitter," meaning it acts as a signaling molecule with numerous beneficial effects, including those associated with a longer, healthier life. This decline in H2S is thought to contribute to the aging process. 
+
+Recent research has shed light on how a key enzyme, known as Sirt6, helps counteract this age-related decline. Sirt6 is already recognized for its role in healthy aging and is often boosted by practices like calorie restriction. This study reveals that Sirt6 actively controls a metabolic pathway in the liver called "one-carbon metabolism." 
+
+Specifically, Sirt6 influences how cells take up a molecule called cystine and how an enzyme named Cgl produces H2S. Furthermore, Sirt6 modifies other enzymes within this one-carbon metabolism pathway through a process called deacetylation. This intricate regulation ensures a healthy balance of H2S and another important molecule, S-adenosylmethionine (SAM). SAM is a "methyl donor" crucial for many cellular functions, and Sirt6 also prevents its age-related increase. 
+
+The net result of Sirt6's actions is that older animals maintain H2S and SAM levels similar to those found in younger, healthier individuals. This discovery uncovers a fundamental mechanism by which Sirt6 promotes healthy longevity by preserving a youthful metabolic balance.
+
+---
+
+Source: [link to paper](https://doi.org/10.1073/pnas.2514084122)
