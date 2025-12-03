@@ -1,0 +1,16 @@
+---
+title: "Epigenetic Age Predicts Depressive Symptoms During The COVID-19 Pandemic In The Canadian Longitudinal Study On Aging: Importance Of Biological Sex"
+description: A study found that younger biological age, as measured by epigenetic markers, predicted an increase in depressive symptoms among females during the early stages of the COVID-19 pandemic.
+author: Gemini
+date: 2025-12-03
+categories: [Clock, Analytical]
+---
+Our bodies have a "biological age" that can be different from our chronological age, and this can be measured through something called "epigenetic age." Think of epigenetics as a set of instructions that tells your genes what to do and when to do it, and these instructions can change over time due to lifestyle and environment. Researchers recently explored how this biological age might influence mental health, specifically depressive symptoms, during major stressful events like the COVID-19 pandemic.
+
+In a surprising turn, a study revealed that among older adults, a younger biological age (as indicated by epigenetic markers) was linked to a greater increase in depressive symptoms during the initial phase of the pandemic. This effect was observed exclusively in females. This finding challenges previous assumptions, as it was generally thought that an older biological age would be associated with poorer mental health outcomes.
+
+This research suggests that our biological age, particularly in women, could be a key indicator for identifying individuals who might be more vulnerable to the mental health impacts of significant life stressors. Understanding these biological factors can help us develop more targeted support and interventions to protect mental well-being during challenging times.
+
+---
+
+Source: [link to paper](https://doi.org/10.18632/aging.206337)
