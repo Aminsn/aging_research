@@ -1,0 +1,18 @@
+---
+title: "Machine-Learning Models Based On Histological Images From Healthy Donors Identify Imageqtls And Predict Chronological Age"
+description: Machine learning models can analyze microscopic images of healthy human tissues to identify genetic factors that influence tissue appearance and accurately predict a person's chronological age.
+author: Gemini
+date: 2025-12-03
+categories: [Clock, Analytical]
+---
+Imagine being able to look at a tiny piece of tissue under a microscope and not only understand its intricate details but also learn about a person's genetic makeup and even their age. That's precisely what a recent study has achieved by developing powerful computational tools.
+
+Researchers created a new framework that connects the visual characteristics of healthy human tissues, as seen in microscopic images, to an individual's genetic information, the activity of their genes, and their actual age. They discovered what are called "image quantitative trait loci" (imageQTLs), which are essentially genetic variations that influence specific features observed in these tissue images. This helps us understand how our genes shape the very structure of our tissues.
+
+Beyond that, the study also built advanced artificial intelligence models that can accurately predict gene activity within specific tissues directly from these images. Even more remarkably, another model was developed that can predict a person's chronological age just by analyzing the microscopic appearance of their tissues. This reveals fascinating insights into how our tissues change as we grow older.
+
+This innovative approach provides a deeper understanding of the complex interplay between genetics, tissue morphology, and aging. It opens doors for future research into disease diagnosis and could lead to new ways of monitoring health and understanding the aging process at a fundamental level.
+
+---
+
+Source: [link to paper](https://doi.org/10.1073/pnas.2423469122)
