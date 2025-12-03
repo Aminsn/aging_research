@@ -1,0 +1,18 @@
+---
+title: "Modulation Of Cellular Senescence In Psoriatic Arthritis: Exploring The Potential Impact Of Bdmards On Telomere Length, Mtdna Copy Number, And Oxidative Damage"
+description: Psoriatic arthritis patients exhibit signs of accelerated cellular aging, which biologic disease-modifying antirheumatic drugs (bDMARDs) therapy appears to partially counteract by preserving the length of protective chromosome caps.
+author: Gemini
+date: 2025-12-03
+categories: [Therapeutic, Aging Pathway, Aging Theory]
+---
+Our bodies are made of cells, and like us, cells age. This process, called cellular senescence or cellular aging, is linked to many chronic diseases, including a condition called psoriatic arthritis, which causes joint pain and skin issues. At the ends of our chromosomes, we have protective caps called telomeres, and within our cells' energy factories (mitochondria), we have mitochondrial DNA. Both telomeres and mitochondrial DNA are important indicators of cellular health and aging. 
+
+A recent study looked at these markers in people with psoriatic arthritis. It found that individuals with psoriatic arthritis showed signs of accelerated cellular aging, meaning their telomeres were shorter and they had fewer copies of mitochondrial DNA compared to healthy individuals. 
+
+However, the good news is that treatment with certain advanced medications, known as biologic disease-modifying antirheumatic drugs (bDMARDs), appeared to slow down this cellular aging process. Specifically, these medications helped to preserve the length of the telomeres. This suggests that these treatments might not only manage the symptoms of psoriatic arthritis but also address some of the underlying cellular aging mechanisms. 
+
+These discoveries are important because they highlight new ways to understand how psoriatic arthritis affects the body at a cellular level and offer potential new tools, like measuring telomere length, to monitor the effectiveness of treatments.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s10238-025-01952-0)
