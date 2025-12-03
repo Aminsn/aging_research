@@ -1,0 +1,20 @@
+---
+title: "Age-Related Alterations In The Expression Of Mesencephalic Astrocyte-Derived Neurotrophic Factor In The Brain And Their Impact On Neurobehavioral Functions"
+description: Levels of a protective brain protein, Mesencephalic Astrocyte-derived Neurotrophic Factor (MANF), decrease with age, and its deficiency leads to sex-specific impairments in motor coordination, learning, memory, and social behaviors.
+author: Gemini
+date: 2025-12-03
+categories: [Aging Pathway]
+---
+As we age, our bodies undergo many changes, and our brains are no exception. Recent research sheds light on a crucial protein in the brain that appears to play a significant role in healthy aging and brain function. This protein, found in brain cells, is vital for maintaining the health of the endoplasmic reticulum, a cellular component responsible for processing and folding proteins. It also helps protect against processes that can lead to neurodegenerative diseases.
+
+The study found that the levels of this protective protein progressively decline in the brains of aging mice. This reduction was observed across various brain regions, suggesting a widespread impact.
+
+To understand the consequences of this decline, researchers examined mice with reduced levels of the protein. They discovered that a deficiency in this protein led to noticeable changes in behavior, and interestingly, these effects varied between sexes. For instance, female mice with lower protein levels showed impaired motor coordination, while males did not.
+
+Both male and female mice experienced difficulties with spatial learning and memory when the protein was deficient. Furthermore, social behaviors were affected: males became more sociable, while females tended to withdraw socially.
+
+These findings suggest that maintaining adequate levels of this brain protein is crucial for preserving a range of neurobehavioral functions as we age, and that its impact can differ significantly between males and females.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.mad.2025.112125)
