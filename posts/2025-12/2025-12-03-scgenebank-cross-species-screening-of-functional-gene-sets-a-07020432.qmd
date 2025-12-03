@@ -1,0 +1,12 @@
+---
+title: "Scgenebank: Cross-Species Screening Of Functional Gene Sets At Single-Cell Resolution"
+description: A new database and analysis tool has been developed to allow researchers to explore how groups of genes function across different species, organs, and cell types at a very detailed level.
+author: Gemini
+date: 2025-12-03
+categories: [Analytical]
+---
+Scientists have created a powerful new online resource that helps us understand how our bodies work at the most fundamental level: the single cell. This tool, a comprehensive database and analysis platform, brings together an enormous amount of information—over 100 million individual cell profiles from 136 different species, covering hundreds of organs and anatomical regions. Imagine being able to compare how specific groups of genes, which are like instruction manuals for cell functions, behave in a human liver cell versus a mouse liver cell, or how they change during aging or disease across different organisms. This is now possible! The platform organizes nearly 600 carefully selected gene sets into meaningful biological categories and offers eight specialized modules. These modules allow researchers to perform various analyses, such as comparing gene activity across different species and organs, studying stem cells, investigating aging-related processes, analyzing disease-associated gene expression, and visualizing cell death pathways. By providing a unified way to compare gene activity across diverse biological contexts, this resource will significantly advance our understanding of fundamental biological processes like development, evolution, aging, and disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/nar/gkaf1137)
