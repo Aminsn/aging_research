@@ -1,0 +1,12 @@
+---
+title: "Unveiling Proteomic And Peptide-Level Modifications In Cerebrospinal Fluid And Plasma In Normal Cognitive Aging"
+description: The study identified distinct protein and peptide modifications in cerebrospinal fluid and plasma associated with normal cognitive aging, including changes in extracellular matrix components, inflammatory pathways, and insulin-like growth factor-1 signaling.
+author: Gemini
+date: 2025-12-03
+categories: [Aging Pathway, Analytical]
+---
+As we age, our bodies and brains undergo subtle molecular changes, even when we remain cognitively healthy. This research explored these age-related shifts by examining the proteins and smaller protein fragments, called peptides, found in two crucial bodily fluids: cerebrospinal fluid, which surrounds the brain and spinal cord, and blood plasma. Using an advanced technique called mass spectrometry, scientists compared samples from healthy younger and older adults to pinpoint these molecular alterations. The findings revealed distinct changes in both fluids. In the cerebrospinal fluid of older individuals, there was an increase in proteins related to the brain's structural support (extracellular matrix), inflammation, and blood clotting. Conversely, in the blood plasma, a signaling pathway known as insulin-like growth factor-1 (IGF-1), which plays a vital role in growth and metabolism, was found to be less active with age. Furthermore, the study uncovered novel ways that key proteins involved in fat metabolism, brain structure, and the communication between brain cells are modified, such as through alternative cutting or the addition of phosphate groups. These discoveries highlight that the molecular changes occurring with aging are specific to different compartments of the body. Ultimately, this work provides a more comprehensive understanding of the biological processes underlying healthy cognitive aging, which could be crucial for distinguishing normal aging from the early stages of neurodegenerative diseases in the future.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s43856-025-01183-0)
