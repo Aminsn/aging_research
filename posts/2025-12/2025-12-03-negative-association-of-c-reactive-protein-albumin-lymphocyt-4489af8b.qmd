@@ -1,0 +1,12 @@
+---
+title: "Negative Association Of C-Reactive Protein-Albumin-Lymphocyte Index (CALLY Index) With All-Cause And Cardiovascular Mortality In Population With CKD: The Mediating Role Of Biological Age Acceleration"
+description: A higher C-reactive protein-albumin-lymphocyte (CALLY) index is associated with a lower risk of death from all causes and cardiovascular disease in people with chronic kidney disease, with biological age acceleration partially explaining this relationship.
+author: Gemini
+date: 2025-12-03
+categories: [Clock, Analytical]
+---
+Researchers have uncovered a significant link between a simple blood-test-derived score and the health outcomes of individuals living with chronic kidney disease (CKD). This score, which combines measures of inflammation (C-reactive protein), nutritional status (albumin), and immune function (lymphocyte count), appears to be a valuable indicator of risk. The study found that a higher value of this combined index was associated with a reduced risk of dying from any cause, as well as specifically from cardiovascular disease, in people with CKD. Interestingly, a portion of this protective effect can be attributed to what scientists call "biological age acceleration." This refers to how much older or younger a person's body appears to be functioning compared to their actual chronological age. The findings suggest that this readily available index could be a useful tool for doctors to assess risk and potentially guide interventions for patients with chronic kidney disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.1080/0886022X.2025.2586892)
