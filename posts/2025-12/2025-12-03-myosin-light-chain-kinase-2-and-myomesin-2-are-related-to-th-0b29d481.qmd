@@ -1,0 +1,20 @@
+---
+title: "Myosin Light Chain Kinase 2 And Myomesin 2 Are Related To The Stiffness Of Vocal Fold Lamina Propria In Aging Rats And Humans"
+description: Myosin light chain kinase 2 (Mylk2) and Myomesin 2 (Myom2) are identified as new indicators in vocal fold myofibroblasts and are involved in controlling the stiffness of vocal fold tissue as rats and humans age.
+author: Gemini
+date: 2025-12-03
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+As we age, our voices can change, often becoming weaker or less clear. This is partly due to the stiffening of our vocal folds, the tissues responsible for producing sound. This stiffening, known as presbyphonia, is linked to alterations in a vital layer of the vocal folds called the lamina propria.
+
+Recent research has shed light on the cellular mechanisms behind this age-related change. Scientists investigated specific genes within specialized cells called myofibroblasts, which are known to increase in the aging vocal fold lamina propria.
+
+The study revealed that two particular genes, Myosin light chain kinase 2 (Mylk2) and Myomesin 2 (Myom2), were significantly more active in the vocal folds of older rats compared to younger ones. Similar elevated levels were also observed in human vocal fold tissue.
+
+These genes play a crucial role in the transformation of regular fibroblasts into myofibroblasts, cells that contribute to the contraction and stiffness of tissues. When the researchers experimentally reduced the activity of Mylk2 and Myom2, they observed a decrease in cellular contraction and, consequently, a reduction in the stiffness of the vocal fold tissue.
+
+This groundbreaking discovery suggests that Mylk2 and Myom2 are not only novel markers for myofibroblasts in the vocal folds but also key regulators of vocal fold stiffness during the aging process. Understanding these genes could pave the way for new therapeutic strategies to maintain vocal fold flexibility and improve voice quality as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s10522-025-10344-6)
