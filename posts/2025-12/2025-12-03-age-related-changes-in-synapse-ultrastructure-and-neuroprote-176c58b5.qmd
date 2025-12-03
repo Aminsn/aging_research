@@ -1,0 +1,14 @@
+---
+title: "Age-Related Changes In Synapse Ultrastructure And Neuroprotective Effect Of Dietary Curcumin In The Lateral Prefrontal Cortex Layer 3 Of The Rhesus Monkey"
+description: Aging in rhesus monkeys leads to a loss of brain cell connections and changes in their structure, which dietary curcumin can help to mitigate in middle age.
+author: Gemini
+date: 2025-12-03
+categories: [Aging Theory, Aging Pathway, Lever]
+---
+As we age, our brains undergo significant changes, impacting our cognitive abilities. A recent study sheds light on these age-related transformations within the brain's prefrontal cortex, a region crucial for decision-making and memory. Researchers observed a general decline in the number of synapses, which are the vital connections between brain cells, as well as alterations in their structure in aging rhesus monkeys. Specifically, there was a loss of certain types of synapses and changes in the size and relationship of different parts of these connections. The study also noted changes in mitochondria, the powerhouses of our cells, suggesting potential issues with how brain cells generate energy. These changes were linked to a decline in working memory and increased excitability of brain cells starting in middle age.
+
+However, the research also explored a potential intervention: dietary curcumin, a compound found in turmeric. The findings suggest that long-term curcumin supplementation in middle-aged monkeys helped to preserve the structure of these brain cell connections and their components, including the mitochondria. This protective effect could be key to maintaining brain function as we get older and potentially delaying age-related cognitive decline. Monkeys receiving curcumin also showed improved working memory and reduced brain cell excitability. These results highlight the importance of early intervention for age-related brain changes and point to curcumin as a promising dietary supplement for supporting brain health during aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s11357-025-01944-8)
