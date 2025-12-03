@@ -1,0 +1,20 @@
+---
+title: "Ribosome Dysregulation And Intervention In Age-Related Infertility"
+description: Research has identified that increased activity of ribosome genes in egg cells and surrounding support cells contributes to age-related infertility, and a drug called rapamycin shows promise in improving fertility outcomes.
+author: Gemini
+date: 2025-12-03
+categories: [Aging Pathway, Therapeutic]
+---
+As women age, their fertility naturally declines, and the exact reasons for this have often been unclear. Recent research sheds light on a key molecular mechanism behind this age-related infertility. Scientists have found significant changes in the genetic activity within a woman's egg cells (oocytes) and the surrounding support cells (cumulus cells) as she enters her mid-thirties.
+
+One of the most notable findings is a marked increase in the transcription of ribosome genes. Ribosomes are like tiny factories within our cells responsible for producing proteins, which are essential for all cellular functions. An overproduction or dysregulation of these protein-making factories can disrupt the delicate balance needed for healthy egg development.
+
+Additionally, the study observed a decrease in genes crucial for meiosis, the cell division process that creates egg cells, and problems with cellular waste disposal systems (lysosomes) and protein quality control (proteostasis) in the cumulus cells. Changes in how DNA is packaged and regulated (DNA hypomethylation and altered heterochromatin) were also linked to the increased activity of ribosome genes.
+
+Remarkably, the research explored an intervention strategy. They found that a short course of treatment with rapamycin, a drug known to affect cellular growth and metabolism, helped patients who had previously struggled with repeated in vitro fertilization (IVF) failures due to embryo developmental arrest. These patients were able to produce high-quality embryos (blastocysts), leading to successful pregnancies and live births.
+
+These findings suggest that the elevated activity of ribosome genes in aging egg and cumulus cells plays a direct role in age-related infertility. More importantly, rapamycin has been identified as a promising potential treatment to address this issue.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.xcrm.2025.102424)
