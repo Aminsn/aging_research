@@ -1,0 +1,16 @@
+---
+title: "RE-Aging, A Functional Analysis Platform For Human RNA Editing Associated With Aging"
+description: A new platform has been developed to systematically analyze how RNA editing, a process that modifies genetic messages, changes in human tissues as people age.
+author: Gemini
+date: 2025-12-03
+categories: [Analytical, Aging Pathway, Clock]
+---
+Our bodies are incredibly complex, and the instructions for building and maintaining them are stored in our DNA. However, these instructions aren't always followed exactly as written. Sometimes, after a gene is copied into a temporary message called RNA, that message can be subtly altered in a process known as RNA editing. These small changes can have a big impact, potentially affecting how proteins are made and how our cells function. Recent research has highlighted a fascinating connection between these RNA modifications and the aging process.
+
+To better understand this intricate relationship, scientists have created a powerful new tool. This platform allows researchers to delve into a vast amount of data, examining hundreds of thousands of these RNA editing events across many different human tissues. It helps identify which specific editing sites change with age, how these changes relate to particular genes, and even how they might affect the structure of RNA molecules or the binding of tiny regulatory RNAs called microRNAs.
+
+Essentially, this innovative resource provides a comprehensive way to explore the dynamic landscape of RNA editing throughout our lifespan. It enables scientists to pinpoint age-related alterations in these genetic messages, offering crucial insights into the molecular mechanisms of aging and potentially paving the way for new discoveries in age-related health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.mocell.2025.100300)
