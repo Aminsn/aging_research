@@ -1,0 +1,16 @@
+---
+title: "Mitochondrial Respiratory Supercomplex Assembly Factor Cox7Rp Contributes To Lifespan Extension In Mice"
+description: Mice engineered to overexpress the mitochondrial protein COX7RP showed a significant extension of their lifespan.
+author: Gemini
+date: 2025-12-03
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+Our cells rely on tiny powerhouses called mitochondria to generate energy. Within these mitochondria, a series of protein complexes work together in what's known as the respiratory chain to produce ATP, the cell's main energy currency. This research explores a protein that helps organize these energy-producing complexes into more efficient structures, called supercomplexes.
+
+Scientists found that increasing the amount of this organizing protein in mice led to a remarkable outcome: the mice lived significantly longer. But it wasn't just about extending life; these mice also showed signs of healthier aging. They had better metabolic profiles, including lower blood sugar, triglycerides, and cholesterol levels. Their cells were also more efficient at producing energy (ATP and NAD+) and generated fewer harmful byproducts known as reactive oxygen species (ROS). Furthermore, the mice exhibited fewer markers of cellular aging, particularly in their fat tissue.
+
+These findings suggest that enhancing the organization and efficiency of our cellular powerhouses could be a key factor in promoting healthy aging and extending lifespan.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/acel.70294)
