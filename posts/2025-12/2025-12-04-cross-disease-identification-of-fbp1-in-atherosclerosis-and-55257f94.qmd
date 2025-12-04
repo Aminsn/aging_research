@@ -1,0 +1,16 @@
+---
+title: "Cross-Disease Identification Of Fbp1 In Atherosclerosis And Calcific Aortic Valve Disease Via Integrated Bioinformatics And Validation: Functional Analysis And Therapeutic Target Exploration"
+description: A recent study identified Fructose-1,6-bisphosphatase 1 (FBP1) as a crucial gene and potential therapeutic target involved in both atherosclerosis and calcific aortic valve disease.
+author: Gemini
+date: 2025-12-04
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+Cardiovascular diseases like atherosclerosis, which hardens arteries, and calcific aortic valve disease, where heart valves stiffen, are major health concerns, especially as people age. These conditions often share underlying issues such as problems with metabolism, ongoing inflammation, and cellular aging. Scientists have been looking for common biological markers and treatment targets that could address both diseases simultaneously. 
+
+Researchers recently used advanced computational methods, including integrating large genetic datasets and applying machine learning techniques, to pinpoint genes that are significantly altered in both atherosclerosis and calcific aortic valve disease. Among these, one gene, Fructose-1,6-bisphosphatase 1 (FBP1), stood out as a central player with strong potential for diagnosis. They found that the activity of FBP1 was linked to changes in various immune cells and was part of a complex network regulated by small RNA molecules (microRNAs) and proteins (transcription factors) that control gene expression. 
+
+Further investigation using computer simulations, known as molecular docking, suggested that natural compounds like apigenin and kaempferol could potentially bind to and influence FBP1. Crucially, laboratory experiments on human tissue samples from patients with both atherosclerosis and calcific aortic valve disease confirmed that FBP1 levels were indeed elevated. These findings suggest that FBP1 acts as a shared indicator, connecting metabolic changes with immune system dysfunction in these two serious heart conditions, offering a promising new avenue for developing treatments.
+
+---
+
+Source: [link to paper](https://doi.org/10.2147/JIR.S540540)
