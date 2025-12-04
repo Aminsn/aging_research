@@ -1,0 +1,18 @@
+---
+title: "Combined Association Between Phenotypic Age Acceleration And Dietary Fiber Intake With Mortality In Middle-Aged And Elderly Cancer Survivors"
+description: Accelerated biological aging and insufficient dietary fiber intake are independently associated with a higher risk of death in middle-aged and elderly cancer survivors, with a notable combined effect on cancer-specific mortality.
+author: Gemini
+date: 2025-12-04
+categories: [Clock, Lever, Analytical]
+---
+For many cancer survivors, understanding factors that influence long-term health is crucial. New research sheds light on two significant contributors to mortality risk in middle-aged and older adults who have overcome cancer: how quickly their bodies are aging biologically and their dietary fiber intake.
+
+This study found that individuals whose bodies showed signs of "accelerated aging" – meaning their biological age appeared older than their chronological age based on certain health markers – faced a higher risk of death from all causes, including cardiovascular disease and cancer. Separately, those with a low intake of dietary fiber also experienced an increased risk of mortality.
+
+What's particularly important is the combined effect. The research revealed that cancer survivors experiencing both accelerated biological aging and low dietary fiber intake had the highest risk of death. This suggests that these two factors don't just act in isolation but can amplify each other's negative impact, especially concerning cancer-related mortality.
+
+These findings underscore the potential benefits of lifestyle interventions, such as ensuring adequate fiber consumption, to potentially mitigate the risks associated with biological aging in cancer survivors. Focusing on a diet rich in fiber could be a valuable strategy to improve long-term health outcomes for this vulnerable population.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s12937-025-01245-y)
