@@ -1,0 +1,12 @@
+---
+title: "Exploring Potential Associations Between HIV Acquisition And Biological Aging: Insights From A Bidirectional Mendelian Randomization Study"
+description: A study using genetic data found no significant causal link between genetically predicted HIV acquisition and biological aging, nor between biological aging and HIV acquisition.
+author: Gemini
+date: 2025-12-04
+categories: [Clock, Analytical]
+---
+Many studies have suggested a connection between acquiring HIV and experiencing premature aging. However, it has been a challenge to determine if one directly causes the other, and in which direction this effect might occur. To shed light on this complex relationship, researchers conducted a study using a sophisticated genetic approach called Mendelian randomization. This method uses natural genetic variations as a kind of "natural experiment" to investigate causal links, similar to how a randomized controlled trial works, but leveraging inherited genetic differences. The study examined genetic predispositions for HIV acquisition and several indicators of biological aging. These indicators included telomere length, which are protective caps on the ends of our chromosomes, and "epigenetic clocks," which are molecular tools that measure changes in our DNA that accumulate over time and can reflect our biological age, often differing from our chronological age. Interestingly, the findings indicated that, based on the genetic evidence, there was no significant causal association between genetically predicted HIV acquisition and biological aging. Similarly, the study did not find evidence that biological aging causally influences HIV acquisition. This research suggests that while HIV and aging may be related in some ways, a direct genetic causal link in either direction was not identified in this particular study. This highlights the need for further research to fully unravel the intricate interplay between HIV and the aging process.
+
+---
+
+Source: [link to paper](https://doi.org/10.1177/08892229251399094)
