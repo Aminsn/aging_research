@@ -1,0 +1,18 @@
+---
+title: "Hepatocyte Mitochondrial NAD<Sup>+</Sup> Content Is Limiting For Liver Regeneration"
+description: The amount of NAD+ within the mitochondria of liver cells directly controls how quickly the liver can regenerate.
+author: Gemini
+date: 2025-12-04
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies have an amazing ability to heal, and the liver is particularly good at regenerating itself after injury or disease. But what exactly limits this remarkable self-repair process? Recent research sheds light on a crucial factor: the energy-carrying molecule NAD+ (nicotinamide adenine dinucleotide) specifically found within the mitochondria of liver cells.
+
+Mitochondria are often called the "powerhouses" of our cells because they are responsible for generating most of the energy needed for cellular functions. This study reveals that the concentration of NAD+ inside these mitochondrial powerhouses in liver cells, called hepatocytes, is a key determinant of how fast the liver can regenerate.
+
+The researchers discovered that a specific transporter protein, known as SLC25A51 (or MCART1), plays a vital role in controlling how much NAD+ gets into the mitochondria of liver cells. When the levels of this transporter were reduced, liver regeneration was impaired. Conversely, increasing the amount of SLC25A51 in liver cells boosted regeneration, even more effectively than general supplements that increase NAD+ throughout the body.
+
+This finding suggests that focusing on increasing NAD+ specifically within the mitochondria of liver cells could be a powerful strategy to enhance the liver's ability to repair itself, potentially leading to new ways to treat liver diseases and injuries.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s42255-025-01408-5)
