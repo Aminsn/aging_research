@@ -1,0 +1,16 @@
+---
+title: "Aging Increases Susceptibility To High-Fat Diet-Induced Neurobehavioral And Mitochondrial Dysfunction In Zebrafish"
+description: A high-fat diet exacerbates neurobehavioral and mitochondrial problems in aged zebrafish, indicating that aging increases vulnerability to the negative effects of unhealthy eating on brain health.
+author: Gemini
+date: 2025-12-04
+categories: [Aging Pathway, Lever]
+---
+Our recent research using zebrafish, a small freshwater fish often used in scientific studies, reveals a significant connection between aging, diet, and brain health. We found that older zebrafish are more susceptible to the detrimental effects of a high-fat diet on their behavior and the energy-producing parts of their brain cells, called mitochondria. 
+
+Specifically, a diet high in fat led to metabolic issues like weight gain and elevated blood sugar in both young and old fish. However, the impact on behavior was much more pronounced in older animals. Aged zebrafish on a high-fat diet exhibited increased anxiety-like behaviors and poorer cognitive function, such as impaired memory. 
+
+Furthermore, we observed changes in the brain's mitochondria, suggesting that these vital cellular components are negatively affected by a high-fat diet, particularly as the fish age. These findings are important because they suggest that, similar to mammals, zebrafish can serve as a valuable model to understand how unhealthy diets contribute to cognitive decline and brain dysfunction as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.pnpbp.2025.111564)
