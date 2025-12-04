@@ -1,0 +1,16 @@
+---
+title: "A Unified Mechanism For Mitochondrial Damage Sensing In Pink1-Parkin-Mediated Mitophagy"
+description: Researchers have discovered a common trigger for the cellular process that removes damaged mitochondria, finding that various types of mitochondrial damage all lead to a loss of mitochondrial membrane potential, which then activates the PINK1-Parkin pathway to initiate the removal process.
+author: Gemini
+date: 2025-12-04
+categories: [Aging Pathway]
+---
+Our cells rely on tiny powerhouses called mitochondria to generate energy. When these mitochondria get damaged, they need to be removed to keep the cell healthy. This crucial clean-up process is called mitophagy, and it’s particularly important for preventing neurodegenerative diseases like Parkinson's.
+
+For a long time, scientists wondered if there was a single way cells recognized different kinds of mitochondrial damage to kickstart mitophagy. This new research reveals a unified mechanism: it turns out that many different forms of mitochondrial damage all lead to a collapse of the mitochondrial membrane potential (MMP). The MMP is essentially an electrical charge across the inner membrane of the mitochondria, vital for its normal function.
+
+When the MMP is lost, a protein called PINK1, which is usually imported into healthy mitochondria and then broken down, gets stuck on the mitochondrial surface. This accumulation of PINK1 then acts as a signal to activate another protein called Parkin. Once activated, Parkin tags proteins on the outer surface of the damaged mitochondrion with small molecules called ubiquitin. These ubiquitin tags act like a "eat me" signal, marking the faulty mitochondrion for degradation and removal from the cell. This discovery provides a clearer understanding of how cells maintain mitochondrial health and could open new avenues for therapeutic interventions in diseases linked to mitochondrial dysfunction.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s44318-025-00604-z)
