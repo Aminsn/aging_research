@@ -1,0 +1,14 @@
+---
+title: "From Senescent Cells To Systemic Inflammation: The Role Of Inflammaging In Age-Related Diseases And Kidney Dysfunction"
+description: Aging is characterized by a persistent, low-level inflammation, termed inflammaging, which is driven by the accumulation of senescent cells and contributes significantly to the development of age-related diseases, including kidney dysfunction.
+author: Gemini
+date: 2025-12-05
+categories: [Aging Theory, Aging Pathway, Therapeutic, Lever]
+---
+As we age, our bodies often experience a subtle, ongoing state of inflammation, a phenomenon scientists call "inflammaging." Unlike the acute inflammation that helps us heal from an injury, this chronic, low-grade inflammation persists over time and can be detrimental to our health. A key player in this process is the accumulation of "senescent cells"—cells that have stopped dividing due to damage or age but remain in the body. These senescent cells release a cocktail of pro-inflammatory molecules, known as the Senescence-Associated Secretory Phenotype (SASP), which further fuels the inflammatory environment. Other contributing factors include issues with our cells' energy-producing mitochondria, the shortening of protective caps on our DNA called telomeres, and imbalances in our gut bacteria.
+
+This persistent inflammation contributes to tissue damage and impaired organ function, playing a significant role in the development of many age-related conditions such as heart disease, diabetes, and neurodegenerative disorders. The kidneys, in particular, are highly susceptible, with inflammaging accelerating the progression of chronic kidney disease and hindering the organ's ability to repair itself. Fortunately, understanding these mechanisms opens doors for new interventions. Researchers are exploring therapies like "senolytics," which selectively remove senescent cells, and "senomorphics," which block the harmful secretions from these cells. Alongside lifestyle changes, these strategies aim to reduce the burden of senescent cells and mitigate inflammaging, ultimately promoting healthier aging and extending our "healthspan"—the period of life spent in good health.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/cells14221831)
