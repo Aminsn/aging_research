@@ -1,0 +1,18 @@
+---
+title: "Probiotic Modulation In Aging: Strain-Specific Geroprotective Effects In <I>Caenorhabditis Elegans</I>"
+description: Specific probiotic strains can extend lifespan, improve movement, reduce oxidative stress, and enhance cognitive functions in the model organism *Caenorhabditis elegans*.
+author: Gemini
+date: 2025-12-05
+categories: [Therapeutic, Aging Pathway]
+---
+As we age, our bodies become more susceptible to various health issues. Recent research has explored the potential of beneficial bacteria, known as probiotics, to promote healthier aging. A study using the tiny worm *Caenorhabditis elegans*, a common model in aging research due to its short lifespan and genetic similarities to humans, investigated the effects of different probiotic strains on various aspects of aging.
+
+The findings revealed that not all probiotics are the same; their benefits are highly dependent on the specific strain. For instance, two particular strains, *Limosilactobacillus reuteri* PBS072 and *Bifidobacterium animalis* subsp. *lactis* BL050, significantly improved the worms' ability to move and reduced levels of reactive oxygen species (ROS), which are harmful molecules linked to aging and cellular damage. This suggests these strains could help maintain muscle function and protect against oxidative stress.
+
+Beyond physical health, some probiotics also showed cognitive benefits. *Bifidobacterium breve* BB077, *Lacticaseibacillus paracasei* LPC1114, and *L. reuteri* PBS072 enhanced the worms' associative learning, while *B. lactis* BL050 improved their ability to sense and move towards chemical cues (chemotaxis). Most notably, *L. paracasei* LPC1114 and *L. reuteri* PBS072 were found to extend the maximum lifespan of the worms by several days, an effect linked to genes known to play a role in longevity.
+
+These results highlight that probiotics can offer diverse benefits for healthy aging, impacting everything from physical vitality and stress resistance to cognitive abilities and even lifespan. The strain-specific nature of these effects underscores the importance of choosing the right probiotic for targeted health improvements.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/ijms262211205)
