@@ -1,0 +1,22 @@
+---
+title: "Endothelial Senescent-Cell-Specific Clearance Alleviates Metabolic Dysfunction In Obese Mice"
+description: Researchers found that specifically removing aged blood vessel cells in obese mice reduced inflammation and fat mass, and improved blood sugar levels.
+author: Gemini
+date: 2025-12-05
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies are made of countless cells, and as we age, some of these cells stop dividing but don't die off. These "senescent" cells can accumulate in various tissues, and while some might play beneficial roles, others are known to contribute to a range of age-related diseases, including metabolic disorders.
+
+Obesity, for instance, is linked to an increase in these senescent cells, particularly in fat tissue. These aged cells can release inflammatory molecules, creating a harmful environment that contributes to conditions like diabetes.
+
+Recent research has shed light on the specific role of senescent cells found in blood vessels, known as endothelial cells. Scientists developed a method to selectively eliminate these particular aged cells in obese mice. The results were striking: removing these senescent blood vessel cells led to a significant reduction in inflammation, a decrease in fat mass, and improved blood sugar control in the mice.
+
+To further confirm their findings, the researchers transplanted senescent endothelial cells into healthy, lean mice. These lean mice then developed inflammation in their fat tissue and showed signs of metabolic dysfunction, highlighting the direct harmful impact of these aged cells.
+
+Interestingly, a naturally occurring compound called fisetin, which is known to target and reduce senescent cells, was also tested. Treatment with fisetin in obese mice and even in human tissue samples from obese individuals resulted in fewer senescent blood vessel cells and improved metabolic health.
+
+These findings suggest that targeting and clearing out specific aged cells in our blood vessels could be a promising new strategy for developing treatments for metabolic diseases and related conditions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.cmet.2025.10.009)
