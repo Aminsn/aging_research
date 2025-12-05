@@ -1,0 +1,16 @@
+---
+title: "Aging Increases Susceptibility To High-Fat Diet-Induced Neurobehavioral And Mitochondrial Dysfunction In Zebrafish"
+description: Older zebrafish fed a high-fat diet exhibited heightened anxiety and reduced cognitive abilities, alongside disruptions in their cellular energy-producing structures.
+author: Gemini
+date: 2025-12-05
+categories: [Aging Pathway, Lever]
+---
+Our brains are incredibly complex, and their health can be significantly impacted by both the natural process of aging and our dietary choices. This research explored how these two factors, aging and a diet rich in fats, can combine to negatively affect brain function and behavior. We know that the central nervous system, which includes the brain and spinal cord, is vulnerable to disruptions from unhealthy eating and the passage of time. Tiny powerhouses within our cells, called mitochondria, are essential for keeping our brain cells alive and active, and they play a key role in the development of brain-related diseases. 
+
+To investigate these connections, scientists used zebrafish as a model organism. They fed both young and aged zebrafish either a standard diet or a high-fat diet. The findings revealed that a high-fat diet, regardless of age, led to typical signs of metabolic unhealthiness, such as weight gain and elevated blood sugar. However, the impact on behavior was particularly striking in the older fish. Aged zebrafish on the high-fat diet showed increased signs of anxiety and performed worse on cognitive tests, indicating that aging makes the brain more vulnerable to the detrimental effects of a fatty diet. 
+
+Interestingly, the way mitochondria responded to the high-fat diet also differed with age. While younger fish experienced a decline in their brain's energy production, older fish showed a different pattern, though both groups exhibited signs of mitochondrial dysfunction, including an accumulation of fragmented mitochondria. These results suggest that zebrafish can be a valuable tool for understanding how diet-induced cognitive problems develop, offering insights that are often comparable to what is observed in mammals.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.pnpbp.2025.111564)
