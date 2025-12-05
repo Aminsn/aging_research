@@ -1,0 +1,18 @@
+---
+title: "A Collagen Amino Acid Composition Supplementation Reduces Biological Age In Humans And Increases Health And Lifespan In Vivo"
+description: A specific combination of amino acids, the building blocks of collagen, has been found to reduce biological age in humans, improve skin health, and extend health and lifespan in animal models.
+author: Gemini
+date: 2025-12-05
+categories: [Therapeutic, Clock]
+---
+Imagine unlocking a secret to not just living longer, but living healthier and feeling younger. Recent research suggests that the key might lie in the very building blocks of our bodies, specifically a precise combination of amino acids that make up collagen. Collagen is a vital protein that provides structure to our skin, bones, and connective tissues, essentially holding us together.
+
+This groundbreaking study focused on a particular trio of amino acids—glycine, proline, and hydroxyproline—in a specific 3:1:1 ratio. These aren't just random components; they are the fundamental units that our bodies use to create collagen. When supplemented, this specific mix, sometimes enhanced with other beneficial compounds like vitamin C and alpha-ketoglutarate (a molecule important for energy production and cell health), showed remarkable effects across different organisms.
+
+In tiny worms, this amino acid blend significantly extended their lifespan and improved their "healthspan," meaning they remained active and healthy for a longer period. When tested on human skin cells, it effectively boosted the cells' natural ability to produce and maintain collagen. Moving to more complex models, older mice showed improved grip strength and less age-related fat accumulation, suggesting better physical function as they aged.
+
+Perhaps most exciting are the preliminary findings in humans. Participants in a trial who took this amino acid composition experienced noticeable improvements in their skin. More profoundly, they showed a measurable reduction in their "biological age" by an average of 1.4 years over six months. Biological age refers to how old your body's cells and tissues appear to be based on various markers, rather than just your chronological age. This suggests that this specific amino acid combination could play a crucial role in supporting our bodies' natural processes for healthy aging and maintaining vitality.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41514-025-00280-7)
