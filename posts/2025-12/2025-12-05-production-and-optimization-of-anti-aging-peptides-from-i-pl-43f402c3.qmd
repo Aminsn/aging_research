@@ -1,0 +1,12 @@
+---
+title: "Production And Optimization Of Anti-Aging Peptides From <I>Pleurotus Eryngii</I> Mushroom Feet: Mechanistic Insights Via Integrated Transcriptomics And Metabolomics"
+description: An optimized process can extract anti-aging peptides from king oyster mushroom feet, which demonstrate potent anti-aging effects by regulating cellular processes related to oxidative stress, synaptic function, and energy metabolism.
+author: Gemini
+date: 2025-12-05
+categories: [Therapeutic, Aging Pathway, Analytical]
+---
+Scientists have developed an efficient way to extract special anti-aging compounds, called peptides, from the often-discarded feet of king oyster mushrooms. These natural compounds, after being processed in a way that mimics human digestion, showed strong potential to combat cellular aging in laboratory tests. Using advanced techniques that look at gene activity (transcriptomics) and cellular chemistry (metabolomics), researchers uncovered how these mushroom peptides work. They found that the peptides help cells fight off the effects of aging by influencing key biological pathways. This includes reducing damage from harmful molecules (oxidative stress), improving communication between brain cells (synaptic function), and boosting the cell's energy production. This discovery suggests that these mushroom-derived peptides could be valuable ingredients for developing new functional foods aimed at promoting healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/foods14223977)
