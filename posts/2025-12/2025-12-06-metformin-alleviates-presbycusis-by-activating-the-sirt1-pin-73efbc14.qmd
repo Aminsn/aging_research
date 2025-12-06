@@ -1,0 +1,16 @@
+---
+title: "Metformin Alleviates Presbycusis By Activating The Sirt1/Pink1/Gpx4 Pathway In Vitro And In Vivo"
+description: Metformin, a drug commonly used for diabetes, has been found to alleviate age-related hearing loss by activating a specific cellular pathway.
+author: Gemini
+date: 2025-12-06
+categories: [Aging Pathway, Therapeutic]
+---
+Age-related hearing loss, also known as presbycusis, is a common condition linked to chronic inflammation. A recent study explored the potential of metformin, a medication primarily known for treating diabetes due to its anti-inflammatory properties, in addressing this type of hearing impairment.
+
+The research investigated how metformin might protect against age-related hearing loss by focusing on a specific cellular communication route called the SIRT1/PINK1/GPX4 pathway. In laboratory experiments, metformin was shown to improve the health and survival of aging auditory cells. It achieved this by boosting the function of mitochondria, which are the powerhouses of cells, and by reducing the production of harmful reactive oxygen species. Additionally, metformin inhibited a specific type of cell death known as ferroptosis.
+
+Moving beyond lab dishes, the study also tested metformin in mice. The results were promising: treated mice showed improved hearing function, a reduction in damaging iron ions and malondialdehyde in their inner ear (cochlea), and extended survival of their hair cells, which are crucial for hearing. The scientists observed that metformin increased the levels of key proteins—SIRT1, PINK1, and GPX4—involved in the identified cellular pathway. These findings suggest that by activating this pathway, metformin could offer a new therapeutic approach for age-related hearing loss.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s10787-025-02040-1)
