@@ -1,0 +1,12 @@
+---
+title: "Ginsenoside Re Binds Drp1 Leu94 Across Species To Restore Mitochondrial Homeostasis Via Atg1/Ulk1-Dependent Fission-Mitophagy Coupling In Age-Related Degeneration"
+description: A compound found in ginseng, Ginsenoside Re, has been shown to protect against age-related brain degeneration by improving the health and function of mitochondria, the powerhouses of cells.
+author: Gemini
+date: 2025-12-06
+categories: [Aging Pathway, Therapeutic]
+---
+Aging significantly impacts our brains, often leading to neurodegenerative diseases due to issues with our cells' energy factories, called mitochondria. Scientists have been searching for safe and effective ways to combat this decline. Recent research has identified a promising compound from ginseng, called Ginsenoside Re, that can cross into the brain and offer protection. This compound works by directly interacting with a key protein, Drp1, which is essential for how mitochondria divide. By doing so, it helps restore a healthy balance in mitochondrial activity and ensures that damaged mitochondria are efficiently removed through a cellular recycling process known as mitophagy. This improved mitochondrial health, especially when the compound is introduced during a crucial midlife period, has been shown to delay brain degeneration, enhance cognitive and motor abilities, and ultimately extend overall health. This discovery provides a new understanding of the molecular mechanisms behind age-related decline and opens doors for developing new treatments.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.phrs.2025.108043)
