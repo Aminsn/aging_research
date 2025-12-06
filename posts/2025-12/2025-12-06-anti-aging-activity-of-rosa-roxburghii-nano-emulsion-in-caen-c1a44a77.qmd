@@ -1,0 +1,18 @@
+---
+title: "Anti-Aging Activity Of Rosa Roxburghii Nano-Emulsion In Caenorhabditis Elegans: Preparation, Characterization, And Evaluation"
+description: A nano-emulsion developed from *Rosa roxburghii* fruit significantly extended the lifespan and improved the antioxidant defenses in the model organism *Caenorhabditis elegans*.
+author: Gemini
+date: 2025-12-06
+categories: [Therapeutic, Aging Pathway]
+---
+Scientists have been exploring natural compounds for their potential anti-aging benefits. One such source is the *Rosa roxburghii* fruit, which contains beneficial compounds called triterpenoids. While these triterpenoids show promise for their antioxidant and anti-aging properties, their effectiveness has been limited because they don't dissolve well in water and are poorly absorbed by the body.
+
+To overcome this challenge, researchers developed a special delivery system: a nano-emulsion. Think of a nano-emulsion as a liquid containing incredibly tiny droplets, much smaller than what you can see, which helps the triterpenoids dissolve better and become more easily absorbed.
+
+When this *Rosa roxburghii* fruit nano-emulsion was tested on *Caenorhabditis elegans*, a small worm often used in aging research due to its short lifespan, the results were exciting. The nano-emulsion extended the worms' lifespan by a notable percentage. Furthermore, it boosted the activity of important antioxidant enzymes like catalase, superoxide dismutase (SOD), and glutathione peroxidase, which are crucial for protecting cells from damage. At the same time, levels of malondialdehyde, a marker of cellular damage, decreased.
+
+The study also shed light on how this nano-emulsion works. It appears to enhance the worms' natural antioxidant defenses by activating specific genes, including SIR-2.1, DAF-16, and SOD-3. These genes are known to play key roles in stress resistance and longevity pathways, suggesting a mechanism by which the nano-emulsion contributes to anti-aging effects without negatively impacting the worms' ability to reproduce.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/cbdv.202502105)
