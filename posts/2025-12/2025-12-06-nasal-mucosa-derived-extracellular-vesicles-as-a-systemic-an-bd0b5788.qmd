@@ -1,0 +1,16 @@
+---
+title: "Nasal Mucosa-Derived Extracellular Vesicles As A Systemic Antiaging Intervention"
+description: Extracellular vesicles derived from human nasal mucosa have been shown to exert widespread anti-aging effects in aged mice, improving cognitive function and reversing age-related changes in multiple organs.
+author: Gemini
+date: 2025-12-06
+categories: [Therapeutic, Aging Pathway]
+---
+Imagine tiny packages released by cells that act as messengers, carrying important instructions. Recent research has explored these "extracellular vesicles" (EVs) specifically those derived from the lining of the human nose. This study found that when these nasal mucosa-derived EVs were given to aged mice, they had remarkable anti-aging effects throughout the body.
+
+The treatment significantly improved the mice's ability to think and remember, known as cognitive performance. It also positively influenced key areas of the brain involved in learning and memory, affecting how brain cells communicate and adapt. Beyond the brain, a broad analysis of major organs sensitive to aging revealed that these EVs helped to reverse many age-related changes in gene activity. This included restoring the body's natural sleep-wake cycles, or circadian rhythm, and reducing the presence of "senescent" cells—cells that have stopped dividing and contribute to aging.
+
+At a more fundamental level, these vesicles were able to rejuvenate aged human stem cells from bone marrow, helping them to grow and develop into bone-forming cells more effectively. These beneficial effects appear to involve a cellular pathway known as p53, which plays a crucial role in cell health and aging. What makes these findings particularly exciting is that these specific EVs are relatively easy to obtain from the nasal lining, offering a practical and accessible source for potential future anti-aging therapies.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/advs.202511372)
