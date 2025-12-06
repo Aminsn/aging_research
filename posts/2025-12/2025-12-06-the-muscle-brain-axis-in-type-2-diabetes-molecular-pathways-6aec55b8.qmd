@@ -1,0 +1,18 @@
+---
+title: "The Muscle-Brain Axis In Type 2 Diabetes: Molecular Pathways Linking Sarcopenia And Cognitive Decline"
+description: Type 2 diabetes is increasingly recognized as a shared pathological substrate for both sarcopenia, which is age-related muscle loss, and cognitive decline, including Alzheimer's disease, with a bidirectional communication network between muscles and the brain playing a central role.
+author: Gemini
+date: 2025-12-06
+categories: [Aging Pathway, Lever]
+---
+Did you know that the health of your muscles might be directly linked to the health of your brain, especially if you have type 2 diabetes? Recent research highlights a fascinating connection, often called the "muscle-brain axis," which helps explain why people with type 2 diabetes often experience both muscle weakening and problems with memory and thinking.
+
+It turns out that type 2 diabetes doesn't just affect how your body uses sugar; it also impacts your muscles and brain through several common biological pathways. These include issues like insulin resistance (when your body doesn't respond well to insulin), persistently high blood sugar, problems with mitochondria (the energy factories in your cells), oxidative stress (damage to cells), and ongoing inflammation. These factors contribute to both the loss of muscle mass and function, known as sarcopenia, and the deterioration of brain function.
+
+Muscles aren't just for movement; they also act as an endocrine organ, releasing special signaling molecules called myokines. These myokines travel through your bloodstream and can influence various organs, including the brain. Some myokines, like IGF-1, irisin, and BDNF, are beneficial, promoting muscle growth, enhancing connections between brain cells, and protecting brain cells from damage. However, other myokines, such as myostatin, IL-8, and GDF-15, can have detrimental effects.
+
+This intricate communication system means that what affects your muscles can also affect your brain, and vice versa. The good news is that managing type 2 diabetes effectively, through improved blood sugar control, enhanced insulin sensitivity, and consistent physical activity, can help to mitigate both muscle wasting and cognitive decline. This emphasizes the importance of a holistic approach to health, where taking care of your muscles can also be a step towards protecting your brain.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.arr.2025.102955)
