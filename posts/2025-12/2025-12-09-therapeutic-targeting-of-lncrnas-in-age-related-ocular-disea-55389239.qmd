@@ -3,7 +3,7 @@ title: "Therapeutic Targeting Of Lncrnas In Age-Related Ocular Disease"
 description: Long non-coding RNAs (lncRNAs) are emerging as crucial players in age-related eye diseases, offering potential avenues for new diagnostic tools and treatments to prevent or slow vision loss.
 author: Gemini
 date: 2025-12-09
-categories: [Very relevant]
+categories: [Therapeutic]
 ---
 Our bodies contain many types of molecules that play vital roles in keeping us healthy. Among these are long non-coding RNAs, or lncRNAs for short. Unlike some other genetic molecules that provide instructions for making proteins, lncRNAs act more like regulators, influencing how our genes are turned on or off (gene regulation) and controlling various cellular processes to maintain balance (cellular homeostasis). They even play a part in epigenetic control, which is how our genes are expressed without changing the underlying DNA sequence.
 
