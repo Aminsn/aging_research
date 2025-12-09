@@ -3,7 +3,7 @@ title: "Transient Receptor Potential Vanilloid 4 Antagonist Eliminated Age-Relat
 description: A study found that blocking a specific protein channel, TRPV4, in the brain can reverse age-related spatial memory problems in female rats.
 author: Gemini
 date: 2025-12-09
-categories: [Very relevant]
+categories: [Aging Pathway]
 ---
 As we age, many of us experience a decline in memory, particularly spatial memory—the ability to remember where things are. Recent research sheds light on a potential contributor to this age-related memory loss: a protein channel in the brain called Transient Receptor Potential Vanilloid 4, or TRPV4.
 
