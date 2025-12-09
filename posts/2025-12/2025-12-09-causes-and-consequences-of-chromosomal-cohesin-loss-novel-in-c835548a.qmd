@@ -1,0 +1,18 @@
+---
+title: "Causes And Consequences Of Chromosomal Cohesin Loss: Novel Insights For Mechanisms Of Aging-Related Oocyte Aneuploidy"
+description: The paper reveals that the gradual reduction of a protein complex called cohesin in egg cells is a primary reason for the increase in chromosome errors, known as aneuploidy, as females age, contributing to a decline in fertility.
+author: Gemini
+date: 2025-12-09
+categories: [Very relevant]
+---
+As women age, particularly after their mid-thirties, their fertility often declines significantly. This is largely due to a decrease in the quality and quantity of their egg cells, also known as oocytes. A major contributor to this decline is the increased incidence of errors in chromosome number, a condition called aneuploidy, which primarily originates in these egg cells.
+
+Recent research highlights a key factor in this age-related rise in chromosome errors: the progressive loss of a crucial protein complex known as cohesin. Imagine cohesin as a molecular ring that holds together sister chromatids, which are the two identical copies of a replicated chromosome, ensuring they stay paired until the precise moment of cell division.
+
+What makes this particularly challenging is that this vital cohesin is established during a female's fetal development and is not replenished throughout her reproductive lifespan. Over many years, this cohesin can deteriorate or be lost, leading to mistakes when chromosomes are supposed to separate during the formation of egg cells. These errors result in egg cells having an incorrect number of chromosomes, which can lead to infertility, miscarriages, and birth defects.
+
+Understanding how this loss of cohesion impacts egg cell quality is crucial for developing new ways to prevent or treat age-related infertility and associated genetic conditions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.mad.2025.112129)
