@@ -1,0 +1,12 @@
+---
+title: "Exposome Project For Health And Occupational Research NIGHT Shift Cohort (EPHOR-NIGHT): A Unique Resource To Advance Research On NIGHT Shift Work And Chronic Disease"
+description: The EPHOR-NIGHT cohort was established to investigate how night shift work influences biological pathways and chronic disease risk using a comprehensive working-life exposome approach, focusing on cardiometabolic, mental health, cognitive, and biological aging outcomes.
+author: Gemini
+date: 2025-12-17
+categories: [Lever, Clock, Analytical]
+---
+Have you ever wondered how working at night truly impacts your health? A groundbreaking research initiative is shedding light on this critical question by examining the "exposome" of night shift workers. The exposome refers to all the environmental exposures an individual experiences throughout their life, from diet and lifestyle to pollutants and, in this case, work schedules. This extensive study involves nearly a thousand workers, predominantly from the healthcare sector across four European countries. Researchers are collecting a vast array of data, including detailed questionnaires, information from wearable sensors that track sleep and light exposure, and biological samples for advanced "omics" analyses. Omics technologies, like genomics (studying genes) and metabolomics (studying metabolism), allow scientists to look at the body's intricate biological responses at a molecular level. Early findings suggest that night and rotating shift workers experience poorer sleep quality and duration, and report higher levels of anxiety and depression compared to day workers. The study also indicates potential changes in immune markers and gut microbiome diversity among night shift workers. The ultimate goal of this comprehensive research is to provide a deeper understanding of the mechanisms linking night shift work to chronic diseases, such as heart problems, mental health issues, and accelerated aging, ultimately informing strategies to protect the health of this vital workforce.
+
+---
+
+Source: [link to paper](https://doi.org/10.1136/bmjopen-2025-106090)
