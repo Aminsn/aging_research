@@ -1,0 +1,14 @@
+---
+title: "Artesunate Reverses BMSC Senescence And Ameliorates Osteoporosis By Upregulating Nsd2"
+description: A recent study found that artesunate can reverse the aging of bone marrow stem cells and improve osteoporosis by increasing the activity of a protein called NSD2.
+author: Gemini
+date: 2025-12-17
+categories: [Therapeutic, Aging Pathway]
+---
+Our bones are constantly being remodeled, with old bone being broken down and new bone being formed. This process relies on special cells called bone marrow mesenchymal stem cells (BMSCs), which have the ability to develop into various cell types, including bone-forming cells. However, as we age, these stem cells can undergo a process called senescence, essentially cellular aging, where they lose their ability to effectively form new bone. This decline contributes to conditions like osteoporosis, a disease that makes bones weak and brittle.
+
+Exciting new research has shed light on a potential therapeutic approach using a compound called artesunate. This study revealed that artesunate can promote the growth and enhance the bone-forming capabilities of BMSCs. It does this by influencing several key cellular communication pathways, specifically by inhibiting the NF-κB and Notch1/Hes1 signaling pathways, which are known to play roles in bone health. Furthermore, artesunate was found to increase the levels of a protein called NSD2, a type of enzyme that modifies other proteins and is crucial for proper cell function. By upregulating NSD2 and modulating these pathways, artesunate helps to reverse the aging process in BMSCs, leading to improved bone formation and offering a promising avenue for treating osteoporosis.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.ejphar.2025.178447)
