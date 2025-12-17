@@ -1,0 +1,16 @@
+---
+title: "The Association Of Pain With Intrinsic Capacity And The Moderating Role Of Inflammation In France: A Cross-Sectional Analysis Of The INSPIRE-T Project"
+description: Pain, whether localized or widespread, was found to be significantly associated with a decrease in an individual's overall physical and mental abilities, known as intrinsic capacity, and this relationship was also linked to higher levels of inflammation.
+author: Gemini
+date: 2025-12-17
+categories: [Analytical, Clock]
+---
+Our physical and mental abilities, collectively known as "intrinsic capacity," are crucial for maintaining independence and quality of life as we age. These capacities encompass various domains, including our memory, movement, mood, and energy levels. A recent study investigated how factors like pain and inflammation might influence these essential abilities.
+
+The research revealed a clear connection: individuals experiencing pain, whether in a single area or multiple parts of their body, tended to have a lower intrinsic capacity. This suggests that pain can directly impact a person's ability to perform daily activities and maintain their cognitive and psychological well-being.
+
+Furthermore, the study found that higher levels of inflammatory markers in the blood, such as Interleukin-6 (IL-6) and C-reactive protein (CRP), were associated with increased reports of both pain and fatigue. This indicates that inflammation, which is the body's natural response to injury or infection, could play a significant role in intensifying pain and its negative effects on intrinsic capacity. Understanding these complex relationships is vital for developing better strategies to manage pain and inflammation, ultimately helping people maintain their physical and mental capabilities throughout their lives.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.lanhl.2025.100798)
