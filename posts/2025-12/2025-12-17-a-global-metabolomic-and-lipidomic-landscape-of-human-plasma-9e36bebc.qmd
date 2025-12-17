@@ -1,0 +1,12 @@
+---
+title: "A Global Metabolomic And Lipidomic Landscape Of Human Plasma Across The Lifespan"
+description: A study comprehensively mapped metabolic and lipid changes in human plasma across the entire lifespan, identifying distinct metabolic signatures at different life stages and developing a tool to predict biological age.
+author: Gemini
+date: 2025-12-17
+categories: [Clock, Analytical, Aging Pathway]
+---
+Our bodies are constantly changing, and understanding these changes at a molecular level is key to promoting health as we age. Recent research has delved into the intricate world of metabolism and lipids—fats and fat-like substances—in human blood plasma, examining how they shift from birth through old age. By analyzing samples from individuals ranging from newborns to 84-year-olds, scientists have uncovered unique metabolic fingerprints for different life stages. For instance, newborns exhibit distinct patterns of certain lipids called sphingosines, while aging is characterized by increased levels of amino acids and imbalances in various fats. The study also pinpointed specific points in life where significant metabolic reprogramming occurs. Importantly, by integrating these dynamic metabolic patterns, a novel "aging clock" was developed. This tool, based on the unique mix of metabolites in a person's plasma, can help predict an individual's biological age, offering a powerful new way to assess health beyond chronological years. These discoveries provide valuable insights into the complex process of aging and open doors for developing targeted strategies to improve overall health and prevent age-related diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/acel.70316)
