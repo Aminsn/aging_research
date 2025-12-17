@@ -1,0 +1,14 @@
+---
+title: "Compatibility And Comparative Analysis Of Chronological And Biological Aging Between The Legacy 450K And The EPIC V2.0 Arrays"
+description: The study found that while some biological aging clocks are affected by the differences between older and newer DNA methylation arrays, measures of "AgeAcceleration" remain largely consistent and reliable.
+author: Gemini
+date: 2025-12-17
+categories: [Clock, Analytical]
+---
+Our bodies age at different rates, and scientists have developed tools called "epigenetic clocks" to estimate a person's biological age based on chemical modifications to their DNA, specifically DNA methylation. These clocks rely on measuring specific markers on our DNA using specialized laboratory tools called arrays. Recently, a new generation of these tools, the EPIC v2.0 array, was introduced, which has some differences from its predecessors, like the 450K array. A key question for researchers is how these differences, particularly the absence of some measurement points (called "probes") on the newer array, might affect the accuracy of existing epigenetic clocks.
+
+Our research investigated this very question, finding that some epigenetic clocks, such as those used to estimate "Hannum" or "GrimAgeV2", showed noticeable over- or underestimation of biological age when using the newer array due to these missing probes. However, it's important to note that despite these individual clock biases, the overall relationships between the age estimates from the older and newer arrays remained strong. Crucially, we found that measures of "AgeAcceleration" – which reflect how much faster or slower someone is aging biologically compared to their chronological age – were remarkably consistent across both array types. This suggests that AgeAcceleration is a robust and reliable measure for biological aging studies, even when transitioning to newer technologies. This finding is significant for researchers, as it provides confidence in using the latest technology for certain types of biological aging research, particularly when studying how quickly individuals are aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.mad.2025.112142)
