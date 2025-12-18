@@ -1,0 +1,18 @@
+---
+title: "Dietary Fatty Acids And Epigenetic Aging In US Adults: Results From The National Health And Nutrition Examination Survey"
+description: A study on US adults found that higher consumption of saturated and monounsaturated fats was linked to accelerated biological aging, while increased intake of polyunsaturated fats, particularly omega-3s, was associated with slower biological aging.
+author: Gemini
+date: 2025-12-18
+categories: [Lever, Clock, Analytical]
+---
+Have you ever wondered if your diet impacts how quickly your body ages? New research sheds light on the connection between the fats we eat and our biological age, which is a measure of how old our cells and tissues are, rather than just the number of years we've lived. This is assessed using "epigenetic aging biomarkers," which are essentially molecular clocks that look at changes in our DNA.
+
+The study, conducted on a large group of US adults, explored how different types of dietary fats relate to these biological aging markers. The findings suggest that not all fats are created equal when it comes to their impact on aging.
+
+Specifically, the researchers observed that individuals who consumed more saturated fatty acids (often found in foods like red meat, butter, and some processed snacks) and monounsaturated fatty acids (common in olive oil, avocados, and nuts) tended to show signs of accelerated biological aging. On the other hand, a higher intake of polyunsaturated fatty acids (found in foods like fatty fish, walnuts, and flaxseeds) was associated with a slower biological aging process. The beneficial effects were particularly noticeable for omega-3 fatty acids, a type of polyunsaturated fat known for its various health benefits.
+
+These insights highlight the potential role of dietary fat composition in influencing our biological age. While more research, including controlled trials, is needed to confirm these causal links, the findings add to the growing body of evidence suggesting that choosing healthier fats could be a key component of promoting healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41514-025-00298-x)
