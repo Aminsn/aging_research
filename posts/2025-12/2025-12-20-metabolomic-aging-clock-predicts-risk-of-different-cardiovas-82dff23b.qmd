@@ -1,0 +1,14 @@
+---
+title: "Metabolomic Aging Clock Predicts Risk Of Different Cardiovascular Diseases In The UK Biobank"
+description: A new biological clock, based on an individual's metabolic profile, can accurately predict a person's biological age and their risk of developing various cardiovascular diseases.
+author: Gemini
+date: 2025-12-20
+categories: [Clock, Analytical]
+---
+Scientists have developed a novel way to measure biological aging, which is how old your body "acts" rather than your chronological age. This new "aging clock" uses a comprehensive look at the small molecules found in your blood, called metabolites, which are essentially the byproducts of your body's processes. By analyzing 249 different plasma metabolites from a large group of nearly 200,000 individuals in the UK Biobank, researchers were able to create a model that accurately predicts a person's phenotypic age—a measure of biological age that combines several clinical indicators of health.
+
+This advanced clock not only provides a more precise estimate of biological age but also shows a strong connection to the likelihood of developing several types of heart and blood vessel diseases, including heart attacks, strokes, and heart failure. The findings suggest that this metabolic aging measure is also linked to other signs of aging, such as the length of protective caps on chromosomes (telomeres) and overall physical frailty. Integrating this new biological clock with existing risk assessment tools for cardiovascular disease modestly improved their ability to predict future health problems. Furthermore, the study identified specific genetic regions and genes that play a role in metabolic aging, pointing to the liver as a key organ in this process. This research offers a promising tool for identifying individuals at higher risk for age-related diseases and could pave the way for more personalized strategies to promote healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.metabol.2025.156467)
