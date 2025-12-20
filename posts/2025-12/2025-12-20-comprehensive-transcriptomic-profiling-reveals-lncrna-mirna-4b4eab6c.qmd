@@ -1,0 +1,18 @@
+---
+title: "Comprehensive Transcriptomic Profiling Reveals Lncrna-Mirna-Mrna Regulatory Networks In Skeletal Muscle Aging Of Mice"
+description: This study systematically profiled age-related changes in long non-coding RNAs, microRNAs, and messenger RNAs in mouse skeletal muscle and constructed core regulatory networks to understand their interplay in the aging process.
+author: Gemini
+date: 2025-12-20
+categories: [Aging Pathway, Analytical]
+---
+As we age, our bodies undergo various physiological changes, and a type of genetic material called long non-coding RNAs (lncRNAs) appears to play a crucial role in this process, though their exact mechanisms in aging have been unclear. This research utilized advanced sequencing techniques to compare the complete set of RNA molecules in the tibialis anterior muscles of aged mice (20-month-old) versus young mice (3-month-old).
+
+The scientists discovered significant differences in the expression levels of various RNA types: 746 known lncRNAs, 27 novel lncRNAs, 50 microRNAs (miRNAs), and 1124 messenger RNAs (mRNAs) were found to be expressed differently in the aged muscle. LncRNAs are fascinating molecules that, unlike mRNAs, do not directly code for proteins but are vital regulators of gene activity. MicroRNAs are small RNA molecules that fine-tune gene expression by influencing mRNAs, which carry the instructions for making proteins.
+
+Based on these findings, the study constructed intricate regulatory networks that illustrate how these different RNA molecules interact with each other. These networks, including subtype-specific cis- and trans-regulatory networks and competing endogenous RNA (ceRNA) networks, provide a clearer picture of how lncRNAs might influence muscle aging by regulating miRNAs, which in turn affect the expression of protein-coding genes. The identified hub genes and enriched pathways suggest involvement in processes like extracellular matrix remodeling, epithelial cell migration, and immune response.
+
+This comprehensive profiling of age-related transcriptomic changes offers a valuable resource and generates new hypotheses for future research into the molecular basis of muscle aging and potential interventions for age-related muscle decline.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.gene.2025.149946)
