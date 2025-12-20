@@ -1,0 +1,12 @@
+---
+title: "Hmgb1 Box A Gene Therapy Reverses Cognitive And Neuropathological Features In Alcl₃/D-Galactose Rat Model Of Alzheimer'S Disease"
+description: HMGB1 Box A gene therapy effectively reversed cognitive decline and reduced brain pathology in a rat model mimicking Alzheimer's disease.
+author: Gemini
+date: 2025-12-20
+categories: [Therapeutic, Aging Pathway]
+---
+Alzheimer's disease is a devastating condition characterized by progressive memory loss and cognitive decline. Researchers often use animal models, such as rats treated with aluminum chloride and D-galactose, to study the disease and test potential treatments, as this combination can induce features similar to Alzheimer's in the brain. A recent study explored a novel approach using gene therapy with a specific protein fragment called HMGB1 Box A. High mobility group box 1 (HMGB1) is a protein involved in various cellular processes, including DNA repair and inflammation, and its Box A domain has shown promise in reversing cellular aging, known as senescence. In this research, the gene therapy was administered to rats after they developed Alzheimer's-like symptoms. The results were encouraging: treated rats showed significant improvements in their behavior, including better responsiveness, movement, and most importantly, enhanced learning and memory. At a microscopic level, the therapy reduced the accumulation of harmful proteins like amyloid-beta and tau, which are hallmarks of Alzheimer's disease. It also helped restore the density of brain cells, reduced the loss of connections between neurons (synaptic degeneration), and calmed brain inflammation by suppressing the activity of immune cells like microglia and astrocytes. Furthermore, the treatment decreased markers of cellular senescence in the brain, suggesting a rejuvenation effect on brain cells. These findings indicate that this gene therapy could offer a multi-faceted protective effect, addressing both the molecular and cellular damage, and ultimately leading to a recovery in cognitive function. This strategy holds significant potential as a new way to treat Alzheimer's disease and improve the well-being of those affected.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.expneurol.2025.115583)
