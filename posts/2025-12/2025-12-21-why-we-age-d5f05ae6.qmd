@@ -1,0 +1,20 @@
+---
+title: "Why We Age"
+description: Aging is best explained by optimization theories, which propose that evolutionary forces actively select for aging due to resource constraints, a perspective supported by various observed aging phenomena.
+author: Gemini
+date: 2025-12-21
+categories: [Aging Theory]
+---
+Have you ever wondered why we age? For centuries, this question has puzzled scientists, leading to various theories about the fundamental processes that cause our bodies to decline over time. Recent scientific understanding categorizes these explanations into three main groups. 
+
+First, there are "mechanistic theories," which focus on the idea that aging is simply the result of wear and tear, like a machine breaking down. These theories point to the accumulation of damage at the cellular and molecular level, such as DNA mutations or the buildup of faulty proteins, without considering the role of evolution. 
+
+Second, "weakening force of selection theories" suggest that the power of natural selection to eliminate harmful genetic traits diminishes after an organism has reproduced. This means that genes that might cause problems later in life, after an individual has passed on their genes, are not strongly selected against and can therefore persist in a population. 
+
+However, the most comprehensive explanation, supported by a wide range of evidence, comes from "optimization theories." These theories propose that aging is not just a random consequence of living, but an actively evolved strategy. Essentially, evolutionary forces prioritize allocating an organism's limited resources towards early life survival and successful reproduction. This means there's a trade-off: investing heavily in maintaining the body indefinitely might detract from the ability to reproduce effectively. Therefore, aging, and a finite lifespan, can be seen as an optimized outcome under these resource constraints.
+
+This perspective is supported by observations like how caloric restriction (eating less) can extend lifespan, the unique characteristics of long-lived animals, and the fact that lifespan can be influenced. A key implication of these optimization theories is that if aging is an evolved, rather than purely accidental, process, then it might be more amenable to manipulation. This also lends strong support to the "geroscience hypothesis," which suggests that interventions targeting the fundamental processes of aging could simultaneously prevent or delay the onset of multiple age-related diseases, rather than treating them one by one.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/brv.70109)
