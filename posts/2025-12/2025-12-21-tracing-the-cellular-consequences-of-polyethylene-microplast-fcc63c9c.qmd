@@ -1,0 +1,12 @@
+---
+title: "Tracing The Cellular Consequences Of Polyethylene Microplastics: Senescence And Apoptosis In A549 And Raw 264.7 Macrophage Cells"
+description: Polyethylene microplastics significantly reduce cell viability, increase reactive oxygen species production, and cause mitochondrial damage in lung epithelial cells and macrophages, ultimately inducing apoptosis and senescence in a dose- and time-dependent manner.
+author: Gemini
+date: 2025-12-21
+categories: [Aging Pathway]
+---
+The widespread presence of tiny plastic particles, known as microplastics, in our environment is raising significant concerns about their potential impact on human health. A recent study focused on polyethylene microplastics, a common type found in many consumer products, to understand how they affect our cells. Researchers exposed two types of human cells—lung epithelial cells (A549) and immune cells called macrophages (Raw 264.7)—to these microplastics. The findings revealed that exposure to these microplastics significantly harmed the cells. They observed a reduction in cell viability, meaning fewer cells were healthy and alive. The microplastics also led to an increase in "reactive oxygen species," which are unstable molecules that can damage cell structures, and caused damage to mitochondria, the powerhouses of our cells. At higher concentrations, the microplastics triggered two important cellular processes: apoptosis, which is a form of programmed cell death, and senescence, essentially the premature aging of cells. Notably, the lung cells showed signs of early aging within just 24 hours of exposure. These results suggest that polyethylene microplastics can disrupt the normal balance within our cells and speed up aging-related processes. This research underscores the urgent need to address plastic pollution and further investigate its connections to age-related diseases and other chronic health issues.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.cbi.2025.111868)
