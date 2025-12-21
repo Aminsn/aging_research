@@ -1,0 +1,16 @@
+---
+title: "Proteomics Mediates The Effects Of Biological Aging On The Progression Of Cardio-Renal-Metabolic Comorbidity: A UK Biobank Cohort Study"
+description: Biological aging is strongly associated with the progression of cardio-renal-metabolic diseases, and this link is partly explained by specific proteins circulating in the blood.
+author: Gemini
+date: 2025-12-21
+categories: [Aging Pathway, Clock, Therapeutic, Analytical]
+---
+Our bodies undergo changes as we age, and these changes, often referred to as biological aging, have a significant impact on our health. A recent study explored the connection between biological aging and the development of a cluster of interconnected health problems affecting the heart, kidneys, and metabolism—known as cardio-renal-metabolic (CRM) comorbidity. The research found a strong link between how quickly a person’s body is aging biologically and the worsening of these CRM conditions.
+
+Crucially, the study identified that specific proteins circulating in the bloodstream act as mediators in this process. These proteins essentially help explain *how* biological aging influences the progression of CRM diseases. Researchers pinpointed nine key proteins that play a significant role, with three—GDF15, ADM, and HAVCR1—showing the most substantial impact. Interestingly, one of these proteins, GDF15, already has a neutralizing antibody (ponsegroumab) undergoing clinical evaluation, suggesting a potential pathway for future treatments.
+
+These findings open up exciting possibilities for improving how we predict the risk of CRM health issues. By focusing on aging-centered strategies and utilizing these protein markers (proteomic biomarkers), doctors might be able to identify individuals at higher risk earlier. Furthermore, understanding the role of these specific proteins could lead to the development of new targeted therapies to combat the progression of these widespread and serious health conditions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s12933-025-03035-6)
