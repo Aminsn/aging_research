@@ -1,0 +1,12 @@
+---
+title: "Autophagy Beyond Earth: Dr. Ghada Alsaleh On Aging, Cells, And Space"
+description: Research investigates how the cellular recycling process, autophagy, is impacted by microgravity in space, using this unique environment as a model to accelerate the study of aging and develop potential interventions for age-related diseases on Earth.
+author: Gemini
+date: 2025-12-22
+categories: [Aging Theory, Aging Pathway]
+---
+Our bodies are constantly working to maintain health, and a key process in this is called autophagy, which is like the cell's internal recycling and repair system. It helps clean out damaged parts and keep cells functioning properly. As we age, this vital process can become less efficient, contributing to various age-related conditions like muscle weakness, bone loss, and a weakened immune system. Interestingly, astronauts in space experience similar changes due to microgravity, the condition of very little gravity. This has led scientists to wonder if space could serve as a unique, accelerated environment to study aging. By sending miniature, lab-grown organs, called organoids, into space and comparing them to those on Earth, researchers can observe how microgravity affects cellular health and the pathways involved in aging. The goal is to understand these complex biological processes more quickly than is possible on Earth. This research also explores specific cellular pathways, like the TFEB pathway, which controls autophagy and is often disrupted with age. By understanding and potentially restoring these pathways, scientists hope to develop new strategies to promote healthy aging, not just for astronauts, but for everyone on Earth.
+
+---
+
+Source: [link to paper](https://doi.org/10.1080/15548627.2025.2601858)
