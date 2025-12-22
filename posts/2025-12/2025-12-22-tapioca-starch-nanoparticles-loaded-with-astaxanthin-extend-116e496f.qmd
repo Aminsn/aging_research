@@ -1,0 +1,12 @@
+---
+title: "Tapioca Starch Nanoparticles Loaded With Astaxanthin Extend The Lifespan Of Caenorhabditis Elegans By Activating DAF-16"
+description: Tapioca starch nanoparticles carrying astaxanthin have been shown to extend the lifespan of the nematode *Caenorhabditis elegans* by activating a key longevity pathway.
+author: Gemini
+date: 2025-12-22
+categories: [Therapeutic, Aging Pathway]
+---
+Scientists are constantly looking for ways to combat aging and improve health as we get older. One promising natural compound is astaxanthin, a powerful antioxidant found in certain algae and seafood. However, astaxanthin faces a challenge: it's not easily absorbed by the body, limiting its potential benefits. To overcome this, researchers have explored using tiny carriers made from tapioca starch, called nanoparticles, to deliver astaxanthin more effectively. In a recent study, these astaxanthin-loaded tapioca starch nanoparticles were tested on *Caenorhabditis elegans*, a small worm often used in aging research due to its short lifespan and genetic similarities to humans in aging pathways. The exciting discovery was that these special nanoparticles significantly extended the worms' lives. This anti-aging effect was linked to the activation of a specific gene called DAF-16, which plays a crucial role in stress resistance and longevity. This research suggests a novel approach to enhance the delivery of beneficial compounds like astaxanthin, potentially paving the way for new strategies to promote healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/jsfa.70376)
