@@ -1,0 +1,12 @@
+---
+title: "Long-Term High-Protein Diet Intake Accelerates Adipocyte Senescence Through Macrophage Cd38-Mediated NAD<Sup>+</Sup> Depletion"
+description: Long-term consumption of high-protein diets can accelerate the aging of fat cells by reducing a crucial molecule called NAD+ through the action of immune cells.
+author: Gemini
+date: 2025-12-24
+categories: [Aging Pathway, Therapeutic, Lever, Analytical]
+---
+Many people adopt high-protein diets for weight management, but new research suggests a potential downside: these diets might be speeding up the aging process in our fat cells. The study found that a prolonged high-protein intake leads to a decrease in a vital molecule called NAD+ within white fat tissue. NAD+ is essential for many cellular functions, including energy production and maintaining cell health. The mechanism behind this accelerated aging involves immune cells called macrophages. When a high-protein diet is consumed over time, these macrophages increase their production of an enzyme called CD38. This enzyme then breaks down NAD+, depleting its levels in the surrounding fat cells and causing them to age prematurely. This cellular aging, known as senescence, can contribute to metabolic problems often associated with aging. Importantly, the research also showed that by either supplementing with NAD+ precursors or blocking the activity of the CD38 enzyme, the negative metabolic effects caused by the high-protein diet could be reversed. This suggests potential avenues for counteracting these effects and promoting healthier aging, even for those following high-protein eating patterns.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.molmet.2025.102306)
