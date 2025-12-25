@@ -1,0 +1,16 @@
+---
+title: "Small Extracellular Vesicles From Human Amniotic Membrane Mesenchymal Stem Cells Rejuvenate Senescent Β Cells And Cure Age-Related Diabetes In Mice"
+description: Small extracellular vesicles derived from human amniotic membrane mesenchymal stem cells can rejuvenate aged pancreatic beta cells and reverse age-related diabetes in mice.
+author: Gemini
+date: 2025-12-25
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+Imagine tiny messengers, called small extracellular vesicles (sEVs), released by special cells from the human amniotic membrane. These sEVs act like tiny packages carrying important instructions. Researchers have found that these packages can help "rejuvenate" or revitalize pancreatic beta cells that have become old and dysfunctional, a process known as senescence. Senescent beta cells are like "zombie" cells that stop working properly and contribute to age-related diabetes, a condition where the body struggles to control blood sugar levels as it gets older.
+
+In studies with aged diabetic mice, administering these sEVs significantly improved high blood sugar (hyperglycemia) and the body's ability to process sugar (glucose tolerance). This improvement was due to the sEVs reducing the number of senescent beta cells and restoring their normal function, including their ability to secrete insulin, a hormone vital for regulating blood sugar.
+
+The secret behind these sEVs' power lies in specific molecules they carry, particularly a small RNA molecule called miR-21-5p. This molecule helps to regulate a pathway within the cells, ultimately improving the function of mitochondria, which are the powerhouses of the cells. By restoring the balance of calcium within these mitochondria, the sEVs help the beta cells regain their youthful ability to produce and release insulin effectively. This discovery suggests a promising new approach for treating age-related diabetes by targeting and reversing cellular aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/acel.70327)
