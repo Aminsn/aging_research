@@ -1,0 +1,14 @@
+---
+title: "Pharmacological Activation Of Mitophagy Confers Neuroprotective Benefits For Amyotrophic Lateral Sclerosis"
+description: Pharmacological activation of mitophagy, a cellular process that removes damaged mitochondria, shows promise in protecting motor neurons and improving symptoms in models of Amyotrophic Lateral Sclerosis.
+author: Gemini
+date: 2025-12-25
+categories: [Aging Pathway, Therapeutic]
+---
+Amyotrophic Lateral Sclerosis (ALS) is a devastating disease that progressively weakens muscles and impacts physical function due to the degeneration of motor neurons. Currently, there is no cure, making research into new treatments incredibly important. Recent studies have shed light on a crucial cellular process called "mitophagy," which is essentially the cell's way of cleaning out damaged mitochondria—the tiny powerhouses that generate energy for our cells. When mitochondria are damaged and not properly cleared, they can accumulate and contribute to disease progression.
+
+Researchers have found that in models of ALS, this vital mitophagy process is impaired, leading to a buildup of faulty mitochondria in motor neurons. This accumulation is believed to contribute to the degeneration seen in ALS. Excitingly, a compound called urolithin A was used to activate mitophagy. This activation helped to counteract the disease progression in different ALS models, improving movement, slowing down the loss of motor neurons, and reducing inflammation in the nervous system. These findings suggest that boosting the cell's natural cleaning system for mitochondria could be a promising new strategy for developing treatments for ALS.
+
+---
+
+Source: [link to paper](https://doi.org/10.14336/AD.2025.1224)
