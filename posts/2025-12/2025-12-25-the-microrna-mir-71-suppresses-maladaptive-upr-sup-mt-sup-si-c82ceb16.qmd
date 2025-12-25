@@ -1,0 +1,20 @@
+---
+title: "The Microrna Mir-71 Suppresses Maladaptive UPR<Sup>Mt</Sup> Signaling Through Both Cell-Autonomous And Cell-Non-Autonomous Mechanisms"
+description: The microRNA miR-71 protects against mitochondrial damage by suppressing an overactive mitochondrial stress response through mechanisms that act both within the damaged cells and in distant tissues.
+author: Gemini
+date: 2025-12-25
+categories: [Aging Pathway, Therapeutic]
+---
+Our cells rely on tiny powerhouses called mitochondria for energy and to sense stress. When these mitochondria are severely damaged, they can trigger a "stress response" called the mitochondrial unfolded protein response (UPRmt) to try and fix things. However, if this response becomes overactive, it can actually be harmful, contributing to problems like aging and metabolic disorders.
+
+New research has uncovered a protective molecule, a small RNA called microRNA miR-71, in the worm *Caenorhabditis elegans*. This microRNA acts as a crucial regulator during severe mitochondrial damage.
+
+Here's how it works: miR-71 is activated in muscle cells when mitochondria are in distress. It then steps in to calm the overactive stress response in two ways. First, it directly reduces the activity of a key player in the UPRmt within the muscle cells themselves, helping to restore muscle structure and movement. This is what scientists call a "cell-autonomous" mechanism, meaning it acts within the same cell.
+
+Second, miR-71 also reduces the signals of stress that muscle cells send to other parts of the body, such as glial cells (support cells in the nervous system). This "cell-non-autonomous" mechanism means it helps coordinate a body-wide suppression of mitochondrial stress.
+
+This discovery suggests that by understanding and potentially manipulating small RNAs like miR-71, we might find new ways to treat metabolic disorders by preventing the harmful overactivation of mitochondrial stress responses.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41467-025-67198-2)
