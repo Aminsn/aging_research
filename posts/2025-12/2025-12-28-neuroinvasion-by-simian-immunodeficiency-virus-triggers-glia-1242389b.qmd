@@ -1,0 +1,12 @@
+---
+title: "Neuroinvasion By Simian Immunodeficiency Virus Triggers Glial Senescence And Accelerated Neurodegeneration"
+description: Simian immunodeficiency virus (SIV) infection in the brain rapidly triggers the premature aging of brain support cells and accelerates brain tissue damage.
+author: Gemini
+date: 2025-12-28
+categories: [Aging Pathway]
+---
+The research explored how a virus similar to HIV, called Simian Immunodeficiency Virus (SIV), impacts the brain. Using rhesus macaques, a type of monkey often studied for diseases like HIV, scientists discovered that the virus rapidly causes brain support cells, known as glia, to age prematurely. This process, called glial senescence, means these crucial cells, which include astrocytes and microglia, stop functioning correctly and and can even release harmful substances, contributing to inflammation and damage in the brain. The study found increased levels of specific markers associated with cellular aging, such as the protein p16, and clear evidence of brain tissue damage, or neurodegeneration, in several brain areas within weeks of infection. These results indicate that the virus activates aging-related pathways in the brain almost immediately, potentially contributing to the cognitive difficulties observed in individuals with HIV. This early understanding could pave the way for new treatments aimed at protecting the brain from such damage.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2025.12.15.694426)
