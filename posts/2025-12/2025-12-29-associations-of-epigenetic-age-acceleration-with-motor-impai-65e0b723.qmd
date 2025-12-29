@@ -1,0 +1,18 @@
+---
+title: "Associations Of Epigenetic Age Acceleration With Motor Impairment: Evidence From The PPMI Cohort"
+description: Accelerated biological aging, as measured by epigenetic clocks, is linked to the worsening of tremor in Parkinson's disease, particularly in men.
+author: Gemini
+date: 2025-12-29
+categories: [Clock, Analytical]
+---
+We all have a chronological age, which is simply how many years we've been alive. But our bodies also have a "biological age," reflecting the true wear and tear on our cells and tissues. Scientists can estimate this biological age using "epigenetic clocks," which are like sophisticated timekeepers that read chemical modifications on our DNA.
+
+A recent study delved into how this biological aging relates to motor problems, a hallmark of conditions like Parkinson's disease. Researchers looked at data from a large group of individuals, tracking changes in their biological age and their motor function over time.
+
+The key finding was that a faster biological aging rate was strongly associated with a worsening of tremors, a common motor symptom. Interestingly, this link was particularly pronounced in men. This suggests that the body's overall biological aging process might specifically impact the brain circuits responsible for tremors, potentially distinct from pathways involved in other motor symptoms like slowness of movement.
+
+These biological clocks could become valuable tools for understanding how Parkinson's disease progresses and for identifying individuals at higher risk, especially those who experience significant tremors. By monitoring these biological age markers, we might one day be able to better track the disease and develop more targeted treatments.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2025.12.16.25342400)
