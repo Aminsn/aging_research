@@ -1,0 +1,22 @@
+---
+title: "Age-Dependent Topoisomerase I Depletion Alters Recruitment Of Rdna Silencing Complexes"
+description: The study reveals that the age-related decrease of a protein called topoisomerase I in yeast unexpectedly shortens lifespan when its levels are restored, because its overexpression disrupts crucial silencing complexes at ribosomal DNA.
+author: Gemini
+date: 2025-12-29
+categories: [Aging Theory, Aging Pathway]
+---
+Aging is a complex process, often characterized by issues like genomic instability and a breakdown in how proteins are maintained within cells. While these problems are well-known, the exact mechanisms driving them as cells get older are still being uncovered.
+
+Recent research using budding yeast, a common model for studying aging in actively dividing cells, has shed new light on this. Scientists identified several nuclear proteins that become depleted early in the aging process. Many of these proteins are involved in making ribosomes (the cell's protein factories) or maintaining the stability of chromatin, which is the tightly packed structure of DNA.
+
+One protein that stood out was topoisomerase I (Top1), an enzyme crucial for managing the twisting and untwisting of DNA. Surprisingly, when researchers tried to restore the levels of Top1 that had naturally decreased with age, it actually had a negative effect, shortening the lifespan of the yeast cells.
+
+It turns out that when Top1 is present in excessive amounts, it interferes with a vital group of proteins called the RENT complex. This complex is responsible for "silencing" specific regions of the DNA, particularly the ribosomal DNA (rDNA), which contains genes for making ribosomes. Silencing these regions is important for maintaining the stability of the genome and ensuring proper cell function.
+
+Specifically, too much Top1 pulls a key silencing protein, Sir2, away from the rDNA. This disruption leads to a decrease in the silencing of genes near the rDNA, which is detrimental to the cell's health and lifespan. The study also suggests that the catalytic activity of Top1, meaning its ability to change DNA structure, plays an important role in establishing this rDNA silencing.
+
+This finding highlights a crucial point: simply replenishing proteins that decline with age might not always be beneficial. Instead, the precise balance and interaction of these proteins are critical for healthy cellular aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jbc.2025.111062)
