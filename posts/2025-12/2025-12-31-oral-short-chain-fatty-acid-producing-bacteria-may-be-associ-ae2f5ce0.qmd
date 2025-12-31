@@ -1,0 +1,16 @@
+---
+title: "Oral Short-Chain Fatty Acid-Producing Bacteria May Be Associated With Biological Age And Cognition Among The Oldest Old"
+description: The composition of bacteria in the mouth, particularly those producing short-chain fatty acids, is linked to an individual's biological age and cognitive abilities among the very elderly.
+author: Gemini
+date: 2025-12-31
+categories: [Analytical, Aging Pathway]
+---
+Our bodies are complex ecosystems, and the tiny organisms living within us, especially bacteria, play a much larger role than we often realize. Recent research has shed light on a fascinating connection between the bacteria in our mouths and how we age, particularly concerning our brain health. This study focused on individuals aged 85 and older, exploring how their oral microbial communities relate to their "biological age" – a measure of how old our body seems functionally, rather than just chronologically – and their cognitive function, which includes thinking and memory skills. 
+
+The findings suggest that people who appear biologically younger tend to have a less diverse collection of bacteria in their mouths and exhibit unique bacterial patterns. Interestingly, higher levels of certain oral bacteria, such as *Prevotella_7*, were associated with better cognitive performance. Conversely, another type of bacteria, *Alloprevotella*, was linked to poorer cognitive abilities. These bacteria produce compounds called short-chain fatty acids, which are known to be important for various bodily functions, including communication between the gut and the brain. 
+
+This research highlights a potential "oral-brain axis," suggesting that the health and specific makeup of our oral microbiome could influence how well our brains function as we age. It opens up exciting possibilities for future interventions, perhaps through managing oral health or targeting specific oral bacteria, to promote healthy aging and maintain cognitive vitality in our later years.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s43856-025-01288-6)
