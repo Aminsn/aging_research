@@ -1,0 +1,12 @@
+---
+title: "Modulation Of Liquid-To-Solid Phase Transition In Coacervates For Neurodegenerative Disease Treatments"
+description: The paper reviews how the abnormal change of liquid-like cellular compartments into solid structures contributes to neurodegenerative diseases and explores strategies to control this process for potential treatments.
+author: Gemini
+date: 2025-12-31
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+Our cells contain tiny, membraneless compartments called coacervates, which are crucial for many biological functions. Normally, these compartments are fluid, allowing molecules to move and interact efficiently. However, during aging or under stress, proteins within these compartments can misfold and clump together, causing the liquid-like structures to stiffen and become solid. This harmful transformation, known as a liquid-to-solid phase transition, disrupts the delicate balance within cells and is strongly implicated in the development of neurodegenerative conditions such as Alzheimer's, Parkinson's, and amyotrophic lateral sclerosis (ALS). Understanding and controlling this transition is key to combating these diseases. Researchers are exploring various strategies to modulate these phase changes, including physical interventions, molecular adjustments, and even modifying the sequences of the proteins involved. By finding ways to prevent or reverse the solidification of these cellular compartments, we could unlock new avenues for developing effective treatments for these devastating neurological disorders.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/cbic.202500795)
