@@ -1,0 +1,18 @@
+---
+title: "Association Of Smoking Behavior, Intensity, And Time Since Cessation With Epigenetic Aging Biomarkers: Results From NHANES 1999-2002"
+description: Smoking, both active and secondhand, is linked to an accelerated biological aging process, which can be mitigated over time after quitting.
+author: Gemini
+date: 2025-12-31
+categories: [Clock, Lever, Analytical]
+---
+Have you ever wondered if your lifestyle choices impact how quickly your body ages? Recent research sheds light on the profound connection between smoking and our biological clock. This study found that individuals who smoke, whether currently or in the past, exhibit signs of accelerated biological aging. This means their bodies appear older at a cellular level than their chronological age suggests.
+
+The findings indicate a "dose-dependent" relationship, meaning the more a person smokes, the more pronounced this accelerated aging effect becomes. For instance, current smokers showed significantly higher epigenetic age acceleration compared to non-smokers, and even former smokers still showed some acceleration, though less than current smokers.
+
+However, there's good news for those who have quit: the study observed that the acceleration in biological aging declines with the time since smoking cessation. This suggests that stopping smoking can help slow down or even partially reverse these aging effects. Even exposure to secondhand smoke was associated with an increase in this biological aging marker.
+
+To understand these effects, researchers used advanced tools called "epigenetic clocks," which are biomarkers based on DNA methylation patterns in the blood. These clocks provide a highly accurate measure of a person's biological age, reflecting how well their cells are functioning. The study utilized data from a large, representative survey of U.S. adults, providing robust evidence for these associations.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2025.12.18.25342556)
