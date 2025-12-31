@@ -1,0 +1,12 @@
+---
+title: "D-Galactose Administration Via Semicircular Canal Induces Accelerated Cochlear Aging: A Novel Model Of Oxidative Stress-Mediated Presbycusis"
+description: A new research model demonstrates that administering D-galactose, a type of sugar, can accelerate aging in the cochlea, the hearing organ, by increasing oxidative stress, which leads to early signs of age-related hearing loss.
+author: Gemini
+date: 2025-12-31
+categories: [Aging Pathway]
+---
+Age-related hearing loss, also known as presbycusis, is a common condition resulting from the natural degeneration of the auditory system. Scientists have long recognized that factors like reactive oxygen species, which are unstable molecules, and damage to mitochondria, the powerhouses of our cells, play significant roles in the aging process. Researchers have now developed a novel approach to study accelerated cochlear aging. By administering D-galactose, a simple sugar, they successfully induced characteristics of aging within the cochlea. This method leads to mitochondrial oxidative damage and subsequent dysfunction in the cochlear ribbon synapses, which are crucial for transmitting sound signals. These changes mimic the early stages of age-related hearing loss. This new model provides a valuable tool for understanding the underlying mechanisms of presbycusis and for testing potential therapeutic interventions. The findings also suggest that protecting cells from oxidative stress, for instance by enhancing the expression of a protein called SIRT1, could offer a protective strategy against age-related hearing loss.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.neuroscience.2025.12.052)
