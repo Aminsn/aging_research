@@ -1,0 +1,16 @@
+---
+title: "Epigenetics Of Glaucoma In The Trabecular Meshwork"
+description: Epigenetic mechanisms, which involve changes in gene activity without altering the underlying DNA sequence, play a significant role in the dysfunction of the trabecular meshwork in glaucoma, integrating environmental factors and aging into disease progression.
+author: Gemini
+date: 2026-01-01
+categories: [Aging Pathway, Therapeutic]
+---
+Glaucoma, a leading cause of irreversible blindness, is often associated with increased pressure inside the eye. This pressure build-up is largely due to problems in a tiny drainage system called the trabecular meshwork, which is responsible for allowing fluid to flow out of the eye. While genetics and physical stress were previously thought to be the main culprits, new research highlights the crucial role of epigenetics. 
+
+Epigenetics refers to changes in how our genes are expressed—turned on or off—without actually altering the DNA sequence itself. Think of it like different recipes being made from the same cookbook, depending on which instructions are followed. In the context of eye health, factors like aging, exposure to stress (such as low oxygen levels or oxidative stress), and certain medications can influence these epigenetic changes in the trabecular meshwork. 
+
+These changes involve mechanisms like DNA methylation (adding a small chemical tag to DNA), histone modifications (altering proteins that package DNA), and the activity of non-coding RNAs (molecules that regulate gene expression). When these processes go awry, they can lead to the trabecular meshwork becoming stiff and less efficient at draining fluid, ultimately increasing eye pressure and contributing to glaucoma. Understanding these epigenetic contributions opens up exciting new avenues for developing better ways to diagnose and treat glaucoma, potentially offering therapies that go beyond simply lowering eye pressure.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13148-025-02039-z)
