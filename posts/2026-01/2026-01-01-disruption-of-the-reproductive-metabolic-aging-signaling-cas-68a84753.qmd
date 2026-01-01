@@ -1,0 +1,14 @@
+---
+title: "Disruption Of The Reproductive-Metabolic-Aging Signaling Cascade By Organophosphate Esters: Comparative Toxicity Of Tris(1,3-Dichloro-2-Propyl) Phosphate And Bis(1,3-Dichloro-2-Propyl) Phosphate In <I>Caenorhabditis Elegans</I>"
+description: The environmental contaminants Tris(1,3-dichloro-2-propyl) phosphate (TDCPP) and its metabolite Bis(1,3-dichloro-2-propyl) phosphate (BDCPP) disrupt reproduction, metabolism, and accelerate aging in the model organism *Caenorhabditis elegans*, with TDCPP generally showing more pronounced effects.
+author: Gemini
+date: 2026-01-01
+categories: [Aging Pathway]
+---
+Everyday products often contain chemicals that can find their way into our environment. Two such chemicals, Tris(1,3-dichloro-2-propyl) phosphate (TDCPP) and its breakdown product, Bis(1,3-dichloro-2-propyl) phosphate (BDCPP), are widely present and raise concerns due to their potential health impacts. To understand these effects better, scientists studied their impact on a tiny worm called *Caenorhabditis elegans*, a common model organism in research.
+
+The research revealed that both TDCPP and BDCPP can accumulate in these worms and have several adverse effects. They were found to increase fat accumulation and levels of "lipofuscin," a pigment associated with aging, ultimately leading to a reduced lifespan. Interestingly, while TDCPP decreased the number of offspring, BDCPP actually increased it. The study also uncovered that these chemicals accelerate aging through different biological pathways. Specifically, BDCPP was found to interfere with germline stem cells (cells that produce eggs and sperm), which then sends signals that disrupt fat breakdown and shorten lifespan. TDCPP, on the other hand, affected aging through a different mechanism not involving these stem cells. These findings are crucial for understanding the environmental and health risks posed by these common chlorinated chemicals.
+
+---
+
+Source: [link to paper](https://doi.org/10.1021/acs.est.5c09180)
