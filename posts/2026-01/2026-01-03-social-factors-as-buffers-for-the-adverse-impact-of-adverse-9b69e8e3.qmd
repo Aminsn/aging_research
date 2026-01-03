@@ -1,0 +1,14 @@
+---
+title: "Social Factors As Buffers For The Adverse Impact Of Adverse Childhood Experiences On Biological Age Acceleration Among Adults In Hispanic Community Health Study / Study Of Latinos"
+description: Social support and diverse social networks can help mitigate the accelerated biological aging caused by adverse childhood experiences in Hispanic/Latino adults.
+author: Gemini
+date: 2026-01-03
+categories: [Clock, Lever, Analytical]
+---
+Experiencing difficult or traumatic events during childhood, known as Adverse Childhood Experiences (ACEs), can have lasting effects on health, even influencing how quickly our bodies age. This process, called biological age acceleration, means that a person's body ages faster than their chronological age. Scientists can measure this biological aging using "epigenetic clocks," which are tools that look at chemical changes on our DNA, specifically DNA methylation patterns, to estimate our true biological age. One such clock, GrimAge, is particularly good at predicting the risk of mortality. 
+
+New research focusing on Hispanic/Latino adults has shed light on a crucial protective factor: social connections. The study found that strong social support can independently lessen the adverse impact of these childhood adversities on biological age acceleration. Furthermore, this protective effect appears to be even stronger when individuals have diverse social networks. This suggests that having people to rely on and a variety of social ties can act as a buffer, helping to slow down the biological aging process that might otherwise be sped up by early life trauma. These findings underscore the profound importance of social factors in promoting health and resilience throughout life, especially for those who have faced significant challenges in their early years.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bbi.2025.106241)
