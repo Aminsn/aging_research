@@ -1,0 +1,16 @@
+---
+title: "Cellular Senescence Meets Infection: Highlights From The 10Th Annual International Cell Senescence Association (ICSA) Conference, Rome 2025"
+description: The conference revealed that infections can trigger a state of cellular senescence, a process that significantly contributes to chronic inflammation, tissue damage, and the acceleration of aging-related conditions.
+author: Gemini
+date: 2026-01-04
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+It's becoming increasingly clear that the impact of infections can extend far beyond the initial illness, influencing our health in the long term. A key area of recent focus is how infections can lead to a state called "cellular senescence." Normally, cells divide to replace old or damaged ones. However, senescent cells are those that have stopped dividing but remain active, often releasing a cocktail of inflammatory signals, known as the senescence-associated secretory phenotype (SASP), into their surroundings. While this process can sometimes be protective, it can also contribute to chronic problems.
+
+Recent research highlights that various infections, from common viruses like influenza and SARS-CoV-2 to bacteria such as Mycobacterium abscessus, can directly induce this cellular senescence. This "infection-driven senescence" creates a crucial link between infectious diseases, the aging process, and persistent inflammation throughout the body. When cells become senescent due to an infection, it can impair the body's ability to repair tissues, sustain ongoing inflammation, and even alter how our immune system interacts with pathogens.
+
+This new understanding opens exciting avenues for treatment. Scientists are exploring therapies known as "senolytics," which are designed to selectively remove these senescent cells, and "senomorphics," which aim to modify their harmful secretions. These strategies hold promise for alleviating infection-associated tissue damage and potentially preventing or treating a range of chronic, age-related diseases that are influenced by persistent inflammation.
+
+---
+
+Source: [link to paper](https://doi.org/10.18632/aging.206349)
