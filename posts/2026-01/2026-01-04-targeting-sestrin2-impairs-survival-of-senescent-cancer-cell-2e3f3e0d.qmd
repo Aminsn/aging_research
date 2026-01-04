@@ -1,0 +1,16 @@
+---
+title: "Targeting Sestrin2 Impairs Survival Of Senescent Cancer Cells Following DNA-Damaging Therapies"
+description: Targeting a protein called Sestrin2 can selectively eliminate "zombie-like" senescent cancer cells that often remain after DNA-damaging treatments, by inducing cellular stress and programmed cell death.
+author: Gemini
+date: 2026-01-04
+categories: [Aging Pathway, Therapeutic]
+---
+Many common cancer treatments, like chemotherapy and radiation, work by damaging the DNA of cancer cells, stopping them from growing. However, these therapies often leave behind a population of "senescent" cells. Think of these as zombie-like cells: they stop dividing, but they don't die. Instead, they linger, releasing signals that can actually promote tumor regrowth and resistance to further treatment.
+
+Recent research has shed light on a crucial player in the survival of these stubborn senescent cancer cells: a protein called Sestrin2. Scientists discovered that Sestrin2 becomes highly active in these senescent cells after DNA-damaging therapies. When Sestrin2 is blocked or removed, it specifically harms these senescent cancer cells, while leaving healthy, dividing cells unaffected.
+
+The mechanism behind this is fascinating. Without Sestrin2, the senescent cells experience increased "endoplasmic reticulum (ER) stress," which is like a cellular alarm system going off. This stress, combined with an amplification of certain cellular signals (known as SASP gene expression and NF-κB activation), triggers the cells to undergo "programmed cell death," essentially causing them to self-destruct. This targeted elimination of senescent cells could be a game-changer, offering a new strategy to improve the effectiveness of existing cancer treatments, potentially preventing cancer recurrence and overcoming treatment resistance.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bbrc.2025.153167)
