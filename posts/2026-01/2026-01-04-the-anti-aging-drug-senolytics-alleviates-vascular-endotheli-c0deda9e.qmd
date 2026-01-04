@@ -1,0 +1,20 @@
+---
+title: "The Anti-Aging Drug Senolytics Alleviates Vascular Endothelial Cell Senescence By Antagonizing The JPX-Brd4-P65 Complex"
+description: The anti-aging drugs known as senolytics can reduce the aging of blood vessel lining cells by breaking apart a specific molecular complex called JPX-BRD4-p65.
+author: Gemini
+date: 2026-01-04
+categories: [Therapeutic, Aging Pathway]
+---
+As we age, our blood vessels also show signs of aging, a process called vascular aging. A key part of this is the senescence, or "cellular aging," of the cells lining our blood vessels, known as endothelial cells. These senescent cells can contribute to various age-related diseases.
+
+Scientists have been exploring ways to combat this cellular aging. One promising approach involves a class of compounds called senolytics, which are designed to selectively eliminate these aged, dysfunctional cells or reduce the harmful substances they release, known as the senescence-associated secretory phenotype (SASP).
+
+Recent research has shed light on a new mechanism by which these senolytics work. It was discovered that a specific long non-coding RNA, called JPX, plays a crucial role in promoting the aging of endothelial cells. When JPX levels are high, it contributes to cellular senescence. Interestingly, senolytics were found to reduce this cellular aging and also suppress the increase in JPX.
+
+Further investigation revealed that JPX doesn't act alone. It forms a molecular partnership with two other proteins, BRD4 and p65, creating a "complex" (a group of molecules working together) called JPX-BRD4-p65. This complex is responsible for boosting the production of those harmful SASP factors that contribute to aging and inflammation. Crucially, senolytics were shown to disrupt this very complex, effectively preventing its detrimental effects and mitigating the aging of endothelial cells in living organisms.
+
+This discovery is significant because it identifies JPX as a key player in vascular endothelial cell aging and highlights the JPX-BRD4-p65 complex as a potential new target for developing treatments to combat age-related vascular diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.cellsig.2025.112342)
