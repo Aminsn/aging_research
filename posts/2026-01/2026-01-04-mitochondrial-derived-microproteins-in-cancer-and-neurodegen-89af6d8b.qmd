@@ -1,0 +1,14 @@
+---
+title: "Mitochondrial-Derived Microproteins In Cancer And Neurodegeneration: A New Era Of Cross-Disease Mechanistic Insights"
+description: Newly discovered small proteins originating from mitochondria, known as mitochondrial-derived microproteins, are emerging as critical regulators of cellular processes and are implicated in the development and progression of diseases such as cancer and neurodegeneration.
+author: Gemini
+date: 2026-01-04
+categories: [Aging Pathway, Therapeutic]
+---
+Our cells are bustling cities, and within them, tiny powerhouses called mitochondria generate the energy needed for everything we do. For a long time, scientists focused on the larger proteins that carry out most cellular functions. However, recent breakthroughs have unveiled a fascinating new class of players: microproteins. These are very small proteins, often less than 100 amino acids long, and some of the most intriguing ones are encoded by the mitochondria's own genetic material, called mitochondrial DNA.
+
+These mitochondrial-derived microproteins, sometimes referred to as mitochondrial-derived peptides, are proving to be far more than just cellular bystanders. They act as crucial regulators, influencing a wide array of cellular processes, particularly those related to how our cells manage and use energy, a process known as cellular metabolism. This newfound understanding is particularly exciting because it sheds light on complex diseases like cancer, where cells grow uncontrollably, and neurodegeneration, which involves the progressive loss of brain cells. By understanding how these tiny proteins function, and how their roles might go awry in disease, researchers are opening up entirely new avenues for developing treatments. This emerging field suggests that targeting these small but mighty mitochondrial players could offer novel therapeutic strategies for a range of challenging health conditions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.prp.2025.156344)
