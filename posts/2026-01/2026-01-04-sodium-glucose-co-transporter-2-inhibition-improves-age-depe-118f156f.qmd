@@ -1,0 +1,12 @@
+---
+title: "Sodium-Glucose Co-Transporter 2 Inhibition Improves Age-Dependent Kidney Microvascular Rarefaction"
+description: Inhibition of sodium-glucose co-transporter 2 can improve age-related deterioration of small blood vessels in the kidneys.
+author: Gemini
+date: 2026-01-04
+categories: [Therapeutic, Aging Pathway, Analytical]
+---
+As we age, our kidneys can experience a decline in function and structure, often involving the loss of tiny blood vessels, a process called microvascular rarefaction. This can lead to problems like scarring of the kidney's filtering units (glomerulosclerosis), wasting of the kidney tubules (tubular atrophy), and protein leaking into the urine (proteinuria). To better understand and potentially treat these age-related changes, scientists used a unique model: the African turquoise killifish, a fish with a naturally short lifespan that exhibits kidney aging similar to humans.The study investigated the effects of a type of medication known as sodium-glucose co-transporter 2 inhibitors (SGLT2i), specifically dapagliflozin. These medications are already known for their benefits in kidney and heart health.The findings showed that treatment with SGLT2 inhibitors helped to preserve the structure and function of the kidney's small blood vessels, reduced the amount of protein in the urine, and even maintained a more youthful pattern of gene activity within the kidney cells. These results suggest that SGLT2 inhibitors could play a protective role in mitigating age-related kidney damage by preserving the delicate microvascular network.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.kint.2025.12.011)
