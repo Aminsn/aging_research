@@ -1,0 +1,20 @@
+---
+title: "Znf865 (BLST) Regulates Back Pain Via Cell Senescence And DNA Damage Mechanisms"
+description: A newly identified protein, ZNF865, plays a crucial role in maintaining the stability of a cell's genetic material and regulating cellular aging, influencing back pain through mechanisms involving reversible cellular aging and DNA damage pathways.
+author: Gemini
+date: 2026-01-05
+categories: [Aging Pathway, Therapeutic]
+---
+Chronic back pain, often stemming from the degeneration of the intervertebral discs—the cushions between our spinal bones—is a widespread problem. A key factor in this degeneration is cellular senescence, a process where cells stop dividing and accumulate, contributing to tissue aging and dysfunction.
+
+Recent research has shed light on a previously unstudied protein, now identified as ZNF865. Scientists found that the levels of this protein naturally decline as we age and are significantly lower in diseased spinal discs.
+
+Further investigation revealed that when ZNF865 levels are low, healthy disc cells begin to show signs of senescence and experience damage to their DNA, the genetic material within cells. Conversely, increasing the amount of ZNF865 in already degenerated disc cells had remarkable effects: it reversed the signs of cellular aging, reduced DNA damage, improved the production of the extracellular matrix (the vital scaffolding that gives tissues their structure), and restored gene activity to a healthier state.
+
+Animal studies further supported these findings, demonstrating that reducing ZNF865 led to disc degeneration and behaviors indicative of pain.
+
+These discoveries highlight ZNF865 as a critical regulator of genome stability—the ability of a cell to maintain its genetic information without errors—and cellular aging. This makes it a promising new target for developing treatments for age-related conditions, including chronic back pain, by addressing the underlying cellular aging and DNA damage mechanisms.
+
+---
+
+Source: [link to paper](https://doi.org/10.1101/2025.06.13.659603)
