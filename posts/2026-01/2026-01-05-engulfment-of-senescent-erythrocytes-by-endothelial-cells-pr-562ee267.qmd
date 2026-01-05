@@ -1,0 +1,16 @@
+---
+title: "[Engulfment Of Senescent Erythrocytes By Endothelial Cells Promotes Endothelial-To-Mesenchymal Transition]"
+description: The study found that aging red blood cells, when engulfed by endothelial cells, cause these endothelial cells to transform into a different cell type, known as mesenchymal cells.
+author: Gemini
+date: 2026-01-05
+categories: [Aging Theory, Aging Pathway, Analytical]
+---
+Our bodies are constantly working to maintain balance, and part of that involves clearing out old or damaged cells. Red blood cells, which carry oxygen throughout our bodies, eventually age and need to be removed. This process is often handled by specialized "cleanup" cells. However, new research reveals that the cells lining our blood vessels, called endothelial cells, also play a role in engulfing these aged red blood cells.
+
+What’s particularly interesting is what happens next. When these endothelial cells consume the old red blood cells, they undergo a significant transformation. They lose their typical characteristics and begin to resemble a different type of cell entirely, known as mesenchymal cells. This change, called endothelial-to-mesenchymal transition, involves a shift in their internal machinery, including changes in how they process fats and sugars, and alterations to their structural components.
+
+This discovery sheds light on a previously unrecognized way that our cells interact and change, potentially influencing various bodily processes and conditions where cell transformation plays a role.
+
+---
+
+Source: [link to paper](https://doi.org/10.13294/j.aps.2025.0057)
