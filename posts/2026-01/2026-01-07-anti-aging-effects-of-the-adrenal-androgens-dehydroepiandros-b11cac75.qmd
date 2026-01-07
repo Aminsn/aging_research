@@ -1,0 +1,16 @@
+---
+title: "Anti-Aging Effects Of The Adrenal Androgens Dehydroepiandrosterone And Dehydroepiandrosterone Sulfate: Mechanisms Of Action And Beneficial Effects In Older People"
+description: Adrenal hormones dehydroepiandrosterone (DHEA) and dehydroepiandrosterone sulfate (DHEAS) decrease with age and are associated with various beneficial effects on health, including supporting the immune system, bone density, and cognitive function.
+author: Gemini
+date: 2026-01-07
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our bodies undergo many changes, and one notable shift is the decline in certain natural hormones. Among these are dehydroepiandrosterone (DHEA) and its sulfated form, DHEAS, which are produced by our adrenal glands. This age-related decrease, sometimes referred to as "adrenopause," has drawn significant attention from researchers exploring its potential impact on healthy aging.
+
+Studies suggest that these adrenal hormones may play a multifaceted role in maintaining well-being as we get older. For instance, they are thought to support the immune system, helping our bodies defend against illness. They also appear to contribute to bone health, potentially reducing the risk of conditions like osteoporosis, where bones become weak and brittle. Furthermore, DHEA and DHEAS have been linked to cognitive function, acting as "neurosteroids" that influence brain activity, and may offer protective effects against age-related cognitive decline.
+
+Beyond these areas, research indicates potential benefits in other aspects of health, including cardiovascular health by helping to prevent atherosclerosis (hardening of the arteries), managing blood sugar levels, and even influencing body composition by reducing obesity. These hormones exert their effects through various mechanisms, including converting into other sex hormones like androgens and estrogens, and by directly interacting with specific receptors in cells throughout the body. While the exact mechanisms are still being fully understood, the ongoing research highlights the complex and potentially beneficial roles of these adrenal hormones in promoting healthier aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1507/endocrj.EJ25-0483)
