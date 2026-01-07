@@ -1,0 +1,22 @@
+---
+title: "Shared Genetic Architecture Of Brain Age Gap Across 30 Cohorts Worldwide"
+description: A large international study has revealed a shared genetic foundation underlying the difference between a person's predicted brain age and their actual age, identifying specific genetic markers linked to this "brain age gap" and various health conditions.
+author: Gemini
+date: 2026-01-07
+categories: [Clock, Analytical]
+---
+Have you ever wondered if your brain is aging faster or slower than your actual years? Scientists use something called the "brain age gap" to explore this. It's essentially the difference between a person's estimated brain age, calculated from brain scans, and their chronological age. A larger gap can indicate accelerated brain aging, which has been linked to various health issues.
+
+For a while, researchers have developed many different ways to predict brain age, but it wasn't clear if these various methods were all pointing to the same underlying biological processes, especially at a genetic level.
+
+In a groundbreaking international effort involving over 60,000 individuals from 30 different study groups, scientists conducted a large-scale genetic investigation. They looked for common genetic influences across different brain age prediction models. What they found was remarkable: a significant portion (63%) of the genetic differences observed in brain aging across these models could be explained by a single, shared genetic factor.
+
+This shared genetic factor is influenced by 19 specific genetic variations, some of which were newly discovered. Importantly, this genetic signature for brain aging was found to be connected to a range of other health traits, including blood pressure, smoking habits, longevity, autism, and sleep patterns, suggesting these might have a causal relationship with how our brains age.
+
+The researchers also developed a "polygenic score" – a way to estimate an individual's genetic predisposition for this shared brain age factor. They discovered that this score was associated with brain age differences even in childhood, with stronger links appearing as people got older. Furthermore, this comprehensive genetic score was more effective at capturing associations with various health conditions than scores derived from individual brain age models alone.
+
+These findings highlight that by looking at the common genetic threads across different ways of measuring brain age, we can gain a more sensitive and robust understanding of brain health. This could pave the way for better tools to identify individuals at risk for accelerated brain aging and related health problems, ultimately leading to more targeted interventions.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2025.12.23.25342890)
