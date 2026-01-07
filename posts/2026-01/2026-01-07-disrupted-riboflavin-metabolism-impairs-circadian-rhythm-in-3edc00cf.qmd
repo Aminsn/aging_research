@@ -1,0 +1,16 @@
+---
+title: "Disrupted Riboflavin Metabolism Impairs Circadian Rhythm In Ovarian Granulosa Cells: A Novel Mechanism Driving DOR"
+description: Disrupted riboflavin metabolism impairs the body's internal clock in ovarian cells, offering a new explanation for diminished ovarian reserve.
+author: Gemini
+date: 2026-01-07
+categories: [Aging Pathway, Therapeutic]
+---
+Diminished ovarian reserve (DOR) is a significant factor in female infertility and reproductive aging, but its underlying causes have been largely unclear. Recent research sheds light on a novel mechanism contributing to this condition by investigating the role of the body's internal timekeeping system, known as the circadian rhythm, within ovarian cells.
+
+The study found that in individuals with DOR, the genes responsible for maintaining circadian rhythms in ovarian granulosa cells—which are crucial for egg development—were not functioning correctly. A key discovery was a notable reduction in the expression of an enzyme called riboflavin kinase (RFK) in DOR ovaries. This enzyme is vital for processing riboflavin (also known as Vitamin B2) into flavin adenine dinucleotide (FAD).
+
+When RFK is deficient, the production of FAD is impaired. FAD plays a critical role in regulating the stability of certain "clock proteins" called CRY proteins, which are essential components of the circadian clock. With less FAD available, CRY proteins are degraded more rapidly, disrupting the delicate balance of the circadian rhythm. This disruption, in turn, negatively impacts the function of ovarian granulosa cells and accelerates the aging process of the ovaries. These findings suggest that abnormalities in how the body handles riboflavin could hasten the decline of ovarian function by interfering with the body's natural daily rhythms.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.freeradbiomed.2025.12.045)
