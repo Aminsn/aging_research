@@ -1,0 +1,22 @@
+---
+title: "Activation Of Aryl Hydrocarbon Receptor Signaling By Indole-3-Lactic Acid From Bacillus Velezensis Ds2 Reinforces Gut Mucosal Immunity And Attenuates Inflammaging In Aged Mice"
+description: A beneficial compound produced by the probiotic bacterium *Bacillus velezensis* DS2 activates a specific signaling pathway, which strengthens gut immunity and reduces age-related inflammation in older mice.
+author: Gemini
+date: 2026-01-07
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our bodies often experience a state called "inflammaging," which is a chronic, low-grade inflammation that contributes to many age-related health problems. This process can be exacerbated by an impaired gut barrier and a dysregulated immune system in the intestines, known as gut mucosal immunity.
+
+Recent research has shed light on how certain beneficial gut bacteria, known as probiotics, might help combat inflammaging. One such probiotic, *Bacillus velezensis* DS2, produces a special compound called indole-3-lactic acid (ILA).
+
+This study found that ILA acts as a key player by activating a protein called the aryl hydrocarbon receptor (AhR). Think of AhR as a sensor in our cells that responds to certain molecules, influencing various biological processes, including immune responses. When ILA activates AhR, it triggers a cascade of beneficial effects.
+
+Specifically, this activation leads to an increase in immune cells called type 3 innate lymphoid cells (ILC3s) that produce a protective signaling molecule called IL-22. IL-22 is crucial for maintaining the strength and health of the gut lining, which acts as a barrier to prevent harmful substances from entering the bloodstream.
+
+In aged mice, supplementing with *Bacillus velezensis* DS2, or even just ILA, improved the integrity of their gut barrier and reduced widespread inflammation throughout their bodies. This ultimately helped to lessen the effects of inflammaging.
+
+These findings suggest that targeting the gut-immune connection with specific probiotics or their beneficial byproducts like ILA could be a promising new strategy to support healthy aging and combat age-related immune decline.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s12979-025-00552-6)
