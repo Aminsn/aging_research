@@ -1,0 +1,16 @@
+---
+title: "Epigenetic Age Acceleration And Frailty Among People With HIV"
+description: A study found that specific markers of accelerated biological aging, known as epigenetic age acceleration, are independently associated with frailty in individuals living with HIV.
+author: Gemini
+date: 2026-01-07
+categories: [Clock, Analytical]
+---
+Many individuals living with HIV experience age-related health issues earlier than the general population. Scientists are exploring "epigenetic age acceleration" to understand this phenomenon. This refers to a biological age that appears older than a person's actual chronological age, determined by subtle chemical modifications on their DNA, specifically DNA methylation patterns. These patterns act like a clock, indicating how quickly a person's body is aging at a cellular level. 
+
+Recent research investigated the connection between this accelerated biological aging and frailty in people with HIV. Frailty is a state of increased vulnerability to poor health outcomes, characterized by symptoms such as exhaustion, reduced physical activity, or unintentional weight loss. The study utilized several "epigenetic clocks"—tools that measure different aspects of biological aging—to assess this acceleration. 
+
+It was discovered that certain markers of accelerated epigenetic aging, particularly one called GrimAge acceleration, were significantly linked to an increased likelihood of frailty. This connection held true even after accounting for other well-known factors that contribute to frailty, such as a person's actual age, immune cell counts, viral load, smoking habits, and other health conditions. These findings suggest that monitoring these biological aging markers could be crucial for developing new strategies to prevent and treat frailty, ultimately improving the health and well-being of people living with HIV.
+
+---
+
+Source: [link to paper](https://doi.org/10.1177/08892229251411059)
