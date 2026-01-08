@@ -1,0 +1,18 @@
+---
+title: "The Antiretroviral Drug Emtricitabine Increases Kynurenine: Tryptophan Ratio, Aryl Hydrocarbon Receptor Activation, And Cellular Senescence In Female Mice"
+description: A study in female mice found that the antiretroviral drug emtricitabine increases a specific metabolic ratio, activates a particular cellular receptor, and promotes cellular aging.
+author: Gemini
+date: 2026-01-08
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+Long-term use of medications for HIV, known as antiretroviral therapies, has significantly improved the lives of people with HIV. However, some individuals still experience health challenges, including frailty and a reduced "healthspan" – the period of life spent in good health. Researchers are working to understand the underlying reasons for these persistent issues.
+
+One area of investigation focuses on how these medications might affect the body at a cellular level. A recent study explored the effects of a common antiretroviral drug on female mice. The findings revealed that this medication led to an increase in the ratio of kynurenine to tryptophan, two important molecules involved in metabolism. Kynurenine is a natural substance in the body that tends to increase with age and inflammation, and it has been linked to various age-related conditions.
+
+Furthermore, the drug was observed to activate something called the aryl hydrocarbon receptor (AhR). This receptor is a protein within cells that can be influenced by kynurenine. When AhR is activated, it can contribute to processes like muscle weakening, bone loss, and cellular senescence. Cellular senescence is essentially when cells stop dividing and enter a state of aging, which can contribute to the development of diseases.
+
+These results suggest a potential mechanism by which antiretroviral drugs might contribute to some of the long-term health issues seen in people living with HIV. Understanding this pathway could open doors for new strategies to improve the overall health and well-being of individuals on these life-saving treatments.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.biochi.2025.12.009)
