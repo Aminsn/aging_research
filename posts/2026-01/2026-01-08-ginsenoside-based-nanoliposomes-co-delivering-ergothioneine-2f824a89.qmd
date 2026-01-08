@@ -1,0 +1,12 @@
+---
+title: "Ginsenoside-Based Nanoliposomes Co-Delivering Ergothioneine And Coenzyme Q10 To Combat Skin Aging Via Mitochondrial Modulation"
+description: A new nanoliposome system, ECG-Lipo, has been developed to deliver ergothioneine and coenzyme Q10, effectively combating skin aging by modulating mitochondrial function.
+author: Gemini
+date: 2026-01-08
+categories: [Therapeutic, Aging Pathway]
+---
+Our skin, like the rest of our body, shows signs of aging, and a major factor contributing to this is the decline in the function of tiny powerhouses within our cells called mitochondria. Delivering beneficial compounds directly to these mitochondria in the skin has been a significant challenge. To address this, scientists have engineered a novel delivery system. This innovative system utilizes microscopic, fat-based spheres known as nanoliposomes, which are specially designed using compounds derived from ginseng, known as ginsenosides. These tiny carriers are loaded with two potent ingredients: ergothioneine and coenzyme Q10. Ergothioneine is a powerful antioxidant that can specifically target and accumulate in mitochondria, protecting them from damage. Coenzyme Q10 is another crucial antioxidant and plays a vital role in the energy production processes within mitochondria, often used in skincare for its anti-aging properties. By encapsulating these compounds, the nanoliposomes ensure their efficient delivery into skin cells and, more importantly, directly to the mitochondria. In laboratory studies using human skin cells that were subjected to stress mimicking aging, this advanced delivery system successfully maintained the health and structure of mitochondria, restored their electrical potential, and reduced the accumulation of harmful reactive oxygen species. This breakthrough offers a promising new approach for developing effective anti-aging therapies that work by revitalizing our skin cells from within.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.colsurfb.2025.115405)
