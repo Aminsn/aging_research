@@ -1,0 +1,12 @@
+---
+title: "Age-Dependent Changes In Thermo-Viscoelastic Properties Of Human Brain By Non-Equilibrium Thermodynamics With Internal Variables"
+description: Research indicates that as the human brain ages, it becomes less stiff and more anelastic, with a decrease in metabolic activity and an increase in disorder in younger brains compared to older ones.
+author: Gemini
+date: 2026-01-11
+categories: [Aging Theory, Analytical]
+---
+Our brains undergo significant changes throughout our lives, and new research sheds light on how their physical properties shift with age. Scientists have used advanced mathematical techniques to explore how the brain’s ability to deform and flow—its viscoelastic properties—changes over time. They found that younger brains are more rigid, less fluid, and more viscous than older brains. This means that as we age, our central nervous system becomes less stiff and exhibits more "anelastic" characteristics, which refers to a material's tendency to deform under stress and not immediately return to its original shape once the stress is removed. These changes are thought to be linked to the degeneration of neurons and a reduction in the protective myelin sheath around nerve fibers, leading to a loss of overall "compactness" in the brain. Furthermore, the study revealed that younger brains show a greater degree of "disorder" in terms of energy production, indicating higher metabolic activity compared to older brains. This decline in metabolic activity in older brains, along with reduced stiffness, may be a consequence of increased harmful molecules called free radicals and issues with cellular energy factories known as mitochondria, both of which are associated with the aging process.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/biology15010070)
