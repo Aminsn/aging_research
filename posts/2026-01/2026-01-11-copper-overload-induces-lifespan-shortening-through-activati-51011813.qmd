@@ -1,0 +1,12 @@
+---
+title: "Copper Overload Induces Lifespan Shortening Through Activating Mitochondrial Respiration In Caenorhabditis Elegans"
+description: Excessive copper in the body can shorten an organism's lifespan by boosting the activity of its cellular powerhouses, leading to a decrease in protective molecules and affecting genes linked to longevity.
+author: Gemini
+date: 2026-01-11
+categories: [Aging Pathway, Therapeutic]
+---
+While copper is a vital element for many bodily functions, too much of it can be harmful. Recent research using tiny worms called *C. elegans*, which are often studied because they share many biological similarities with humans, has shed light on how copper overload impacts aging. The study found that when these worms had too much copper, their lifespan was significantly reduced. This happened because the excess copper revved up their mitochondria, which are like the power plants of cells, responsible for generating energy. This increased activity, surprisingly, led to a decrease in reactive oxygen species (ROS), molecules that, in balanced amounts, play a role in cell signaling and defense. The changes also affected key genes, such as aak-2 and hif-1, which are known to influence how long an organism lives. Understanding this process could open new avenues for developing treatments for age-related conditions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jhazmat.2025.140998)
