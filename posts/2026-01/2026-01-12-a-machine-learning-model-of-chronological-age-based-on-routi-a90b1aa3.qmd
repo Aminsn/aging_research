@@ -1,0 +1,16 @@
+---
+title: "A Machine-Learning Model Of Chronological Age Based On Routine Blood Biomarkers In A Central European Population: A Potential Biological Age Marker"
+description: Researchers developed a machine-learning model that can estimate a person's chronological age with an average error of 8.73 years using ten common blood test results.
+author: Gemini
+date: 2026-01-12
+categories: [Clock, Analytical]
+---
+Imagine being able to get a good estimate of your age just by looking at your routine blood test results. That's exactly what a recent study explored, using advanced computer programs to analyze common blood biomarkers. The goal was to see if these readily available health indicators could accurately predict a person's chronological age, which is simply the number of years they've been alive.
+
+The researchers utilized a vast dataset of over 26 million laboratory results from more than 3 million individuals. They tested several machine learning techniques, and one particular method, called XGBoost, proved to be the most effective. This model was able to estimate an individual's age with an average difference of about 8.73 years from their actual age.
+
+The study also identified the ten most important blood markers for this prediction. These included common indicators related to liver function (like ALT and AST), kidney function (creatinine and urea), metabolism (glucose), and blood cell characteristics (mean corpuscular volume, thrombocytes, mean corpuscular hemoglobin, and albumin). These findings suggest that a combination of routine blood tests could offer a convenient and cost-effective way to gauge a person's age, potentially serving as a stepping stone towards understanding biological age – how old your body "acts" rather than just how many years you've lived. Further research is needed to validate these findings against actual health outcomes.
+
+---
+
+Source: [link to paper](https://doi.org/10.1155/jare/9924922)
