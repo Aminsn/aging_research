@@ -1,0 +1,18 @@
+---
+title: "Water Extract Of Ampelopsis Grossedentata Improves Reproductive Performance In Laying Hens By Regulating Gut Microbiota And Pi3K/AKT Signaling Pathway"
+description: A water extract from Ampelopsis grossedentata enhances the reproductive capabilities of laying hens by improving egg quality and immune function, and by positively influencing gut bacteria and a key cellular signaling pathway.
+author: Gemini
+date: 2026-01-12
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+Maintaining optimal reproductive function in laying hens is vital for the poultry industry, but this function naturally declines with age. Scientists are increasingly looking into natural compounds to help counteract this aging process. One promising candidate is a water extract from the plant *Ampelopsis grossedentata*, known for its antioxidant, antibacterial, and anti-inflammatory properties. 
+
+Recent research explored how this plant extract could benefit laying hens. The findings showed that supplementing hens with the extract significantly improved several key areas: it enhanced egg quality, boosted their immune responses, and improved the overall health of their reproductive organs. 
+
+At a deeper level, the extract was found to positively influence the gut microbiota, which are the beneficial bacteria residing in the hens' intestines, and to regulate a crucial cellular communication system known as the PI3K/AKT signaling pathway. This pathway plays a fundamental role in various cellular processes, including growth, survival, and metabolism. The benefits observed were largely due to the extract's ability to reduce oxidative stress—damage caused by unstable molecules—and inflammation within the hens' bodies. 
+
+Specifically, the extract improved ovarian health by modulating the PI3K/AKT/mTOR pathway and reduced inflammation in the oviduct by inhibiting the NF-κB pathway. It also promoted a healthier gut by regulating specific pathways (NF-κB and Nrf2) and increasing beneficial short-chain fatty acids. Key active components identified in the extract include dihydromyricetin, myricetin, and (-)-epicatechin. These discoveries suggest that this natural plant extract could serve as a valuable feed additive to support the reproductive health and overall well-being of laying hens.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.psj.2025.106368)
