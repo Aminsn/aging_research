@@ -1,0 +1,18 @@
+---
+title: "Nobiletin Ameliorates Skeletal Muscle Performance In D-Galactose-Induced Aging Mice By Boosting Aerobic Metabolism"
+description: Nobiletin, a natural compound found in orange peel, improved muscle performance, exercise endurance, and energy metabolism in aging mice by enhancing mitochondrial function and antioxidant capacity.
+author: Gemini
+date: 2026-01-13
+categories: [Therapeutic, Aging Pathway]
+---
+As we age, our muscles often become weaker and less efficient, leading to difficulties with movement and an increased risk of various health issues. This decline in muscle performance can significantly impact our quality of life.
+
+Recent research has explored the potential of a natural compound called Nobiletin, which is found in the peel of oranges. Scientists investigated its effects on muscle function in a model of aging.
+
+The findings showed that this compound significantly improved several key aspects of muscle health. It boosted exercise endurance, increased grip strength, and enhanced the body's ability to process sugar for energy. Furthermore, the study revealed that Nobiletin improved the health and function of mitochondria, which are the powerhouses within our muscle cells responsible for energy production. It also strengthened the body's natural defenses against cellular damage by increasing antioxidant activity.
+
+These exciting results suggest that this natural compound could be a promising avenue for developing strategies to maintain strong, healthy muscles as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/fsn3.71416)
