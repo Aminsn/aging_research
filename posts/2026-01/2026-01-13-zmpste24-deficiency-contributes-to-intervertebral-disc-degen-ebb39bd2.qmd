@@ -1,0 +1,18 @@
+---
+title: "Zmpste24 Deficiency Contributes To Intervertebral Disc Degeneration By Undermining The Stability Of The Nuclear Membrane Of Nucleus Pulposus Cells"
+description: A deficiency in the Zmpste24 protein contributes to the breakdown of spinal discs by destabilizing the protective outer layer of cells within the disc’s core.
+author: Gemini
+date: 2026-01-13
+categories: [Aging Pathway]
+---
+Our spinal discs, which act as cushions between our vertebrae, can degenerate over time, leading to pain and reduced mobility. This process, known as intervertebral disc degeneration, is often linked to the aging of specialized cells found in the disc's center, called nucleus pulposus cells. 
+
+Recent research has shed light on a key player in this process: a protein called Zmpste24. This protein is known for its role in maintaining cellular health and is often referred to as an "anti-aging" gene. The study found that in individuals with degenerated spinal discs, the levels of Zmpste24 were significantly reduced. 
+
+Further investigations revealed that when Zmpste24 is deficient, the protective outer layer of the nucleus pulposus cells, known as the nuclear membrane, becomes unstable. This instability, in turn, triggers a process called cellular senescence, where cells stop dividing and begin to show signs of aging and dysfunction. Essentially, without enough Zmpste24, these crucial disc cells age prematurely and lose their ability to maintain the disc's integrity. 
+
+These findings suggest that Zmpste24 plays a vital protective role against spinal disc degeneration. Understanding this mechanism could open new avenues for developing treatments that target Zmpste24 to prevent or slow down disc degeneration.
+
+---
+
+Source: [link to paper](https://doi.org/10.7717/peerj.20534)
