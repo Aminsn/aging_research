@@ -1,0 +1,12 @@
+---
+title: "Structural Elucidation And Antiaging Activity Of A Polysaccharide From Crocus Sativus L. Petal"
+description: A new polysaccharide isolated from saffron petals has been shown to possess anti-aging properties by improving intestinal health and modulating gut microbiota in aged mice.
+author: Gemini
+date: 2026-01-13
+categories: [Therapeutic, Aging Pathway]
+---
+Scientists have recently uncovered a promising compound with potential anti-aging benefits, derived from an unexpected source: the petals of the saffron flower. This newly identified polysaccharide, a type of complex carbohydrate, was found to significantly improve several markers associated with aging in animal studies. It enhanced the health of the intestines by increasing the length of the villi (small, finger-like projections that absorb nutrients), reducing the depth of crypts (glands in the intestinal lining), and boosting the number of goblet cells, which produce protective mucus. Furthermore, the compound demonstrated antioxidant capabilities, increasing the activity of natural defense enzymes like superoxide dismutase and catalase, while reducing harmful oxidative stress. A key finding was its ability to exert these anti-aging effects by positively influencing the gut microbiota, the community of microorganisms living in the digestive tract. Specifically, it promoted the growth of beneficial bacteria such as Lachnospiraceae and Lactobacillus, suggesting a novel approach to combating aging through gut health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/cbdv.202503534)
