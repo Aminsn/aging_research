@@ -1,0 +1,16 @@
+---
+title: "Mitochondrial Health Through Nicotinamide Riboside And Berberine: Shared Pathways And Therapeutic Potential"
+description: Nicotinamide riboside and berberine, two distinct compounds, have been found to improve mitochondrial health by converging on shared cellular pathways, suggesting their potential as combined therapeutic strategies.
+author: Gemini
+date: 2026-01-14
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies rely on tiny powerhouses called mitochondria to generate energy and keep our cells healthy. However, as we age or develop chronic diseases, these mitochondria can become dysfunctional, leading to a range of health problems. Scientists are constantly searching for ways to support mitochondrial health and combat these issues. 
+
+Two compounds, nicotinamide riboside (NR) and berberine (BBR), have emerged as promising candidates in this area. NR, a form of vitamin B3, works by boosting levels of a crucial molecule called NAD+ (nicotinamide adenine dinucleotide) in our cells. This, in turn, activates pathways that help create new mitochondria and manage cellular stress. Berberine, a natural plant compound, takes a different approach, primarily activating an enzyme called AMPK and improving how our mitochondria produce energy, reducing harmful byproducts, and clearing out damaged mitochondria. 
+
+What’s particularly exciting is that even though NR and berberine start by acting on different cellular mechanisms, they ultimately converge on shared pathways that are vital for maintaining healthy mitochondria. These shared benefits include improving the balance of antioxidants and pro-oxidants (redox balance), enhancing the cell’s ability to switch between different energy sources (metabolic flexibility), and regulating the immune system’s interaction with metabolism. This suggests that using these two compounds together could be a powerful strategy to restore and maintain the resilience of our mitochondria, potentially offering new avenues for addressing age-related and chronic diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/ijms27010485)
