@@ -1,0 +1,12 @@
+---
+title: "PQQ Modulates Cell Cycle And DNA Replication Programs To Alleviate Replicative Senescence In Human Umbilical Cord Mesenchymal Stromal Cells"
+description: PQQ treatment enhanced the proliferative capacity, reduced senescence markers, improved mitochondrial function, and attenuated telomere attrition in human umbilical cord mesenchymal stromal cells by upregulating genes associated with cell cycle and DNA replication.
+author: Gemini
+date: 2026-01-14
+categories: [Therapeutic, Aging Pathway, Analytical]
+---
+Human umbilical cord mesenchymal stromal cells, or hUC-MSCs, hold great promise for medical treatments that regenerate tissues, but their usefulness is often limited by a natural aging process called replicative senescence. This cellular aging causes the cells to stop dividing and lose their beneficial functions. A compound known as pyrroloquinoline quinone, or PQQ, has been recognized for its ability to protect cells from aging. This research explored how PQQ specifically helps hUC-MSCs combat this aging process. The study found that treating these cells with PQQ significantly improved their ability to multiply and reduced several key indicators of aging, such as a decrease in a specific enzyme activity (senescence-associated β-galactosidase) and less cell cycle arrest, which is when cells stop dividing. Furthermore, PQQ enhanced the function of mitochondria, the cell's energy producers, decreased the accumulation of harmful reactive oxygen species, and slowed down the shortening of telomeres, which are protective caps on the ends of chromosomes that typically shorten with age. Genetic analysis revealed that PQQ achieved these effects by increasing the activity of genes essential for cell division and DNA replication. This suggests that PQQ can help these vital stem cells maintain their youthful characteristics and functionality by promoting healthy cell growth and DNA maintenance.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s12015-025-11037-w)
