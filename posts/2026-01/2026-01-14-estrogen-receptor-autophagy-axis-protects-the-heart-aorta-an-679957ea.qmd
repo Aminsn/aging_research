@@ -1,0 +1,12 @@
+---
+title: "Estrogen Receptor-Autophagy Axis Protects The Heart, Aorta And Kidneys During Perimenopausal Aging: Evidence From Human Cohort And Mouse Experiments"
+description: The study reveals that a pathway involving estrogen and cellular self-cleaning mechanisms is vital for safeguarding the heart, major blood vessel, and kidneys as women age through perimenopause.
+author: Gemini
+date: 2026-01-14
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+As women approach and go through perimenopause, the natural decrease in estrogen levels is often linked to a higher risk of developing conditions like heart disease, high blood pressure, and kidney problems. This research sheds light on a critical protective mechanism: how estrogen works with a cellular process called autophagy to keep these vital organs healthy. Autophagy, often described as the cell's recycling system, is a fundamental process where cells clean out damaged components and regenerate new ones, maintaining overall cellular health. This study, combining observations from human health data and experiments with mice, found that lower estrogen levels in women were associated with an increased risk of various metabolic and cardiovascular issues. In mouse models, providing estrogen significantly reduced scarring in the heart, aorta (the body's main artery), and kidneys. It also influenced weight, mirroring trends seen in human populations. The findings suggest that estrogen's protective effects are not just about its presence, but specifically rely on activating its receptors and boosting this crucial cellular self-cleaning process. Understanding this connection could pave the way for more targeted hormone therapies to help prevent age-related diseases in women.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.lfs.2025.124183)
