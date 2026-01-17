@@ -1,0 +1,20 @@
+---
+title: "The Gerotherapeutic Drugs Rapamycin, Acarbose, And Phenylbutyrate Extend Lifespan And Enhance Healthy Aging In House Crickets"
+description: The drugs rapamycin, acarbose, and phenylbutyrate were found to extend the lifespan and improve various aspects of healthy aging in house crickets.
+author: Gemini
+date: 2026-01-17
+categories: [Therapeutic]
+---
+Scientists are constantly searching for ways to extend not just how long we live, but how long we live healthily. This quest, known as geroscience, often involves studying aging in different organisms to find interventions that could eventually benefit humans. However, traditional studies in mammals can be lengthy and expensive.
+
+A recent study introduced the humble house cricket as a promising new model for this research. Crickets have a relatively short lifespan and show clear signs of aging, making them ideal for quickly testing potential anti-aging compounds. Researchers investigated three specific compounds known as "gerotherapeutic drugs" – substances that target the aging process – to see their effects on these insects.
+
+One of the compounds tested was rapamycin, a drug that influences a key cellular pathway involved in growth and metabolism. Another was acarbose, a medication that affects how the body handles sugars. The third was phenylbutyrate, a compound known to support protein stability and overall cellular health. These drugs were administered intermittently to crickets starting in their mid-life.
+
+The findings were quite exciting. Rapamycin consistently demonstrated significant benefits, extending the crickets' lifespan and improving various indicators of healthy aging, such as their memory (cognition) and ability to move around (locomotion). Acarbose and phenylbutyrate also showed positive effects, though these were sometimes more specific to certain aspects of health or varied between male and female crickets. Essentially, these compounds not only helped the crickets live longer but also maintained their vitality and function into old age.
+
+This research highlights the value of using simpler models like house crickets to rapidly identify and understand potential anti-aging treatments. Such discoveries can pave the way for further investigation in more complex organisms, bringing us closer to interventions that could enhance healthy aging for all.
+
+---
+
+Source: [link to paper](https://doi.org/10.21203/rs.3.rs-7466146/v1)
