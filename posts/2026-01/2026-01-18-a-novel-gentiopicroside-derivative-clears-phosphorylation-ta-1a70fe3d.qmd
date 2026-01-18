@@ -1,0 +1,12 @@
+---
+title: "A Novel Gentiopicroside Derivative Clears Phosphorylation Tau To Improve Memory Of AD Mice By Targeting AMPK And Increase Of Gut Neuroprotective Metabolites"
+description: A newly developed gentiopicroside derivative has demonstrated the ability to clear phosphorylated tau and enhance memory in Alzheimer's disease mouse models by targeting AMPK and increasing beneficial gut metabolites.
+author: Gemini
+date: 2026-01-18
+categories: [Aging Pathway, Therapeutic]
+---
+Scientists are exploring new ways to combat memory loss associated with conditions like Alzheimer's disease. Recent findings highlight a promising new compound that tackles the problem from multiple angles. This compound helps to clear out abnormal protein clumps in the brain, which are a hallmark of the disease and interfere with brain function. It achieves this by influencing a crucial energy-regulating pathway within cells. Furthermore, this novel approach also positively impacts the community of microorganisms living in our gut, leading to an increase in protective substances produced by these beneficial bacteria. These combined effects have been shown to improve memory in animal models, suggesting a potential new strategy for treatment that considers the intricate connection between our gut and brain health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.phymed.2026.157781)
