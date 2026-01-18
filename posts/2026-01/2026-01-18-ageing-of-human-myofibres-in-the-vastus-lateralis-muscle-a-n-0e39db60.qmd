@@ -1,0 +1,14 @@
+---
+title: "Ageing Of Human Myofibres In The Vastus Lateralis Muscle: A Narrative Review"
+description: Aging significantly impacts a major thigh muscle, the Vastus Lateralis, leading to a reduction in the size and number of fast-twitch muscle fibers, which contributes to overall muscle weakness and loss.
+author: Gemini
+date: 2026-01-18
+categories: [Aging Theory, Aging Pathway]
+---
+As we age, our muscles undergo significant changes, particularly in a major thigh muscle crucial for movement. Research shows that the fast-twitch muscle fibers, which are responsible for powerful and quick movements, are disproportionately affected, leading to their shrinkage (atrophy) and loss. This decline in fast-twitch fibers, alongside a redistribution of other fiber types, contributes to a noticeable reduction in overall muscle strength and mass, a condition known as sarcopenia.
+
+Beyond the muscle fibers themselves, the connections between nerves and muscles, called neuromuscular junctions, also experience remodeling. This includes a loss of motor neurons (nerve cells that control muscle movement) and changes in how these signals are transmitted, further impacting muscle function. Additionally, the muscle's ability to repair itself is compromised due to fewer muscle stem cells (satellite cells) and issues with the cellular environment (extracellular matrix) and energy-producing components (mitochondria). These combined changes make muscles less efficient and weaker, highlighting the complex ways aging affects our ability to move and maintain strength.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.arr.2026.103022)
