@@ -1,0 +1,16 @@
+---
+title: "Cd38 Inhibition Ameliorates Age-Related Cognitive Decline Via A Choroid Plexus-Cerebrospinal Fluid-Hippocampus Axis"
+description: Researchers have found that inhibiting the CD38 enzyme can reverse age-related cognitive decline by improving the function of a brain structure called the choroid plexus, which in turn positively affects the cerebrospinal fluid and hippocampus.
+author: Gemini
+date: 2026-01-18
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, many of us experience a decline in our cognitive abilities, such as memory and thinking. Recent research sheds light on a potential way to combat this. Scientists have identified an enzyme called CD38 that increases in the brain with age. This enzyme depletes a vital molecule called NAD+, which is crucial for our cells to function properly and produce energy.
+
+The study found that when CD38 is inhibited, either genetically or with medication, NAD+ levels are restored. This has a significant impact on a brain structure called the choroid plexus, which is responsible for producing cerebrospinal fluid (CSF). Think of the choroid plexus as a "gatekeeper" for brain aging. When its function improves, the cerebrospinal fluid, which bathes and protects the brain, becomes "rejuvenated." This means it has fewer inflammatory signals and more supportive factors for brain health.
+
+These positive changes in the cerebrospinal fluid then reach the hippocampus, a brain region critical for learning and memory. In the hippocampus, the age-related changes at a cellular level are reversed, and the connections between brain cells, known as synapses, become more adaptable and efficient—a process called synaptic plasticity, which is essential for learning and memory. Essentially, by targeting CD38, the researchers were able to improve the health of the choroid plexus and the cerebrospinal fluid, leading to better cognitive function in aged mice. This discovery suggests a promising new approach for developing treatments to maintain brain health and prevent cognitive decline as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.21203/rs.3.rs-8330519/v1)
