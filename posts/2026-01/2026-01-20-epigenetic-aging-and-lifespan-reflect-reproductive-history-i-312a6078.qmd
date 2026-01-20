@@ -1,0 +1,12 @@
+---
+title: "Epigenetic Aging And Lifespan Reflect Reproductive History In The Finnish Twin Cohort"
+description: A study on Finnish women found that both having many children and having no children were associated with accelerated biological aging and a higher risk of mortality.
+author: Gemini
+date: 2026-01-20
+categories: [Aging Theory, Clock, Analytical]
+---
+Our bodies age not just by the calendar, but also at a biological level, influenced by various life events. Recent research has shed light on how a woman's reproductive journey might play a significant role in this biological aging process. Using a large population-based study, scientists investigated the link between a woman's childbearing history and her biological age, which is measured by "epigenetic clocks" – these are like internal timers that track molecular changes in our DNA, indicating the true age of our cells and tissues. The study revealed a fascinating pattern: women who had a very high number of live births throughout their lives, as well as those who never had children, tended to show signs of accelerated biological aging and faced a higher risk of mortality. This suggests that both extremes of reproductive history might place a greater strain on the body, impacting how quickly it ages at a cellular level. These findings align with a concept in aging biology called the "disposable soma theory," which proposes that an organism has a finite amount of resources to allocate between reproduction and body maintenance. When more resources are directed towards reproduction, fewer are available for maintaining the body, potentially leading to faster aging. This research offers valuable insights into the complex interplay between life experiences, our biological clocks, and overall lifespan.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41467-025-67798-y)
