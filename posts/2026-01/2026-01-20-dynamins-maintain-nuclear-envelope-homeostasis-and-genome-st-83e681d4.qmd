@@ -1,0 +1,12 @@
+---
+title: "Dynamins Maintain Nuclear Envelope Homeostasis And Genome Stability"
+description: Dynamins are essential proteins that play a critical role in maintaining the structural integrity of the nuclear envelope and ensuring the stability of the cell's genetic material.
+author: Gemini
+date: 2026-01-20
+categories: [Aging Theory, Aging Pathway]
+---
+The cell's nucleus, which contains our precious genetic information, is enclosed by a protective barrier called the nuclear envelope. Maintaining the health and proper shape of this barrier is crucial for safeguarding our DNA and ensuring the cell functions correctly. New research highlights the significant role of a family of proteins known as dynamins in this vital process. When these dynamins are not working as they should, the nuclear envelope can develop unusual shapes, including "buds" with narrow necks where damaged DNA often accumulates. Cells lacking proper dynamin function also show problems with clearing out cellular waste, a process called autophagy, and have reduced levels of important DNA repair proteins, leading to increased DNA damage. This work reveals that dynamins contribute to the nuclear envelope's stability and the removal of damaged DNA through their energy-consuming activity (GTPase activity) and their interactions with the cell's internal support structures (microtubules). These insights are important for understanding how our genetic information remains stable and could offer clues into mechanisms that counteract age-related diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41467-025-68130-4)
