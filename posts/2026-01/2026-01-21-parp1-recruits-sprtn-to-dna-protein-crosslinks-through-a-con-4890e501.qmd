@@ -1,0 +1,12 @@
+---
+title: "Parp1 Recruits SPRTN To DNA-Protein Crosslinks Through A Conserved Poly-ADP-Ribose Binding Domain"
+description: Researchers have discovered that PARP1/2 enzymes act as immediate sensors for DNA-protein crosslinks, marking them with poly(ADP-ribose) to facilitate their degradation by the SPRTN protease.
+author: Gemini
+date: 2026-01-21
+categories: [Aging Pathway]
+---
+Our genetic material is constantly under threat from various forms of damage. One particularly harmful type of damage occurs when proteins become stuck to our DNA, forming what are called DNA-protein crosslinks (DPCs). These DPCs can be very toxic, leading to problems like genomic instability, which is a hallmark of premature aging and an increased risk of cancer. While we know that our cells have ways to clean up these DPCs, exactly how these problematic attachments are first detected and then tagged for removal has been a mystery. This new research sheds light on this crucial process. It reveals that a family of enzymes called PARP1/2 plays a vital role in sensing these DPCs. Once detected, PARP1/2 enzymes modify the DPCs with a chemical tag called poly(ADP-ribose), or PAR. This PAR tag acts like a flag, signaling another protein, SPRTN, to come in and break down the unwanted protein attached to the DNA. The study also identified a specific part of the SPRTN protein, called the Nudix homology domain (NHD), which is essential for it to bind to these PAR tags. Without proper PARP1/2 activity or if the NHD in SPRTN is faulty, DPCs persist, highlighting the importance of this newly discovered pathway. Essentially, PARP1/2 acts as an early warning system, and PARylation serves as a critical signal to direct SPRTN to the site of damage for efficient repair.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.01.09.698661)
