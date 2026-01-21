@@ -1,0 +1,16 @@
+---
+title: "Blood Biomarkers Of Frailty And Cognition: A Scoping Review"
+description: A review of scientific literature identified five blood biomarkers that are independently linked to both physical frailty and cognitive decline, suggesting common biological pathways in aging.
+author: Gemini
+date: 2026-01-21
+categories: [Aging Theory, Aging Pathway]
+---
+As we age, many of us worry about maintaining our physical and mental sharpness. Scientists are increasingly recognizing that physical frailty – a state of increased vulnerability characterized by things like weakness and low energy – and cognitive decline, which affects our memory and thinking, are often intertwined. Understanding the biological links between these two aspects of aging is crucial for developing better ways to keep us healthy as we get older.
+
+Recent research has delved into existing scientific studies to identify specific substances in our blood, known as biomarkers, that might be connected to both frailty and cognitive changes. The findings highlight five particular blood markers: ADAM10, fibrinogen, interleukin-6 (IL-6), neurofilament light chain (NfL), and vitamin D. These markers were found to be independently associated with both physical frailty and a decline in cognitive abilities.
+
+What does this mean? These biomarkers are involved in fundamental aging processes within our bodies. For example, fibrinogen and IL-6 are linked to chronic inflammation, a persistent low-level inflammation that can damage tissues over time. NfL indicates nerve damage, while ADAM10 plays a role in cell function, and vitamin D is vital for overall health. The fact that these five markers are connected to both frailty and cognition suggests that they might be part of common biological pathways that contribute to both physical and mental decline as we age. This insight could pave the way for new strategies to identify individuals at risk earlier and develop interventions that target these shared underlying mechanisms, ultimately helping us age more healthily.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.neurobiolaging.2026.01.003)
