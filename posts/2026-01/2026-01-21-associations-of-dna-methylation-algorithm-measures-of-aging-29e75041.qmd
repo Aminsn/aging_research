@@ -1,0 +1,14 @@
+---
+title: "Associations Of DNA Methylation Algorithm Measures Of Aging With Type 2 Diabetes And Mortality Risk Among US Older Adults"
+description: Specific measures of biological aging, derived from DNA methylation patterns, are strongly linked to an increased risk of developing type 2 diabetes and a higher chance of mortality in older adults.
+author: Gemini
+date: 2026-01-21
+categories: [Clock, Analytical]
+---
+Our bodies age at different rates, and scientists are finding new ways to measure this "biological age" beyond just chronological years. One promising method involves looking at something called DNA methylation, which are chemical tags on our DNA that can influence how our genes work without changing the underlying genetic code. These patterns change as we get older, and researchers have developed "epigenetic clocks" or algorithms to estimate biological age based on these changes. 
+
+Recent research has shown that certain advanced epigenetic clocks, which are essentially sophisticated calculations based on these DNA methylation patterns, are not only good at predicting how fast someone is aging biologically but also have strong connections to serious health outcomes. Specifically, these measures of accelerated biological aging have been found to be significantly associated with a higher likelihood of having type 2 diabetes and an increased risk of death. This suggests that these biological aging indicators could be powerful tools for identifying individuals who are at a higher risk for these conditions, potentially allowing for earlier interventions and more personalized healthcare strategies.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.maturitas.2026.108827)
