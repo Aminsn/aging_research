@@ -1,0 +1,12 @@
+---
+title: "Dingxin Recipe III Ameliorates Endothelial Cell Senescence In Atherosclerosis By Activating The Foxo3A/Pink1/Parkin Axis"
+description: Dingxin Recipe III, a traditional Chinese medicine, has been shown to reduce the aging of endothelial cells and the progression of atherosclerosis by activating a specific cellular pathway involved in clearing damaged cell components.
+author: Gemini
+date: 2026-01-21
+categories: [Therapeutic, Aging Pathway]
+---
+A recent study has shed light on how a traditional Chinese medicine formulation, used for over two decades to treat heart and blood vessel diseases, works at a cellular level. The research focused on its ability to combat atherosclerosis, a condition where plaque builds up inside arteries. The findings indicate that this traditional medicine effectively slows down the aging of endothelial cells, which are the cells lining our blood vessels, and reduces the progression of atherosclerosis in models. It appears to achieve this by boosting a crucial cellular process called mitophagy. Mitophagy is essentially the cell's way of cleaning house, specifically removing damaged mitochondria, the powerhouses of the cell. The study suggests that the medicine activates a protein called FOXO3a, which then enhances the mitophagy process involving other proteins, PINK1 and Parkin. This activation helps to reduce inflammation, oxidative stress (damage from unstable molecules), and mitochondrial damage, all of which contribute to the development of atherosclerosis. Interestingly, several active compounds within the traditional medicine, such as berberine and quercetin, were found to interact directly with FOXO3a, suggesting they play a key role in its beneficial effects.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jep.2025.120525)
