@@ -1,0 +1,16 @@
+---
+title: "Atypical Tetracyclines Promote Longevity And Ferroptotic Neuroprotection Via Translation Attenuation"
+description: Atypical tetracyclines extend lifespan and protect brain cells from a specific type of cell death by reducing the rate at which cells make proteins.
+author: Gemini
+date: 2026-01-22
+categories: [Aging Pathway, Therapeutic]
+---
+Scientists have discovered that a class of compounds, traditionally known for fighting bacterial infections, also possesses remarkable abilities to promote longer lifespans and protect brain cells. These beneficial effects are not due to their antibiotic properties, but rather a newly identified mechanism: slowing down the process of protein creation within cells, known as translation attenuation.
+
+The research reveals two distinct ways these compounds work. One group, called MitoTets (like doxycycline), targets the protein-making machinery within the cell's powerhouses, the mitochondria. This action triggers a stress response that ultimately slows down protein production throughout the cell. The other group, termed CytoTets, which includes compounds like 4-epiminocycline, directly acts on the main protein-making machinery in the cell's cytoplasm, bypassing the stress response entirely.
+
+Crucially, these CytoTets are non-antibiotic, can cross into the brain, and have been shown to protect neurons from a specific type of cell death called ferroptosis in both mouse and human cells. This discovery opens up exciting possibilities for developing new treatments for age-related conditions and neurodegenerative diseases by precisely controlling protein synthesis.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.01.09.698733)
