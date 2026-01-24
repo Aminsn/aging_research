@@ -1,0 +1,16 @@
+---
+title: "Telomere Lengths In Blood And Sperm As Biomarkers Of Reproductive Aging And Semen Quality In Dogs"
+description: A study in dogs revealed that the length of telomeres in both blood and sperm decreases with age and is linked to reproductive aging and the quality of semen.
+author: Gemini
+date: 2026-01-24
+categories: [Aging Theory, Clock]
+---
+Ever wondered how we can tell if a dog is reproductively aging or if their semen quality is declining? New research suggests that tiny protective caps on the ends of chromosomes, called telomeres, might hold the answer. These telomeres naturally shorten each time a cell divides, and their length is often considered a marker of biological aging. 
+
+This study explored the connection between the length of these telomeres in a dog's blood and sperm, and their reproductive health. The findings indicate that as dogs get older, the telomeres in both their blood and sperm tend to get shorter. More importantly, shorter telomeres in sperm were associated with poorer semen quality, including factors like lower semen volume and concentration, and issues with sperm chromatin decondensation (a measure of DNA packaging within the sperm). 
+
+This means that measuring telomere length could become a valuable tool for veterinarians and breeders to assess a male dog's reproductive aging and overall semen quality, potentially helping to make more informed decisions about breeding and reproductive management.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.theriogenology.2026.117827)
