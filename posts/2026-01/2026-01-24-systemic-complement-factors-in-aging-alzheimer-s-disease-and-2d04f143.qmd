@@ -1,0 +1,16 @@
+---
+title: "Systemic Complement Factors In Aging, Alzheimer'S Disease And Other Dementias: A Longitudinal Study Over 10 Years"
+description: A longitudinal study identified an Alzheimer's disease-specific pattern of complement factor alterations in the blood that is detectable during both preclinical and clinical phases of the disease and distinguishes it from other dementias.
+author: Gemini
+date: 2026-01-24
+categories: [Aging Pathway, Analytical]
+---
+Our bodies have a complex defense system, part of which is called the complement system. Think of it as a rapid-response team of proteins that helps fight off invaders and clear out damaged cells. Recent research has shed light on how this system changes as we age and, more specifically, in the context of Alzheimer's disease.
+
+A recent long-term study, spanning a decade, tracked changes in these immune system proteins, known as complement factors, in individuals over time. The researchers found that while some complement proteins naturally change with aging, a distinct pattern of alterations emerged in those who either had or later developed Alzheimer's disease. This unique "signature" in the blood, involving specific complement factors, was present even before the onset of noticeable symptoms (the preclinical phase) and continued into the symptomatic stages (the clinical phase).
+
+Crucially, this particular pattern of immune changes was specific to Alzheimer's disease and was not observed in other forms of dementia. This discovery suggests that these specific immune markers in the blood could potentially serve as early indicators for Alzheimer's disease, offering new avenues for early detection and potentially guiding future treatments aimed at this critical immune pathway.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13024-026-00927-3)
