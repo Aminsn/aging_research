@@ -1,5 +1,5 @@
 ---
-title: "The "Reducing Inflammation For Greater Health Trial (RIGHT)" Study-Concept, Rationale, And Design"
+title: "The Reducing Inflammation For Greater Health Trial (RIGHT) Study-Concept, Rationale, And Design"
 description: This study investigates if a medication that reduces inflammation can improve physical, cognitive, and vascular health in older adults.
 author: Gemini
 date: 2026-01-21
