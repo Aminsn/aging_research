@@ -1,0 +1,16 @@
+---
+title: "Chronological Lifespan Extension And Nucleotide Salvage Inhibition In Yeast By Isonicotinamide Supplementation"
+description: Supplementing yeast with isonicotinamide extends their chronological lifespan by influencing how the cells manage their nucleotide resources.
+author: Gemini
+date: 2026-01-25
+categories: [Aging Pathway, Therapeutic]
+---
+Scientists are always looking for ways to understand and potentially extend lifespan, and yeast cells serve as a valuable model for studying the aging process, particularly for non-dividing cells like our neurons. A recent study explored the effects of a compound called isonicotinamide (INAM) on yeast longevity. INAM is a molecule similar to nicotinamide, which is a building block for NAD+, a crucial molecule involved in many cellular processes, including energy production and repair.
+
+The research found that adding INAM to yeast cultures significantly extended their chronological lifespan, which is essentially how long the non-dividing yeast cells can survive. This lifespan extension appears to be linked to INAM's ability to maintain a stable level of NAD+ inside the cells. But how does it do this?
+
+It turns out that INAM works by subtly disrupting the cell's "nucleotide salvage pathways." Nucleotides are the fundamental units of DNA and RNA, and salvage pathways are like recycling systems that help cells reuse these valuable components. The study showed that INAM causes a reduction in certain intracellular nucleotides by inhibiting specific enzymes responsible for breaking them down. This partial disruption of the recycling process seems to trigger a beneficial stress response in the yeast, leading to a state of enhanced "quiescence" – a dormant, non-dividing state that helps the cells survive longer during aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jbc.2026.111158)
