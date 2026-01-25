@@ -1,0 +1,12 @@
+---
+title: "Tnfα Is A Trigger Of Aging-Associated Liver Inflammation In Mice"
+description: A protein called TNFα plays a significant role in triggering liver inflammation and damage associated with aging.
+author: Gemini
+date: 2026-01-25
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our bodies undergo various changes, and sometimes these changes can lead to chronic health issues. Recent research sheds light on a key player in age-related liver problems: a protein known as Tumor Necrosis Factor alpha (TNFα). This protein is a crucial part of our immune system, but when it's overactive, it can drive inflammation. Scientists observed that as mice aged, they experienced increased inflammation and signs of cellular aging in their livers. Interestingly, mice that were genetically engineered to lack TNFα were significantly protected from these age-related liver issues, including inflammation and the formation of scar tissue (fibrosis). This protective effect was linked to several factors. The mice without TNFα maintained better intestinal barrier function, which is like a protective wall in the gut that prevents harmful substances from entering the bloodstream. They also had lower levels of bacterial toxins (bacterial endotoxin) in their blood, suggesting a healthier gut environment. Furthermore, the balance of gut bacteria (microbiota) was different in these protected mice. These findings suggest that TNFα not only directly contributes to liver inflammation but also influences gut health, which in turn impacts liver aging. Understanding this connection could open new avenues for strategies to promote healthier aging, particularly for liver health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41514-025-00326-w)
