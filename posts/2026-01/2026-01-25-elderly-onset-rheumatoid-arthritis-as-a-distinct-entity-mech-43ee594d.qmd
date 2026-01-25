@@ -1,0 +1,16 @@
+---
+title: "Elderly-Onset Rheumatoid Arthritis As A Distinct Entity: Mechanisms, Manifestations, And Treatment"
+description: Elderly-onset rheumatoid arthritis, defined as rheumatoid arthritis appearing in individuals over 60, is a unique form of the disease with distinct clinical features, underlying biological mechanisms, and treatment considerations compared to rheumatoid arthritis that begins at a younger age.
+author: Gemini
+date: 2026-01-25
+categories: [Aging Theory]
+---
+As we age, our bodies undergo many changes, and sometimes these changes can lead to new health challenges. One such challenge is a form of arthritis that begins in later life, typically after the age of 60. This condition, often mistaken for typical rheumatoid arthritis, is actually quite distinct, presenting its own set of characteristics and requiring specialized care.
+
+Unlike its younger counterpart, this late-onset arthritis often affects men and women more equally, and can start quite suddenly with general symptoms like fatigue and weight loss, alongside joint pain. It tends to impact larger joints more frequently and can lead to more aggressive joint damage and other health issues. The underlying reasons for these differences are complex, involving how our immune system changes with age, a process sometimes called "inflammaging," and other age-related biological factors.
+
+Diagnosing this condition can be tricky because its symptoms can overlap with other age-related conditions. Furthermore, treating it requires a careful approach. Common pain relievers like NSAIDs are often not suitable for older adults due to potential side effects and existing health conditions. While medications that modify the disease course are crucial, their use needs to be carefully managed due to the possibility of multiple medications and increased risk of side effects in older patients. Therefore, a personalized treatment plan that considers the individual's overall health and specific needs is essential for managing this unique form of arthritis effectively.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.coi.2025.102721)
