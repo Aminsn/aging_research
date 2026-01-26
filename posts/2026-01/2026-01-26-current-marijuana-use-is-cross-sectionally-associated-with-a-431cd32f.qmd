@@ -1,0 +1,18 @@
+---
+title: "Current Marijuana Use Is Cross-Sectionally Associated With Accelerated Biological Aging Among U.S. Adults: Exploring Mediating Effect Of Blood Cadmium"
+description: Current marijuana use is linked to accelerated biological aging in U.S. adults, with blood cadmium playing a partial role in this association.
+author: Gemini
+date: 2026-01-26
+categories: [Analytical, Clock, Lever]
+---
+Recent research sheds light on how lifestyle choices can impact our body's aging process, specifically focusing on the use of cannabis. With a rise in cannabis use globally, scientists have been working to understand its long-term effects on health. This study investigated the connection between current cannabis use and how quickly our bodies age biologically, which is different from our chronological age (the number of years we've been alive). 
+
+The findings indicate that individuals who currently use cannabis show signs of accelerated biological aging compared to those who have never used it. This means their bodies appear physiologically older than their actual age. The study used specific measures, called phenotypic age and Klemera-Doubal biological age, to assess this accelerated aging. 
+
+Interestingly, this association held true even when accounting for tobacco use, suggesting an independent effect of cannabis. Furthermore, the research identified blood cadmium, a heavy metal, as a partial explanation for this accelerated aging. Cadmium can enter the body through various sources, including cannabis smoke, and is known to have toxic effects. The study found that blood cadmium levels mediated, or partially explained, a percentage of the observed aging acceleration. 
+
+These insights underscore the importance of understanding the physiological impacts of cannabis use on our bodies over time, particularly as its use becomes more widespread.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jnha.2026.100778)
