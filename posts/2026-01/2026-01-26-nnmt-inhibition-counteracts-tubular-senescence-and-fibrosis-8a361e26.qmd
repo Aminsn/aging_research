@@ -1,0 +1,18 @@
+---
+title: "NNMT Inhibition Counteracts Tubular Senescence And Fibrosis In Early Stages Of Chronic Kidney Disease"
+description: Inhibition of the enzyme NNMT can reduce kidney cell aging and scarring in the early stages of chronic kidney disease.
+author: Gemini
+date: 2026-01-26
+categories: [Aging Pathway, Therapeutic]
+---
+Chronic kidney disease (CKD) is a growing global health concern, and a major challenge in its progression is the development of kidney scarring, known as fibrosis. This scarring is often driven by a process called cellular senescence, where kidney cells age prematurely and stop functioning correctly. Unfortunately, current treatments for CKD do not specifically target these aging cells.
+
+Recent research has identified a key player in this process: an enzyme called Nicotinamide N-methyltransferase, or NNMT. Studies have shown that increased levels of this enzyme are strongly associated with the worsening of CKD, a decline in kidney function, and the extent of scarring observed in human kidney tissue. Specifically, kidney tubules that show high NNMT activity are often found to be senescent (aging), fibrotic (scarred), and surrounded by an inflammatory environment.
+
+Further investigation revealed that when NNMT levels are too high, it promotes this premature cell aging and a process called epithelial-to-mesenchymal transition (EMT), which contributes to the formation of scar tissue. Crucially, when NNMT is inhibited, meaning its activity is blocked, it protects kidney cells and even lab-grown mini-kidneys (organoids) from damage. In animal models, blocking NNMT also led to a reduction in kidney scarring.
+
+These findings suggest that targeting NNMT could be a promising new therapeutic strategy to combat kidney cell aging and fibrosis, potentially slowing down the progression of chronic kidney disease in its early stages.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.celrep.2025.116823)
