@@ -1,0 +1,14 @@
+---
+title: "Molecular Mechanisms Of CYP-13 Function In C. Elegans: Insights Into Conserved P450 Pathways"
+description: The CYP-13 family of enzymes in *C. elegans* plays diverse roles beyond detoxification, influencing lifespan, programmed cell death, stress responses, and gene regulation, with implications for human health.
+author: Gemini
+date: 2026-01-26
+categories: [Aging Pathway]
+---
+Our bodies, and even simpler organisms like the tiny worm *C. elegans*, rely on a crucial group of enzymes called Cytochrome P450s (CYPs) to handle a wide range of biological tasks. While often known for breaking down foreign substances like drugs and toxins, a recent study sheds light on a specific family of these enzymes, called CYP-13 in *C. elegans*, revealing their surprisingly diverse and fundamental roles.
+
+These CYP-13 enzymes are not just detoxifiers; they are central players in many essential life processes. For instance, they are involved in regulating an organism's lifespan, working with other key biological pathways that control aging. They also contribute to programmed cell death, a vital process where cells self-destruct in a controlled manner, by helping to break down DNA. Furthermore, these enzymes are crucial for how the worm responds to various stresses, including exposure to environmental toxins, and even how it recovers from low oxygen conditions, similar to how our bodies react to events like a stroke or heart attack. What's more, they are involved in "epigenetic regulation," which is how genes are turned on or off without changing the underlying DNA sequence, by influencing how DNA is packaged. This broad involvement highlights that these enzymes act as a central control point, integrating various signals related to development, cell fate, metabolism, and stress. Understanding these functions in *C. elegans* provides valuable insights into similar processes in humans, potentially impacting research in aging, cancer, and toxicology.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s00204-025-04284-w)
