@@ -1,0 +1,16 @@
+---
+title: "DNA Damage In Macrophages Drives Immune Autoreactivity Via Nuclear Antigen Presentation"
+description: Researchers discovered that DNA damage in immune cells called macrophages can cause the immune system to mistakenly attack the body's own tissues, a process linked to how these cells present internal cellular components.
+author: Gemini
+date: 2026-01-27
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+As we age, our bodies become more susceptible to chronic inflammation and autoimmune diseases, where the immune system mistakenly attacks healthy tissues. The exact reasons for this have been a long-standing mystery. New research sheds light on a crucial mechanism involving specialized immune cells called macrophages. These "big eaters" are vital for clearing debris and pathogens, but when their DNA gets damaged, they can turn into a source of trouble for the body.
+
+The study found that when macrophages accumulate DNA damage, particularly due to defects in their DNA repair machinery, they begin to display fragments of their own cellular components, especially from the cell's nucleus, on their surface. Think of it like these macrophages are holding up "ID badges" (known as MHC-II molecules) that normally show parts of invaders to other immune cells, called T cells. However, in this damaged state, they start presenting "self" components, essentially telling T cells that these normal body parts are foreign and should be attacked.
+
+This process relies on a cellular recycling system called autophagy, which helps break down and deliver these nuclear fragments to the "ID badge holders" on the macrophage surface. The research also observed a similar phenomenon in aged macrophages, suggesting this mechanism contributes to age-related autoimmune conditions. Importantly, when this recycling process was blocked, the autoimmune features were suppressed, highlighting a potential new avenue for developing treatments to mitigate age-related immune dysregulation and autoimmune diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s43587-025-01053-3)
