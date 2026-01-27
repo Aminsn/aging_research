@@ -1,0 +1,16 @@
+---
+title: "SRC Suppression Attenuates Vascular Aging By Activating Fundc1-Dependent Mitophagy"
+description: Suppressing the protein SRC can slow down the aging of blood vessels by boosting a cellular process that cleans up damaged mitochondria.
+author: Gemini
+date: 2026-01-27
+categories: [Aging Pathway, Therapeutic]
+---
+Our blood vessels, like the rest of our bodies, age over time, leading to various health issues. Scientists have been searching for ways to combat this "vascular aging." A recent study sheds light on a promising approach: targeting a specific protein called SRC.
+
+The research indicates that by reducing the activity of SRC, we can effectively put the brakes on vascular aging. How does this happen? It turns out that SRC normally acts as an inhibitor of a crucial cellular cleanup process known as mitophagy. Mitophagy is essentially the cell's way of recycling old, damaged mitochondria – the powerhouses of our cells. When mitochondria become faulty, they can contribute to aging and disease.
+
+By suppressing SRC, the study found that a protein called FUNDC1, which is a key player in initiating mitophagy, becomes more active. This increased activity of FUNDC1 then triggers a more efficient removal of dysfunctional mitochondria from our vascular cells. Think of it like a cellular waste disposal system getting a much-needed upgrade. By clearing out the cellular "junk," the blood vessels can maintain their health and function for longer, effectively attenuating the aging process. This discovery opens new avenues for developing therapies to promote healthier aging of our cardiovascular system.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.mad.2026.112156)
