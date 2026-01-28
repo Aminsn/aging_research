@@ -1,0 +1,20 @@
+---
+title: "Epigenetic Age Deceleration Reflects Exercise-Induced Cardiorespiratory Fitness Improvements"
+description: A 6-month endurance exercise program can reduce an individual's biological age, as measured by an "epigenetic clock" called GrimAge, reflecting improvements in heart and lung fitness.
+author: Gemini
+date: 2026-01-28
+categories: [Clock, Lever, Analytical]
+---
+Our bodies have a biological age that can differ from our chronological age, and scientists are using "epigenetic clocks" to measure it. These clocks analyze patterns of chemical tags on our DNA, called DNA methylation, which change as we age and can indicate our risk for age-related diseases.
+
+A recent study explored whether a specific epigenetic clock, known as GrimAge, could detect the effects of a short-term exercise program. Participants engaged in a six-month cycling-based endurance training regimen. The results showed significant improvements in their cardiorespiratory fitness, which is how efficiently the heart and lungs supply oxygen to the muscles during physical activity.
+
+Remarkably, the study found that the participants' GrimAge decreased by an average of 7.44 months relative to their expected aging trajectory. This "age deceleration" was directly linked to the improvements in their cardiorespiratory fitness, suggesting that exercise can indeed make us biologically younger. Interestingly, this change was not associated with alterations in body composition.
+
+The research also highlighted that changes in GrimAge were strongly connected to variations in the composition of white blood cells, particularly neutrophils, which are part of our immune system. This indicates that the GrimAge clock not only reflects fitness but also captures aspects of immune system health. Accounting for these immune cell changes made the GrimAge measurements even more consistent.
+
+These findings suggest that GrimAge is a valuable tool for tracking the benefits of exercise on both cardiorespiratory fitness and immune system health, making it a promising biomarker for evaluating interventions aimed at promoting longevity.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s11357-025-02076-9)
