@@ -1,0 +1,20 @@
+---
+title: "Caloric Restriction Modifies Small RNA Profiles And Engages Age-Related Molecular Pathways In The CALERIE Trial"
+description: Caloric restriction alters small non-coding RNA profiles, including microRNAs and piwi-interacting RNAs, which are linked to age-related molecular pathways such as insulin signaling, circadian rhythm, cell cycle regulation, and stress response, suggesting these small RNAs are key mediators of caloric restriction's effects on aging and longevity.
+author: Gemini
+date: 2026-01-28
+categories: [Lever, Aging Pathway, Analytical]
+---
+Many studies have shown that eating fewer calories, without becoming malnourished, can extend lifespan and improve overall health in various species. In humans, a significant clinical trial demonstrated that this dietary approach can reduce inflammation, improve heart and metabolic health, and positively influence molecular markers of aging.
+
+To understand how these benefits occur at a fundamental level, researchers investigated changes in tiny molecules called small non-coding RNAs (smRNAs) in human participants. These smRNAs, which include microRNAs (miRs) and piwi-interacting RNAs (piRs), play crucial roles in regulating gene expression, essentially acting as switches that turn genes on or off.
+
+The study found that a reduced-calorie diet significantly altered the profiles of these smRNAs in blood, muscle, and fat tissues. These changes were linked to important biological processes that are known to be involved in aging, such as how the body uses sugar (insulin signaling), our natural sleep-wake cycles (circadian rhythm), the way cells grow and divide (cell cycle regulation), and how the body responds to stress.
+
+Interestingly, some of the same microRNAs affected in humans were also observed to change in rhesus monkeys undergoing caloric restriction, suggesting that these mechanisms are conserved across different species.
+
+These findings highlight that smRNAs are vital players in mediating the positive effects of a calorie-restricted diet on aging and longevity. This discovery could open doors for developing new strategies to target age-related conditions by influencing these small but powerful molecular regulators.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.isci.2025.114514)
