@@ -1,0 +1,18 @@
+---
+title: "Decreased S100A7 Expression Is Linked To Altered Differentiation-, Autophagy- And Senescence-Related Programs During Skin Aging"
+description: A reduction in the antimicrobial peptide S100A7 in aged skin cells is associated with changes in how skin cells mature, their self-cleaning processes, and cellular aging, contributing to the overall aging of the skin.
+author: Gemini
+date: 2026-01-28
+categories: [Aging Pathway, Therapeutic]
+---
+Our skin undergoes many changes as we age, leading to wrinkles, dryness, and a loss of elasticity. While we know these changes happen, the exact molecular reasons are still being uncovered. Recent research sheds light on one potential key player: a protein called S100A7, which is naturally found in our skin and helps fight off microbes.
+
+The study found that in older skin cells, specifically the main type of skin cell called keratinocytes, the amount of S100A7 significantly decreases. This reduction isn't just a passive change; it appears to actively influence several crucial cellular processes.
+
+When S100A7 levels drop, it affects how skin cells mature and specialize (a process called differentiation), how cells clean out damaged components (known as autophagy), and how cells enter a state where they stop dividing and can contribute to aging (called senescence). Essentially, lower S100A7 seems to disrupt the normal functioning of these pathways, accelerating aspects of skin aging.
+
+Interestingly, the researchers observed that by reducing S100A7, they could mimic some of the signs of cellular aging. Conversely, increasing S100A7 levels boosted the cell's self-cleaning process and reduced these aging-like characteristics. These findings suggest that S100A7 plays a vital role in maintaining healthy skin and its decline contributes to the aging process. Understanding this connection could open doors for new strategies to support skin health as we age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41514-026-00330-8)
