@@ -1,0 +1,16 @@
+---
+title: "Premature Aging In Serious Mental Illness"
+description: Individuals with serious mental illnesses exhibit accelerated biological aging, leading to an earlier onset of age-related health conditions and a reduced lifespan.
+author: Gemini
+date: 2026-01-28
+categories: [Aging Theory, Therapeutic, Lever]
+---
+It appears that people living with serious mental health conditions, such as major depression, bipolar disorder, and schizophrenia, often experience physical health issues typically associated with much older age. This includes conditions like heart disease, diabetes, and even certain types of dementia, and unfortunately, they tend to have shorter lifespans.
+
+Scientists are increasingly recognizing this as "accelerated biological aging," meaning that the body's biological processes are aging at a faster rate than a person's chronological age. This isn't just due to lifestyle choices; there's evidence suggesting it's an inherent part of these mental health conditions. Researchers are investigating various biological indicators, such as the length of telomeres (protective caps on our DNA that naturally shorten with age) and "epigenetic age" (a way to measure biological age by looking at chemical changes to DNA), to better understand and measure this accelerated aging process.
+
+The hope is that by understanding these underlying mechanisms, we can develop new strategies to prevent and treat both the mental and physical health challenges these individuals face, ultimately improving their overall well-being and extending their lives.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41386-026-02322-4)
