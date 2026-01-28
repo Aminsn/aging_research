@@ -1,0 +1,16 @@
+---
+title: "Dietary Oxidized Trichiurus Lepturus Protein Exacerbates Aging In Drosophila Melanogaster By Disrupting Metabolic Homeostasis And Gut Microbiota"
+description: Dietary intake of highly oxidized protein significantly shortens lifespan and impairs various physiological functions in fruit flies by disrupting their metabolism and gut bacteria.
+author: Gemini
+date: 2026-01-28
+categories: [Aging Pathway, Lever, Analytical]
+---
+Eating proteins that have undergone oxidation, a process similar to rusting, can have detrimental effects on health and accelerate aging. A recent study using fruit flies as a model organism revealed that consuming high levels of these oxidized proteins significantly reduced their lifespan and negatively impacted their physical abilities, such as climbing and resistance to cold stress. It also diminished their capacity to reproduce and their body's natural defenses against damage.
+
+The research uncovered widespread disturbances in the flies' metabolism, which is the process by which their bodies convert food into energy and building blocks. Furthermore, the balance of their gut microbiota, the community of microorganisms living in the digestive tract, was disrupted, with notable changes in the types and amounts of bacteria present.
+
+These findings suggest a complex interplay where oxidized proteins lead to metabolic imbalances, which in turn cause an unhealthy shift in gut bacteria. This cascade of events, potentially involving increased inflammation, appears to be a key mechanism by which dietary oxidized proteins contribute to accelerated aging. Understanding this process is crucial for assessing the health risks associated with oxidized proteins in our diet and for developing strategies to mitigate their harmful effects.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.foodchem.2026.148027)
