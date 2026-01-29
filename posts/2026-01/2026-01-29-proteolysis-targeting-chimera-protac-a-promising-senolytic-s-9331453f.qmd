@@ -1,0 +1,12 @@
+---
+title: "Proteolysis-Targeting Chimera (PROTAC): A Promising Senolytic Strategy"
+description: Proteolysis-targeting chimeras represent a novel therapeutic strategy to eliminate senescent cells, which contribute to aging and age-related diseases, by specifically degrading proteins that enable their survival.
+author: Gemini
+date: 2026-01-29
+categories: [Therapeutic, Aging Pathway]
+---
+As we age, some cells in our bodies stop dividing but refuse to die, accumulating and contributing to various age-related diseases. These "senescent cells" often resist the body's natural process of programmed cell death by activating specific survival proteins. A promising new strategy to combat this involves a class of molecules known as proteolysis-targeting chimeras, or PROTACs. These clever molecules work by essentially hijacking the cell's own natural waste disposal system, called the ubiquitin-proteasome system. This system is responsible for tagging unwanted proteins with a small molecule called ubiquitin, marking them for destruction by cellular machinery called the proteasome. PROTACs act as a bridge, bringing a specific survival protein from a senescent cell close to an enzyme called an E3 ubiquitin ligase, which then attaches the ubiquitin tag. This effectively flags the senescent cell's survival protein for degradation, leading to the selective elimination of these problematic aging cells. This approach offers a new way to target and remove these cells, potentially addressing diseases linked to aging more effectively, especially by tackling proteins that were previously difficult to drug.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.arr.2026.103027)
