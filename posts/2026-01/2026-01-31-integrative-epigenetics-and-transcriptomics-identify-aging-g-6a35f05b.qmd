@@ -1,0 +1,16 @@
+---
+title: "Integrative Epigenetics And Transcriptomics Identify Aging Genes In Human Blood"
+description: Researchers have identified a set of "multi-omic aging genes" in human blood by combining epigenetic and transcriptomic data, which are strongly linked to immune functions and aging-related outcomes.
+author: Gemini
+date: 2026-01-31
+categories: [Analytical, Aging Pathway, Therapeutic]
+---
+Scientists have made a significant stride in understanding how we age by looking at our blood. They developed a new method that combines two powerful ways of studying our biology: epigenetics and transcriptomics. Epigenetics refers to chemical changes to our DNA, like "DNA methylation," which can turn genes on or off without changing the underlying genetic code. Transcriptomics, on the other hand, examines all the RNA molecules in a cell, which are essentially the instructions copied from our genes to make proteins and carry out cellular functions. 
+
+By integrating these two types of "multi-omic" data, researchers were able to get a more complete picture of age-related changes than by looking at either one alone. They pinpointed specific "aging genes" in blood that show consistent changes in both their epigenetic marks and their activity levels as people get older. 
+
+These newly identified genes are particularly interesting because they are heavily involved in "adaptive immune functions," which is how our body remembers and fights off infections. The study found that these genes are more reliably associated with aging across different groups of people and are more strongly linked to various aging-related health outcomes. This discovery opens up exciting possibilities, as these genes could potentially be targeted with future therapies, such as "epigenetic editing," to promote "cellular rejuvenation" and combat the effects of aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41467-025-67369-1)
