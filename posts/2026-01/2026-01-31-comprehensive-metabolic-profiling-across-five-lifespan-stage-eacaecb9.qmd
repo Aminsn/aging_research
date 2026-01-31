@@ -1,0 +1,18 @@
+---
+title: "Comprehensive Metabolic Profiling Across Five Lifespan Stages In Murine Hippocampus And Cortex Reveals Sex-Related Variation In Age-Related Cognitive Decline"
+description: The study found that cognitive decline and metabolic changes in the brain during aging vary significantly between male and female mice, with females showing more severe cognitive impairment and distinct patterns of glucose and purine metabolism.
+author: Gemini
+date: 2026-01-31
+categories: [Aging Pathway, Analytical]
+---
+As we age, our brains undergo many changes, and how these changes affect our thinking abilities can differ between individuals. Recent research has shed light on how these age-related brain changes, particularly in metabolism, vary significantly between sexes. 
+
+Scientists conducted a detailed investigation into the brains of male and female mice across different life stages, from young adulthood to old age. They looked at both cognitive function – how well the mice learned and remembered – and the intricate chemical processes, or "metabolism," happening in key brain regions like the hippocampus and cortex. These regions are crucial for memory and higher-level thinking.
+
+The findings revealed that while both male and female mice experienced a decline in cognitive abilities as they aged, older females showed a more pronounced impairment. More strikingly, the study uncovered significant sex-specific differences in how the brain handles its energy sources. For instance, the way the brain processes glucose, its primary fuel, showed contrasting patterns: it continued to increase in elderly males but decreased in aging females. Similarly, the handling of purines – essential molecules involved in energy and genetic material – also differed, with males maintaining their ability to build these molecules while females showed more breakdown.
+
+These discoveries suggest that the molecular pathways underlying age-related cognitive decline are not uniform across sexes. Understanding these distinct metabolic shifts in males and females could be crucial for developing targeted strategies to maintain brain health and combat cognitive decline as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s42003-026-09527-9)
