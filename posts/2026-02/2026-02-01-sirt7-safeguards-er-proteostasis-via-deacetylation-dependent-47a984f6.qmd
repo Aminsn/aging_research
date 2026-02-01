@@ -1,0 +1,16 @@
+---
+title: "Sirt7 Safeguards Erα Proteostasis Via Deacetylation-Dependent Degradation Of Unliganded And Misfolded Receptors"
+description: A protein called SIRT7 acts as a quality control inspector for the estrogen receptor alpha (ERα), ensuring that only functional receptors are present by promoting the breakdown of those that are not bound to estrogen or are misfolded.
+author: Gemini
+date: 2026-02-01
+categories: [Aging Pathway]
+---
+Our bodies rely on a delicate balance of proteins to function correctly. One crucial protein is the estrogen receptor alpha (ERα), which plays a vital role in how our cells respond to estrogen, a hormone involved in many processes from bone health to reproduction. But what happens when these receptors aren't working properly, perhaps because they haven't found estrogen to bind to, or they've taken on the wrong shape? 
+
+New research sheds light on a fascinating cellular cleanup crew. It turns out that a protein known as SIRT7 acts like a vigilant quality control agent. When ERα proteins are faulty or "unoccupied," SIRT7 steps in. It removes a specific chemical tag from these problematic receptors, essentially marking them for destruction. This process ensures that only healthy, functional estrogen receptors remain, which is critical for maintaining proper estrogen signaling throughout the body. 
+
+This discovery is significant because estrogen signaling is deeply connected to various aspects of health, including aging and the development of certain hormone-related cancers. By understanding how this molecular inspector, SIRT7, maintains the quality of these essential receptors, we open new avenues for exploring treatments for age-related conditions and hormone-driven diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jbc.2026.111173)
