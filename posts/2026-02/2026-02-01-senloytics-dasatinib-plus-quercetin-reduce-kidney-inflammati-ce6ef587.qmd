@@ -1,0 +1,18 @@
+---
+title: "Senloytics, Dasatinib Plus Quercetin, Reduce Kidney Inflammation, Senescent Cell Abundance, And Injury While Restoring Geroprotective Factors In Murine Diabetic Kidney Disease"
+description: The senolytic combination of dasatinib and quercetin improved kidney function, reduced inflammation, and decreased the abundance of senescent cells and injury in murine diabetic kidney disease, while also restoring protective factors.
+author: Gemini
+date: 2026-02-01
+categories: [Therapeutic, Aging Pathway]
+---
+Imagine cells in your body that stop dividing but don't die off. Instead, they linger, releasing harmful substances that can cause inflammation and damage to surrounding healthy tissues. These are often called "senescent cells" or "zombie cells," and they play a significant role in various age-related diseases, including diabetic kidney disease.
+
+Recent research explored a promising approach to combat this issue in the context of diabetic kidney disease. Scientists investigated a combination of two compounds, dasatinib and quercetin, known as "senolytics." These agents are designed to selectively eliminate these problematic senescent cells.
+
+In studies conducted on mice with diabetic kidney disease, this senolytic treatment showed remarkable results. It led to improved kidney function and a reduction in markers of kidney injury and scarring. Crucially, the treatment successfully decreased the number of senescent cells and lowered inflammation within the kidneys. What's more, these positive effects were observed without altering blood glucose levels, and the treatment helped restore important "geroprotective factors" – substances that naturally protect against aging and disease.
+
+These findings suggest that targeting and removing senescent cells with specific drug combinations could be a valuable new strategy for treating and potentially reversing the damage caused by diabetic kidney disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.ebiom.2026.106124)
