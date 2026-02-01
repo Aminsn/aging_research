@@ -1,0 +1,12 @@
+---
+title: "Mechanical Insights Into The Distinct Effects Of Ovariectomy Versus Adrenalectomy On Age-Related Thymic Atrophy In Female Mice"
+description: Research in female mice reveals that removing ovaries can slow down age-related shrinking of the thymus, whereas removing adrenal glands unexpectedly accelerates this process.
+author: Gemini
+date: 2026-02-01
+categories: [Aging Theory, Aging Pathway]
+---
+As we age, our immune system naturally weakens, partly due to a process called thymic atrophy, where the thymus gland, crucial for developing immune cells (T cells), shrinks. This decline can make us more susceptible to illnesses. Recent studies have shed light on how different hormone-producing glands impact this age-related shrinking. Interestingly, removing the ovaries, which are major producers of female hormones, was found to actually help preserve the thymus in female mice, slowing down its age-related decline. This suggests that certain female hormones from the ovaries might contribute to the thymus shrinking over time. However, the picture became more complex when the adrenal glands, another source of hormones, were removed. Surprisingly, this procedure accelerated the age-related shrinking of the thymus. Further investigation revealed that the balance of estrogens, a type of sex hormone, played a key role in these opposing outcomes, rather than stress hormones like corticosterone. It appears that after the ovaries are removed, the adrenal glands can compensate by producing some estrogen. When both ovaries and adrenal glands were removed, the beneficial effect on the thymus was even more pronounced, indicating that eliminating nearly all sources of estrogen had the strongest positive impact on thymic health. While removing the ovaries showed promise in combating thymic atrophy, it also seemed to simultaneously increase the mice's susceptibility to autoimmune issues, highlighting the delicate balance of the body's hormonal systems and immune responses.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/ijms27021022)
