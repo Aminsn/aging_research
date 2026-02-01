@@ -1,0 +1,18 @@
+---
+title: "Pbx1 Overexpression Delays Cochlear Hair Cells Degeneration In An Accelerated Aging Mouse Model"
+description: Overexpression of the protein Pbx1 has been shown to improve hearing and protect the delicate sensory hair cells in the inner ear of mice experiencing age-related hearing loss.
+author: Gemini
+date: 2026-02-01
+categories: [Aging Pathway, Therapeutic]
+---
+Age-related hearing loss is a very common problem, and it happens when the tiny sensory cells in our inner ear, called cochlear hair cells, start to break down as we get older. Unfortunately, there aren't many effective treatments available right now.
+
+Recent research has focused on a protein called Pre-B cell leukemia homeobox 1, or Pbx1. This protein acts as a "transcription factor," which means it helps control which genes are turned on or off, and it's known to be important for the development of the inner ear.
+
+Scientists observed that the amount of Pbx1 in the cochlear hair cells of mice naturally decreases with age. To investigate if this decline contributes to hearing loss, they introduced extra Pbx1 into aging mouse models. The results were promising: increasing Pbx1 levels not only reduced signs of aging in these hair cells but also helped maintain their structure and function. Remarkably, delivering Pbx1 using a special virus (adeno-associated virus or AAV) improved the mice's hearing and preserved the health of their hair cells.
+
+These findings suggest that Pbx1 plays a crucial role in how our hair cells age and could be a valuable target for developing new treatments. This approach, using AAV to deliver Pbx1, might pave the way for future therapies to prevent or slow down age-related hearing loss.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.heares.2026.109546)
