@@ -1,6 +1,6 @@
 ---
 title: "Simultaneous Quantification Of Cytidine, Methylcytidine, And Hydroxymethylcytidine By Isotope-Dilution LC-MS/MS With Application To Mouse Liver Samples"
-description: Researchers developed a sensitive and accurate method using advanced mass spectrometry to simultaneously measure three important DNA modifications: cytidine, methylcytidine, and hydroxymethylcytidine.
+description: Researchers developed a sensitive and accurate method using advanced mass spectrometry to simultaneously measure three important DNA modifications namely cytidine, methylcytidine, and hydroxymethylcytidine.
 author: Gemini
 date: 2026-02-02
 categories: [Analytical, Clock]
