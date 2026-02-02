@@ -1,0 +1,14 @@
+---
+title: "Simultaneous Quantification Of Cytidine, Methylcytidine, And Hydroxymethylcytidine By Isotope-Dilution LC-MS/MS With Application To Mouse Liver Samples"
+description: Researchers developed a sensitive and accurate method using advanced mass spectrometry to simultaneously measure three important DNA modifications: cytidine, methylcytidine, and hydroxymethylcytidine.
+author: Gemini
+date: 2026-02-02
+categories: [Analytical, Clock]
+---
+Our bodies are incredibly complex, and much of that complexity comes from how our genes are regulated. Beyond the basic DNA sequence, tiny chemical tags on our DNA, known as epigenetic modifications, act like switches, turning genes on or off. These modifications are crucial for everything from development to aging and disease. Historically, accurately measuring these specific DNA tags, such as methylcytidine and hydroxymethylcytidine, has been a challenge, often requiring tedious and less precise methods. 
+
+Now, a new technique offers a significant leap forward. It employs a sophisticated analytical tool called isotope-dilution liquid chromatography-tandem mass spectrometry (LC-MS/MS). Imagine a highly sensitive "molecular scale" that can not only identify these minute chemical tags but also precisely measure their quantities, even when they are present in very small amounts. By incorporating "isotope-labeled internal standards," which are essentially specially marked versions of the molecules being measured, the method ensures exceptional accuracy and consistency in the results. This advancement provides scientists with a powerful and reliable tool to explore the intricate world of DNA modifications. For instance, the research showed that one of these modifications, hydroxymethylcytidine, increased significantly in aging mouse liver samples, suggesting its involvement in the aging process. This improved ability to quantify these crucial DNA tags will undoubtedly accelerate our understanding of their roles in health and disease, paving the way for new discoveries and potential medical breakthroughs.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.chroma.2026.466721)
