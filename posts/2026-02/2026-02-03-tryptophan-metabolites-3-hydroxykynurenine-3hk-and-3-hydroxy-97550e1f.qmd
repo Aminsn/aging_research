@@ -1,0 +1,12 @@
+---
+title: "Tryptophan Metabolites 3-Hydroxykynurenine (3Hk) And 3-Hydroxyanthranilic Acid (3Haa) Increase Oxidative Stress And Impair Osteoblastic Bone Formation"
+description: Specific byproducts of tryptophan metabolism, 3-hydroxykynurenine (3HK) and 3-hydroxyanthranilic acid (3HAA), contribute to bone weakening by increasing cellular stress and hindering the formation of new bone.
+author: Gemini
+date: 2026-02-03
+categories: [Aging Theory, Aging Pathway]
+---
+Our bodies break down the essential amino acid tryptophan through a process called the kynurenine pathway. While some of these breakdown products are beneficial, recent research sheds light on how certain intermediate molecules in this pathway can negatively impact our bones. Specifically, two metabolites, 3-hydroxykynurenine (3HK) and 3-hydroxyanthranilic acid (3HAA), have been found to activate a protein called the aryl hydrocarbon receptor (AhR). This activation triggers a cascade of harmful effects within the cells responsible for building bone, known as mesenchymal stem cells (MSCs). These effects include an increase in "oxidative stress" (an imbalance between free radicals and antioxidants in the body), damage to DNA, and even cell death. When these bone-forming cells are exposed to 3HK and 3HAA, their ability to mature into osteoblasts (cells that produce bone matrix) is significantly reduced, leading to less new bone material being formed. Studies in living organisms have further demonstrated that these metabolites can lead to a decrease in overall bone density and cortical bone mass, which is the dense outer layer of bone. These findings suggest that the way our bodies process tryptophan could play a crucial role in age-related bone loss and may offer new avenues for developing treatments to protect bone health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jbc.2026.111174)
