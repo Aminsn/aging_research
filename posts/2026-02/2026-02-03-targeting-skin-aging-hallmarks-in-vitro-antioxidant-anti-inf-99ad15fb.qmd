@@ -1,0 +1,12 @@
+---
+title: "Targeting Skin Aging Hallmarks In Vitro: Antioxidant, Anti-Inflammatory, And Anti-Senescence Effects Of Phenolic-Rich Extracts From <I>Cistus</I> L. Species"
+description: Phenolic-rich extracts from *Cistus ladanifer* and *Cistus salviifolius* species demonstrate significant antioxidant, anti-inflammatory, and anti-senescence effects, alongside inhibiting key enzymes involved in skin aging, without causing irritation.
+author: Gemini
+date: 2026-02-03
+categories: [Therapeutic, Aging Theory, Aging Pathway]
+---
+Nature offers a treasure trove of compounds that could help us maintain youthful, healthy skin. Recent research has explored extracts from certain Mediterranean plants, specifically from the *Cistus* genus, for their potential to combat the visible signs of aging. These plant extracts are packed with beneficial molecules called phenolics, which are known for their protective properties. The study revealed that extracts from *Cistus ladanifer* and *Cistus salviifolius* exhibited powerful antioxidant activity, meaning they can neutralize harmful free radicals that damage skin cells and contribute to aging. Beyond this, they showed significant anti-inflammatory effects, which is crucial as chronic inflammation can accelerate the aging process. The extracts also demonstrated "anti-senescence" properties, helping to prevent skin cells from entering a state of irreversible aging where they stop dividing and can even harm surrounding healthy cells. Furthermore, these natural compounds were found to inhibit enzymes like elastase, hyaluronidase, and tyrosinase, which are responsible for breaking down essential skin components like collagen and elastin, leading to wrinkles and loss of firmness. Importantly, tests confirmed that these extracts did not cause any skin irritation, making them promising candidates for future skincare formulations. This research paves the way for developing new, natural anti-aging products that harness the power of these remarkable plants.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/antiox15010149)
