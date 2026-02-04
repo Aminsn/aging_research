@@ -1,0 +1,18 @@
+---
+title: "LED Lighting (350-650Nm) Undermines Human Visual Performance Unless Supplemented By Wider Spectra (400-1500Nm+) Like Daylight"
+description: Narrow-spectrum LED lighting, which lacks the broader wavelengths found in natural daylight, can negatively affect human visual performance, particularly color contrast sensitivity.
+author: Gemini
+date: 2026-02-04
+categories: [Aging Theory, Aging Pathway, Lever]
+---
+Have you ever noticed that colors seem a bit off under certain indoor lights? It turns out that the type of light we use can significantly impact our vision and even our overall health. Our bodies evolved under natural sunlight, which provides a wide range of light wavelengths, from ultraviolet to infrared. This full spectrum of light is crucial for many biological processes, including how our cells produce energy.
+
+Modern LED lighting, while energy-efficient, typically emits a much narrower range of light, primarily focusing on the visible spectrum (around 350-650 nanometers). This limited spectrum often lacks the longer wavelengths, such as red and near-infrared light, that are abundant in natural daylight. Research suggests that this absence can undermine our visual performance, specifically our ability to distinguish between colors.
+
+The key lies in tiny powerhouses within our cells called mitochondria. These mitochondria are sensitive to light, and the specific wavelengths they receive can either boost or hinder their function. The blue-rich light often found in narrow-spectrum LEDs can suppress mitochondrial activity, while red and near-infrared light can enhance it. When studies supplemented typical LED lighting with a broader spectrum of light, including these longer wavelengths, participants showed significant improvements in color contrast sensitivity. Remarkably, these improvements lasted for up to two months even after the supplemental lighting was removed.
+
+This research highlights that light doesn't just help us see; it plays a fundamental role in our cellular health. Since mitochondria communicate throughout the body, the type of light we are exposed to could have widespread effects, potentially influencing our metabolism and overall well-being. Considering broader spectrum lighting in our environments could be a simple yet effective way to support better health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41598-026-35389-6)
