@@ -1,0 +1,18 @@
+---
+title: "Accelerated Senescence In Sulfur Mustard-Exposed Individuals: Evidence From Oxidative DNA Damage, Telomere Shortening, And Dietary Inflammatory Index"
+description: Sulfur mustard exposure, especially when combined with pro-inflammatory dietary patterns, accelerates cellular aging by increasing oxidative damage and inflammation.
+author: Gemini
+date: 2026-02-05
+categories: [Aging Theory, Aging Pathway, Lever]
+---
+Exposure to certain harmful chemicals, like sulfur mustard, can have lasting health consequences, including chronic respiratory issues. Beyond the visible signs of aging, our cells can also age prematurely, a process called cellular senescence, where cells stop dividing and can release substances that harm neighboring cells, contributing to age-related diseases.
+
+Researchers investigated key indicators of this cellular aging in individuals exposed to sulfur mustard. They looked at telomeres, which are protective caps at the ends of our DNA strands that shorten with each cell division; when they become too short, cells enter senescence. They also examined oxidative DNA damage, which occurs when unstable molecules called free radicals harm our DNA, and the expression of genes like p16, which are involved in regulating cell growth and are often overexpressed in aging cells.
+
+Additionally, the study explored the influence of dietary habits, specifically those that promote inflammation, measured by a "Dietary Inflammatory Index." The findings revealed that individuals exposed to sulfur mustard exhibited significantly shorter telomeres, higher levels of oxidative DNA damage, and altered expression of genes associated with aging, all pointing to accelerated cellular aging. This accelerated aging was further linked to diets that promote inflammation.
+
+These insights underscore that exposure to harmful chemicals, combined with certain dietary choices, can speed up the aging process at a cellular level. Understanding these mechanisms is vital for developing targeted interventions, such as dietary modifications, to lessen the long-term health impacts for affected individuals.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.ecoenv.2026.119722)
