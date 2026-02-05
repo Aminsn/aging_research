@@ -1,0 +1,22 @@
+---
+title: "CRISPR Screens Identify Targets To Rescue Age-Related T Cell Dysfunction In Cancer"
+description: Researchers identified two genes, Dusp5 and Zfp219, that play crucial roles in the age-related decline of T cell function in cancer, suggesting them as potential targets to improve immunotherapy for older patients.
+author: Gemini
+date: 2026-02-05
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+As we age, our immune system, particularly the T cells responsible for fighting cancer, can become less effective. This "immune aging" makes it harder for the body to control tumors and can reduce the success of cancer immunotherapies. Scientists have been working to understand why this happens and how to reverse it.
+
+In a recent study, researchers used a powerful gene-editing tool called CRISPR to systematically investigate genes in T cells from aged tumors. By carefully removing individual genes, they could see which ones influenced the T cells' ability to persist and effectively fight cancer.
+
+This investigation pinpointed two key genes: Dusp5 and Zfp219. When Dusp5 was removed, T cells showed increased activity and multiplied more effectively, even in older tumors. This gene normally acts as a brake on a crucial signaling pathway (ERK signaling) that promotes T cell growth.
+
+The other gene, Zfp219, acts as a repressor, meaning it normally turns off certain genetic programs. When Zfp219 was removed, T cells were able to reprogram themselves to produce more cancer-killing molecules, significantly boosting their anti-tumor capabilities.
+
+Importantly, the human version of Zfp219, called ZNF219, was found to be elevated in T cells within tumors of older cancer patients. High levels of ZNF219 were linked to poorer outcomes after a common type of immunotherapy called immune checkpoint blockade. Further experiments showed that blocking Zfp219 in combination with existing immunotherapies dramatically improved the immune response and cleared tumors in aged models.
+
+These findings suggest that targeting Dusp5 and Zfp219 could be a promising strategy to rejuvenate the immune system in older cancer patients, making current immunotherapies more effective and offering new avenues for treatment.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.01.22.701075)
