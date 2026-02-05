@@ -1,0 +1,18 @@
+---
+title: "P16<Sup>Ink4A</Sup>-Positive Hepatocytes Drive Liver Fibrosis Through Activation Of LIFR Family Pathway"
+description: Senescent liver cells, specifically those positive for a protein called p16<sup>Ink4a</sup>, are identified as key drivers of liver scarring by activating a specific signaling pathway, and their removal can reduce fibrosis.
+author: Gemini
+date: 2026-02-05
+categories: [Aging Pathway, Therapeutic]
+---
+Imagine your liver as a hardworking organ that can usually repair itself. But sometimes, after long-term damage, it starts to form scar tissue, a process called liver fibrosis. This scarring can eventually lead to serious health problems. 
+
+Recent research has shed light on a crucial player in this process: certain liver cells that have entered a state called "senescence." Think of senescent cells as "aged" or "stressed" cells that stop dividing but remain active, often releasing signals that can harm surrounding healthy tissue. In the context of liver fibrosis, scientists found that a specific type of senescent liver cell, marked by a protein called p16<sup>Ink4a</sup>, accumulates as the scarring worsens.
+
+These p16<sup>Ink4a</sup>-positive cells don't just sit there; they actively contribute to the problem. They do this by activating a communication system within the liver known as the LIFR family pathway. This activation, in turn, prompts other liver cells, called hepatic stellate cells, to become active and produce the excessive scar tissue that characterizes fibrosis.
+
+The exciting news is that when these p16<sup>Ink4a</sup>-positive senescent liver cells were selectively removed in experimental models, the liver scarring significantly improved. This discovery suggests a promising new avenue for treating liver fibrosis by targeting these specific senescent cells and interrupting their harmful signaling pathway.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/advs.202510562)
