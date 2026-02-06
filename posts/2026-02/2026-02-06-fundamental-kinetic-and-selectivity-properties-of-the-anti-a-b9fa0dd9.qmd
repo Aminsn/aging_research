@@ -1,0 +1,14 @@
+---
+title: "Fundamental Kinetic And Selectivity Properties Of The Anti-Aging, Antioxidant-Active Ingredient EUK-134"
+description: The anti-aging antioxidant EUK-134 exhibits strong activity similar to the enzyme catalase and moderate selectivity, but its effectiveness diminishes significantly with repeated exposure to hydrogen peroxide.
+author: Gemini
+date: 2026-02-06
+categories: [Therapeutic, Aging Pathway]
+---
+Many skincare products boast ingredients that promise to fight the signs of aging, and one such popular component is a powerful antioxidant. This ingredient works by mimicking the body's own natural defense enzymes, like superoxide dismutase and catalase, to neutralize harmful molecules called reactive oxygen species (ROS). ROS are unstable molecules that can damage cells, leading to inflammation, DNA damage, and the breakdown of collagen and elastin, all of which contribute to visible aging. By converting these damaging species into harmless water and oxygen, this antioxidant helps protect skin cells.
+
+Recent research delved into the fundamental properties of this antioxidant, specifically its efficiency, sustained activity, and how selectively it targets harmful molecules. The findings revealed that it possesses high activity similar to catalase, an enzyme that breaks down hydrogen peroxide, and shows moderate selectivity in its actions. However, a crucial insight from the study is that the robustness of its activity significantly decreases after continuous exposure to hydrogen peroxide. This kind of detailed understanding of its behavior is vital for optimizing its use in skincare and other applications, and it provides a benchmark for evaluating new antioxidant compounds. It's also important to note that while this molecule is known for its self-regenerating properties, it can be destroyed by strong acids, such as ascorbic acid (Vitamin C).
+
+---
+
+Source: [link to paper](https://doi.org/10.1039/d5dt02480c)
