@@ -1,0 +1,18 @@
+---
+title: "Association Of Epigenetic Age Acceleration With MRI Biomarkers Of Aging And Alzheimer'S Disease Neurodegeneration"
+description: A study found that a specific measure of biological aging, called AgeAccelGrim2, is linked to brain changes associated with smoking that increase the risk of dementia, although most biological age measures were not associated with general brain aging.
+author: Gemini
+date: 2026-02-06
+categories: [Clock, Analytical]
+---
+Our bodies age at different rates, and scientists are developing "biological clocks" to measure this internal aging process more accurately than just counting years. These clocks look at patterns of chemical tags on our DNA, a process called DNA methylation, which can change how our genes work without altering the underlying genetic code. When someone's biological age is older than their actual age, it's called "epigenetic age acceleration," and it has been linked to a higher risk of cognitive decline and conditions like dementia. 
+
+Researchers recently explored how these biological clocks relate to physical changes in the brain, specifically those seen in normal aging and Alzheimer's disease. They used brain scans (MRI) to measure two things: a general indicator of brain aging and a specific pattern of brain shrinkage often seen in Alzheimer's. 
+
+Interestingly, most of the biological clocks didn't show a strong connection to general brain aging. However, one particular clock, named AgeAccelGrim2, was significantly associated with the brain shrinkage pattern linked to Alzheimer's. Further investigation revealed that this connection was largely due to a DNA methylation marker related to a history of smoking, which primarily affected areas in the front and sides of the brain. It's important to note that this specific clock wasn't linked to changes in brain regions typically affected in the very early stages of Alzheimer's. 
+
+These findings suggest that different ways of measuring biological aging—whether through DNA changes or brain scans—might be capturing distinct aspects of how our bodies age. Specifically, AgeAccelGrim2 appears to be a useful indicator for neurodegenerative changes in the brain that are tied to smoking and can increase the risk of developing dementia.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.01.23.26344650)
