@@ -1,0 +1,14 @@
+---
+title: "High-Protein Diet Promotes Aging By Activating The Cg6415/AMT Gene And Disrupting Mitochondrial Homeostasis"
+description: A high-protein diet can accelerate the aging process by activating a specific gene and disrupting the normal function of cellular energy factories.
+author: Gemini
+date: 2026-02-06
+categories: [Aging Pathway, Lever]
+---
+Many of us focus on diet for health and longevity, but new research suggests that a high-protein intake might actually speed up aging. This happens partly because a high-protein diet can activate a particular gene in our bodies. Once activated, this gene interferes with what scientists call "mitochondrial homeostasis."
+
+Mitochondria are often referred to as the "powerhouses of our cells" because they are responsible for generating most of the energy our bodies need to function, a process known as oxidative phosphorylation. When mitochondrial homeostasis is disrupted, these vital energy factories can't work properly, leading to a cascade of events that promote aging and make our cells more vulnerable to damage. Interestingly, one specific amino acid, isoleucine, appears to play a significant role in this process, mimicking some of the aging effects seen with a high-protein diet.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jare.2026.01.063)
