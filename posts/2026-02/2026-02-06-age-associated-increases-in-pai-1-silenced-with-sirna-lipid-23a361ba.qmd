@@ -1,0 +1,18 @@
+---
+title: "Age-Associated Increases In PAI-1 Silenced With Sirna-Lipid Nanoparticles Reduces Thrombosis And Prolongs Lifespan"
+description: Researchers found that reducing levels of a protein called PAI-1 using specially delivered genetic material can decrease blood clot formation and extend the lifespan in aging mice.
+author: Gemini
+date: 2026-02-06
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our bodies undergo many changes, and one protein, called plasminogen activator inhibitor 1 (PAI-1), tends to increase. High levels of this protein are linked to a higher risk of developing blood clots, a condition known as thrombosis, and are also associated with various age-related health issues like diabetes, cancer, and even Alzheimer's disease. Conversely, individuals with naturally lower levels of this protein often show protection against cardiovascular problems and tend to live longer.
+
+Scientists have been exploring ways to safely lower the amount of this protein in the body. A recent study investigated a novel therapeutic approach using tiny fat-based particles, known as lipid nanoparticles, to deliver small interfering RNA (siRNA). This specialized genetic material is designed to "silence" or "knock down" the gene responsible for producing PAI-1, thereby reducing its circulating levels.
+
+The findings were promising: a single administration of these siRNA-lipid nanoparticles effectively reduced PAI-1 levels by a significant amount, with the effect lasting for an extended period without any noticeable harmful side effects. More importantly, this reduction in the protein led to a decrease in the formation of blood clots in both younger and older mice. Furthermore, in a model of accelerated aging, the treatment was shown to prolong the animals' lifespan.
+
+This research suggests that targeting and reducing this age-associated protein could be a valuable long-term strategy for preventing dangerous blood clots and potentially mitigating some of the detrimental health effects associated with aging and age-related diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1182/blood.2025029834)
