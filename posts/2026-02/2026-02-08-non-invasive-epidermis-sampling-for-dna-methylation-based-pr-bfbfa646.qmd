@@ -1,0 +1,18 @@
+---
+title: "Non-Invasive Epidermis Sampling For DNA Methylation-Based Prediction Of Skin Cancer Phenotypes"
+description: A new non-invasive method allows for the collection of skin DNA using adhesive tape to predict skin age and identify biomarkers for skin cancer development.
+author: Gemini
+date: 2026-02-08
+categories: [Clock, Analytical]
+---
+Imagine being able to check your skin health and even assess your risk for skin cancer without a painful biopsy. Recent advancements have made this a reality through a clever new technique that involves simply using a special adhesive tape to collect skin cells from the outermost layer of your skin.
+
+This innovative method then allows scientists to analyze the DNA from these collected cells, specifically looking at something called "DNA methylation." DNA methylation is like a set of chemical tags on your DNA that can influence how your genes work. These tags change as we age and can also be altered in the presence of diseases like cancer.
+
+By analyzing these methylation patterns, researchers can accurately predict the biological age of your skin, which can be different from your chronological age. More importantly, this non-invasive approach can help identify specific DNA methylation patterns that act as early warning signs, or "biomarkers," for the development of common skin cancers.
+
+This breakthrough offers a significant advantage over traditional, invasive skin biopsies, which can be uncomfortable and carry risks. The tape-stripping method is not only painless but also provides DNA samples that are highly comparable to those obtained through biopsies. This opens up exciting possibilities for widespread, easy, and early screening for skin conditions and cancer prevention, making skin health assessment more accessible to everyone.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41698-026-01302-7)
