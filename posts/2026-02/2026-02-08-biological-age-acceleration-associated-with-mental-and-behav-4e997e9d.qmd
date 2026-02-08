@@ -1,0 +1,18 @@
+---
+title: "Biological Age Acceleration Associated With Mental And Behavioural Disorders: Evidence From The UK Biobank Cohort"
+description: Mental and behavioral disorders are consistently linked to accelerated biological aging, with some conditions like depression, insomnia, and anxiety potentially playing a causal role in speeding up the aging process, while bipolar disorder may be associated with slower epigenetic aging.
+author: Gemini
+date: 2026-02-08
+categories: [Clock, Analytical]
+---
+It appears that our mental well-being might have a profound impact on how quickly our bodies age. Recent research, utilizing a vast dataset from the UK Biobank, has uncovered a robust connection between various mental and behavioral disorders and an accelerated biological age. This means that individuals experiencing these conditions may show signs of aging faster than their chronological years suggest.
+
+The study found a "dose-response" relationship, indicating that the more mental health conditions an individual has, the greater the acceleration in their biological aging. For instance, conditions like depression, insomnia, and anxiety were identified as potentially having a causal role in promoting this faster aging.
+
+Interestingly, not all disorders showed the same pattern. Bipolar disorder, for example, was associated with *slower* epigenetic aging, a measure of biological age based on changes to our DNA. Schizophrenia, on the other hand, did not show a significant link to accelerated aging in this particular study.
+
+These findings highlight the importance of considering biological aging in the long-term management of mental health. Understanding this connection could lead to new strategies for both mental health care and healthy aging, as accelerated biological aging is also linked to higher risks of developing multiple health conditions and a shorter life expectancy.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jad.2026.121265)
