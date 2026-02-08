@@ -1,0 +1,16 @@
+---
+title: "Glycine Ameliorates Aging-Related Dysfunctions Associated With Nmdmc-Mediated Mitochondrial One-Carbon Metabolism"
+description: Glycine supplementation has been shown to reduce aging-related problems by improving mitochondrial function and one-carbon metabolism, leading to better DNA repair and resistance to oxidative stress.
+author: Gemini
+date: 2026-02-08
+categories: [Therapeutic, Aging Pathway, Analytical]
+---
+Scientists have uncovered a fascinating link between a simple amino acid, glycine, and the process of aging. New research indicates that supplementing with glycine can help combat various age-related issues by positively influencing our cells' energy factories, the mitochondria, and a vital metabolic pathway called one-carbon metabolism.
+
+In studies, this supplementation was observed to extend the lifespan and improve age-related characteristics in organisms like fruit flies. This beneficial effect appears to be driven by the increased activity of a specific gene, Nmdmc, which plays a crucial role in regulating one-carbon metabolism. One-carbon metabolism is a fundamental network of biochemical reactions in our bodies that is essential for many processes, including building DNA, maintaining amino acid balance, and producing important antioxidants that protect our cells.
+
+Further investigations in aged rats revealed that glycine also helped reduce damage to brain cells, restored the normal structure of liver cells, and increased the density of muscle fibers. These improvements were associated with the creation of new mitochondria (mitochondrial biogenesis) and better methylation, a process vital for gene regulation and cellular function. Essentially, by optimizing these internal cellular processes, glycine appears to enhance the body's ability to repair DNA and resist damage from oxidative stress, both of which are key factors in healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.freeradbiomed.2026.01.050)
