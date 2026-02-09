@@ -1,0 +1,18 @@
+---
+title: "Ageing And Liver Immune Cells"
+description: Aging significantly alters the immune system within the liver, leading to increased inflammation and impaired immune cell function.
+author: Gemini
+date: 2026-02-09
+categories: [Aging Theory, Aging Pathway]
+---
+As we age, our bodies undergo many changes, and our liver, a vital organ for detoxification and immune regulation, is no exception. Research shows that with age, the liver's immune environment transforms considerably. We see new structures forming, called "ageing-related tertiary lymphoid-associated structures" (ATLAS), which are essentially clusters of inflammatory cells. These clusters, along with surrounding scar-like tissue, become hotspots for signals that promote inflammation and the formation of fibrous tissue.
+
+Studies have also revealed a consistent increase in inflammatory immune processes and the production of inflammatory signaling molecules (cytokines) throughout the aging liver. Individual immune cells within the liver also become dysregulated. For instance, liver macrophages, a type of white blood cell that usually cleans up cellular debris and fights infection, shift towards a "pro-inflammatory" state, meaning they start promoting inflammation rather than resolving it. Natural Killer (NK) cells, another type of immune cell crucial for fighting infections and cancer, show signs of "exhaustion," becoming less effective and less able to clear out old, damaged cells (senescent cells).
+
+Furthermore, T cells and B cells, key players in our adaptive immune system responsible for targeted responses to specific threats, accumulate "exhausted phenotypes." This means they become less responsive and effective over time. Specifically, there's an increase in "senescence-associated T cells" (SATs) and "age-associated B cells" (ABCs), which are types of immune cells that contribute to chronic inflammation. Even the specialized lining of blood vessels in the liver, called "Liver sinusoidal endothelial cells" (LSECs), changes. They undergo a process called "pseudo-capillarization" and "defenestration," where they lose their normal porous structure, creating a physical barrier that hinders the proper removal of certain T cells by liver cells.
+
+These age-related changes in liver immune cells collectively suggest that the liver plays a central role in the widespread, low-grade inflammation often observed in older individuals.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.arr.2026.103039)
