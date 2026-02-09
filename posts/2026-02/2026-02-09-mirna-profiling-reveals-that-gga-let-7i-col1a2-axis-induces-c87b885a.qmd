@@ -1,0 +1,12 @@
+---
+title: "Mirna Profiling Reveals That Gga-Let-7I/Col1A2 Axis Induces Cell Cycle Arrest And Triggers Cellular Senescence To Accelerate Ovarian Aging In Laying Hens By Suppressing The Pi3K/AKT/Mdm2 Pathway"
+description: Researchers discovered that a specific microRNA, gga-let-7i, in conjunction with the protein COL1A2, accelerates ovarian aging in laying hens by halting cell division and inducing cellular senescence through the suppression of the PI3K/AKT/MDM2 signaling pathway.
+author: Gemini
+date: 2026-02-09
+categories: [Aging Pathway, Analytical]
+---
+The poultry industry faces a significant challenge with the decline in egg production as laying hens age, a process known as reproductive senescence. Recent research has shed light on a crucial molecular mechanism contributing to this aging process in the ovaries of these hens. Scientists have identified a tiny regulatory molecule called a microRNA, specifically gga-let-7i, which plays a key role. MicroRNAs are like master switches that can turn genes on or off, influencing various cellular functions. This particular microRNA, working together with a protein called COL1A2, forms a critical "axis" or pathway. This gga-let-7i/COL1A2 axis was found to induce what's called "cell cycle arrest," meaning it stops ovarian cells from dividing and replenishing. Furthermore, it triggers "cellular senescence," a state where cells permanently stop dividing and exhibit characteristics associated with aging. These two processes collectively accelerate the aging of the hen's ovaries. The study also revealed that this aging acceleration occurs by suppressing a vital cellular communication network known as the PI3K/AKT/MDM2 pathway. This pathway is normally involved in promoting cell growth, survival, and division. By dampening its activity, the gga-let-7i/COL1A2 axis effectively pushes ovarian cells towards an aged, non-functional state. Understanding this intricate molecular interplay could pave the way for strategies to extend the reproductive lifespan of laying hens, benefiting the poultry industry.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.psj.2026.106542)
