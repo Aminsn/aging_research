@@ -1,0 +1,18 @@
+---
+title: "Sport Improves Function Of Roosters Testicular Leydig Cells By Mediating Fundc1"
+description: Regular physical activity in roosters enhances testosterone production and improves reproductive health by increasing a specific protein called FUNDC1, which boosts the energy-producing parts of cells and their ability to fight off damage.
+author: Gemini
+date: 2026-02-09
+categories: [Aging Pathway, Lever]
+---
+As roosters age, their reproductive performance often declines, largely due to a drop in testosterone levels. This can significantly impact breeding programs. But what if a simple intervention could help? Recent research suggests that regular physical activity might be the answer.
+
+This study explored how sport affects the cells responsible for producing testosterone, called Leydig cells, located in the testes. These cells are crucial for male reproductive health. The findings indicate that engaging in sport significantly improves the function of these Leydig cells.
+
+The key to this improvement appears to be a protein known as FUNDC1. When roosters exercised, the levels of FUNDC1 in their testes increased. This protein plays a vital role in maintaining the health and efficiency of mitochondria, often called the "powerhouses" of the cell, which generate the energy needed for various cellular processes. FUNDC1 also enhances the body's antioxidant defense system, which protects cells from damage caused by harmful molecules.
+
+By boosting FUNDC1, sport helps Leydig cells function better, leading to increased testosterone synthesis. This, in turn, improves overall reproductive performance, including semen quality and hatching success. This discovery offers valuable insights and potential strategies for maintaining and improving the fertility of breeding roosters, especially as they get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.psj.2026.106541)
