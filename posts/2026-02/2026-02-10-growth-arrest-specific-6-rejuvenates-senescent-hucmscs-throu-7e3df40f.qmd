@@ -1,0 +1,16 @@
+---
+title: "Growth Arrest-Specific 6 Rejuvenates Senescent Hucmscs Through Upregulating Nrf2 For Diabetic Wound Therapy"
+description: A protein called Growth arrest-specific 6 (GAS6) can revitalize aging human umbilical cord mesenchymal stem cells, enhancing their ability to heal diabetic wounds by boosting the activity of a protective protein known as Nrf2.
+author: Gemini
+date: 2026-02-10
+categories: [Aging Pathway, Therapeutic]
+---
+Diabetic foot ulcers are a serious complication of diabetes, often proving difficult to treat with conventional methods. A promising approach involves using specialized stem cells, but these cells can age and lose their effectiveness when grown outside the body, limiting their therapeutic potential. This research explores how a specific protein, Growth arrest-specific 6 (GAS6), can breathe new life into these aging stem cells.
+
+The study found that GAS6 significantly improved the characteristics of aged stem cells, essentially making them "younger" and more functional. It achieves this by activating a crucial protective pathway within the cells. Specifically, GAS6 promotes the activation of a protein called Nrf2, which is known for its role in protecting cells from stress and damage. This activation occurs through a series of internal cellular mechanisms, including the regulation of other proteins like Keap1 and the involvement of pathways such as PI3K/Akt.
+
+By rejuvenating these stem cells and boosting Nrf2 activity, GAS6 enhances their ability to promote the formation of new blood vessels, a critical process for wound healing. This improved capacity was observed in both cellular experiments and animal models, suggesting that GAS6 could be a valuable tool to improve stem cell-based therapies for diabetic wounds. This discovery offers a new strategy to overcome the limitations of aged stem cells, potentially leading to more effective treatments for chronic diabetic wounds.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.freeradbiomed.2026.01.057)
