@@ -1,0 +1,20 @@
+---
+title: "DNA-Protein Cross-Links Promote Cgas-STING-Driven Premature Aging And Embryonic Lethality"
+description: Harmful attachments between DNA and proteins, known as DNA-protein cross-links, activate an immune pathway that drives premature aging and developmental problems.
+author: Gemini
+date: 2026-02-10
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+Our bodies are constantly working to maintain the integrity of our genetic material, DNA. Sometimes, proteins can get stuck to DNA, forming what are called DNA-protein cross-links (DPCs). These "sticky" situations are highly toxic because they can block essential processes like DNA replication (when DNA makes copies of itself) and transcription (when DNA's instructions are read to make proteins).
+
+Normally, a special enzyme called SPRTN acts like a molecular scissor, helping to remove these problematic DPCs. However, when SPRTN isn't working correctly, DPCs build up. This accumulation leads to DNA damage and errors during cell division, causing fragments of DNA to escape into the cell's cytoplasm, the fluid outside the nucleus.
+
+When DNA is detected in the cytoplasm, it triggers an alarm system known as the cGAS-STING pathway. This pathway is part of our innate immune system, designed to detect foreign DNA, like from viruses, and initiate an inflammatory response. In this case, however, it's activated by our own damaged DNA.
+
+The continuous activation of this cGAS-STING pathway due to unrepaired DPCs leads to chronic inflammation. In studies using models of a premature aging disorder called Ruijs-Aalfs progeria syndrome, this chronic inflammation was found to cause severe developmental issues, including embryonic lethality, and accelerate aging processes that persist into adulthood.
+
+Crucially, researchers discovered that by blocking the cGAS-STING pathway, either genetically or with drugs, they could prevent the developmental problems and alleviate the signs of premature aging. This finding highlights a previously unrecognized link between these DNA "sticky" situations, our immune system, and the aging process, suggesting new avenues for potential treatments for conditions caused by faulty DNA repair.
+
+---
+
+Source: [link to paper](https://doi.org/10.1126/science.adx9445)
