@@ -1,0 +1,18 @@
+---
+title: "Cellular Senescence In The Ascending Aorta And Complexity Of Coronary Atherosclerosis"
+description: The presence of senescent cells, specifically marked by elevated p16 and p21 proteins, in the ascending aorta is significantly linked to more complex coronary artery disease.
+author: Gemini
+date: 2026-02-10
+categories: [Aging Theory, Aging Pathway]
+---
+Our bodies are made of cells, and just like us, cells can age. This process, called cellular senescence, means that some cells stop dividing but remain active, potentially contributing to age-related diseases. Recent research has shed light on how these "aged" cells might play a role in heart health. 
+
+Scientists investigated the connection between these senescent cells in a major blood vessel called the ascending aorta (the large artery that carries blood from your heart to the rest of your body) and the severity of coronary artery disease. Coronary artery disease is a condition where the arteries supplying blood to the heart become narrowed and hardened, often due to plaque buildup. 
+
+The study focused on specific markers of cellular senescence, namely proteins called p16 and p21. By examining tissue samples from patients undergoing heart bypass surgery (a procedure to improve blood flow to the heart), researchers found a significant association. They observed that a higher presence of cells expressing p16 and p21 in the ascending aorta was linked to more complex coronary artery disease, as measured by a scoring system called the SYNTAX score, which quantifies the extent and complexity of blockages in the heart's arteries. 
+
+These findings suggest that cellular senescence in the aorta could be a key factor in the progression of complex coronary artery disease. Understanding this link could open doors for new ways to predict, prevent, or even treat heart disease by targeting these aging cells.
+
+---
+
+Source: [link to paper](https://doi.org/10.1155/jare/9142131)
