@@ -1,0 +1,14 @@
+---
+title: "Circadian Clock Genes Per1/Per2 Deficiency Induces Premature Age-Related Motor Function Decline In Mice"
+description: Mice lacking the circadian clock genes Per1 and Per2 experience an earlier onset of age-related decline in their ability to move and coordinate.
+author: Gemini
+date: 2026-02-11
+categories: [Aging Pathway]
+---
+Our bodies have an internal "body clock" that regulates many daily processes, including sleep-wake cycles and physical activity. This clock relies on specific genes to function correctly. A recent study investigated the role of two such genes, called Period1 and Period2, in how we age.
+
+The research found that when mice were missing these two genes, they developed problems with movement and coordination much earlier in life than mice with normal genes. Interestingly, the disruption to their daily rhythms occurred before any noticeable motor issues, suggesting that these genes are vital for maintaining physical abilities as we get older. This highlights the importance of a well-functioning body clock in preserving our motor skills and overall physical organization throughout the aging process.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.physbeh.2026.115245)
