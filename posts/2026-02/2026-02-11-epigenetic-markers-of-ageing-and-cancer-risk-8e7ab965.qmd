@@ -1,0 +1,20 @@
+---
+title: "Epigenetic Markers Of Ageing And Cancer Risk"
+description: A comprehensive review and study found that epigenetic markers of aging generally show weak and varied associations with cancer risk across different cancer types, with the strongest links observed for lung cancer with specific markers.
+author: Gemini
+date: 2026-02-11
+categories: [Clock, Analytical]
+---
+Our bodies undergo many changes as we age, and some of these changes happen at a very fundamental level, affecting how our genes are turned on or off without altering the genetic code itself. These are called "epigenetic alterations." Scientists are particularly interested in these changes because they are a shared characteristic of both aging and cancer.
+
+Researchers have developed "epigenetic markers" or "epigenetic clocks" that use patterns of DNA methylation—a process where tiny chemical tags are added to our DNA—to estimate a person's biological age. This biological age can sometimes differ from chronological age and has been explored for its potential to predict disease risk.
+
+A recent study investigated the connection between these epigenetic markers of aging and the risk of developing various cancers. The findings suggest that, in general, the association between these markers and cancer risk is not very strong and can vary significantly depending on the specific marker and the type of cancer. For instance, the strongest link was observed between a particular epigenetic clock called GrimAge and lung cancer risk.
+
+The study also revealed that some observed connections, especially between markers related to cell division (mitotic clocks) or random epigenetic changes (stochastic epigenetic mutations) and blood cancer risk, could largely be explained by differences in the types of immune cells present in the blood. This highlights the complexity of these relationships.
+
+These insights underscore the potential of studying DNA methylation in blood to better understand the intricate relationship between aging and cancer. They also point to the need for developing new and improved epigenetic markers that can capture a wider range of aging features to enhance our ability to predict disease risk more accurately.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.arr.2026.103041)
