@@ -1,0 +1,12 @@
+---
+title: "Exosomes From Apcs Ameliorate Human Skin Fibroblast Senescence Via P53/P21 Signaling Pathway"
+description: Exosomes derived from adipose-derived progenitor cells can reduce the aging of human skin fibroblasts by influencing the p53/p21 signaling pathway.
+author: Gemini
+date: 2026-02-11
+categories: [Therapeutic, Aging Pathway]
+---
+Our skin, like the rest of our body, ages over time. At a cellular level, this aging process is called senescence, where skin cells, specifically fibroblasts, lose their ability to function optimally. Recent research has explored the potential of tiny messengers called exosomes to combat this. Exosomes are like microscopic packages released by cells, carrying important signals and molecules to other cells, influencing their behavior. This study focused on exosomes derived from adipose-derived progenitor cells (APCs), which are a type of stem cell found in fat tissue. Researchers found that these exosomes, particularly those from younger donors, could effectively reverse several signs of aging in human skin fibroblasts. They achieved this by modulating specific internal cellular pathways, known as the p53/p21 signaling pathway, which are key regulators of cell aging. By influencing these pathways, the exosomes helped reduce cellular damage and improve the overall health and function of the aging skin cells. This discovery suggests a promising new avenue for developing therapies and cosmetic applications aimed at rejuvenating the skin and addressing age-related skin conditions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.tice.2026.103363)
