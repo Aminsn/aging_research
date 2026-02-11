@@ -1,0 +1,12 @@
+---
+title: "Adolescent High Fructose Consumption Induces Cardiac Dysfunction In Adulthood Via Elevated Histone Acetylation"
+description: Adolescent high fructose consumption can lead to impaired heart function in adulthood by increasing histone acetylation.
+author: Gemini
+date: 2026-02-11
+categories: [Aging Pathway, Lever]
+---
+Many of us enjoy sweet treats, but new research suggests that consuming a lot of fructose during adolescence could have lasting negative effects on our hearts as adults. This study found that young individuals who consume high amounts of fructose may develop problems like an enlarged heart, reduced pumping ability, and scarring of heart tissue later in life. The underlying mechanism appears to involve changes in how our genes are regulated. Specifically, high fructose intake was linked to an increase in "histone acetylation," a process that can alter gene activity. This also involved a decrease in a protein called SIRT1, which is important for heart health and aging, and a reduction in Cpt1b, a gene involved in how the heart uses fat for energy. These findings highlight a potential long-term risk of high fructose consumption during formative years and open doors for new strategies to prevent and treat fructose-related heart conditions.
+
+---
+
+Source: [link to paper](https://doi.org/10.21037/tp-2025-aw-728)
