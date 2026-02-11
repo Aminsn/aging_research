@@ -1,0 +1,12 @@
+---
+title: "Using An Unbiased Coexpression Network To Reveal Cross-Talking Pathways Of Phosphoinositide-3-Kinase Regulatory Subunit 1 In Skin Aging And Rejuvenation"
+description: A recent study found that a gene called PIK3R1 is less active in aged skin and influences skin aging and rejuvenation by interacting with specific cellular pathways, suggesting it could be a target for anti-aging therapies.
+author: Gemini
+date: 2026-02-11
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+Skin aging is a complex process, and scientists are continuously working to understand its underlying mechanisms. A recent study shed light on a particular gene, called PIK3R1, and its significant role in how our skin ages and rejuvenates. Researchers observed that this gene is less active in older skin compared to younger skin. Using advanced techniques to analyze gene interactions, they discovered that PIK3R1 communicates with several crucial cellular pathways, including those involved in cell growth and survival (PI3K/AKT), cell signaling (Rap1), and the regulation of stem cell properties. When the activity of PIK3R1 was reduced in laboratory settings, skin cells showed increased resistance to factors that typically accelerate aging, such as UV radiation. This resistance was linked to improved cell survival and better collagen maintenance, which are vital for youthful skin. These findings suggest that targeting PIK3R1 could offer a promising new approach for developing treatments aimed at skin rejuvenation.
+
+---
+
+Source: [link to paper](https://doi.org/10.1096/fj.202402347RRRR)
