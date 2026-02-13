@@ -1,0 +1,18 @@
+---
+title: "Intranasal Human NSC-Derived Evs Therapy Can Restrain Inflammatory Microglial Transcriptome, And Nlrp3 And Cgas-STING Signalling, In Aged Hippocampus"
+description: A new study demonstrates that delivering specialized vesicles derived from human stem cells directly into the nose can reduce brain inflammation and improve memory in aging mice.
+author: Gemini
+date: 2026-02-13
+categories: [Therapeutic, Aging Pathway]
+---
+As we age, our brains can experience a subtle, ongoing inflammation, often called "inflammaging," particularly in areas crucial for memory like the hippocampus. This chronic inflammation is a major contributor to age-related cognitive decline, making it harder to remember things or learn new information. This process involves the activation of specific immune pathways in the brain, such as the NLRP3 inflammasome and the cGAS-STING pathway, which trigger inflammatory responses. 
+
+Recent research has explored a promising new approach using tiny packages called extracellular vesicles (EVs) that are released by human stem cells. These particular EVs come from human induced pluripotent stem cell-derived neural stem cells (hiPSC-NSCs) and are packed with therapeutic molecules, including special small RNA molecules called microRNAs. When delivered directly into the nose, these EVs can reach the brain and act as powerful anti-inflammatory agents. 
+
+In a recent study, middle-aged mice treated with these EVs showed remarkable improvements. Their brains had less inflammation, reduced oxidative stress (a type of cellular damage), and fewer overactive immune cells called microglia and astrocytes. The EVs effectively dampened the activity of the inflammatory NLRP3 and cGAS-STING pathways. Furthermore, the treatment boosted the production of antioxidant proteins and genes vital for maintaining healthy mitochondria, the energy powerhouses of our cells. 
+
+Crucially, these positive changes in the brain were linked to better cognitive and memory function in the older mice. This suggests that this innovative, non-invasive therapy could offer a way to combat age-related brain inflammation and help maintain sharper minds as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/jev2.70232)
