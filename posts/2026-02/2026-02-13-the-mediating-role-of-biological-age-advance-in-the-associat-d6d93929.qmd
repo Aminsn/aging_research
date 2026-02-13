@@ -1,0 +1,16 @@
+---
+title: "The Mediating Role Of Biological Age Advance In The Association Between Periodontitis And Mortality: Biological Aging Links Periodontitis To Mortality"
+description: Moderate to severe gum disease is linked to an increased risk of death, and this association is partially explained by accelerated biological aging.
+author: Gemini
+date: 2026-02-13
+categories: [Clock, Analytical]
+---
+Did you know that the health of your gums might be connected to how quickly your body ages and even your lifespan? Recent research suggests a significant link between advanced gum disease, known as periodontitis, and an increased risk of mortality. This isn't just about direct effects; it appears that how old your body truly is, often referred to as "biological age," plays a crucial mediating role. 
+
+The study found that individuals with moderate to severe gum disease tend to show signs of accelerated biological aging. This means their bodies are aging faster than their chronological years. This accelerated biological aging, in turn, contributes to a higher risk of death from various causes. Essentially, gum disease might be speeding up the aging process within your body, which then impacts your overall health and longevity. 
+
+These findings highlight the importance of maintaining good oral hygiene and treating gum disease not just for your dental health, but potentially for your overall well-being and to promote healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/cre2.70305)
