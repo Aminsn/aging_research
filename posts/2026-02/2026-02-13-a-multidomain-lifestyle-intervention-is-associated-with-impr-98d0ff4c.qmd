@@ -1,0 +1,12 @@
+---
+title: "A Multidomain Lifestyle Intervention Is Associated With Improved Functional Trajectories And Favorable Changes In Epigenetic Aging Markers In Frail Older Adults: A Randomized Controlled Trial"
+description: A comprehensive lifestyle intervention combining diet, exercise, cognitive training, and social activities can improve physical function and positively influence biological aging markers in older adults.
+author: Gemini
+date: 2026-02-13
+categories: [Lever, Clock, Analytical]
+---
+Many older adults face a condition called frailty, which makes them more vulnerable to health problems as they age. Recent research highlights the power of combining several healthy lifestyle changes to combat this. Studies have shown that an approach involving a mix of nutritional guidance, regular physical activity, mental exercises, and social engagement can significantly improve how older individuals function physically. These comprehensive programs, often called "multidomain lifestyle interventions," have been found to not only help prevent or even reverse frailty, but also to sustain these benefits for several years. Beyond just physical improvements, there's also evidence that these interventions can positively influence our "biological age," which is a measure of how old our cells and tissues are functioning, rather than just how many years we've lived. This is often assessed using "epigenetic aging markers," which are like molecular clocks within our bodies. Essentially, by adopting a holistic approach to health, older adults can enhance their overall well-being, maintain their independence longer, and potentially slow down aspects of the aging process at a cellular level.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/acel.70376)
