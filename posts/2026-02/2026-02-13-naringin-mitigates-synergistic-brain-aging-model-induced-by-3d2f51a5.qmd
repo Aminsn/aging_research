@@ -1,0 +1,18 @@
+---
+title: "Naringin Mitigates Synergistic Brain Aging Model Induced By D-Galactose And Gamma Radiation Via Targeting Oxidative Stress, Inflammation And Senescence"
+description: Naringin, a natural compound, was found to reduce the effects of brain aging induced by a combination of D-galactose and gamma radiation in a rat model by targeting oxidative stress, inflammation, and cellular senescence.
+author: Gemini
+date: 2026-02-13
+categories: [Therapeutic, Aging Pathway]
+---
+Our brains, like the rest of our bodies, age over time. This process is often driven by a combination of factors, including "oxidative stress" (an imbalance between harmful free radicals and the body's ability to counteract them), "inflammation" (the body's immune response that can become damaging if chronic), and "cellular senescence" (when cells stop dividing and accumulate, contributing to aging). These factors can lead to problems with thinking and memory.
+
+To better understand and combat brain aging, scientists developed a model that mimics accelerated aging in rat brains by exposing them to D-galactose and gamma radiation. This combination significantly intensified the signs of aging in the brain tissue, showing increased levels of inflammatory markers like IL-6 and TNF-α, and markers of cellular aging such as p16INK4A, p21CIP1, and retinoblastoma protein (Rb).
+
+Remarkably, when these aged rats were given naringin, a natural compound found in citrus fruits, many of these negative effects were reversed. Naringin helped restore the balance of antioxidants in the brain, reducing oxidative stress. It also suppressed the inflammatory responses and modulated the pathways related to cellular senescence. Furthermore, naringin improved the physical signs of aging in brain tissue, such as reducing gliosis (an abnormal increase of support cells in the brain), neurophagia (when immune cells engulf dead neurons), and pyknosis (the irreversible condensation of chromatin in a dying cell nucleus).
+
+These findings suggest that naringin holds therapeutic potential for mitigating brain aging by addressing these key underlying mechanisms, offering a promising avenue for future interventions in age-related brain disorders.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/jbt.70736)
