@@ -1,0 +1,16 @@
+---
+title: "Antioxidant And Antiaging Effects And Mechanism Of Action Of Gynura Divaricata (L.) DC Polysaccharides In Caenorhabditis Elegans"
+description: Polysaccharides from Gynura divaricata (GDPs) were found to extend the lifespan, improve movement, and enhance stress resistance in Caenorhabditis elegans, primarily by influencing the insulin/IGF signaling pathway.
+author: Gemini
+date: 2026-02-13
+categories: [Therapeutic, Aging Pathway]
+---
+As the global population ages, research into ways to promote healthy aging is becoming increasingly important. Scientists are exploring natural compounds for their potential to combat the effects of aging. One such area of investigation involves polysaccharides, complex carbohydrates found in plants. Recently, a study focused on polysaccharides derived from the plant Gynura divaricata, examining their antioxidant and anti-aging properties.
+
+The research demonstrated that these plant-derived polysaccharides possess strong antioxidant capabilities in laboratory tests. Further investigation using a tiny worm called Caenorhabditis elegans, a widely accepted model organism for studying aging, revealed even more promising results. The polysaccharides significantly extended the worms' lifespan, improved their ability to move, and made them more resilient to various environmental stresses.
+
+Delving deeper, the study found that treatment with these polysaccharides reduced the accumulation of a pigment called lipofuscin, which is often associated with aging. It also boosted the activity of the worms' natural defense enzymes, such as superoxide dismutase and catalase, which help protect cells from damage. The anti-aging effects were attributed to the polysaccharides' influence on specific genes and, crucially, their interaction with a fundamental cellular communication system known as the insulin/IGF signaling pathway, which plays a key role in regulating lifespan and metabolism.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/cbdv.202503721)
