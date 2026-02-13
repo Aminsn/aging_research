@@ -1,0 +1,18 @@
+---
+title: "Plasma Proteome Profiling Of Centenarian Across Switzerland Reveals Key Youth-Associated Proteins"
+description: Centenarians exhibit a unique blood protein signature, with 37 specific proteins maintaining levels typically seen in much younger adults, suggesting a "younger" biological state despite their advanced chronological age.
+author: Gemini
+date: 2026-02-13
+categories: [Aging Pathway, Analytical]
+---
+Our bodies undergo many changes as we age, including shifts in the levels of proteins circulating in our blood, known as the plasma proteome. These changes often contribute to age-related issues like inflammation and declining organ function. However, a recent study looking at individuals who have lived to 100 years or more, known as centenarians, has revealed a fascinating difference.
+
+Researchers analyzed the blood protein profiles of centenarians and compared them to those of younger healthy adults and older hospitalized patients. They discovered that while most people show a clear age-related progression in their protein levels, centenarians possess a distinct set of 37 proteins that defy this trend. These "youth-associated" proteins are maintained at levels similar to those found in healthy individuals decades younger, specifically those in their 30s and 40s.
+
+These special proteins are involved in vital biological processes such as programmed cell death, which is how our bodies remove old or damaged cells; metabolic pathways, which are essential for energy and growth; maintaining the stability of the extracellular matrix, the scaffolding that supports our cells; and regulating immune and inflammatory responses. They also play a role in neurotrophic signaling, which supports the survival and function of neurons.
+
+This groundbreaking research suggests that reaching extreme old age in good health might not just be about having "protective" genes, but also about actively preserving these specific metabolic and immune pathways. Understanding how centenarians maintain these youthful protein signatures could unlock new strategies for promoting healthy aging and extending the period of life spent in good health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/acel.70409)
