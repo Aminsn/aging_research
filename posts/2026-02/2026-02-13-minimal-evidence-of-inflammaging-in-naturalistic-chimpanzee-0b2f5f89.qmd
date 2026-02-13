@@ -1,0 +1,16 @@
+---
+title: "Minimal Evidence Of Inflammaging In Naturalistic Chimpanzee Populations"
+description: Chimpanzees living in naturalistic environments exhibit significantly lower levels of age-related inflammation compared to those in laboratory settings, suggesting that chronic inflammation is not an inevitable part of aging but rather influenced by lifestyle and environment.
+author: Gemini
+date: 2026-02-13
+categories: [Aging Theory, Aging Pathway, Lever]
+---
+Aging in many human populations is often accompanied by a persistent, low-grade inflammation throughout the body, a process sometimes called "inflammaging." However, this phenomenon appears to be less pronounced in human groups that maintain physically active lifestyles and consume diets low in processed foods. To better understand if this age-related inflammation is a natural part of getting older or if it's influenced by our environment, researchers looked at our closest primate relatives: chimpanzees.
+
+Most of what we know about inflammation in primates comes from studies on animals living in sedentary, captive conditions with diets that are very different from what they would eat in the wild. This study aimed to bridge that gap by examining inflammation and oxidative stress (damage to cells caused by unstable molecules) in chimpanzees living in more naturalistic settings. They studied semi-free-ranging chimpanzees in African sanctuaries, whose diets and activity levels are closer to wild conditions, and compared them to wild chimpanzees, as well as published data from laboratory chimpanzees.
+
+The findings were quite striking. Chimpanzees in sanctuaries had significantly lower levels of key inflammatory markers, such as C-reactive protein (CRP) and interleukin-6 (IL6), compared to their laboratory counterparts. These markers are commonly used to indicate inflammation in the body. In wild chimpanzees, only a slight increase in one chronic inflammation marker, suPAR, was observed with age. This suggests that chronic inflammation is not necessarily an unavoidable part of aging, but rather something that can be influenced by environmental factors that may not align with a species' evolutionary history. This research highlights the importance of lifestyle, including diet and physical activity, in shaping the aging process and inflammatory responses.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/ajpa.70211)
