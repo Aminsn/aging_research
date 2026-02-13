@@ -1,0 +1,16 @@
+---
+title: "Overactivation Of Cdc42 Gtpase Impairs The Cytotoxic Function Of NK Cells From Old Individuals Towards Senescent Fibroblasts"
+description: Overactivation of a protein called Cdc42 GTPase in natural killer cells from older individuals reduces their ability to eliminate senescent fibroblasts, which are cells that contribute to aging and age-related diseases.
+author: Gemini
+date: 2026-02-13
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, certain cells in our body, called senescent fibroblasts, accumulate in tissues and contribute to the aging process and various age-related diseases. Our immune system has specialized cells, known as natural killer (NK) cells, that are responsible for clearing these harmful senescent cells. However, research shows that in older individuals, these NK cells become less efficient at performing this crucial task.
+
+A recent study has uncovered a key reason for this decline: an overactivation of a small protein called Cdc42 Rho GTPase within the aged NK cells. This overactive protein disrupts the internal scaffolding of the NK cells, specifically the microtubules, which are vital for the proper release of toxic molecules like perforin and granzyme B that are used to kill target cells. It also negatively impacts the energy production within these immune cells.
+
+Remarkably, the researchers found that by using a small molecule inhibitor called CASIN to reduce the elevated activity of Cdc42, they could restore the NK cells' ability to effectively eliminate senescent fibroblasts, essentially making them function like younger cells again. This discovery sheds light on a previously unknown mechanism behind the age-related decline in immune function and opens up exciting possibilities for developing new treatments to combat age-related disorders by boosting our body's natural ability to clear senescent cells.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/acel.70398)
