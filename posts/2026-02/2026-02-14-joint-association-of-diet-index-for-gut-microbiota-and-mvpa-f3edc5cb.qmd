@@ -1,0 +1,12 @@
+---
+title: "Joint Association Of Diet Index For Gut Microbiota And MVPA With Central Obesity: The Mediating Role Of Biological Age"
+description: A diet beneficial for gut bacteria combined with regular moderate-to-vigorous physical activity is linked to a significantly lower risk of central obesity, partly because such a diet can slow down biological aging.
+author: Gemini
+date: 2026-02-14
+categories: [Lever, Clock, Analytical]
+---
+Maintaining a healthy weight, especially around the waistline, is a common goal for many, and new research sheds light on a powerful combination for achieving it: what you eat and how much you move. This study explored how a diet that supports a healthy gut microbiome, alongside regular moderate-to-vigorous physical activity, impacts central obesity, which is excess fat around the abdomen. The findings indicate that both a gut-friendly diet and sufficient physical activity are independently associated with a lower likelihood of having central obesity. Even more compelling, individuals who consistently followed a diet beneficial for their gut bacteria and met recommended physical activity levels experienced a substantial reduction in their risk of central obesity. Interestingly, the research also uncovered that a significant part of the protective effect of a gut-friendly diet against central obesity is due to its ability to slow down biological aging. This suggests that nourishing your gut can help keep your body biologically younger, which in turn contributes to a healthier waistline. While physical activity is crucial, its link to central obesity was not found to be mediated by biological aging in the same way. These benefits were particularly noticeable in women, those with higher education, and individuals getting 7-8 hours of sleep. This highlights the potential for a combined approach—focusing on both diet and exercise—to be a highly effective strategy in preventing obesity.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/fsn3.71516)
