@@ -1,0 +1,18 @@
+---
+title: "ER Remodelling Is A Feature Of Ageing And Depends On ER-Phagy"
+description: The endoplasmic reticulum undergoes significant structural and functional changes during aging, a process actively driven by ER-phagy, which is essential for maintaining health and extending lifespan.
+author: Gemini
+date: 2026-02-14
+categories: [Aging Theory, Aging Pathway]
+---
+As we age, our cells undergo remarkable transformations, and a recent discovery sheds light on a previously unappreciated aspect of this process. Inside our cells, there's a vital organelle called the endoplasmic reticulum (ER), which acts like a cellular factory, responsible for producing and processing proteins and fats. It turns out that as organisms get older, this cellular factory doesn't just wear down; it actively remodels itself.
+
+Researchers have found that the ER undergoes striking changes, reducing the parts primarily involved in making proteins while preserving those crucial for fat metabolism. This dynamic reshaping is not a passive decline but an active, protective response. The key player in this remodeling is a process called ER-phagy.
+
+Think of ER-phagy as the cell's internal recycling program, specifically targeting and breaking down certain regions of the ER. This selective breakdown is crucial for adapting the ER to the changing needs of an aging cell. This process has been observed across various organisms, from yeast to worms and even mammals, suggesting it's a fundamental aspect of aging.
+
+What's particularly exciting is that this ER remodeling, driven by ER-phagy, is linked to how long an organism lives and how healthy it remains during aging. In fact, interventions known to extend lifespan often involve this ER remodeling. This discovery highlights ER-phagy and the dynamic nature of the ER as important, yet previously underappreciated, mechanisms in both normal aging and strategies to delay age-related decline. Understanding this cellular reorganization could open new avenues for targeting age-related diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41556-025-01860-1)
