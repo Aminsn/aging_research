@@ -1,0 +1,18 @@
+---
+title: "Age-Dependent Effects Of Losartan And Exercise On Skeletal Muscle Redox Balance And Protein Turnover In Mice"
+description: A study in mice revealed that while exercise consistently improves physical capacity across different ages, the medication losartan has age-dependent and even opposite effects on muscle health, improving antioxidant capacity in older mice but potentially increasing oxidative stress in middle-aged mice.
+author: Gemini
+date: 2026-02-14
+categories: [Therapeutic, Lever, Aging Pathway]
+---
+As we age, our muscles naturally decline in mass and function, a process often accompanied by an imbalance in the body's chemical reactions, known as redox balance, where damaging free radicals can overwhelm protective antioxidants. This imbalance can also affect protein turnover, the continuous process of building and breaking down proteins that keeps our muscles healthy.
+
+Researchers have been exploring ways to combat this age-related muscle decline, including exercise and certain medications. One such medication, losartan, commonly used for high blood pressure, has shown promise in influencing muscle health. A recent study investigated how both exercise and losartan, individually and in combination, affect muscle health in middle-aged and older mice.
+
+The findings showed that regular exercise consistently improved the physical capacity of mice, regardless of their age. This highlights exercise as a robust strategy for maintaining muscle function as we get older. Interestingly, when losartan was combined with exercise, it led to a significant improvement in heart function.
+
+However, the study revealed a crucial age-dependent effect of losartan on muscle redox balance. In middle-aged mice, losartan actually increased markers of oxidative stress (damaging free radicals) and reduced the total antioxidant capacity. Conversely, in older mice, losartan significantly reduced oxidative stress and boosted the antioxidant capacity. This suggests that the effectiveness of medications like losartan for muscle health can vary dramatically with age, depending on the body's existing chemical environment. Therefore, understanding an individual's age and baseline health status is vital when considering such interventions for age-related muscle issues.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bj.2026.100951)
