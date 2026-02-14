@@ -1,0 +1,16 @@
+---
+title: "Disruption Of Hippocampal Mitochondrial Function Underlies Opioid-Induced Postoperative Cognitive Dysfunction In Aged Rats"
+description: Research in aged rats indicates that long-term memory problems following surgery and opioid use are primarily caused by ongoing issues with the energy-producing structures within brain cells in the hippocampus.
+author: Gemini
+date: 2026-02-14
+categories: [Aging Pathway, Therapeutic]
+---
+Have you ever wondered why some older adults experience memory issues after surgery, especially when opioids are used for pain? It's a common and often persistent problem known as postoperative cognitive dysfunction, and scientists have been working to understand its root causes. New research sheds light on a key culprit: the mitochondria in brain cells.
+
+These tiny powerhouses within our cells are crucial for energy production. This study, conducted in aged rats, found that after surgery and morphine administration, there was a lasting disruption in the function of mitochondria specifically in the hippocampus, a brain region vital for memory. This disruption wasn't due to general illness or major damage to brain cell branches. Instead, the affected rats showed problems with how their brain cells communicate, including changes in the connections between neurons and difficulties in strengthening these connections over time, which is essential for learning and memory.
+
+The mitochondrial dysfunction observed included impaired energy production and increased damage to their DNA. Interestingly, while initial inflammation in the brain might kick off these problems, the memory issues persisted long after the inflammation subsided, suggesting that the mitochondrial damage plays a sustained role. The good news is that when researchers used a compound to specifically rejuvenate these mitochondria, it significantly improved memory and restored normal mitochondrial function in the rats. This suggests that targeting mitochondrial health could be a promising strategy to prevent or treat long-term cognitive decline after surgery and opioid exposure.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.01.30.702943)
