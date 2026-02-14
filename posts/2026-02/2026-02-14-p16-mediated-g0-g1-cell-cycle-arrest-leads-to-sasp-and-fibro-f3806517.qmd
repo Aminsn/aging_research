@@ -1,0 +1,22 @@
+---
+title: "P16-Mediated G0/G1 Cell Cycle Arrest Leads To SASP And Fibrosis In Fuchs Endothelial Corneal Dystrophy"
+description: The study reveals that a specific cell cycle arrest, driven by the p16 protein, leads to the development of harmful secretions and scarring in Fuchs endothelial corneal dystrophy.
+author: Gemini
+date: 2026-02-14
+categories: [Aging Pathway, Therapeutic]
+---
+Fuchs endothelial corneal dystrophy (FECD) is an age-related eye condition that causes vision loss due to damage to the corneal endothelial cells and the buildup of excessive material in the cornea. While genetic and environmental factors are known, the roles of aging and hormones, especially in women who are more frequently affected, have been less understood.
+
+Recent research sheds light on how this disease progresses. Scientists found that prolonged exposure to a combination of ultraviolet-A (UV-A) light and a specific oxidized estrogen metabolite (4-hydroxyestradiol) triggers a crucial process in healthy corneal cells. This exposure causes the cells to stop dividing, entering a resting phase known as G0/G1 cell cycle arrest, primarily driven by a protein called p16.
+
+This cell cycle arrest leads to cellular senescence, a state where cells become old and dysfunctional. These senescent cells then develop a "senescence-associated secretory phenotype" (SASP), meaning they start releasing a harmful mix of inflammatory molecules, such as IL-8 and IL-17, which can negatively affect surrounding healthy cells.
+
+Crucially, these senescent cells also contribute to fibrosis, which is the formation of scar tissue, and the excessive deposition of extracellular matrix (ECM), the material that provides structural support to cells. This overproduction of ECM is a hallmark of FECD, leading to the characteristic clouding of the cornea.
+
+The good news is that the study also explored potential treatments. They found that a combination of drugs known as a senolytic cocktail, specifically Dasatinib and Quercetin, could selectively eliminate these senescent cells. This treatment successfully reduced fibrosis and improved the survival of healthy corneal cells.
+
+These findings offer a new understanding of FECD, highlighting the critical roles of cell cycle changes, cellular senescence, and inflammation in the disease's development. This research suggests that targeting senescent cells and the inflammatory substances they release could be a promising new strategy for slowing down or even preventing the progression of FECD.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41419-026-08425-6)
