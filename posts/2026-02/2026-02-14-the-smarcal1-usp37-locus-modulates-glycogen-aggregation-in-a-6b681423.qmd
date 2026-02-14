@@ -1,0 +1,14 @@
+---
+title: "The Smarcal1-Usp37 Locus Modulates Glycogen Aggregation In Astrocytes Of The Aged Hippocampus"
+description: A specific genetic region, the Smarcal1-Usp37 locus, influences the accumulation of glycogen aggregates in brain cells called astrocytes in the hippocampus of aging individuals, but these aggregates do not appear to affect cognitive function.
+author: Gemini
+date: 2026-02-14
+categories: [Aging Pathway, Analytical]
+---
+As we age, our brains undergo many changes. One such change involves the accumulation of unusual structures called polyglucosan bodies (PGBs) within specialized brain cells known as astrocytes, particularly in a memory-related region called the hippocampus. Astrocytes are star-shaped cells that support neurons, the primary signaling cells in the brain. PGBs are essentially clumps of a sugar storage molecule called glycogen that hasn't been properly branched. While these glycogen clumps are known to contribute to cognitive decline in certain neurological diseases, their role in typical aging has been less clear. 
+
+Recent research has shed light on this phenomenon, identifying a specific genetic region, or "locus," that plays a significant role in how many of these PGBs accumulate. This locus contains variations in two genes, Smarcal1 and Usp37, which influence the amount of PGBs by affecting the levels of certain proteins and genetic messages (mRNA) involved in glycogen metabolism. Interestingly, despite the presence of these glycogen aggregates, the study found no evidence that they negatively impact cognitive abilities during the normal aging process. This suggests that while these aggregates are a feature of the aging brain, they might not be a direct cause of age-related memory decline.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.cels.2025.101488)
