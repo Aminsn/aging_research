@@ -1,0 +1,18 @@
+---
+title: "In Silico Transcriptome-Based Drug Screening Identifies Celastrol As A Multi-Species Therapeutic Agent Against Aging-Related Sarcopenia And Mitochondrial Dysfunction"
+description: A computational drug screening approach identified celastrol as a potential therapeutic agent that can combat age-related muscle loss and improve mitochondrial function across multiple species by mimicking the beneficial effects of exercise.
+author: Gemini
+date: 2026-02-15
+categories: [Therapeutic, Aging Pathway, Analytical]
+---
+As we age, many of us experience sarcopenia, a natural decline in muscle mass and strength that can make everyday activities challenging. While exercise is a powerful way to combat this, it's not always feasible for older or frail individuals. This challenge highlights the need for new treatments that can offer similar benefits without the physical strain.
+
+Recent research has explored a novel approach to finding such treatments. Scientists used a computer-based method, known as "in silico transcriptome-based drug screening," to analyze how different genes are expressed in aging muscle across various species. Think of a transcriptome as a complete set of RNA molecules in a cell, reflecting which genes are active. By comparing these genetic signatures, they looked for compounds that could reverse the age-related changes in gene activity, specifically those linked to mitochondrial dysfunction. Mitochondria are often called the "powerhouses" of our cells, and their decline plays a significant role in aging.
+
+The screening identified a promising compound called celastrol, which is derived from traditional Chinese medicine. Further experiments showed that celastrol acts like an "exercise mimetic," meaning it can replicate some of the positive effects of physical activity. It was found to improve the formation of new muscle cells and boost mitochondrial energy production in lab-grown muscle cells and young mice. Remarkably, celastrol also extended the lifespan and improved the overall health of aging worms (*C. elegans*) and restored muscle function and mitochondrial health in mice with accelerated aging.
+
+These findings suggest that celastrol could be a valuable therapeutic agent to combat age-related muscle decline and mitochondrial problems, potentially offering a pharmacological alternative to exercise for those who cannot engage in physical activity.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jare.2026.01.079)
