@@ -1,0 +1,20 @@
+---
+title: "Acetylcholinesterase Inhibition Reverses Age-Related Pulmonary Decline And Increases Bronchus-Associated Lymphoid Tissue Formation In Aged Mice"
+description: Increasing acetylcholine signaling can reverse age-related lung damage and improve immune function in aged mice.
+author: Gemini
+date: 2026-02-15
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our bodies experience a phenomenon called "inflammaging," a chronic, low-grade inflammation that can lead to tissue damage and disease. In the lungs, this process can result in abnormal tissue remodeling, reduced function, and a weakened immune system, making older individuals more susceptible to respiratory infections. A crucial factor contributing to inflammaging is a decline in acetylcholine signaling, a natural chemical that normally helps suppress inflammation and promote tissue repair.
+
+Researchers investigated whether boosting acetylcholine responsiveness could counteract age-related lung damage. They treated aged mice with donepezil, a medication already approved for Alzheimer's disease that works by increasing the availability of acetylcholine in the body.
+
+After six months, the treated mice showed significant improvements. They exhibited higher blood oxygen saturation and increased voluntary activity. Upon examining their lung tissue, scientists observed a reversal of alveolar enlargement, a characteristic of emphysema, and a complete restoration of elastic fibers, which are vital for lung flexibility. Furthermore, donepezil treatment dramatically increased the formation of bronchus-associated lymphoid tissue, or iBALT.
+
+iBALT are specialized immune structures within the lungs that act as reservoirs for memory lymphocytes, including those that produce acetylcholine to help control inflammation during infections. The natural decline of iBALT with age is thought to contribute to the increased risk of respiratory infections in the elderly.
+
+These findings suggest that enhancing acetylcholine signaling could be a promising strategy to improve lung function and bolster respiratory immunity in older adults. The fact that an already approved medication like donepezil was used in this study opens a direct pathway for potential clinical applications to enhance respiratory health and infection resistance as we age.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/biology15030270)
