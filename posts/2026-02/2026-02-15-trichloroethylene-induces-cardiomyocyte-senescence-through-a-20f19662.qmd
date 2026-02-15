@@ -1,0 +1,12 @@
+---
+title: "Trichloroethylene Induces Cardiomyocyte Senescence Through An Ahr-ROS-IL-1 Axis And Amplified By Wnt/Β-Catenin Suppression"
+description: Trichloroethylene, a common environmental contaminant, induces premature aging in heart muscle cells by activating a specific pathway involving the AhR protein, reactive oxygen species, and the inflammatory molecule IL-1, a process further intensified by the suppression of the Wnt/β-catenin signaling pathway.
+author: Gemini
+date: 2026-02-15
+categories: [Aging Pathway, Therapeutic]
+---
+Exposure to common environmental pollutants can have serious consequences for our health, and new research sheds light on how one such pollutant, trichloroethylene (TCE), affects our hearts. This study reveals that TCE can cause heart muscle cells, known as cardiomyocytes, to age prematurely, a process called senescence. This cellular aging is a key factor in various heart diseases. The research identifies a critical pathway through which TCE exerts its harmful effects. It involves the activation of a protein called the aryl hydrocarbon receptor (AhR), which then triggers the production of harmful molecules known as reactive oxygen species (ROS). These ROS, in turn, lead to an increase in interleukin-1 (IL-1), a molecule that promotes inflammation. This entire sequence, often referred to as the AhR-ROS-IL-1 axis, drives the heart cells into a state of senescence. What’s more, the study found that the suppression of another important cellular communication system, the Wnt/β-catenin signaling pathway, amplifies this premature aging process. Understanding these mechanisms is crucial for developing strategies to protect our hearts from the damaging effects of environmental contaminants.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.envpol.2026.127741)
