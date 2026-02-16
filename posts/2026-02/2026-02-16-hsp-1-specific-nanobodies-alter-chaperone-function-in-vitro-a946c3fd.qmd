@@ -1,0 +1,16 @@
+---
+title: "HSP-1-Specific Nanobodies Alter Chaperone Function In Vitro And In Vivo"
+description: Researchers developed specific nanobodies that can alter the function of a key protein chaperone, HSP-1, both in laboratory settings and within living organisms.
+author: Gemini
+date: 2026-02-16
+categories: [Aging Pathway, Therapeutic]
+---
+Our cells rely on special "helper" proteins, called chaperones, to ensure other proteins fold correctly and maintain a healthy balance, a process known as proteostasis. When this balance is disrupted, often due to misfolded proteins, it can contribute to aging and various diseases. Until now, scientists have struggled to find precise tools to control the activity of an important family of these chaperones, the HSP70 proteins, which includes HSP-1 in the tiny worm *C. elegans* (a common model organism for biological research).
+
+This new research introduces two innovative "nanobodies" – which are much smaller, single-domain versions of antibodies – designed to specifically target HSP-1. Experiments conducted in a test tube ("in vitro") showed that these nanobodies could bind to HSP-1 and effectively reduce its ability to use energy (its ATPase activity) and help other proteins fold correctly (its protein folding capacity). Even more exciting, when one of these nanobodies was introduced into living *C. elegans* worms ("in vivo"), it made them less able to survive stressful conditions like high heat or the presence of toxic proteins. This effect was similar to what happens when the HSP-1 gene is "silenced" using a technique called RNA interference.
+
+These findings demonstrate that these nanobodies are effective and precise tools for manipulating HSP-1 chaperone activity within a living system. This breakthrough opens new avenues for future research into the potential of targeting HSP70 chaperones with nanobodies to develop treatments for age-related conditions and diseases caused by protein misfolding.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jbc.2026.111238)
