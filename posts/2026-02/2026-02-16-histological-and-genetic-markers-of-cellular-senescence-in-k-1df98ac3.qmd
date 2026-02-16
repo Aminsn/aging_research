@@ -1,0 +1,20 @@
+---
+title: "Histological And Genetic Markers Of Cellular Senescence In Keratinocyte Cancers And Actinic Keratosis: A Systematic Review"
+description: Cellular senescence, a process where cells stop dividing due to stress, acts as an initial defense against skin cancer but is often overcome as precancerous lesions progress to invasive skin cancers.
+author: Gemini
+date: 2026-02-16
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+Our skin is constantly exposed to environmental stressors, especially UV radiation, which can damage skin cells. Fortunately, our cells have a built-in protective mechanism called cellular senescence. This is essentially a state where damaged cells stop dividing to prevent them from becoming cancerous. Think of it as a cellular emergency brake.
+
+A recent comprehensive review of existing research sheds light on how this cellular brake system changes in common skin conditions, from sun-damaged spots (known as actinic keratosis) to more serious skin cancers like squamous cell carcinoma and basal cell carcinoma.
+
+The findings reveal that in early, precancerous sun-damaged spots, cells frequently show signs of this "emergency brake" being applied, with high levels of certain proteins (like p21) and evidence of DNA damage. This suggests that senescence is actively trying to prevent these damaged cells from multiplying.
+
+However, as these lesions progress into invasive skin cancers, the picture changes. The levels of these protective proteins often decrease, and other proteins (like p16) accumulate, sometimes in a way that indicates the brake system is no longer effective. Furthermore, genetic changes, such as mutations that allow cells to divide indefinitely, become more common in these advanced cancers.
+
+Understanding these shifts in cellular behavior and the specific markers involved is crucial. It could help doctors better assess the risk of precancerous lesions turning into cancer and potentially lead to new strategies for preventing and treating skin cancers by targeting these cellular processes.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/ijms27031520)
