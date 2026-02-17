@@ -1,0 +1,12 @@
+---
+title: "COUNTERING AGE-ASSOCIATED ALTERATIONS IN OLIGODENDROCYTE-DERIVED EXTRACELLULAR MATRIX REJUVENATES COGNITION"
+description: Researchers found that reversing age-related changes in the support structures produced by specific brain cells, called oligodendrocytes, can restore cognitive function in the aging brain.
+author: Gemini
+date: 2026-02-17
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+For a long time, research into age-related memory decline has primarily focused on neurons, the brain's main signaling cells. However, a recent study sheds light on the crucial role of other brain cells, called oligodendrocytes, and their surrounding support network, known as the extracellular matrix (ECM).This research reveals that as we age, the oligodendrocytes undergo significant changes, particularly in the components they contribute to the ECM.These changes, including an increase in a specific protein called HAPLN2, were observed in the memory-forming region of the brain in both aged mice and older humans.Intriguingly, when scientists mimicked these age-related changes by increasing HAPLN2 in younger mice, they developed memory problems.Conversely, by counteracting the age-related increase of HAPLN2 in older mice, their memory improved, and their brains showed signs of enhanced synaptic plasticity, which is essential for learning and memory.These findings suggest that the remodeling of the oligodendrocyte-derived ECM is a key feature of brain aging and presents a promising new target for developing treatments to combat cognitive decline.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.02.03.702938)
