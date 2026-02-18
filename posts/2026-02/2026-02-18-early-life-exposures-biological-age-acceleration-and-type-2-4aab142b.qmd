@@ -1,0 +1,12 @@
+---
+title: "Early-Life Exposures, Biological Age Acceleration, And Type 2 Diabetes In Adulthood: Mediation Analyses In The UK Biobank"
+description: Early-life factors such as maternal smoking, multiple birth, earlier puberty, and childhood weight patterns are associated with both accelerated biological aging and an increased risk of type 2 diabetes in adulthood.
+author: Gemini
+date: 2026-02-18
+categories: [Clock, Lever, Analytical]
+---
+It's increasingly clear that our earliest experiences can cast a long shadow over our health in adulthood. A recent study delved into how factors from early life might contribute to the risk of developing type 2 diabetes later on. The researchers focused on a concept called "biological age acceleration," which refers to how quickly our bodies are aging at a cellular level compared to our actual chronological age. Using a vast dataset from over 300,000 individuals in the UK Biobank, the study identified several early-life exposures that were linked to both a faster biological aging process and a higher chance of developing type 2 diabetes. These included things like a mother smoking around the time of birth, being born as part of a multiple birth, experiencing puberty at an earlier age, and having specific weight patterns (either plumper or thinner) at age ten. On the flip side, having a higher birth weight and being breastfed were associated with a lower risk of type 2 diabetes. The significant finding was that this accelerated biological aging partially explains the connection between these early-life circumstances and the eventual development of type 2 diabetes. This research highlights the importance of addressing early-life risks and understanding biological aging as potential strategies for preventing type 2 diabetes.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s11357-026-02138-6)
