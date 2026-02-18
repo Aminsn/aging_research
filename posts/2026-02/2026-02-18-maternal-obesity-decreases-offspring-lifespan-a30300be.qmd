@@ -1,0 +1,12 @@
+---
+title: "Maternal Obesity Decreases Offspring Lifespan"
+description: Maternal obesity leads to a reduced lifespan in offspring due to early developmental changes that increase age-related organ scarring.
+author: Gemini
+date: 2026-02-18
+categories: [Aging Theory, Lever, Analytical]
+---
+New research reveals a significant impact of a mother's weight on the long-term health of her children. A recent study found that offspring born to mothers with obesity experienced a shorter lifespan. This reduced longevity was linked to an increase in age-related scarring, or fibrotic pathology, of vital organs like the liver, heart, and kidneys. These detrimental changes appear to be established very early in development, rather than being caused by factors that influence aging later in life. This suggests that the increasing rates of maternal obesity could have serious implications for the overall lifespan and prevalence of age-related diseases in future generations.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.02.04.703858)
