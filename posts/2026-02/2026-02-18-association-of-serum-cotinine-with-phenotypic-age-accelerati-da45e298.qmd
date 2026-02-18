@@ -1,0 +1,16 @@
+---
+title: "Association Of Serum Cotinine With Phenotypic Age Acceleration And Oxidative Stress Markers In US Adults: A Cross-Sectional Study"
+description: Higher levels of serum cotinine, a marker of tobacco exposure, are associated with accelerated biological aging in US adults, with oxidative stress markers playing a related role.
+author: Gemini
+date: 2026-02-18
+categories: [Clock, Lever, Aging Pathway, Analytical]
+---
+Ever wondered if smoking does more than just harm your lungs? New research suggests that tobacco exposure might actually speed up how quickly your body ages biologically. Scientists looked at serum cotinine levels, a reliable indicator of how much tobacco someone has been exposed to, in a large group of US adults. They found that higher cotinine levels were linked to "phenotypic age acceleration," which means a person's biological age appeared older than their actual chronological age.
+
+Specifically, for every doubling of cotinine in the blood, individuals showed an average increase of 0.22 years in their biological age compared to their chronological age. The study also explored the role of oxidative stress, a process that can damage cells and contribute to aging. They found that certain markers of oxidative stress, like gamma-glutamyl transferase (GGT) and uric acid (UA), accounted for a small but significant portion (about 9.5%) of this accelerated aging effect.
+
+Interestingly, the link between tobacco exposure and accelerated biological aging was even stronger in women and individuals from lower socioeconomic backgrounds. This study, based on a large national survey, provides important insights into the widespread impact of tobacco exposure on the aging process, though it's important to remember that this type of study can show associations but not direct cause and effect.
+
+---
+
+Source: [link to paper](https://doi.org/10.18332/tid/216136)
