@@ -1,0 +1,16 @@
+---
+title: "Antioxidant And Anti-Aging Activities Of Salvia Miltiorrhiza Bunge Callus Extracts In H<Sub>2</Sub>O<Sub>2</Sub>-Induced Premature Senescence And Chronological Aging Models Of Human Dermal Fibroblasts"
+description: Extracts from Danshen callus, a plant tissue culture, demonstrated superior antioxidant and anti-aging effects compared to the native plant in human skin cells, suggesting its potential for new skincare ingredients.
+author: Gemini
+date: 2026-02-18
+categories: [Therapeutic, Aging Pathway]
+---
+Our skin, particularly the layer containing dermal fibroblasts, plays a crucial role in maintaining its youthful appearance by producing essential components like collagen and elastin, which form the skin's structural support, known as the extracellular matrix. However, as we age, or when exposed to environmental stressors like pollution, these fibroblasts can suffer from oxidative stress, a state where harmful unstable molecules called reactive oxygen species (ROS) accumulate and damage cells. This damage can lead to premature aging, where skin cells stop functioning optimally and contribute to visible signs of aging, such as wrinkles and loss of elasticity. 
+
+Recent research has explored the potential of a traditional medicinal plant, Danshen (Salvia miltiorrhiza Bunge), for its anti-aging properties. Specifically, scientists investigated extracts from "Danshen callus" – an undifferentiated mass of plant cells grown in a lab, offering a sustainable way to produce beneficial compounds. The findings revealed that these callus extracts significantly improved the health and function of human skin fibroblasts. They helped these cells survive better, restored their ability to produce the vital extracellular matrix, and reduced the activity of enzymes like MMP-1, which are known to break down collagen and accelerate skin aging. 
+
+Furthermore, the extracts activated a key protective pathway in cells called Nrf2/ARE, which helps the body produce its own antioxidants and combat the damaging effects of ROS. Interestingly, the callus extracts proved to be even more effective than extracts from the native Danshen plant in both models of premature and natural aging. This breakthrough suggests that these plant-based extracts could be a promising new ingredient for anti-aging cosmetic products, offering a sustainable solution derived from agricultural resources.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s10522-025-10381-1)
