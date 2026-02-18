@@ -1,0 +1,12 @@
+---
+title: "Interleukin-10 Expressing B Lineage Cells In Visceral Adipose Tissue Protect Against Aging-Related Insulin Resistance And Extend Lifespan"
+description: A specific type of immune cell found in belly fat, called B-10 cells, produces a protective molecule that helps prevent age-related insulin resistance and can extend lifespan.
+author: Gemini
+date: 2026-02-18
+categories: [Aging Pathway, Therapeutic]
+---
+Scientists have uncovered a fascinating role for certain immune cells residing in our belly fat, the fat surrounding internal organs. These special immune cells, known as B-10 cells, produce a crucial anti-inflammatory molecule called Interleukin-10. As we age, these protective B-10 cells actually increase in number within the belly fat. This increase is important because these cells act as a natural defense, helping to combat the inflammation and insulin resistance that often come with aging. Insulin resistance is a condition where the body's cells don't respond effectively to insulin, leading to higher blood sugar levels. The research showed that when the ability of these B cells to produce Interleukin-10 was removed, aging-related inflammation and insulin resistance worsened, and lifespan was reduced. Conversely, boosting the numbers of these protective B-10 cells, for example by increasing a factor called BAFF in the belly fat, improved these age-related conditions and even extended lifespan. This discovery suggests that our own body fat might harbor a protective mechanism against the effects of aging, offering new avenues for understanding and potentially combating age-related health issues.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41467-026-69371-7)
