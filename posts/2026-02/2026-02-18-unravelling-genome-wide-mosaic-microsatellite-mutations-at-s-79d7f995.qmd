@@ -1,0 +1,16 @@
+---
+title: "Unravelling Genome-Wide Mosaic Microsatellite Mutations At Single-Cell Resolution"
+description: Researchers developed a new computational tool to detect subtle genetic changes in individual cells, revealing that specific repetitive DNA sequences accumulate more mutations in aging brain cells, particularly in regions that control gene activity.
+author: Gemini
+date: 2026-02-18
+categories: [Aging Theory, Analytical]
+---
+Our bodies are made of trillions of cells, and sometimes, genetic changes, called mutations, can occur in just a few of them after we've developed. These "mosaic mutations" are like tiny typos in our DNA that aren't present in every cell. A particular type of repetitive DNA sequence, known as a microsatellite or short tandem repeat (STR), is especially prone to these changes. While these sequences are known to be highly mutable, understanding how these mutations occur at the level of individual cells has been a significant challenge.
+
+Scientists have now created a powerful new computer program that can accurately identify these subtle genetic alterations in single cells. Using this tool, they made a fascinating discovery: as we age, our cells, especially brain cells called neurons, accumulate more of these microsatellite mutations. These mutations often involve the addition or removal of longer stretches of these repetitive DNA sequences. Interestingly, these changes are more pronounced in neurons compared to other cell types like immune B cells or lung cells.
+
+Even more critically, these accumulating mutations are not random. They tend to occur in important regions of our DNA, specifically at "transcription start sites" and "active enhancers." These are like control switches that dictate when and how much a gene is turned on or off. This suggests that these age-related genetic changes in repetitive DNA could have a significant impact on how our genes function, particularly in the brain. This breakthrough provides a new way to explore how these specific genetic variations contribute to development and aging, and potentially to various diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.02.04.703915)
