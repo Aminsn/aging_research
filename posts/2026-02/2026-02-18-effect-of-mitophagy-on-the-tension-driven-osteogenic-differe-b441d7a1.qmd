@@ -1,0 +1,18 @@
+---
+title: "Effect Of Mitophagy On The Tension-Driven Osteogenic Differentiation Of Periodontal Ligament Stem Cells During Ageing"
+description: The study found that a cellular process called mitophagy is linked to the ability of periodontal ligament stem cells to form bone under tension, and it plays a significant role in age-related changes observed during orthodontic tooth movement.
+author: Gemini
+date: 2026-02-18
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our bodies undergo various changes, and this can impact processes like orthodontic tooth movement, where teeth are gradually shifted into new positions. This movement relies on the ability of specialized cells to form new bone in response to mechanical forces. A recent study sheds light on a crucial cellular process called "mitophagy" and its role in this age-related difference.
+
+Mitophagy is essentially the cell's way of cleaning house, specifically by removing damaged or old mitochondria. Mitochondria are like the powerhouses of our cells, and keeping them healthy is vital for proper cell function. The research focused on "periodontal ligament stem cells," which are unique cells found in the tissue that connects our teeth to the jawbone. These cells are essential for repairing and regenerating tissues in the mouth, including bone.
+
+The study revealed that when these stem cells are subjected to tension, a force similar to what happens during orthodontic treatment, both mitophagy and bone-forming activity increase. However, a key finding was that older individuals exhibited lower levels of both mitophagy and bone formation compared to younger individuals under the same tension. Interestingly, when mitophagy was boosted in older subjects, their bone-forming capabilities improved.
+
+These findings suggest that mitophagy is not only connected to the bone-forming activity stimulated by mechanical tension but also plays a substantial role in the age-related variations seen in how teeth move during orthodontic treatment. Understanding this process could open doors for new strategies to improve orthodontic outcomes, especially in older patients, by potentially targeting and enhancing mitophagy.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.identj.2026.109408)
