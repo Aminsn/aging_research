@@ -1,0 +1,16 @@
+---
+title: "Stress Endurance Mediates The Healthspan-Promoting Effect Of Two Newly Described Iridoid Glycosides From Verbascum Nigrum Ssp. Abietinum In Caenorhabditis Elegans"
+description: Two newly identified natural compounds, iridoid glycosides, derived from a specific mullein plant, were found to promote healthy aging in worms by enhancing their ability to cope with stress.
+author: Gemini
+date: 2026-02-21
+categories: [Therapeutic, Aging Pathway]
+---
+Scientists are constantly looking for new ways to promote healthy aging and combat age-related diseases. One promising area of research involves natural compounds. Recently, researchers investigated extracts from a type of mullein plant, *Verbascum nigrum ssp. abietinum*, and identified two novel compounds belonging to a group called iridoid glycosides.
+
+These compounds were then tested on *Caenorhabditis elegans*, a small worm often used in aging studies due to its short lifespan and genetic similarities to humans. The study revealed that these natural substances significantly improved the worms' "healthspan," which refers to the period of life spent in good health, by boosting their resilience to various stressors. This means the worms were better able to withstand challenging conditions like heat and oxidative stress, a type of damage to cells.
+
+Interestingly, one of the compounds specifically activated certain protective proteins within the worms, known as heat shock proteins (hsp-16.1 and hsp-16.2), which play a crucial role in helping cells recover from stress. While the compounds did not extend the worms' overall lifespan or improve their movement as they aged, they effectively enhanced their ability to endure acute stress, suggesting a focus on improving the quality of life rather than just its length. This research highlights the potential of these newly discovered natural compounds in supporting healthy aging by strengthening the body's natural stress defenses.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.phymed.2026.157944)
