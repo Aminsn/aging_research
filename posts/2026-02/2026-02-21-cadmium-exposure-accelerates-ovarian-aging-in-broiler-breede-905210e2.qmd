@@ -1,0 +1,18 @@
+---
+title: "Cadmium Exposure Accelerates Ovarian Aging In Broiler Breeders Through Oxidative Stress And Inflammation"
+description: Exposure to cadmium, a toxic heavy metal, accelerates the aging of ovaries in broiler breeder chickens by inducing oxidative stress and inflammation.
+author: Gemini
+date: 2026-02-21
+categories: [Aging Theory, Aging Pathway]
+---
+Our environment is increasingly exposed to heavy metals like cadmium, which can find its way into the food chain, including poultry feed. New research sheds light on how this toxic metal impacts the reproductive health of broiler breeder chickens. 
+
+The study reveals that cadmium exposure significantly speeds up the aging process of ovaries in these birds. This happens primarily through two damaging processes: "oxidative stress" and "inflammation." Oxidative stress occurs when there's an imbalance between harmful molecules called free radicals and the body's ability to neutralize them with protective antioxidants, leading to cellular damage. Inflammation is the body's natural response to injury or infection, but chronic inflammation can also cause harm. 
+
+These processes contribute to a decline in ovarian function, including an increase in "apoptosis," which is a natural process of programmed cell death that, when excessive, can damage ovarian tissue. Ultimately, this accelerated aging can reduce egg production and overall reproductive performance in broiler breeders. 
+
+The findings suggest that reducing cadmium exposure and exploring nutritional strategies, such as supplementing with selenium, could be crucial for maintaining the health and productivity of these important birds. Selenium has shown promise in counteracting cadmium's harmful effects by reducing its accumulation in ovarian tissue and alleviating oxidative stress.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.anireprosci.2026.108136)
