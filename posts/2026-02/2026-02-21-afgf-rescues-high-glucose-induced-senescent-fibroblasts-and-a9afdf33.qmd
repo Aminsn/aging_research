@@ -1,0 +1,12 @@
+---
+title: "Afgf Rescues High Glucose-Induced Senescent Fibroblasts And Improves Diabetic Wound Healing By Regulating Sirt1/Stat3 Pathway"
+description: A protein called aFGF can reverse the aging of skin cells called fibroblasts, which are damaged by high blood sugar, thereby accelerating the healing of diabetic wounds.
+author: Gemini
+date: 2026-02-21
+categories: [Therapeutic, Aging Pathway]
+---
+Diabetic wounds are notoriously difficult to heal, often leading to prolonged suffering and serious complications. A major reason for this slow healing is that the skin cells responsible for repair, called fibroblasts, become "aged" or senescent and stop functioning properly due to high blood sugar levels. This research explored a potential solution using a protein known as acidic fibroblast growth factor (aFGF). The study found that by directly applying aFGF to diabetic wounds, the healing process significantly sped up. Furthermore, the treatment reduced the presence of markers associated with cellular aging in the wound tissue. In laboratory settings, aFGF was shown to enhance the ability of high glucose-exposed fibroblasts to resist aging and combat harmful oxidative stress. The underlying mechanism involves aFGF restoring the function of a protein called SIRT1 and reducing the activity of another pathway known as STAT3, both of which are crucial for cell health and repair. These findings suggest that aFGF could be a promising new treatment to improve wound healing for individuals with diabetes.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41598-026-38480-0)
