@@ -1,0 +1,20 @@
+---
+title: "Time Since Menopause And A Circulating Metabolomic Signature For Sarcopenia Risk: Data From 68,064 Women From The UK Biobank"
+description: A distinctive, multi-pathway metabolomic signature has been identified that tracks the time since menopause and partly mediates its association with sarcopenia, reflecting coordinated dysregulation in lipid and amino acid metabolism.
+author: Gemini
+date: 2026-02-22
+categories: [Aging Pathway, Clock, Analytical]
+---
+As women age, a natural transition occurs called menopause, which brings about various changes in the body. One concern for older adults, particularly women, is sarcopenia, a condition characterized by the progressive loss of muscle mass and strength. This can significantly impact daily life and overall health. 
+
+Recent research has shed light on a fascinating connection between the time a woman has been postmenopausal and her risk of developing sarcopenia. Scientists investigated a large group of women to understand the metabolic shifts that occur after menopause and how these might influence muscle health. 
+
+They discovered a distinctive "signature" in the blood, made up of many small molecules called metabolites. These metabolites are products of the body's metabolism – the chemical processes that keep us alive. This signature changes predictably with the number of years since menopause. Importantly, this unique metabolic pattern, which involves alterations in how the body handles fats (lipids) and the building blocks of proteins (amino acids), was found to be independently associated with an increased risk of sarcopenia. 
+
+This means that the metabolic changes happening after menopause are not just random; they form a specific profile that can indicate a woman's susceptibility to muscle decline. In fact, this metabolic signature was found to partially explain the link between the duration of time since menopause and the likelihood of developing sarcopenia. 
+
+This discovery is significant because it offers a potential new way to identify women who might be at higher risk of sarcopenia earlier. By understanding these metabolic changes, there's hope for developing non-invasive tools for early risk assessment and, eventually, targeted interventions to help women maintain their muscle health and quality of life as they age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.maturitas.2026.108875)
