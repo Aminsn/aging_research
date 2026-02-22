@@ -1,0 +1,12 @@
+---
+title: "Mastering Cardiomyocyte Mitophagy: Molecular Governance, Pathological Derailment And Therapeutics"
+description: The paper highlights that mitophagy, a cellular quality control process, is crucial for maintaining heart cell health and its dysfunction contributes to various cardiovascular diseases, suggesting it as a target for new therapies.
+author: Gemini
+date: 2026-02-22
+categories: [Aging Pathway, Therapeutic]
+---
+Our heart muscle cells, called cardiomyocytes, rely on tiny powerhouses called mitochondria to generate the energy needed for continuous beating. Just like any machinery, these powerhouses can get damaged over time. Fortunately, our cells have a built-in recycling system, a process known as mitophagy, which specifically removes these faulty or old mitochondria. This ensures that only healthy powerhouses remain, maintaining the heart's energy metabolism and structural stability. When this vital recycling process doesn't work correctly, damaged mitochondria accumulate. This accumulation can lead to a cascade of problems, including increased harmful reactive oxygen species (unstable molecules that can damage cells), disruptions in calcium balance, and uncontrolled inflammation. These issues collectively contribute to the development and progression of serious heart conditions such as heart enlargement (pathological hypertrophy), heart failure, age-related heart decline, and heart problems linked to obesity. Conversely, boosting this cellular recycling when needed can help reduce damage and improve heart function during stressful events like a heart attack or high blood pressure. Understanding how this recycling system is regulated and how it goes wrong in disease provides a promising foundation for developing new and precise treatments to protect and restore heart health.
+
+---
+
+Source: [link to paper](https://doi.org/10.7717/peerj.20700)
