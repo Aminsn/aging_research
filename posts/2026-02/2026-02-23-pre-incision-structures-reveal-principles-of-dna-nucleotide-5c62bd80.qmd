@@ -1,0 +1,16 @@
+---
+title: "Pre-Incision Structures Reveal Principles Of DNA Nucleotide Excision Repair"
+description: The study reveals the atomic structures and functional steps of how DNA damage is recognized, a DNA bubble is formed, and repair enzymes are precisely positioned for cutting out the damaged section.
+author: Gemini
+date: 2026-02-23
+categories: [Aging Pathway]
+---
+Our bodies are constantly exposed to things that can damage our DNA, like sunlight and certain chemicals. Fortunately, we have a sophisticated repair system to fix this damage, preventing serious issues like cancer and premature aging. Recent research has shed light on the intricate molecular dance involved in one of these crucial repair pathways, known as nucleotide excision repair.
+
+This groundbreaking work provides a detailed look at the tiny molecular machinery that swings into action when DNA is harmed. Imagine a damaged section of our DNA as a faulty brick in a wall. The repair process first involves recognizing this faulty brick. Then, a specialized protein complex, called TFIIH, acts like a molecular ruler, precisely unwinding a small section of the DNA, creating a "bubble" of about 27-30 DNA building blocks around the damage. This unwinding is largely driven by another protein, XPB, which acts like a tiny motor to separate the DNA strands. Other proteins, XPA and XPF, help to keep these strands apart.
+
+Once the bubble is formed, two "cutting" enzymes, XPG and XPF, are brought into position by TFIIH. The research shows how XPG specifically interacts with another protein, XPD, and bridges the ends of this DNA bubble, ensuring that the cuts are made in the right places. XPA also plays a vital role in making sure the XPF enzyme is ready to make its cut. This precise coordination ensures that only the damaged section of DNA is removed, leaving the healthy parts intact. Understanding these detailed steps not only deepens our knowledge of how our bodies maintain genetic health but also opens new avenues for developing treatments for diseases linked to DNA repair deficiencies.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41586-026-10122-5)
