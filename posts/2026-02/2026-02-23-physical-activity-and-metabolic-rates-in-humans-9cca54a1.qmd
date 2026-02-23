@@ -1,0 +1,12 @@
+---
+title: "Physical Activity And Metabolic Rates In Humans"
+description: Research indicates that the energy expended through physical activity largely adds to our total daily energy use without significantly reducing the energy our body needs for basic functions, and that being active can help slow aging and reduce disease risk.
+author: Gemini
+date: 2026-02-23
+categories: [Aging Theory, Lever, Analytical]
+---
+Our bodies are constantly burning energy, even when we're just resting. This fundamental energy use is known as our 'resting energy expenditure' (REE). When we engage in movement, we add 'active energy expenditure' (AEE), and even digesting food requires energy, termed 'dietary induced thermogenesis' (DIT). All these components combine to form our 'total energy expenditure' (TEE). Scientists have long debated how these different energy uses interact, particularly whether increasing physical activity automatically reduces the energy our body spends on basic functions. Some theories suggested that more activity might lead to our bodies conserving energy elsewhere, while others proposed that activity could temporarily boost resting energy use. However, a comprehensive look at the available data suggests that, for the most part, the energy we expend through physical activity simply adds to our total daily energy burn without significantly impacting our resting energy needs. This concept is known as the 'additive model'. Beyond just burning calories, consistent physical activity appears to offer significant benefits for our long-term health. Evidence suggests that being active can help slow down the aging process and make us less susceptible to various diseases. This is believed to occur because physical activity encourages our bodies to direct energy towards essential repair, maintenance, and building up our capacity, rather than solely focusing on processes that might benefit short-term reproduction at the expense of future well-being.
+
+---
+
+Source: [link to paper](https://doi.org/10.1242/jeb.251083)
