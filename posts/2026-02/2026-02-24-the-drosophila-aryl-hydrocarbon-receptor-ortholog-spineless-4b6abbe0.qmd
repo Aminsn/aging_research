@@ -1,0 +1,16 @@
+---
+title: "The Drosophila Aryl Hydrocarbon Receptor Ortholog, Spineless, Modulates Survival And Reproduction"
+description: The fruit fly gene "spineless," which is related to a human protein called the aryl hydrocarbon receptor, plays a role in regulating the lifespan and reproductive success of flies.
+author: Gemini
+date: 2026-02-24
+categories: [Aging Pathway]
+---
+Scientists have been exploring the functions of a highly conserved protein known as the aryl hydrocarbon receptor (AhR), which is involved in various biological processes, from development to helping the body deal with harmful substances. In fruit flies, a similar gene called "spineless" (ss) acts as the fly's version of this important protein.
+
+Recent research has shed light on how this gene influences the lives of these tiny insects. It was found that flies lacking the "spineless" gene tend to have a shorter overall lifespan. Interestingly, these flies showed a brief period of increased resilience to stress and maintained normal survival rates during their early life. The study also revealed that certain natural compounds, called tryptophan metabolites, which are known to negatively impact lifespan, had a reduced effect in flies without the "spineless" gene. This suggests that the "spineless" gene in flies interacts with these compounds in a way similar to how the AhR protein functions in mammals.
+
+Beyond lifespan, "spineless" also appears to be crucial for gut health in adult flies, helping to control the growth of tumors and promoting the normal development of intestinal cells. These findings highlight an ancient and important role for this protein in fundamental biological processes like aging and maintaining healthy tissues across different species.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.biochi.2026.02.011)
