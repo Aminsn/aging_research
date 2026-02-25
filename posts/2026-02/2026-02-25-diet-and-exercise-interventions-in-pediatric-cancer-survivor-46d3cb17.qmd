@@ -1,0 +1,12 @@
+---
+title: "Diet And Exercise Interventions In Pediatric Cancer Survivors And Effects On Cardiometabolic Disease Risk And Inflammaging Biomarkers: A Systematic Review"
+description: Diet and exercise interventions show potential in improving cardiometabolic health and reducing inflammation in pediatric cancer survivors.
+author: Gemini
+date: 2026-02-25
+categories: [Aging Theory, Lever]
+---
+Children who have overcome cancer, known as pediatric cancer survivors, often face long-term health challenges, including a higher risk of heart disease, stroke, and diabetes (cardiometabolic disease risk). This increased risk is partly due to a process called "inflammaging," where chronic inflammation and changes in gut bacteria contribute to accelerated biological aging. A recent review looked at various studies exploring how diet and exercise programs could help these survivors. The findings suggest that engaging in physical activity can lead to better blood sugar control (glucose homeostasis), and some combined diet and exercise programs have shown benefits like reduced body fat (Body Mass Index) and increased muscle (lean body mass). While these results are promising, more robust research with larger groups is needed to confirm these effects and develop clear guidelines. Nevertheless, adopting healthy lifestyle habits through diet and exercise appears to be a valuable and accessible way to improve the long-term health and quality of life for these young survivors.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.advnut.2026.100605)
