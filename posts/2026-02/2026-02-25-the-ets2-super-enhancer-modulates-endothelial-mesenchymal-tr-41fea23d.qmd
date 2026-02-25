@@ -1,0 +1,18 @@
+---
+title: "The Ets2 Super-Enhancer Modulates Endothelial-Mesenchymal Transition During Cardiac Ageing"
+description: The Ets2 super-enhancer controls the expression of the Ets2 gene in heart endothelial cells, which in turn influences the aging process of the heart and a cellular transformation known as endothelial-mesenchymal transition.
+author: Gemini
+date: 2026-02-25
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+As we age, our hearts undergo changes, and a key factor in this process is the health of our blood vessels. The cells lining these vessels, called endothelial cells, can sometimes transform into a different type of cell, known as mesenchymal cells, in a process called endothelial-to-mesenchymal transition (EndoMT). This transformation contributes to the stiffening and scarring of heart tissue, a hallmark of cardiac aging.
+
+Recent research has shed light on a crucial player in this process: a gene called Ets2. Ets2 is vital for the survival and proper functioning of endothelial cells. Scientists discovered that a specific region of DNA, known as a "super-enhancer" (a powerful genetic switch that boosts gene activity), controls how much Ets2 is produced in the heart's endothelial cells.
+
+When this Ets2 super-enhancer is not working correctly, the levels of Ets2 in the heart decrease significantly. This reduction leads to more pronounced signs of aging in the heart, including increased scarring (fibrosis) and a decline in heart function. The lower levels of Ets2 promote EndoMT by reducing the presence of a key endothelial cell marker called TIE1. This cellular shift is also linked to the aging of endothelial cells themselves and the activation of a "senescence-associated secretory phenotype" (SASP), which further contributes to the harmful fibrosis seen in aging hearts.
+
+Understanding how this super-enhancer regulates Ets2 and its impact on EndoMT provides exciting new avenues for developing therapies to combat age-related cardiovascular diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/cvr/cvaf242)
