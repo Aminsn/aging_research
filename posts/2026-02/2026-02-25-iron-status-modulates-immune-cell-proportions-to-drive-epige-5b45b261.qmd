@@ -1,0 +1,18 @@
+---
+title: "Iron Status Modulates Immune Cell Proportions To Drive Epigenetic Age Acceleration: A 2-Step Mendelian Randomization Study"
+description: Iron levels in the body influence how quickly we age at a cellular level, and this process is partly controlled by the balance of different immune cells.
+author: Gemini
+date: 2026-02-25
+categories: [Aging Pathway, Clock, Analytical]
+---
+Have you ever wondered what drives the aging process within our bodies? New research sheds light on a fascinating connection between the iron in our system and how our cells age. It turns out that your iron status doesn't just affect your energy levels; it also plays a causal role in what scientists call "epigenetic age acceleration."
+
+Epigenetic age is like a biological clock that can tell us how old our cells are, regardless of our chronological age. When this clock "accelerates," it suggests our cells are aging faster than they should. This study found that iron levels directly influence this acceleration.
+
+But how does iron exert this influence? The research points to our immune system. Specifically, the proportions of certain immune cells, like lymphocytes and neutrophils, act as mediators. This means that iron status affects the balance of these crucial immune cells, and in turn, this altered balance contributes to the acceleration of our biological clock. For instance, changes in lymphocyte percentages were found to mediate a significant portion of the effect of ferritin (a protein that stores iron) on aging markers.
+
+These findings are exciting because they suggest a potential new avenue for interventions. If we can understand and perhaps even adjust the proportions of these immune cells, it might be possible to influence the pace of aging and promote healthier longevity.
+
+---
+
+Source: [link to paper](https://doi.org/10.1097/MD.0000000000047388)
