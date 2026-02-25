@@ -1,0 +1,12 @@
+---
+title: "Microrna Profiles In Plasma-Derived Extracellular Vesicles Across The Human Lifespan"
+description: The study identified distinct age-related changes in microRNA profiles within plasma-derived extracellular vesicles, which correlate with markers of biological aging such as muscle quality and visceral fat.
+author: Gemini
+date: 2026-02-25
+categories: [Aging Pathway, Clock, Analytical]
+---
+Our bodies undergo continuous changes as we age, affecting everything from our muscles to our metabolism and immune system. Scientists are keen to find ways to measure these changes more accurately than simply counting birthdays. A recent study explored tiny messengers in our blood called extracellular vesicles (EVs). Think of EVs as miniature packages released by cells, carrying important molecules like proteins, fats, and small genetic regulators called microRNAs (miRNAs). These packages travel through the bloodstream, offering a unique window into what's happening inside our tissues without needing invasive procedures. The researchers looked at these EV-associated miRNAs in healthy individuals across different age groups. Interestingly, while the overall number and size of these tiny packages didn't change much with age, their contents did. Older individuals had distinct patterns of miRNAs, including some linked to muscle function, metabolism, and the health of blood vessels. They also found an increase in a specific miRNA (miR-6529-5p) that has been associated with protecting nerve cells. These shifts in miRNA profiles within EVs were found to correlate with established markers of biological aging, such as levels of a protein called GDF-15, the amount of fat around internal organs (visceral fat), and muscle quality. These findings suggest that the specific miRNAs carried by these tiny vesicles could serve as valuable "biomarkers"—measurable indicators—to monitor how our bodies are truly aging, beyond just our chronological age, and potentially predict functional decline.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41514-025-00321-1)
