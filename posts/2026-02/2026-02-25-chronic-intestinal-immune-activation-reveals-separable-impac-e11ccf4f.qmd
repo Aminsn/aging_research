@@ -1,0 +1,16 @@
+---
+title: "Chronic Intestinal Immune Activation Reveals Separable Impacts Of Inflammation And Barrier Loss On Hallmarks Of Ageing"
+description: Chronic immune activation in the gut and a compromised intestinal barrier have distinct effects on gut bacteria and overall health during aging, with immune activation directly leading to barrier failure and increased mortality even without the presence of microbes.
+author: Gemini
+date: 2026-02-25
+categories: [Aging Theory, Aging Pathway]
+---
+As we age, our bodies often experience "inflammaging," a state of chronic, low-grade inflammation that contributes to many age-related health problems. Alongside this, the lining of our intestines can become "leaky," a condition known as increased intestinal permeability. Both of these issues are linked to an imbalance in our gut bacteria, changes in the gut lining, and even a shorter lifespan. For a long time, it has been challenging to understand whether inflammation causes a leaky gut, or vice versa, and how gut bacteria fit into this complex picture. 
+
+Recent research using fruit flies has shed new light on these connections. Scientists found that activating the immune system in the gut and a breakdown of the gut barrier have separate and unique effects on the gut microbiome. Surprisingly, they discovered that immune activation in the gut can directly lead to a leaky gut and increased mortality, even when no gut bacteria are present. This suggests that the immune system can independently damage the intestinal barrier. Furthermore, the study showed that this immune-driven barrier failure takes time to develop and is strongly associated with when an individual starts to experience a decline in health and lifespan. 
+
+These findings are important because they suggest that the impact of a leaky gut on our microbial communities and overall health needs to be considered separately from its relationship with inflammation. Understanding these distinct roles could lead to new strategies for maintaining gut health and promoting healthy aging by targeting either inflammation or barrier integrity independently.
+
+---
+
+Source: [link to paper](https://doi.org/10.1371/journal.pone.0342910)
