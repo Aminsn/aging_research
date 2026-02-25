@@ -1,0 +1,16 @@
+---
+title: "Plasma Biomarkers Of Senescence In Cholestatic Liver Disease: A Signature Of Risk Stratification And Progression"
+description: A study identified a set of plasma biomarkers associated with cellular aging that can distinguish between different stages of cholestatic liver diseases like primary sclerosing cholangitis and primary biliary cholangitis.
+author: Gemini
+date: 2026-02-25
+categories: [Aging Pathway, Analytical]
+---
+Cellular aging, or senescence, plays a significant role in various liver conditions, including primary sclerosing cholangitis (PSC) and primary biliary cholangitis (PBC). When liver cells become senescent, they release a mix of inflammatory signals, known as the senescence-associated secretory phenotype (SASP), which can worsen the disease. Currently, it's challenging to predict how these diseases will progress using existing tests.
+
+Researchers investigated whether specific markers in the blood could help track the progression of these cholestatic liver diseases. They analyzed blood samples from patients at different stages of PSC and PBC, as well as from individuals with other liver conditions and healthy controls. By measuring 71 different substances in the blood, they found a unique pattern of 17 markers that effectively differentiated patients with PSC from healthy individuals. More importantly, this signature of markers could also distinguish between early and late stages of both PSC and PBC.
+
+This discovery is significant because it's the first time a specific set of blood markers related to cellular aging has been identified for cholestatic liver diseases. These markers not only provide insights into the underlying disease mechanisms but also hold promise as tools for monitoring disease progression and evaluating the effectiveness of new treatments in clinical trials. This could lead to better ways to assess risk and manage these challenging liver conditions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/jgh.70279)
