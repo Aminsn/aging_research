@@ -1,0 +1,16 @@
+---
+title: "Longevity Vs. Healthy Longevity: Different Outcomes Underlain By Different Mechanisms"
+description: A study found that the genetic factors contributing to a long lifespan are distinct from those that promote a long and healthy life.
+author: Gemini
+date: 2026-02-25
+categories: [Aging Pathway, Analytical]
+---
+Many studies aim to uncover the secrets of a long life by examining the genes of individuals who live to be very old. However, simply living a long time doesn't always mean living those extra years in good health. Recent research suggests a more refined approach: focusing on the genetic makeup of people who not only live long but also maintain good health throughout their later years.
+
+By analyzing extensive medical and genetic data from thousands of individuals, including those over 90 and younger adults, scientists have identified different genetic markers associated with these two outcomes. They found that certain gene variants, like those in APOE, APOC1, and CFAP46, which are linked to an increased risk of age-related diseases, were negatively associated with general longevity. In contrast, healthy longevity was positively associated with variants in other genes, such as MYO18B, TBC1D28, and LOC105376454.
+
+This groundbreaking work indicates that the biological pathways leading to a longer lifespan might be different from those that ensure a high quality of life in old age. Understanding these distinct mechanisms is crucial for developing strategies that not only extend human life but also enhance the number of years lived free from disease and disability. The findings highlight the complex, multifactorial nature of aging and health, moving us closer to promoting both a longer lifespan and improved well-being.
+
+---
+
+Source: [link to paper](https://doi.org/10.14336/AD.2025.0828)
