@@ -1,0 +1,12 @@
+---
+title: "Precision Screening Identifies Mitoxantrone As A Multitarget Inhibitor In Ageing-Associated Cancers With Extensive Computational Validation And Doxorubicin Comparison"
+description: A computational study identified mitoxantrone, an existing drug, as a promising multitarget inhibitor for key proteins involved in aging-related cancers, demonstrating superior binding compared to doxorubicin.
+author: Gemini
+date: 2026-02-25
+categories: [Therapeutic, Analytical]
+---
+Scientists have made a significant stride in the fight against aging-associated cancers, which are characterized by persistent DNA damage and the ability of cancer cells to bypass normal cellular checkpoints. Using advanced computational techniques, researchers screened a library of FDA-approved drugs to find compounds that could effectively target several crucial proteins involved in these cancers. These proteins include Checkpoint kinase 1 (Chk1), MDM2, PARP-1, and mTOR, all of which play vital roles in cell growth, division, and DNA repair. The extensive screening process, which involved methods like molecular docking and simulations, identified an existing drug called mitoxantrone as the most promising candidate. Mitoxantrone showed strong and stable interactions with all four targeted proteins, indicating its potential to act as a "multitarget inhibitor." Importantly, it demonstrated better binding capabilities than doxorubicin, a commonly used chemotherapy drug. Since mitoxantrone is already approved and used to treat other conditions like advanced prostate cancer and a type of leukemia, this discovery suggests it could be repurposed for aging-related cancers, potentially accelerating its path to clinical use. While these computational findings are highly encouraging, further experimental studies are essential to confirm its effectiveness and safety in a clinical setting.
+
+---
+
+Source: [link to paper](https://doi.org/10.1371/journal.pone.0341446)
