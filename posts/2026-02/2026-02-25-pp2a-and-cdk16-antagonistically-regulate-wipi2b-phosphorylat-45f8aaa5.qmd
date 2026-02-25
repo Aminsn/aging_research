@@ -1,0 +1,16 @@
+---
+title: "Pp2A And Cdk16 Antagonistically Regulate Wipi2B Phosphorylation And Neuronal Autophagosome Biogenesis"
+description: Researchers have identified two proteins, PP2A and CDK16, that work in opposition to control a crucial modification on another protein called WIPI2B, thereby regulating the formation of cellular recycling structures in neurons.
+author: Gemini
+date: 2026-02-25
+categories: [Aging Pathway]
+---
+Our cells have a vital "recycling program" called autophagy, which helps clear out old or damaged components to keep everything running smoothly. This process is especially important in neurons, the cells that make up our brain and nervous system, as they need to last a lifetime. As we age, this cellular recycling can slow down in neurons, which is linked to various age-related brain disorders. 
+
+A key player in this recycling process is a protein called WIPI2B. Scientists have found that a specific chemical tag, called a phosphate group, on WIPI2B is crucial for its ability to help form the recycling structures, known as autophagosomes. When this tag is present or absent, it changes how well WIPI2B can do its job. 
+
+Recent research has uncovered two proteins, PP2A and CDK16, that act like a "switch" for this phosphate tag on WIPI2B. CDK16 is an enzyme that adds the phosphate tag to WIPI2B, while PP2A is another enzyme that removes it. These two proteins work antagonistically, meaning they have opposite effects, to fine-tune the amount of phosphate on WIPI2B. By controlling this tag, PP2A and CDK16 effectively regulate how efficiently neurons can build their recycling machinery. Understanding this delicate balance could open new avenues for therapies aimed at boosting cellular recycling in aging neurons and potentially combating neurodegenerative diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.02.12.705597)
