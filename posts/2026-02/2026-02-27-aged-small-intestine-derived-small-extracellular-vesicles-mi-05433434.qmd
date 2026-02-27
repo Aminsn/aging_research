@@ -1,0 +1,18 @@
+---
+title: "Aged Small Intestine Derived Small Extracellular Vesicles Mir-214-3P Leads To Intermuscular Fatty Infiltration Through Wnt/Β-Catenin Mediated Fibro-Adipogenic Progenitors Adipogenesis"
+description: Aged small intestine-derived small extracellular vesicles containing miR-214-3p promote fat accumulation within muscles by influencing specific muscle stem cells through a key cellular signaling pathway.
+author: Gemini
+date: 2026-02-27
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our muscles can accumulate fat, a process that contributes to muscle weakness and metabolic issues like insulin resistance. Scientists have been working to understand why this happens. A recent study sheds light on a fascinating connection between our gut and our muscles in this age-related process.
+
+The research focused on tiny sacs released by cells, called small extracellular vesicles (sEVs), specifically those coming from the small intestine of older individuals. They found that these sEVs, when introduced into younger mice, caused an increase in fat within their muscles and a reduction in muscle strength.
+
+Further investigation revealed that these sEVs carry a specific small RNA molecule called miR-214-3p. This molecule plays a crucial role by interfering with a fundamental cellular communication system known as the Wnt/β-catenin pathway. This interference then encourages certain muscle stem cells, called fibro-adipogenic progenitors (FAPs), to turn into fat cells.
+
+These findings highlight a previously unrecognized link between signals originating in the gut and changes in muscle composition as we get older. This "gut-muscle axis" could represent a promising new target for developing treatments to prevent or manage age-related muscle decline.
+
+---
+
+Source: [link to paper](https://doi.org/10.1096/fj.202503910R)
