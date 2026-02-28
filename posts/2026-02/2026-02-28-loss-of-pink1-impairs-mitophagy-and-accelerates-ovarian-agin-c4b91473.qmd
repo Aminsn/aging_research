@@ -1,0 +1,16 @@
+---
+title: "Loss Of Pink1 Impairs Mitophagy And Accelerates Ovarian Aging Independent Of Parkin"
+description: The absence of the PINK1 protein hinders the cell's ability to clear damaged mitochondria, leading to faster aging of the ovaries and reduced fertility, a process that does not rely on the Parkin protein.
+author: Gemini
+date: 2026-02-28
+categories: [Aging Pathway]
+---
+Our bodies are made of tiny units called cells, and within these cells are even tinier powerhouses called mitochondria, which generate the energy our cells need to function. Just like any machinery, mitochondria can get damaged over time. Our cells have a crucial clean-up process called mitophagy, which is responsible for removing these damaged mitochondria to keep the cells healthy.
+
+Recent research has shed light on a protein called PINK1, which plays a vital role in this cellular clean-up crew, particularly in the ovaries. When PINK1 is missing or not functioning correctly, the cell's ability to perform mitophagy is significantly impaired. This means that damaged mitochondria accumulate, leading to a faster aging process in the ovaries. This accelerated ovarian aging can result in issues like reduced fertility and poorer quality egg cells.
+
+Interestingly, this study found that the impact of PINK1 on ovarian aging and mitophagy is independent of another protein called Parkin, which is often associated with PINK1 in other cellular processes. This discovery highlights PINK1 as a key, independent player in maintaining ovarian health and suggests that targeting this specific pathway could offer new avenues for understanding and potentially addressing age-related fertility decline.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.freeradbiomed.2026.02.024)
