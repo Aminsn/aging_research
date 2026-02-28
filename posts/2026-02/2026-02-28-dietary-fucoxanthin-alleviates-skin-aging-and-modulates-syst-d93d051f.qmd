@@ -1,0 +1,20 @@
+---
+title: "Dietary Fucoxanthin Alleviates Skin Aging And Modulates Systemic Aging Markers In Naturally Aged C57Bl/6J Mice"
+description: Dietary fucoxanthin, a compound derived from marine algae, has been found to reduce visible signs of skin aging, such as wrinkles and water loss, and to decrease markers of aging in various internal organs like the liver, kidneys, and muscles in naturally aged mice.
+author: Gemini
+date: 2026-02-28
+categories: [Therapeutic, Aging Pathway]
+---
+Imagine a natural ingredient that could help your skin look younger and potentially slow down aging throughout your body. Recent research has explored just such a compound: fucoxanthin. This vibrant pigment, naturally found in marine brown algae, has long been recognized for its various health benefits.
+
+A new study investigated the effects of adding fucoxanthin to the diet of naturally aged mice. The researchers were particularly interested in how it might impact skin aging and other signs of aging in the body.
+
+The findings were quite promising. Mice that consumed fucoxanthin showed a noticeable reduction in common signs of skin aging, including fewer wrinkles and improved skin hydration, indicated by a decrease in trans-epidermal water loss (TEWL), which is a measure of how much moisture the skin loses. These improvements in skin appearance were linked to changes at a cellular level. The study observed a decrease in the expression of genes associated with cellular aging, known as senescence-related genes (like p16 and p21), and a reduction in genes linked to inflammation (such as Il1rn, Il18, Ccl11, and Ccl22).
+
+Beyond the skin, fucoxanthin also appeared to have a broader impact on the body's aging process. The researchers found that dietary fucoxanthin reduced the expression of the aging marker p21 in vital organs like the liver, kidneys, and muscles. This suggests that fucoxanthin might not only benefit external appearance but also contribute to healthier aging internally.
+
+These results highlight fucoxanthin's potential as an anti-aging compound, paving the way for its future development as a beneficial component in functional foods aimed at promoting healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jnutbio.2026.110313)
