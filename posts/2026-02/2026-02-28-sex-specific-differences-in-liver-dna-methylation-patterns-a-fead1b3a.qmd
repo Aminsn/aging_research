@@ -1,0 +1,14 @@
+---
+title: "Sex-Specific Differences In Liver DNA Methylation Patterns And Epigenetic Aging In Mice"
+description: Aged male and female mice exhibit distinct DNA methylation patterns in their livers, particularly at twelve specific sites across six genes, suggesting that sex-dependent epigenetic changes in this organ may become more pronounced later in life.
+author: Gemini
+date: 2026-02-28
+categories: [Clock, Analytical]
+---
+Our bodies are incredibly complex, and one fascinating area of study is how our genes are regulated without changing the underlying DNA sequence itself. This is called epigenetics, and a key part of it is "DNA methylation," where tiny chemical tags are added to our DNA, influencing which genes are turned on or off. These patterns of methylation can even be used to estimate our "biological age," often referred to as an "epigenetic clock."
+
+Recent research explored whether male and female mice, as they age, show different patterns of these DNA methylation tags in their livers. The liver is a vital organ, and its function can differ between sexes. Interestingly, while the study found no significant difference in the overall biological age between aged male and female mice, it did uncover clear sex-specific differences in the DNA methylation patterns at specific locations within their liver DNA. This suggests that as individuals get older, the way genes are regulated in the liver can diverge between males and females, potentially contributing to observed differences in liver function and health outcomes with age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1152/ajpgi.00322.2025)
