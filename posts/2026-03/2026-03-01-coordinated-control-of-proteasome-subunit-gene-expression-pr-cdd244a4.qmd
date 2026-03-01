@@ -1,0 +1,18 @@
+---
+title: "Coordinated Control Of Proteasome Subunit Gene Expression Promotes Stress Resistance, Proteostasis, And Longevity"
+description: Coordinated regulation of the genes responsible for building proteasomes, which are cellular machines that break down damaged proteins, is crucial for stress resistance, maintaining healthy protein levels, and extending lifespan.
+author: Gemini
+date: 2026-03-01
+categories: [Aging Theory, Aging Pathway]
+---
+Our cells are constantly working to maintain a delicate balance of proteins, a process called proteostasis. A key player in this maintenance is the proteasome, a cellular "recycling plant" that breaks down damaged or misfolded proteins. When this system falters, it can contribute to aging and diseases like neurodegeneration.
+
+Recent research highlights the critical role of a protein called SKN-1A/Nrf1 in overseeing the production of these essential proteasomes. SKN-1A/Nrf1 acts like a conductor, ensuring that the various components of the proteasome are produced in a coordinated manner, especially when cells are under stress or dealing with misfolded proteins.
+
+Scientists investigated what happens when this coordination is disrupted. They found that a small change in the regulatory region of a gene called *pbs-5*, which codes for a vital proteasome component, threw the entire system off balance. This disruption meant that the *pbs-5* gene was no longer properly controlled by SKN-1A/Nrf1, leading to an uneven production of proteasome parts.
+
+Crucially, this imbalance had significant consequences for how long an organism lived. The mutation in *pbs-5* prevented several strategies known to extend lifespan from working. This finding underscores that the precise and coordinated control over how our cells build and maintain their protein-recycling machinery is not just important for daily cellular health, but is a fundamental factor in promoting healthy aging and longevity.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s11357-026-02146-6)
