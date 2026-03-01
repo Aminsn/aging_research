@@ -1,0 +1,16 @@
+---
+title: "Epigenetic Clocks, Resilience, And Multi-Omics Ageing: A Review And The Epiage-R Conceptual Framework"
+description: A new framework called EpiAge-R has been developed to not only estimate biological age but also to quantify the resilience of biological systems, which is their ability to recover from stress, by integrating various types of biological data.
+author: Gemini
+date: 2026-03-01
+categories: [Aging Theory, Clock, Analytical]
+---
+Our bodies age at different rates, and while "epigenetic clocks" have been great at estimating our biological age—how old our body seems compared to our actual years—they haven't fully explained *how* we age or our capacity to bounce back from life's stresses. Epigenetic clocks work by looking at DNA methylation, which are tiny chemical tags on our DNA that can turn genes on or off without changing the underlying genetic code. As we get older, these tags change in predictable ways, allowing scientists to estimate our biological age.
+
+However, a new approach called EpiAge-R is changing the game. It moves beyond just predicting age to also measure "resilience," which is our body's ability to recover and maintain balance when faced with challenges like illness or stress. This framework achieves this by combining "multi-omics" data, meaning it looks at many different layers of biological information. Instead of just focusing on DNA methylation at specific "CpG sites" (particular spots on our DNA where these tags often appear), it integrates details about how our DNA is packaged, other chemical modifications to our genetic material, the 3D structure of our genome, and even how our cells generate energy.
+
+By understanding both the "pace" of aging and our body's "resilience," this new framework offers a more complete picture of health and could lead to better ways to track aging and develop personalized strategies to promote healthy longevity.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/ijms27041908)
