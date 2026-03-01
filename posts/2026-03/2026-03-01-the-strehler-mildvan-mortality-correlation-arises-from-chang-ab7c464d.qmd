@@ -1,0 +1,12 @@
+---
+title: "The Strehler-Mildvan Mortality Correlation Arises From Changes In The Variability Of Ageing"
+description: The Strehler-Mildvan mortality correlation, which describes how lifespan can increase in different ways, is explained by changes in the variability of the aging process among individuals.
+author: Gemini
+date: 2026-03-01
+categories: [Aging Theory, Analytical]
+---
+As people live longer globally, understanding how the period of healthy life, or healthspan, changes is becoming increasingly important. Scientists have observed that population lifespan can increase in two main ways: either survival curves become steeper, a phenomenon called "rectangularisation," where more individuals live to an older age and die within a narrower age range, or they "triangularise," meaning the survival curve flattens, indicating a wider spread of ages at death. A long-standing observation in aging research, known as the Strehler-Mildvan correlation, describes an inverse relationship between how quickly mortality rates increase with age and the initial mortality rate. This correlation has puzzled researchers, lacking a clear biological explanation. Recent research, using organisms like the nematode *Caenorhabditis elegans*, has shed light on this mystery. The findings suggest that the way lifespan extends is directly linked to changes in how much individuals within a population vary in their aging process. Specifically, when survival curves become more "rectangular," it means that the healthspan of shorter-lived individuals is improving, and the variation in aging among individuals decreases. Conversely, "triangularisation" occurs when both healthspan and the incidence of illness expand in longer-lived individuals, leading to increased variation in the aging process. Interestingly, the study found that the type of lifespan extension observed depends on the existing level of variation in aging within the population. Furthermore, "triangularisation" was found to be more effective at extending overall lifespan without increasing the burden of disease. These insights, also supported by data from fruit flies and mice, suggest that these mechanisms are fundamental and conserved across different species.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.02.15.705972)
