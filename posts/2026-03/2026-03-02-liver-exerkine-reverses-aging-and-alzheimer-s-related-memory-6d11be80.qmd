@@ -1,0 +1,18 @@
+---
+title: "Liver Exerkine Reverses Aging- And Alzheimer'S-Related Memory Loss Via Vasculature"
+description: A protein released by the liver during exercise can reverse memory decline linked to aging and Alzheimer's disease by improving the health of blood vessels in the brain.
+author: Gemini
+date: 2026-03-02
+categories: [Aging Pathway, Therapeutic, Lever]
+---
+It’s well-known that exercise is good for your brain, helping to keep your mind sharp as you age. But how exactly does physical activity translate into these cognitive benefits? Recent research has uncovered a fascinating connection between the liver and the brain that sheds light on this mystery. 
+
+The study identified a specific protein, called GPLD1, that is released by the liver into the bloodstream during exercise. This protein then travels to the brain, where it plays a crucial role in maintaining brain health. Researchers found that GPLD1 targets another protein, called TNAP, which tends to build up in the blood vessels surrounding the brain as we get older. This accumulation of TNAP can make the brain's protective barrier, known as the blood-brain barrier, leaky. A leaky barrier allows harmful substances to enter the brain, leading to inflammation and contributing to memory loss and conditions like Alzheimer's disease. 
+
+By removing TNAP from these blood vessels, GPLD1 helps to restore the integrity of the blood-brain barrier, making it less permeable. This action reduces inflammation in the brain and, in turn, improves memory and cognitive function. Essentially, this liver-derived protein acts as a messenger, carrying the rejuvenating effects of exercise directly to the brain's defenses. 
+
+While this research was primarily conducted in mice, the findings offer exciting possibilities for developing new treatments. For individuals who are unable to exercise due to physical limitations, understanding this "body-to-brain" pathway could lead to therapies that mimic the benefits of physical activity, potentially offering a new approach to combat age-related memory decline and Alzheimer's disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.cell.2026.01.024)
