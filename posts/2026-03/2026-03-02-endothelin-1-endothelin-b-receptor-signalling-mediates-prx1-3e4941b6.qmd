@@ -1,0 +1,16 @@
+---
+title: "Endothelin-1/Endothelin B Receptor Signalling Mediates Prx1<Sup>+</Sup> Skeletal Stem Cells Senescence: A Driver Of Osteoporotic Bone Loss"
+description: A recent study identified that a specific signaling pathway, involving Endothelin-1 and its receptor B, drives the aging of skeletal stem cells, contributing to bone loss in osteoporosis.
+author: Gemini
+date: 2026-03-02
+categories: [Aging Pathway, Therapeutic]
+---
+Our bones are constantly being renewed, a process that relies on special cells called skeletal stem cells. As we age, these stem cells can become "senescent," meaning they stop dividing and functioning properly, which contributes to conditions like osteoporosis, where bones become weak and brittle. New research sheds light on a key pathway that drives this cellular aging in skeletal stem cells.
+
+The study found that a signaling molecule called Endothelin-1 (ET-1) and its receptor, Endothelin B receptor (ETBR), play a crucial role. When this pathway is overactive, it leads to an increase in harmful molecules called reactive oxygen species (ROS), which cause damage and push the skeletal stem cells into a state of senescence. This process ultimately accelerates bone loss.
+
+Researchers observed higher levels of ETBR in the skeletal stem cells of aged mice and those with osteoporosis. By blocking the ETBR, either genetically or with a specific drug, they were able to reduce oxidative stress, slow down the aging of these stem cells, and preserve bone mass. This discovery highlights a direct link between the aging of our blood vessels (where ET-1 is produced) and the health of our bones. Targeting this ET-1/ETBR pathway could offer a promising new strategy for treating osteoporosis and combating age-related bone degeneration.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jot.2026.101048)
