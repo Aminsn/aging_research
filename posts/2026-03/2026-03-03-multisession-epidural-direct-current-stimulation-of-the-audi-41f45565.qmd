@@ -1,0 +1,18 @@
+---
+title: "Multisession Epidural Direct Current Stimulation Of The Auditory Cortex Mitigates Age-Related Transcriptomic Dysregulation In Wistar Rats"
+description: Multisession epidural direct current stimulation of the auditory cortex in Wistar rats was found to reverse age-related abnormalities in gene expression and neuronal activity, suggesting a mitigation of age-related molecular changes in the brain.
+author: Gemini
+date: 2026-03-03
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+As we age, our hearing can decline, a condition known as age-related hearing loss. Beyond just the ears, the brain's ability to process sounds also changes, contributing to difficulties in understanding speech, especially in noisy environments. Researchers have been exploring ways to address these age-related changes in the brain.
+
+One promising approach involves applying a gentle electrical current directly to the brain's auditory processing center, known as the auditory cortex. This technique, called epidural direct current stimulation, delivers a mild, continuous electrical current to the brain surface over several sessions.
+
+Recent findings indicate that this type of stimulation can help combat the molecular effects of aging in the auditory cortex. Specifically, it was observed to normalize what scientists call "transcriptomic dysregulation." This refers to the abnormal activity of genes within brain cells that occurs with aging, leading to cells not functioning as they should. By applying this targeted electrical stimulation, the researchers found that the age-related disruptions in gene activity were reduced, and the overall function of the brain cells in the auditory cortex improved. This suggests that the stimulation essentially helps to "rejuvenate" the auditory cortex at a fundamental molecular level.
+
+These insights open new avenues for understanding and potentially treating age-related hearing and cognitive issues by directly addressing the underlying molecular changes in the brain.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.heares.2026.109580)
