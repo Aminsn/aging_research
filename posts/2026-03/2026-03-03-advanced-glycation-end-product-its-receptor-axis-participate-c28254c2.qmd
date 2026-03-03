@@ -1,0 +1,12 @@
+---
+title: "Advanced Glycation End Product-Its Receptor Axis Participates In Myoblast Senescence In Vitro And Delayed Muscle Regeneration Of Senescence/Aging Skeletal Muscles In Vivo"
+description: Advanced glycation end products (AGEs) and their receptor (RAGE) contribute to the premature aging of muscle cells and hinder muscle repair in older individuals.
+author: Gemini
+date: 2026-03-03
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our muscles can become weaker and less able to repair themselves after injury. A key factor contributing to this decline is the accumulation of certain harmful molecules called Advanced Glycation End Products, or AGEs. These AGEs are formed when sugars react with proteins or fats in the body, and they build up over time, especially during natural aging and in conditions like diabetes. This research explored how AGEs affect muscle cells and their ability to regenerate. Using both laboratory cell cultures and animal models, scientists found that AGEs cause muscle precursor cells, called myoblasts, to age prematurely, a process known as senescence. This premature aging prevents these myoblasts from properly developing into new muscle fibers, which is crucial for muscle repair. The study also highlighted the role of a specific protein on cell surfaces, the Receptor for Advanced Glycation End products (RAGE). When AGEs bind to RAGE, it triggers these negative effects on muscle cells. Importantly, the researchers demonstrated that by blocking RAGE or by using a compound that inhibits AGEs, they could reverse these detrimental effects, improving muscle cell health and regeneration in aging muscles. These findings suggest that targeting this pathway could be a promising strategy to combat age-related muscle decline and improve muscle repair.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.abb.2026.110774)
