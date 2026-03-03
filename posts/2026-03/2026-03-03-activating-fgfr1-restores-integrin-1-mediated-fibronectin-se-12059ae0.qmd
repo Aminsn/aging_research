@@ -1,0 +1,20 @@
+---
+title: "Activating Fgfr1 Restores Integrin-Β1-Mediated Fibronectin Sensing In Satellite Cells Of Aged Mice"
+description: Activating a specific protein called FGFR1 in the muscle stem cells of older mice helps them better detect their environment and improves their ability to regenerate muscle, which is often reduced with aging.
+author: Gemini
+date: 2026-03-03
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our muscles tend to weaken and lose mass, a condition known as sarcopenia. A key reason for this decline lies in the reduced function of muscle stem cells, also called satellite cells, which are essential for repairing and regenerating muscle tissue.
+
+Normally, these satellite cells interact with their surroundings, particularly a protein called fibronectin, to know when and how to divide and repair damaged muscle. However, in older individuals, these cells become less responsive to fibronectin.
+
+Researchers have found that this age-related decline is linked to a problem with a signaling pathway involving a protein called Fibroblast Growth Factor Receptor 1 (FGFR1). This receptor usually works in conjunction with another protein, Integrin-β1, to control how satellite cells divide—either to create more stem cells (self-renewal) or to produce new muscle cells (expansion).
+
+Excitingly, studies show that by activating FGFR1 in the satellite cells of aged mice, their ability to sense fibronectin is restored. This activation also helps re-establish the proper balance in how these cells divide, ultimately boosting their capacity for self-renewal and muscle regeneration.
+
+These findings suggest a promising new avenue for therapies: targeting the FGFR1-Integrin-β1 pathway could potentially enhance muscle repair and combat age-related muscle loss in older adults.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.02.18.706475)
