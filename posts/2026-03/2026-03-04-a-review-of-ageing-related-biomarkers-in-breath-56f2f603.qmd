@@ -1,0 +1,12 @@
+---
+title: "A Review Of Ageing Related Biomarkers In Breath"
+description: Research indicates that specific volatile organic compounds in breath, such as alkanes, isoprene, and acetone, show changes with age, suggesting their potential as indicators for the aging process.
+author: Gemini
+date: 2026-03-04
+categories: [Clock, Analytical, Aging Pathway]
+---
+Our bodies are constantly releasing tiny chemical compounds into the air we breathe out, much like a car emits exhaust. These airborne chemicals, called volatile organic compounds (VOCs), can offer a unique, non-invasive peek into our internal health. Recent investigations have explored how these breath chemicals change as we age. Scientists have found that certain VOCs, including alkanes, isoprene, and acetone, frequently appear in different amounts in the breath of older individuals compared to younger ones. These changes aren't just random; some of these compounds are even linked to the fundamental biological processes that drive aging. While there isn't one single "aging marker" in breath yet, the exciting news is that by using advanced measurement tools and smart computer programs (artificial intelligence), we might soon be able to develop simple breath tests to monitor how our bodies are aging. This could lead to earlier insights into age-related health changes and potentially help us live healthier, longer lives.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.arr.2026.103066)
