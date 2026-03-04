@@ -1,0 +1,16 @@
+---
+title: "Gerontology Lost In Translation From Demography To Biology Of Aging And Back"
+description: The paper argues that decelerating the biological process of aging is incompatible with achieving beneficial demographic changes, such as increased life expectancy, if certain biological principles of mortality are valid.
+author: Gemini
+date: 2026-03-04
+categories: [Aging Theory, Analytical]
+---
+Demography, the study of human populations, often uses terms like "survival curve rectangularization" and "lifespan disparity reduction" to describe desirable shifts in how long people live and their health in old age. These concepts suggest that we could potentially slow down the aging process to achieve a longer, healthier life for more individuals.
+
+However, a recent analysis questions the feasibility of this objective. It delves into the biological underpinnings of aging and mortality, specifically considering the Gompertz-Makeham law (GML) and the compensation effect of mortality (CEM). The GML describes how the risk of death increases exponentially with age, while CEM suggests that individuals with higher initial vitality might experience a faster decline in their aging-associated functions.
+
+Based on these biological premises, the analysis concludes that if the GML and CEM hold true, then efforts to decelerate aging biologically are unlikely to lead to the beneficial demographic changes often envisioned. It further suggests that even in countries with the highest life expectancies, reducing external, preventable causes of death might only add a maximum of five years to average lifespans. Moreover, any potential increases in life expectancy are shown to be inversely related to the current life expectancy levels.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s10522-026-10409-0)
