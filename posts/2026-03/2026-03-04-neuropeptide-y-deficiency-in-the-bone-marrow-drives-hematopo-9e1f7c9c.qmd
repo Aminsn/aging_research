@@ -1,0 +1,20 @@
+---
+title: "Neuropeptide Y Deficiency In The Bone Marrow Drives Hematopoietic Stem And Progenitor Cell Aging"
+description: A decline in the neurotransmitter neuropeptide Y within the bone marrow is a key factor contributing to the aging and dysfunction of blood-forming stem cells, and restoring its levels can reverse these age-related effects.
+author: Gemini
+date: 2026-03-04
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our bodies undergo many changes, and one area significantly impacted is our blood system. Many age-related blood disorders stem from issues with our blood-forming stem cells, known as hematopoietic stem and progenitor cells (HSPCs). These vital cells, residing in the bone marrow, lose their ability to regenerate and differentiate effectively over time.
+
+Recent research has shed light on a crucial factor driving this decline: a decrease in a signaling molecule called neuropeptide Y (NPY) within the bone marrow. Scientists discovered that NPY levels naturally drop as we get older, and this reduction is a critical cause of HSPC dysfunction.
+
+Through studies using mouse models, it was found that either genetically boosting NPY or directly administering it to older mice significantly reversed many of the aging-associated problems in their HSPCs. This included restoring important cellular processes like managing oxidative stress, maintaining stem cell properties, and improving mitochondrial activity. Conversely, when young mice were engineered to lack NPY, their HSPCs showed signs of premature aging.
+
+Importantly, this age-related decline in NPY is not limited to mice; similar reductions have been observed in elderly humans. Furthermore, treating human bone marrow-derived HSPCs with NPY in laboratory settings enhanced their ability to regenerate.
+
+These findings suggest a promising new avenue for therapeutic strategies. By supplementing NPY or finding ways to preserve the nerve fibers that produce it in the bone marrow, it might be possible to rejuvenate the function of aged blood stem cells, potentially mitigating age-related blood disorders.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.02.20.706987)
