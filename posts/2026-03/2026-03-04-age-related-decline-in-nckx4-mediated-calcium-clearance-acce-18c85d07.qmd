@@ -1,0 +1,20 @@
+---
+title: "Age-Related Decline In Nckx4-Mediated Calcium Clearance Accelerates Aortic Remodelling And Drives Early Vascular Ageing"
+description: Researchers have identified a protein called NCKX4, whose age-related decline in function leads to accelerated stiffening and calcification of arteries, contributing to the aging of blood vessels.
+author: Gemini
+date: 2026-03-04
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our blood vessels naturally undergo changes that can increase the risk of heart disease. A key factor in this process is the dysfunction of specialized cells in our arteries, called vascular smooth muscle cells, and their inability to properly manage calcium. This can lead to arteries becoming stiff and hardened, a process known as calcification.
+
+A recent study sheds light on a crucial player in this process: a protein known as NCKX4. This protein is vital for clearing excess calcium from vascular smooth muscle cells, thereby maintaining the health and flexibility of our blood vessels.
+
+The research found that the amount of NCKX4 significantly decreases as we get older, with a more pronounced reduction observed in females. This age-related decline in NCKX4 impairs the cells' ability to remove calcium, leading to an accumulation of calcium-phosphate deposits within the arteries.
+
+Remarkably, even young mice engineered to lack NCKX4 showed signs of premature vascular aging, including damage to elastic fibers, increased collagen, and thickening of arterial walls—changes typically seen in much older, healthy individuals. This indicates that the loss of NCKX4 directly contributes to the structural changes associated with aging blood vessels by disrupting how cells interact with their surrounding support structure and how minerals are deposited.
+
+These findings establish NCKX4 as a previously unrecognized factor driving vascular aging, suggesting that its decline accelerates the early remodeling and calcification of arteries. Understanding this mechanism opens new avenues for developing treatments that could target calcium handling to prevent age-related cardiovascular diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1113/JP290475)
