@@ -1,0 +1,12 @@
+---
+title: "S-Nitrosoglutathione Reductase GSNOR Drives Age-Related Obesity By Promoting Adipose Tissue Whitening Through De-Nitrosation Of Beclin-1"
+description: A specific enzyme called GSNOR increases with age and contributes to age-related obesity by changing fat tissue composition.
+author: Gemini
+date: 2026-03-07
+categories: [Aging Pathway, Therapeutic]
+---
+Scientists have uncovered a key player in age-related weight gain: an enzyme called S-nitrosoglutathione reductase, or GSNOR. This enzyme, which helps regulate a process called S-nitrosation (a chemical modification of proteins), was found to increase in fat tissue as both mice and humans get older. When researchers removed GSNOR in mice, the animals were protected from age-related weight gain and showed improved metabolism. Conversely, increasing GSNOR specifically in fat tissue led to obesity and metabolic problems. The study revealed that GSNOR promotes the "whitening" of fat tissue, meaning it encourages the conversion of beneficial, calorie-burning beige fat cells into less active white fat cells. This happens because GSNOR modifies a protein called Beclin-1, which then affects a cellular recycling process known as autophagy. By understanding this mechanism, researchers believe that targeting GSNOR could offer a new way to combat age-related obesity.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41467-026-69793-3)
