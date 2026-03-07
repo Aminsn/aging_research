@@ -1,0 +1,16 @@
+---
+title: "Dissecting The Impact Of Α-MSH-Mc1R-Camp Signaling On UVA-Induced Stress In Fibroblasts - Implications For Regulation Of Cutaneous Photoaging"
+description: The study found that the α-MSH-MC1R-cAMP signaling pathway does not directly protect adult dermal fibroblasts from UVA-induced stress, despite its known role in UVB photoprotection.
+author: Gemini
+date: 2026-03-07
+categories: [Aging Pathway, Therapeutic]
+---
+Our skin is constantly exposed to the sun, and while we often hear about UVB rays causing sunburn, UVA rays also contribute significantly to skin aging, a process called photoaging. This research explored how a specific signaling pathway, involving a hormone called alpha-melanocyte-stimulating hormone (α-MSH) and its receptor (MC1R), affects skin cells called fibroblasts when exposed to UVA light. Fibroblasts are crucial for maintaining the skin's structure and elasticity.
+
+Previously, this α-MSH-MC1R pathway was known to protect against UVB radiation, partly by stimulating melanin production (our natural sunblock) and directly shielding cells. Interestingly, people with certain genetic variations in MC1R, often linked to red hair and fair skin, tend to show accelerated skin aging from sun exposure. This led scientists to wonder if this pathway also played a direct protective role against UVA damage in fibroblasts.
+
+The study found that when adult dermal fibroblasts were exposed to UVA, they experienced significant stress, including "oxidative stress" (an imbalance that damages cells) and activation of genes linked to DNA damage and aging. However, even though these fibroblasts had the MC1R receptor and could respond to α-MSH, treating them with the hormone did not reduce these UVA-induced stress responses. This suggests that, contrary to expectations, this particular signaling pathway does not directly protect adult dermal fibroblasts from the damaging effects of UVA radiation. While this pathway remains vital for other aspects of skin health and protection against UVB, its direct role in shielding fibroblasts from UVA-induced aging appears limited.
+
+---
+
+Source: [link to paper](https://doi.org/10.14336/AD.2025.1518)
