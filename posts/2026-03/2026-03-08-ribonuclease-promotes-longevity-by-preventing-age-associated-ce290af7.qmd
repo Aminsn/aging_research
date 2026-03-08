@@ -1,0 +1,20 @@
+---
+title: "Ribonuclease Κ Promotes Longevity By Preventing Age-Associated Accumulation Of Circular RNA In Stress Granules"
+description: A specific enzyme called Ribonuclease κ has been found to extend lifespan by breaking down circular RNA molecules that accumulate in cells as organisms age.
+author: Gemini
+date: 2026-03-08
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our cells undergo many changes, and scientists are constantly working to understand what drives these processes. One intriguing area of research involves circular RNAs, or circRNAs. These are a type of RNA molecule that, unlike their linear counterparts, form a closed loop. While it was known that circRNAs tend to build up in the body over time, their exact role in aging remained a mystery.
+
+Recent groundbreaking research has shed light on this phenomenon, identifying a key player in managing these age-associated circRNAs: an enzyme named Ribonuclease κ (RNASEK). This enzyme acts like a cellular clean-up crew, specifically targeting and degrading circRNAs.
+
+The study found that as organisms get older, the levels of RNASEK naturally decline. This reduction in RNASEK activity leads to the observed increase in circRNA accumulation. But what happens when RNASEK activity is boosted? In experiments with *Caenorhabditis elegans*, a tiny worm often used in aging research, increasing RNASEK was shown to extend their lifespan and improve their overall health.
+
+Remarkably, this isn't just a worm-specific mechanism. The research indicates that mammalian RNASEK also plays a crucial role in breaking down circRNAs and is essential for preventing premature aging in human cells and mice, highlighting its conserved importance across different species. Furthermore, the study revealed that circRNAs gather in structures called stress granules, which are temporary compartments that form in cells under stress. Here, RNASEK, working alongside another protein called heat shock protein 90 (HSP90), prevents these circRNAs from clumping together and potentially causing harm in older organisms.
+
+These findings open up exciting new avenues for combating age-related diseases. By understanding and potentially manipulating the activity of enzymes like RNASEK, we might be able to develop new strategies to target circRNAs and promote a longer, healthier life.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.molcel.2026.01.031)
