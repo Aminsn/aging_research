@@ -1,0 +1,16 @@
+---
+title: "Omicmage Quantifies Biological Age By Integrating Multi-Omics With Electronic Medical Records"
+description: A new biological age clock, OMICmAge, integrates diverse molecular data with electronic medical records to more accurately predict chronic diseases and mortality than existing methods.
+author: Gemini
+date: 2026-03-09
+categories: [Clock, Analytical]
+---
+Scientists have developed a groundbreaking new method to measure biological age, which reflects the true "wear and tear" on your body, rather than just your chronological age. This innovative approach combines information from various molecular layers within your body, such as proteins (proteomics), metabolic byproducts (metabolomics), and changes in gene activity without altering the DNA sequence itself (epigenomics, specifically DNA methylation), with extensive health information from electronic medical records.
+
+This advanced biological clock utilizes a clever technique called Epigenetic Biomarker Proxies (EBPs). These proxies allow the method to incorporate the rich data from proteins, metabolites, and clinical records, yet still provide a comprehensive biological age measurement primarily from DNA methylation data alone. This makes the measurement more accessible and scalable for widespread use.
+
+The new measure has shown remarkable accuracy in predicting an individual's risk for chronic diseases and mortality, outperforming previous methods that relied solely on DNA methylation. By offering a more precise understanding of biological aging, this development opens new avenues for identifying the complex molecular connections that influence our health over time and could lead to more personalized strategies for maintaining health and preventing age-related conditions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s43587-026-01073-7)
