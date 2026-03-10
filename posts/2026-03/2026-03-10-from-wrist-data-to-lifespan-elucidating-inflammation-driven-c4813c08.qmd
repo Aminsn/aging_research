@@ -1,0 +1,18 @@
+---
+title: "From Wrist Data To Lifespan: Elucidating Inflammation-Driven Biological Aging Via Activity Rhythms Captured By Wearable Devices"
+description: Disrupted daily activity rhythms, as measured by wearable devices, accelerate biological aging primarily by increasing systemic inflammation.
+author: Gemini
+date: 2026-03-10
+categories: [Analytical, Aging Pathway, Clock, Lever]
+---
+Our bodies follow natural daily cycles, known as circadian rhythms, which influence everything from sleep to immune responses. While we know that chronic inflammation, often called "inflammaging," speeds up biological aging and contributes to many diseases, the exact role of these daily rhythms in this process and in our overall lifespan hasn't been fully clear.
+
+Recent research utilized advanced machine learning to analyze activity data collected over seven days from wearable devices worn by more than 62,000 adults. The study found that key indicators from these daily activity patterns—specifically, how much our activity levels change throughout the day (rhythm amplitude) and how consistent these patterns are day-to-day (rhythm stability), alongside our engagement in moderate-to-vigorous physical activity (MVPA)—are strong predictors of how quickly we biologically age.
+
+The findings revealed that less pronounced daily activity changes, inconsistent routines, and lower levels of MVPA were all linked to higher levels of systemic inflammation in the body. This inflammation was found to be a significant factor in the increased risk of mortality associated with irregular activity patterns and insufficient physical activity, particularly in men.
+
+Crucially, the study also showed that we can take action to counteract these effects. Even small improvements, like adding a 15-minute burst of moderate-to-vigorous physical activity to your day or making your daily routines 10-14% more consistent, could help reduce inflammation and its negative impact on aging. This suggests that the data from our wearable devices can act as "digital biomarkers," offering valuable insights into how our daily habits are connected to inflammation and our longevity. These insights could pave the way for personalized strategies to promote healthier aging by focusing on managing inflammation.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41514-026-00349-x)
