@@ -1,0 +1,14 @@
+---
+title: "Effects Of Aging On Periodontal Pathogenesis And Wound Repair: A Scoping Review"
+description: Aging contributes to the increased prevalence and severity of periodontal disease by impairing immune function, delaying wound healing, and altering cellular responses in periodontal tissues.
+author: Gemini
+date: 2026-03-10
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our bodies undergo various changes, and these can significantly impact our oral health, particularly when it comes to gum disease, also known as periodontitis. This condition, characterized by inflammation and destruction of the tissues supporting our teeth, becomes more common and severe with advancing years. One major factor is a decline in our immune system's ability to effectively fight off infections and repair damaged tissues. This means that the bacteria responsible for gum disease can cause more damage, and our body struggles to recover. 
+
+Furthermore, the healing process slows down considerably in older adults. This is due to a complex interplay of factors, including changes in how our immune cells, like neutrophils and macrophages, function, and alterations in the chemical signals that orchestrate wound repair. Conditions common in older age, such as diabetes and osteoporosis, can also exacerbate gum disease by further weakening the immune system and bone density. While aging itself doesn't directly cause severe gum tissue loss in healthy individuals, the molecular changes occurring in periodontal cells with age can intensify bone loss when periodontitis is present. These changes involve how bone-forming and bone-resorbing cells function, how periodontal cells react to oral bacteria and stress, and broader hormonal shifts in the body. Understanding these age-related changes is crucial for developing better strategies to prevent and manage gum disease in our aging population.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/odi.70255)
