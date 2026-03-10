@@ -1,0 +1,18 @@
+---
+title: "NMN Improves High-Fat-Diet-Induced Myocardial Damage Of Aging Mice Through Sirt3/Pink1/Parkin Signaling Pathway"
+description: NMN supplementation was found to reduce heart damage caused by a high-fat diet in aging mice by improving cellular energy management.
+author: Gemini
+date: 2026-03-10
+categories: [Aging Pathway, Therapeutic]
+---
+Our hearts work tirelessly, but factors like aging and unhealthy diets can take a toll, leading to damage. Recent research has shed light on a promising compound that could help protect our hearts: nicotinamide mononucleotide, or NMN. This natural substance is crucial because it acts as a building block for another vital molecule in our bodies called NAD+.
+
+NAD+ is like the energy currency of our cells, playing a key role in everything from how our bodies produce energy to repairing our DNA. As we get older, the levels of NAD+ naturally decline, which is thought to contribute to various age-related health issues, including heart problems.
+
+The study explored how NMN could combat heart damage, specifically that caused by a high-fat diet in older mice. The findings suggest that NMN helps the heart by improving the function of its "powerhouses," tiny structures within cells called mitochondria. These mitochondria are responsible for generating the energy our heart needs to pump blood effectively. NMN appears to enhance the heart cells' ability to manage these energy factories, ensuring they work efficiently and even helping to clear out any damaged ones. This process involves specific cellular pathways, including those linked to proteins called sirtuins, which are known for their roles in cellular health and longevity.
+
+By boosting NAD+ levels and supporting these critical cellular processes, NMN offers a potential strategy to protect the heart from the detrimental effects of aging and poor diet, paving the way for future research into maintaining cardiovascular health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.tjnut.2026.101435)
