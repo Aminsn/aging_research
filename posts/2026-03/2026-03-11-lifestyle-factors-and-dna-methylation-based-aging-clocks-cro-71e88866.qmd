@@ -1,0 +1,12 @@
+---
+title: "Lifestyle Factors And DNA Methylation-Based Aging Clocks: Cross-Sectional And Longitudinal Associations In The Singapore Diet And Healthy Aging Cohort"
+description: Smoking is associated with accelerated biological aging, while physical activity and cognitive engagement are linked to slower biological aging in older Asian adults.
+author: Gemini
+date: 2026-03-11
+categories: [Clock, Lever, Analytical]
+---
+Our bodies age at different rates, and scientists are increasingly using "epigenetic clocks" to measure this biological age by looking at changes in our DNA. A recent study explored how everyday habits influence these clocks in older Asian adults. Researchers found that, at a single point in time, certain lifestyle choices were significantly linked to how quickly someone's biological clock was ticking. For instance, a history of smoking was associated with an accelerated biological age, meaning their bodies appeared older than their chronological age. Conversely, engaging in regular physical activity and mentally stimulating activities, like puzzles or learning new skills, was associated with a slower biological age. These findings suggest that making positive changes to our lifestyle, such as quitting smoking, staying active, and keeping our minds sharp, could potentially help slow down the biological aging process. While these initial findings are promising, the study also highlighted the need for larger, longer-term research to fully understand how these lifestyle factors influence our biological age over time.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.tjpad.2026.100522)
