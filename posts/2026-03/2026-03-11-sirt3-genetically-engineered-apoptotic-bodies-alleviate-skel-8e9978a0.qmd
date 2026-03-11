@@ -1,0 +1,18 @@
+---
+title: "Sirt3 Genetically Engineered Apoptotic Bodies Alleviate Skeletal Aging By Limiting Aggravated Nlrp3 Inflammasome Activation Of Senescent Macrophages"
+description: Genetically engineered cellular packages containing the Sirt3 protein can slow down skeletal aging by reducing excessive inflammation in aging immune cells.
+author: Gemini
+date: 2026-03-11
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our bones can become more fragile, leading to conditions like osteoporosis. This process, known as skeletal aging, is influenced by various factors, including the health of our immune system. Specifically, certain immune cells called macrophages, which are like the body's clean-up crew, can become "senescent" or aged. These aged macrophages contribute to chronic inflammation, a key driver of skeletal deterioration.
+
+Researchers have discovered that a protein called Sirtuin3 (Sirt3), typically found in the energy-producing parts of our cells (mitochondria), plays a vital role in keeping this inflammation in check. However, as macrophages age, their Sirt3 levels decrease, leading to an overactivation of a molecular complex called the NLRP3 inflammasome. Think of the NLRP3 inflammasome as an alarm system that, when constantly triggered, causes excessive inflammation.
+
+To address this, scientists developed an innovative approach: they created genetically engineered "apoptotic bodies" enriched with Sirt3. Apoptotic bodies are tiny, natural packages released by cells during a controlled death process. These Sirt3-carrying packages are designed to be taken up by macrophages, effectively delivering the beneficial Sirt3 protein directly to where it's needed.
+
+Once inside the macrophages, the delivered Sirt3 helps to calm the overactive NLRP3 inflammasome, reducing the harmful inflammation that accelerates skeletal aging. This novel strategy offers a promising new way to combat age-related bone loss and could potentially lead to new treatments for conditions like osteoporosis.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/advs.202517554)
