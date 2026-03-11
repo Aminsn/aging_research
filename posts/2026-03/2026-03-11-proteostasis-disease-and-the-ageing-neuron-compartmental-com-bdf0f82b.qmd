@@ -1,0 +1,16 @@
+---
+title: "Proteostasis, Disease And The Ageing Neuron: Compartmental Complexity In Non-Renewing Cells"
+description: The paper reviews how the intricate system maintaining protein balance in neurons, called proteostasis, breaks down with age in different parts of the neuron, contributing to neurodegenerative diseases.
+author: Gemini
+date: 2026-03-11
+categories: [Aging Theory, Aging Pathway]
+---
+Aging is a complex process, and one of its significant impacts on our brains is the decline in a crucial cellular system known as proteostasis. Imagine your cells constantly building, repairing, and recycling proteins – the tiny workhorses that perform almost all cellular functions. Proteostasis is the sophisticated network responsible for keeping this protein environment perfectly balanced, ensuring proteins are correctly made, folded, and disposed of when they're no longer needed or become damaged. 
+
+In our neurons, the specialized cells that transmit information in our brains, maintaining this balance is particularly challenging. Neurons are long-lived and don't divide, meaning they have to manage their proteins for decades. They also have many distinct compartments, like axons and dendrites, each with unique protein needs and high energy demands. This review explores how the proteostasis network, which is vital for neuronal health, starts to falter as we age. 
+
+The review highlights that the mechanisms of protein maintenance aren't uniform throughout a neuron; they differ significantly in various compartments and types of neurons. These differences mean that some parts of a neuron or certain types of neurons are more vulnerable to stress and disease when proteostasis declines. This selective vulnerability helps explain why specific brain regions or neuronal populations are more affected in neurodegenerative conditions like Alzheimer's or Parkinson's disease. Understanding these intricate, compartment-specific breakdowns in protein balance is crucial. It suggests that future strategies to combat age-related brain diseases will need to be highly targeted, focusing on the specific needs of different neuronal compartments and cell types to prevent the collapse of this essential protein maintenance system.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.arr.2026.103073)
