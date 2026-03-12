@@ -1,0 +1,16 @@
+---
+title: "Growth Differentiation Factor 15 And The Risk Of Hip Fracture In Older Adults"
+description: Higher levels of a hormone called Growth Differentiation Factor 15 (GDF15), which increases with age, are associated with a doubled risk of hip fractures in older adults, primarily due to its link with muscle weakness rather than bone density.
+author: Gemini
+date: 2026-03-12
+categories: [Aging Pathway, Analytical]
+---
+As we age, our bodies undergo many changes, and scientists are constantly working to understand how these changes impact our health. One area of particular interest is the risk of hip fractures in older adults, which can significantly affect quality of life. Recent research has shed light on a potential new indicator for this risk: a hormone known as Growth Differentiation Factor 15, or GDF15. This hormone naturally increases in our blood as we get older.
+
+A study involving over a thousand men and women aged 70-79 investigated the connection between GDF15 levels and the likelihood of experiencing a hip fracture. The findings revealed that individuals with higher levels of GDF15 tended to have weaker muscles, slower movement, and poorer balance.
+
+Crucially, the participants with the highest GDF15 levels faced twice the risk of hip fractures compared to those with lower levels. Interestingly, this increased risk appeared to be primarily linked to muscle weakness rather than the density of their bones. This suggests that GDF15 might play a role in predicting hip fractures by signaling issues with muscle strength. Understanding this connection could open new avenues for identifying individuals at higher risk and developing strategies to prevent these debilitating injuries.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/jbmrpl/ziaf192)
