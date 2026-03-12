@@ -1,0 +1,12 @@
+---
+title: "Short-Term Rapamycin Mitigates The Senescence Of Ovaries And Somatic Stem Cells In Multiple Organs In Reproductively Aged Mice"
+description: Short-term rapamycin treatment in reproductively aged mice reduced cellular aging and improved somatic stem cell function in multiple organs, including the ovaries, but did not restore fertility.
+author: Gemini
+date: 2026-03-12
+categories: [Therapeutic, Aging Pathway]
+---
+As females age, their reproductive systems decline, and other organs also show signs of aging. Scientists have been studying a pathway called mTOR, which plays a central role in the aging process. A drug known as rapamycin, which targets mTOR, has previously shown promise in slowing down aging in younger animals. This recent research explored whether a short course of rapamycin could still be effective once reproductive aging was already established. The study found that a one-month treatment with rapamycin in older female mice significantly reduced cellular aging, a process where cells stop dividing and accumulate damage, in their ovaries, lungs, small intestine, and skeletal muscle. It also helped rejuvenate the "somatic stem cells" – specialized cells that can develop into many different cell types – in these tissues, improving their numbers and ability to repair and regenerate. However, despite these positive effects on cellular health and stem cell function, the treatment did not manage to restore fertility or normal hormone levels in the reproductively aged mice. Furthermore, the beneficial effects observed were temporary and faded once the rapamycin treatment was stopped. These findings suggest that while this intervention can temporarily improve some aspects of aging in various organs, it may not be able to reverse advanced reproductive decline, highlighting the importance of when such treatments are initiated.
+
+---
+
+Source: [link to paper](https://doi.org/10.1096/fj.202504132R)
