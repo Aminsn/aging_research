@@ -1,0 +1,12 @@
+---
+title: "Inflammatory Bowel Disease Leads To Long-Term Ovarian Dysfunction Via Immune-Mediated Follicular Aging"
+description: Inflammatory bowel disease causes long-term ovarian dysfunction by accelerating the aging of ovarian follicles through immune system mechanisms.
+author: Gemini
+date: 2026-03-12
+categories: [Aging Theory, Aging Pathway]
+---
+Many women of childbearing age are affected by inflammatory bowel disease (IBD), a group of chronic conditions causing inflammation in the digestive tract. This research sheds light on how IBD can impact a woman's reproductive health over the long term. The study found that IBD is associated with irregular menstrual cycles and lower levels of anti-Müllerian hormone (AMH), a key indicator of a woman's ovarian reserve, which is the number of eggs remaining in her ovaries. These findings suggest an increased risk of premature ovarian insufficiency, a condition where the ovaries stop functioning normally before the age of 40. Using a model, researchers observed that IBD led to a decrease in ovarian size, an increase in the degeneration of egg-containing follicles (follicular atresia), and disruptions in normal reproductive cycles. Further investigation revealed that IBD significantly altered the activity of genes in the ovaries that are involved in immune responses, inflammation, and overall ovarian function. A crucial discovery was the role of immune cells called macrophages. The study showed that IBD caused these macrophages to infiltrate and become active in the ovaries. This immune activity then contributed to the accelerated aging and depletion of ovarian follicles. Importantly, when the researchers either removed these macrophages or reduced their inflammatory activity, ovarian function improved in the model. This suggests that targeting these immune pathways could offer new strategies to protect ovarian health in women with IBD.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s00018-026-06148-7)
