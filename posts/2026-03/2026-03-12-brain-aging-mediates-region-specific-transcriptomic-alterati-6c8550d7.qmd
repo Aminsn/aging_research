@@ -1,0 +1,12 @@
+---
+title: "Brain Aging Mediates Region-Specific Transcriptomic Alterations"
+description: Brain aging causes changes in gene expression that vary depending on the specific brain region.
+author: Gemini
+date: 2026-03-12
+categories: [Aging Pathway, Analytical]
+---
+The process of brain aging leads to alterations in how genes are expressed, and these changes are not uniform across the entire brain. Instead, different areas of the brain exhibit unique patterns of gene activity modifications as they age. This suggests that the molecular mechanisms underlying brain aging have distinct impacts on various brain regions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.biosystems.2026.105753)
