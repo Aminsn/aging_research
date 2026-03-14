@@ -1,0 +1,16 @@
+---
+title: "Neuropilin-2 Deficiency Promotes Mitochondrial Dysfunction And NAD⁺-Dependent Cellular Senescence In Retinal Degeneration"
+description: A recent study found that a deficiency in the protein Neuropilin-2 in retinal cells leads to mitochondrial dysfunction and cellular aging, contributing to retinal degeneration, and that a natural compound called echinacoside can help reverse these effects.
+author: Gemini
+date: 2026-03-14
+categories: [Aging Pathway, Therapeutic]
+---
+Our eyes rely on specialized support cells called retinal pigment epithelial (RPE) cells to maintain healthy vision. When these cells don't function properly, it can lead to serious eye conditions that cause irreversible vision loss. A key factor in this dysfunction is often problems with mitochondria, the "powerhouses" of our cells, and a process called cellular senescence, where cells essentially age and stop functioning correctly. 
+
+New research has shed light on an important protein called Neuropilin-2 (NRP2) and its critical role in keeping RPE cells healthy. The study revealed that when NRP2 is missing in RPE cells, it disrupts the normal functioning of mitochondria, leading to an increase in harmful byproducts and a decrease in a vital molecule called NAD⁺. NAD⁺ is crucial for energy production and overall cell health, and its decline is often associated with aging. This reduction in NAD⁺ then triggers cellular senescence in RPE cells, accelerating their aging and ultimately contributing to the degeneration of the retina, the light-sensing tissue at the back of the eye. 
+
+Crucially, the researchers also identified a potential therapeutic approach. They found that by either restoring NAD⁺ levels or treating with a natural compound called echinacoside, they could reverse the mitochondrial problems and reduce the signs of cellular aging in RPE cells. Furthermore, administering echinacoside in animal models helped preserve the structure and function of the retina. These findings suggest that targeting the pathway involving NRP2, mitochondria, and NAD⁺ with compounds like echinacoside could be a promising strategy to prevent and treat retinal degenerative diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1167/iovs.67.3.11)
