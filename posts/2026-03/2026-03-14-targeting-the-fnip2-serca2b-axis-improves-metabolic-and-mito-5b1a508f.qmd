@@ -1,0 +1,18 @@
+---
+title: "Targeting The Fnip2-Serca2B Axis Improves Metabolic And Mitochondrial Defects In Ataxia Telangiectasia"
+description: Researchers have identified a new pathway involving the FNIP2-SERCA2b axis that, when targeted, can improve metabolic and mitochondrial problems observed in cells from patients with Ataxia Telangiectasia.
+author: Gemini
+date: 2026-03-14
+categories: [Aging Pathway, Therapeutic]
+---
+Ataxia Telangiectasia (AT) is a complex genetic disorder that affects many parts of the body, leading to problems like difficulty with coordination, a weakened immune system, and an increased risk of cancer. While the primary genetic cause is known, the full picture of how these diverse symptoms arise has been unclear.
+
+Recent research has shed light on a crucial aspect of AT: cells from affected individuals accumulate excessive amounts of glycogen, a stored form of glucose, due to issues with how they process sugar and how their mitochondria, the cell's powerhouses, function. These metabolic problems contribute to reduced cell health and premature aging of cells.
+
+A significant breakthrough reveals that by inactivating a protein called FNIP2, which plays a role in controlling mitochondrial activity, these cellular defects can be partially reversed. The study found that FNIP2 interacts with a calcium channel called SERCA2b. When FNIP2 is inactivated, it leads to an increase in calcium within the cell's cytoplasm. This surge in calcium then stimulates the mitochondria to work more efficiently and increases the cell's ability to use glucose.
+
+This metabolic adjustment helps prevent the harmful buildup of glycogen and significantly improves the survival of AT cells. These findings offer new insights into the disease and suggest that targeting this specific pathway could be a promising new strategy to alleviate the widespread effects of AT and potentially improve the lives of those living with this challenging condition.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41419-026-08507-5)
