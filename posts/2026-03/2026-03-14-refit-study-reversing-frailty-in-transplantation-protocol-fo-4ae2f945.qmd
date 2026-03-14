@@ -1,0 +1,16 @@
+---
+title: "Refit Study (Reversing Frailty In Transplantation): Protocol For A Longitudinal Study To Assess Clinical And Biomedical Changes In Frailty Through Kidney Transplantation"
+description: The ReFIT study protocol outlines a longitudinal study to investigate how frailty, a state of increased vulnerability, changes in individuals undergoing kidney transplantation, comparing them to those awaiting transplant and healthy older adults.
+author: Gemini
+date: 2026-03-14
+categories: [Aging Theory, Aging Pathway, Therapeutic, Analytical]
+---
+Many people with kidney failure experience "frailty," a condition where their bodies have reduced reserves and are more vulnerable to stressors, similar to how older adults might feel. However, a fascinating observation is that after a kidney transplant, many of these individuals show improvements in their physical frailty. This makes them a unique group to study not only how frailty develops but also how it can be reversed.
+
+Researchers are conducting a new study to delve deeper into this phenomenon. They are recruiting 150 participants across three groups: those who have received a kidney transplant, those currently on the waiting list for a transplant, and healthy older adults from the community. The main goal is to see if the frailty experienced due to organ failure shares similar underlying biological and physiological characteristics with frailty that comes with aging.
+
+To understand these changes, the study will track participants over time, measuring their overall frailty using a comprehensive "Frailty Index." They will also collect detailed information on various biological markers, including hormone levels, metabolic profiles (how the body processes substances), immune system function, blood vessel health, and even the composition of their gut bacteria. By comparing these measures across the different groups, the researchers hope to uncover the mechanisms behind frailty and its potential reversal after a successful kidney transplant.
+
+---
+
+Source: [link to paper](https://doi.org/10.1136/bmjopen-2025-100158)
