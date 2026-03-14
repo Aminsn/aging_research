@@ -1,0 +1,12 @@
+---
+title: "E2F1-Mediated 53Bp2 Lactylation Stabilizes P53 To Induce Cochlear Hair Cell Apoptosis In Mouse Age-Related Hearing Loss"
+description: A newly discovered molecular pathway involving E2F1, p300, 53BP2 lactylation, and p53 has been identified as a driver of cochlear hair cell death in age-related hearing loss.
+author: Gemini
+date: 2026-03-14
+categories: [Aging Pathway, Therapeutic]
+---
+Scientists have uncovered a crucial molecular pathway that contributes to age-related hearing loss, a common condition where the ability to hear gradually diminishes with age. This research focuses on the delicate sensory cells in the inner ear, called cochlear hair cells, which are essential for converting sound vibrations into electrical signals that the brain can interpret. The study reveals that a protein called E2F1 becomes more active in the aging ear. This increased E2F1 then boosts the activity of another protein, p300, which acts as an enzyme. P300, in turn, modifies a protein called 53BP2 through a process called lactylation, where a lactate molecule is added to it. This modification of 53BP2 then stabilizes p53, a well-known protein often referred to as the "guardian of the genome" due to its role in regulating cell growth and programmed cell death. In this context, the stabilized p53 triggers apoptosis, which is a controlled process of cell suicide, leading to the loss of cochlear hair cells. This discovery of the E2F1-p300-53BP2 lactylation-p53 pathway provides new insights into the mechanisms behind age-related hearing loss and could pave the way for developing new treatments to protect these vital hair cells.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13148-026-02091-3)
