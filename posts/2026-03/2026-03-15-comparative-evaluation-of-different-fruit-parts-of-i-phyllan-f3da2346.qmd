@@ -1,0 +1,12 @@
+---
+title: "Comparative Evaluation Of Different Fruit Parts Of <I>Phyllanthus Emblica</I> L. For Functional Food Applications: Nutritional Composition, Safety, And Gut Microbiota-Associated Aging Benefits"
+description: A study comparing different parts of the Indian gooseberry fruit found that the juice powder offers superior nutritional benefits, antioxidant properties, and anti-aging effects, while the seed-containing core may pose safety risks.
+author: Gemini
+date: 2026-03-15
+categories: [Lever, Aging Pathway]
+---
+The Indian gooseberry, also known as Amla, is a fruit celebrated for its traditional medicinal uses and rich content of beneficial compounds like vitamin C and powerful antioxidants called polyphenols. Recent research has delved into the specific health benefits offered by different parts of this fruit, including the whole fruit, its juice powder, the leftover pulp (pomace), and the seed-containing core. The findings reveal that the juice powder stands out with the most favorable nutritional profile and the strongest ability to combat harmful free radicals in the body. In a model simulating aging, the juice powder demonstrated remarkable anti-aging effects, improving brain function, reducing inflammation, and positively influencing the gut microbiome. Specifically, it was shown to increase beneficial gut bacteria, such as *Akkermansia* and *Alistipes*, and enhance the production of short-chain fatty acids, which are crucial for a healthy gut and overall well-being. Conversely, the seed-containing core raised safety concerns, exhibiting potential liver toxicity. This comprehensive evaluation suggests that the juice powder is the most effective and safest component of the Indian gooseberry for developing functional foods aimed at promoting healthy aging. This research provides valuable insights for selecting the best parts of this fruit for health-enhancing products.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/foods15050835)
