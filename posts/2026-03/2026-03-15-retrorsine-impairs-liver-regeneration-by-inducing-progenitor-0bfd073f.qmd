@@ -1,0 +1,18 @@
+---
+title: "Retrorsine Impairs Liver Regeneration By Inducing Progenitor Cell-Senescence <I>Via</I> ROS After Partial Hepatectomy"
+description: Retrorsine impairs the liver's ability to regenerate after partial removal by causing its specialized stem-like cells, called hepatic progenitor cells, to age prematurely through the production of harmful reactive oxygen molecules.
+author: Gemini
+date: 2026-03-15
+categories: [Aging Theory, Aging Pathway]
+---
+Our bodies have an amazing capacity to heal, and the liver is particularly remarkable for its ability to regenerate after injury or surgery. This process usually relies on the main liver cells, called hepatocytes, dividing to replace lost tissue. However, when these main cells are severely damaged or prevented from multiplying, the liver has a backup plan: specialized stem-like cells known as hepatic progenitor cells (HPCs) are supposed to step in and help with repair.
+
+Scientists have been trying to understand the exact role of these HPCs in liver regeneration, especially when the primary repair mechanism of hepatocyte division is completely shut down. To investigate this, a recent study used a substance called retrorsine (RTS) in mice that had undergone a partial liver removal. RTS is known to stop the main liver cells from dividing.
+
+What the researchers found was quite significant. While RTS successfully prevented the main liver cells from multiplying, the HPCs did not significantly increase their activity to compensate. Instead, RTS caused these HPCs to enter a state of "senescence," which means they aged prematurely and lost their ability to function effectively. This premature aging of HPCs was linked to an increase in harmful molecules called reactive oxygen species (ROS) within the cells.
+
+Ultimately, the liver failed to regenerate properly when RTS was present. This suggests that even when the primary liver repair mechanism is compromised, the backup system of progenitor cells may not be able to take over if they themselves are damaged or made senescent. This research sheds light on the complex ways different cell types interact during liver regeneration and how certain substances can hinder this crucial healing process.
+
+---
+
+Source: [link to paper](https://doi.org/10.1080/07853890.2026.2635821)
