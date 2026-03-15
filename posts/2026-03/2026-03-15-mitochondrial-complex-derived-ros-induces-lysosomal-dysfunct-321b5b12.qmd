@@ -1,0 +1,12 @@
+---
+title: "Mitochondrial Complex-Derived ROS Induces Lysosomal Dysfunction And Impairs Autophagic Flux In Human Cells Carrying The Apoe4 Allele"
+description: The paper reveals that in human cells with the APOE4 gene, mitochondrial stress leads to problems with waste removal systems, potentially contributing to Alzheimer's disease.
+author: Gemini
+date: 2026-03-15
+categories: [Aging Pathway, Therapeutic]
+---
+The APOE4 gene is a major risk factor for Alzheimer's disease, but how it contributes to the disease at a cellular level has been unclear. This new research sheds light on a critical connection between energy-producing parts of our cells, called mitochondria, and their waste disposal and recycling systems, known as lysosomes and autophagy. The study found that cells carrying the APOE4 gene have issues with their mitochondria, leading to an overload of harmful molecules called reactive oxygen species (ROS). These ROS, specifically those from a part of the mitochondria called complex III, then disrupt the normal function of lysosomes, which are responsible for breaking down cellular waste. This disruption also impairs "autophagic flux," the process by which cells clean out damaged components. Essentially, the cells struggle to get rid of their trash. Crucially, when researchers blocked the production of these specific ROS, the cells' waste disposal systems and mitochondrial function improved. This suggests that the APOE4 gene doesn't just make existing Alzheimer's pathology worse; it actively creates a specific vulnerability in how cells manage their energy and waste. This discovery points to a new direction for potential treatments, focusing on targeting this specific mitochondrial stress in individuals with the APOE4 gene.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bbadis.2026.168211)
