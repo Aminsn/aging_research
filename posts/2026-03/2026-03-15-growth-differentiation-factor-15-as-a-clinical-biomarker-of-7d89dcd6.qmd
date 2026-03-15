@@ -1,0 +1,16 @@
+---
+title: "Growth Differentiation Factor-15 As A Clinical Biomarker Of Frailty, Sarcopenia And Functional Decline: A Systematic Literature Review"
+description: Growth Differentiation Factor-15 (GDF-15), a protein released in response to stress, is consistently linked to poorer physical ability and increased frailty, and may predict future declines in physical function.
+author: Gemini
+date: 2026-03-15
+categories: [Aging Pathway, Analytical, Therapeutic, Lever]
+---
+As we age, maintaining physical strength and overall well-being becomes increasingly important. Scientists are constantly searching for ways to identify individuals at risk of age-related conditions like frailty and muscle loss, known as sarcopenia, early on. A promising new area of research focuses on a protein called Growth Differentiation Factor-15 (GDF-15).
+
+This protein acts as a signal in the body, particularly when cells are under stress, such as from issues with energy production (mitochondrial dysfunction), cellular aging, or widespread inflammation. Recent investigations have shown that higher levels of GDF-15 in the blood are frequently associated with a decline in physical performance and a greater degree of frailty, a state of increased vulnerability to poor health outcomes. In fact, some studies suggest that measuring GDF-15 could even help predict who might experience a decline in their physical abilities in the future.
+
+While the connection between GDF-15 and muscle loss (sarcopenia) is still being explored and shows some variability, its strong link to overall frailty and physical function is a significant finding. This suggests that GDF-15 could become a valuable tool in personalized care for older adults, helping healthcare providers identify those who could benefit most from early interventions to maintain their health and independence. However, more research is needed to fully understand how to best use this biomarker in clinical practice and to account for factors like individual differences and measurement techniques.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.arr.2026.103085)
