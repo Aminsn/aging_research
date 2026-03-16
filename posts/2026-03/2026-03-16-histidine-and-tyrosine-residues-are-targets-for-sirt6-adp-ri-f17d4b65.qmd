@@ -1,0 +1,16 @@
+---
+title: "Histidine And Tyrosine Residues Are Targets For Sirt6 ADP-Ribosylation Activity"
+description: Researchers have discovered that the protein SIRT6 modifies other proteins by attaching ADP-ribose molecules to histidine and tyrosine amino acid residues, and that another enzyme, ARH3, can remove these modifications.
+author: Gemini
+date: 2026-03-16
+categories: [Aging Pathway]
+---
+Our cells are bustling with activity, and proteins are the workhorses that carry out most tasks. To control their functions, proteins often undergo "post-translational modifications," which are like tiny tags added or removed after a protein is made. One such tag is called ADP-ribosylation, where a molecule called ADP-ribose is attached to a protein. This modification is crucial for many cellular processes, including how our genes are regulated, how our DNA repairs itself, and even how we age. 
+
+For a long time, scientists knew that a protein called SIRT6, a member of the sirtuin family, was involved in these processes. SIRT6 has two main jobs: removing "acetyl" tags (deacetylation) and adding "ADP-ribose" tags (ADP-ribosylation). Most research has focused on its deacetylation activity, leaving its ADP-ribosylation role largely a mystery. 
+
+Recently, a breakthrough study shed light on this underexplored function. Using advanced biochemical and proteomic techniques, researchers found that SIRT6 specifically attaches ADP-ribose molecules to two particular building blocks of proteins: histidine and tyrosine residues. This discovery is significant because it pinpoints the exact locations where SIRT6 performs its ADP-ribosylation work. The study also identified that another enzyme, called ARH3, acts as an "eraser," effectively removing these ADP-ribose tags added by SIRT6. This suggests a dynamic and reversible regulatory system, where SIRT6 adds the tags and ARH3 removes them, allowing for precise control over cellular activities. Understanding these specific targets and the enzymes that reverse the modifications provides crucial insights into how SIRT6 influences fundamental cellular processes related to health and disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.1098/rsob.250181)
