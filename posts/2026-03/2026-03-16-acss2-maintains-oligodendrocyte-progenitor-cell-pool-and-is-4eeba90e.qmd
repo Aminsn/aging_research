@@ -1,0 +1,16 @@
+---
+title: "Acss2 Maintains Oligodendrocyte Progenitor Cell Pool And Is Required For Myelination During Development And Aging"
+description: The protein ACSS2 is crucial for maintaining the population of oligodendrocyte progenitor cells and is essential for the formation of myelin during brain development and throughout aging.
+author: Gemini
+date: 2026-03-16
+categories: [Aging Pathway, Therapeutic]
+---
+Our brains rely on specialized cells called oligodendrocytes to produce myelin, a fatty sheath that insulates nerve fibers and allows for rapid communication. These myelin-producing cells originate from oligodendrocyte progenitor cells (OPCs), which are vital for both initial brain development and for repairing myelin damage later in life. Recent research has shed light on a key player in maintaining these crucial OPCs: a protein called ACSS2. 
+
+Scientists observed a significant decrease in OPCs during aging, particularly in a subpopulation that highly expresses ACSS2. When ACSS2 was removed from the cells responsible for producing myelin, it led to a reduced number of OPCs, problems with myelin formation during development, and impaired myelin maintenance in adulthood and old age. This also worsened age-related cognitive decline. 
+
+Delving into the mechanism, it was found that ACSS2 helps modify certain proteins (specifically, it acetylates H4K12 and H3K27), which in turn boosts the production of Gria2. Gria2 is a component of a receptor important for OPCs to multiply. Interestingly, providing acetate, a substance that ACSS2 uses, helped preserve the number of OPCs, promoted myelin repair after injury, and even improved cognitive function in older mice. These findings underscore the critical role of ACSS2 in utilizing acetate to sustain the OPC population and support myelin production throughout life, offering potential avenues for therapies targeting demyelinating diseases and age-related cognitive decline.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s43587-026-01071-9)
