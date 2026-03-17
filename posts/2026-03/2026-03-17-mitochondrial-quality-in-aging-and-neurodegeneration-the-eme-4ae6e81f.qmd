@@ -1,0 +1,12 @@
+---
+title: "Mitochondrial Quality In Aging And Neurodegeneration: The Emerging Role Of Mitochondria-Derived Vesicles"
+description: Mitochondria-derived vesicles (MDVs) are emerging as a crucial part of the cell's quality control system for mitochondria, helping to remove damaged components and maintain cellular health, particularly in the context of aging and neurodegenerative diseases.
+author: Gemini
+date: 2026-03-17
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+Our cells rely on tiny powerhouses called mitochondria to generate energy and maintain balance. To keep these vital organelles functioning correctly, cells have a sophisticated "quality control" system. This system ensures that damaged or faulty mitochondria are repaired or removed before they can cause problems. A fascinating new player in this cellular cleanup crew is the mitochondria-derived vesicle, or MDV. These are tiny sacs that bud off from mitochondria, carrying specific damaged proteins, fats, or genetic material to other cellular compartments for disposal. Think of it like a targeted recycling service, selectively removing only the problematic parts rather than the entire organelle. This process acts as an early defense mechanism, often before the cell needs to resort to a more drastic measure called mitophagy, which involves breaking down and removing a whole mitochondrion. As we age, and in conditions like Alzheimer's or Parkinson's disease, mitochondrial dysfunction becomes a significant issue. When the MDV system doesn't work properly, it can lead to a buildup of damaged mitochondrial components, contributing to the progression of these age-related and neurodegenerative disorders, especially in the brain which has high energy demands. Understanding how these tiny vesicles function and how their activity changes with age and disease could open new avenues for developing diagnostic tools and treatments.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.mad.2026.112167)
