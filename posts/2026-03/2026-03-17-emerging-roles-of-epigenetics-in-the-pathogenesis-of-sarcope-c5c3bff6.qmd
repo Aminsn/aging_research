@@ -1,0 +1,12 @@
+---
+title: "Emerging Roles Of Epigenetics In The Pathogenesis Of Sarcopenia"
+description: Epigenetic changes, which are molecular switches that control how genes function without altering the DNA itself, are increasingly recognized as central drivers of sarcopenia, the age-related loss of muscle mass and strength.
+author: Gemini
+date: 2026-03-17
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+Sarcopenia, the gradual loss of muscle mass and strength that often accompanies aging, makes everyday activities challenging and increases the risk of falls. While aging and lifestyle play a role, recent research highlights the critical involvement of "epigenetic changes." These aren't changes to our DNA sequence itself, but rather molecular switches that turn genes on or off, influencing how our cells behave. In the context of muscle health, these epigenetic switches can affect how muscle cells grow, repair damage, produce energy, and respond to inflammation. When these switches are disrupted as we age, they can accelerate muscle loss. Specifically, mechanisms like DNA methylation (adding a chemical tag to DNA), chromatin remodeling (reorganizing the packaging of DNA), and noncoding RNA regulation (molecules that control gene expression without coding for proteins) are implicated. These processes collectively lead to problems in muscle regeneration, energy production, and protein balance, contributing to the decline in muscle and bone. The good news is that these epigenetic changes are potentially reversible. This opens up exciting possibilities for developing new strategies for early detection and treatment of muscle loss, including novel diagnostic tools and therapies that could help older adults maintain their strength and independence.
+
+---
+
+Source: [link to paper](https://doi.org/10.1080/17501911.2026.2637968)
