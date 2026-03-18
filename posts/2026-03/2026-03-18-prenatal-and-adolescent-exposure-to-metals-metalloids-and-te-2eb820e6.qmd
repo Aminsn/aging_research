@@ -1,0 +1,16 @@
+---
+title: "Prenatal And Adolescent Exposure To Metals/Metalloids And Telomere Dynamics At 14 Years: Evidence From The Chitwan Birth Cohort"
+description: A long-term study found that while prenatal exposure to several metals and metalloids did not predict telomere length in adolescents, higher urinary selenium levels and better perceived neighborhood quality during adolescence were associated with longer telomeres.
+author: Gemini
+date: 2026-03-18
+categories: [Lever, Analytical]
+---
+Our bodies have tiny protective caps on the ends of our chromosomes called telomeres, which are often compared to the plastic tips on shoelaces. These telomeres naturally shorten as we age, and their length can be an indicator of our cellular aging and overall health. Scientists have been curious about what factors, especially early in life, might influence how quickly these telomeres shorten.
+
+In a recent study, researchers followed a group of children from before birth until they were 14 years old to explore if exposure to certain metals and metalloids—like arsenic, lead, selenium, zinc, and copper—could affect their telomere length. They analyzed samples taken at birth and during adolescence to measure these exposures and the children's telomere lengths.
+
+Interestingly, the study found that the levels of these metals and metalloids measured in cord blood at birth did not predict the children's telomere length when they reached 14 years old. This suggests that early exposure to these specific substances might not have a lasting impact on telomere length into adolescence. However, the research did uncover some important connections during the adolescent years. It revealed that adolescents with higher levels of selenium in their urine and those who reported living in better quality neighborhoods tended to have longer telomeres. This highlights that factors in a child's environment and their nutritional status, particularly selenium, during their developmental years could play a significant role in their cellular aging process.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jtemb.2026.127856)
