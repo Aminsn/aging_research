@@ -1,0 +1,16 @@
+---
+title: "Coffee Silverskin Supplementation Alleviates High-Glucose-Diet-Induced Obesity By Modulating Lipogenic Gene Expression In <I>Caenorhabditis Elegans</I> Model"
+description: Supplementing with coffee silverskin, a coffee roasting byproduct, reduced fat accumulation and influenced genes related to fat production in worms fed a high-sugar diet.
+author: Gemini
+date: 2026-03-18
+categories: [Aging Pathway, Lever]
+---
+Did you know that a byproduct of coffee roasting, called coffee silverskin, might hold a secret to combating obesity? This often-discarded material is rich in beneficial compounds like xanthines and polyphenols. Recent research explored its potential using a tiny worm, *Caenorhabditis elegans*, as a model organism to understand its effects on metabolism.
+
+The study found that when these worms were given a high-sugar diet, supplementing their food with coffee silverskin significantly reduced the amount of fat they accumulated. It achieved this by influencing the expression of "lipogenic genes," which are essentially the instructions within cells that control the production of fats. By modulating these genes, the coffee silverskin helped the worms manage their fat metabolism more effectively.
+
+Beyond just fat reduction, the coffee silverskin also showed other health benefits. It helped to reduce "oxidative stress," which is a type of cellular damage caused by harmful molecules, and improved other indicators of overall health in the worms. These exciting findings suggest that coffee silverskin could be a valuable ingredient for developing functional foods or nutritional supplements aimed at alleviating metabolic stress and potentially helping in the fight against obesity.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/molecules31050887)
