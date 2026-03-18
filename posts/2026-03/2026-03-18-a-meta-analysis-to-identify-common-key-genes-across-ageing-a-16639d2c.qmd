@@ -1,0 +1,12 @@
+---
+title: "A Meta-Analysis To Identify Common Key Genes Across Ageing, Alzheimer'S And Parkinson'S Diseases"
+description: A meta-analysis identified a shared set of 142 genes consistently dysregulated across aging, Alzheimer's, and Parkinson's diseases, revealing a common molecular core underlying neurodegeneration.
+author: Gemini
+date: 2026-03-18
+categories: [Aging Pathway, Analytical]
+---
+Scientists have uncovered a shared genetic blueprint that links normal aging with debilitating conditions like Alzheimer's and Parkinson's diseases. By analyzing extensive brain data, researchers identified 142 genes that are consistently disrupted across all three conditions. These genes play vital roles in fundamental brain processes such as how brain cells communicate (synaptic signaling), how materials are transported within neurons (axonal transport), how substances are moved in and out of cells (vesicle trafficking), and how calcium levels are maintained, which is crucial for cell function. The study pinpointed three key regulatory genes—CALM3, CDC42, and RAB3A—as central players in maintaining healthy neuronal communication and cell structure. Furthermore, the research revealed that tiny molecules called microRNAs, specifically miR-29, miR-34, miR-7, and miR-195, are involved in coordinating the activity of these crucial genes. This discovery suggests that aging and these neurodegenerative diseases might share common underlying biological pathways, offering promising new targets for developing treatments that could potentially address multiple conditions simultaneously.
+
+---
+
+Source: [link to paper](https://doi.org/10.1177/09727531261420619)
