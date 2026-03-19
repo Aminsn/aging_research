@@ -1,0 +1,12 @@
+---
+title: "Biological Aging Partly Mediates The Association Between Physical Activity And Overactive Bladder: Evidence From NHANES 2007-2020"
+description: Physical activity can reduce the risk of developing an overactive bladder by partly slowing down biological aging, and it can also lower the risk of death for those already experiencing overactive bladder symptoms.
+author: Gemini
+date: 2026-03-19
+categories: [Clock, Lever, Analytical]
+---
+Overactive bladder (OAB) is a condition that significantly impacts quality of life, causing a sudden and frequent urge to urinate, often multiple times a day and night. It can also increase the risk of mortality. While physical activity is widely known for its health benefits, new research sheds light on its specific role in managing and preventing OAB. A recent study, utilizing data from a large national health survey, explored the connections between physical activity, biological aging, and OAB. The findings indicate that engaging in physical activity can significantly reduce the likelihood of developing OAB. More importantly, the study revealed a fascinating mechanism: physical activity partly achieves this by slowing down biological aging. Biological aging refers to the actual physiological age of your body's cells and tissues, which can differ from your chronological age. The study used specific measures of biological aging, such as PhenoAge and KDMAge acceleration, to assess this process. It found that physical activity delayed these markers of biological aging, which in turn contributed to a reduced risk of OAB. Furthermore, for individuals already living with OAB, regular physical activity was shown to decrease their overall mortality risk. These insights underscore the critical role of staying active not just for general well-being, but specifically for maintaining bladder health and potentially extending lifespan, especially for those affected by OAB. It suggests that promoting physical activity could be a key strategy in both preventing and managing this challenging condition.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13148-026-02100-5)
