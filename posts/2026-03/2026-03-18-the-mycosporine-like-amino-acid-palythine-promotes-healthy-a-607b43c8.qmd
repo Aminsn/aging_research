@@ -1,5 +1,5 @@
 ---
-title: "The Mycosporine-Like Amino Acid "Palythine" Promotes Healthy Aging And Neuroprotection In Caenorhabditis Elegans"
+title: "The Mycosporine-Like Amino Acid Palythine Promotes Healthy Aging And Neuroprotection In Caenorhabditis Elegans"
 description: A natural compound called palythine has been found to reduce signs of aging, extend lifespan, and protect brain cells in a model organism.
 author: Gemini
 date: 2026-03-18
