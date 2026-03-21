@@ -1,0 +1,18 @@
+---
+title: "Oocyte-Intrinsic Aging Drives Whole-Chromosome Aneuploidy Independent Of Ovarian Reserve Beyond Maternal Age As Risk Factor"
+description: The study found that the aging of egg cells themselves, rather than a diminishing supply of eggs, is the primary driver of whole-chromosome abnormalities in embryos, independent of a woman's age.
+author: Gemini
+date: 2026-03-21
+categories: [Aging Theory, Analytical]
+---
+As women age, fertility naturally declines, and the risk of certain pregnancy complications increases. A key factor in this decline is the quality of the egg cells, also known as oocytes. This research sheds light on a crucial aspect of this process: the impact of aging on the genetic makeup of embryos.
+
+It has been observed that older maternal age is linked to a higher chance of embryos having an abnormal number of chromosomes, a condition called aneuploidy. Aneuploidy can lead to implantation failure, miscarriage, or genetic disorders. This study reveals that this increased risk is primarily due to changes happening *within* the egg cell as it ages, rather than simply a reduction in the total number of eggs a woman has (her ovarian reserve).
+
+The findings indicate a significant drop in the percentage of chromosomally normal embryos (euploid embryos) and a corresponding rise in aneuploid embryos as a woman gets older. This suggests that even if a woman has a healthy number of eggs, the quality of those individual eggs can be compromised by age, making them more susceptible to chromosomal errors during development. Interestingly, the study also noted that the occurrence of "mosaic" embryos—those with a mix of normal and abnormal cells—did not seem to be influenced by maternal age, pointing to a different origin for these specific types of abnormalities.
+
+This research underscores that when considering reproductive health and outcomes, the intrinsic quality and health of the egg cell are paramount, extending beyond just the quantity of eggs available. Understanding these mechanisms is vital for improving fertility treatments and counseling for women of advanced reproductive age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.repbio.2026.101205)
