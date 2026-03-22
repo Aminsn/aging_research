@@ -1,0 +1,12 @@
+---
+title: "Single-Cell Transcriptional And Epigenomic Landscape Of Human Blood Immune Cells Across The Lifespan"
+description: This study created a detailed map of how human blood immune cells change throughout a person's life, from before birth into old age, revealing specific age-related patterns that offer insights into immune aging and its connection to diseases.
+author: Gemini
+date: 2026-03-22
+categories: [Aging Pathway, Analytical]
+---
+Our immune system is constantly changing, adapting as we grow from a fetus to an adult and into old age. Understanding these changes is crucial for comprehending why our immune responses shift over time and how this impacts age-related diseases. Researchers have now explored these dynamics in unprecedented detail by examining individual blood immune cells across the entire human lifespan. They utilized cutting-edge technologies, single-cell RNA sequencing and single-cell assay for transposase-accessible chromatin sequencing, to analyze the genetic activity and accessibility of DNA in thousands of individual cells from peripheral blood. This allowed them to see precisely how different types of immune cells, such as T cells, natural killer cells, and monocytes, evolve with age. The findings revealed significant age-associated reprogramming, particularly within T cells, which showed the most substantial changes in their genetic expression. For instance, a specific type of T cell, called ITGB1+CD8+ effector memory T cells, was identified as playing a protective role during young adulthood. Conversely, an immunosuppressive natural killer cell subset was found to be more abundant in early childhood. As individuals aged, an increase in certain monocytes, known as IL1Bhi monocytes, was observed, contributing to a phenomenon called "inflammaging" – a chronic, low-grade inflammation linked to aging. This comprehensive investigation provides a valuable resource, offering a detailed atlas of immune cell changes throughout life and shedding light on the mechanisms behind immune aging and its role in various age-related health conditions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.celrep.2026.117072)
