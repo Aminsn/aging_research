@@ -1,0 +1,18 @@
+---
+title: "LDL Oxidation And Cerebrovascular Aging: Mechanisms Of Endothelial Dysfunction, Inflammation, And Vascular Cognitive Impairment And Dementia"
+description: Oxidized "bad" cholesterol, known as LDL, significantly contributes to the aging of brain blood vessels, leading to problems with blood vessel function, inflammation, and ultimately, memory and thinking decline.
+author: Gemini
+date: 2026-03-22
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, many of us worry about our cognitive health and the risk of conditions like dementia. A key factor contributing to this decline, particularly a type called vascular cognitive impairment and dementia, appears to be the impact of oxidized low-density lipoprotein (LDL), often referred to as "bad" cholesterol.
+
+When LDL cholesterol becomes oxidized, it initiates a cascade of harmful events within the brain's delicate blood vessel system. This oxidized LDL (oxLDL) directly harms the inner lining of blood vessels, a condition known as endothelial dysfunction, making them less effective at regulating blood flow and protecting the brain. It also triggers a chronic inflammatory response in the brain, involving immune cells like microglia and astrocytes, which can further damage brain tissue.
+
+Furthermore, oxLDL weakens the crucial blood-brain barrier, a protective shield that normally prevents harmful substances from entering the brain from the bloodstream. This compromise in the barrier's integrity, along with increased oxidative stress—an imbalance that leads to cell damage—allows for greater brain vulnerability. The cumulative effect includes mitochondrial dysfunction, where the "powerhouses" of brain cells don't work properly, and epigenetic alterations, which are changes in how genes are expressed without altering the underlying DNA.
+
+These mechanisms collectively lead to reduced blood flow to the brain, a state called cerebral hypoperfusion, and a mismatch between nerve activity and blood flow, known as neurovascular uncoupling. Ultimately, this ongoing damage contributes to the loss of nerve cells and their connections, manifesting as a decline in memory and thinking abilities.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.redox.2026.104118)
