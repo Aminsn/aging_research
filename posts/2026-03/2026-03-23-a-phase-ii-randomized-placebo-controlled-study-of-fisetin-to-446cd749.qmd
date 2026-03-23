@@ -1,0 +1,20 @@
+---
+title: "A Phase II Randomized Placebo-Controlled Study Of Fisetin To Improve Physical Function In Breast Cancer Survivors: The Troffi Study Rationale And Trial Design"
+description: This paper outlines the design of a phase II randomized, placebo-controlled clinical trial investigating whether the natural compound fisetin can improve physical function in postmenopausal breast cancer survivors who have experienced a decline in physical function after chemotherapy.
+author: Gemini
+date: 2026-03-23
+categories: [Aging Theory, Therapeutic]
+---
+Many women who have completed chemotherapy for early-stage breast cancer, particularly those who are postmenopausal, often experience a persistent decline in their physical abilities. This can significantly impact their quality of life, and currently, there are no approved medications to prevent or reverse this issue.
+
+One theory behind this lasting impairment is cellular senescence, a process where cells age and stop dividing but don't die. These "senescent" cells can accumulate in the body, leading to inflammation and a loss of normal function. Chemotherapy is known to increase the number of these senescent cells.
+
+Researchers are exploring new ways to tackle this problem, and one promising avenue involves compounds called senolytics, which are designed to eliminate these senescent cells. Fisetin, a natural substance found in foods like strawberries, is one such senolytic that has shown potential in laboratory and animal studies to reduce senescent cells and improve physical function.
+
+To investigate this further, a new phase II clinical trial is underway. This study is a randomized, double-blind, placebo-controlled trial, meaning participants are randomly assigned to receive either fisetin or a placebo, and neither the participants nor the researchers know who is receiving which. The main goal is to determine if fisetin can improve physical function in postmenopausal breast cancer survivors who have completed chemotherapy and are experiencing diminished physical function.
+
+The trial will involve 88 postmenopausal women with early-stage breast cancer who finished chemotherapy within the past year and have a reduced 6-minute walk distance, a common measure of physical function. If successful, this research could pave the way for a much-needed treatment to help breast cancer survivors regain their physical strength and improve their overall well-being.
+
+---
+
+Source: [link to paper](https://doi.org/10.1177/17588359261424668)
