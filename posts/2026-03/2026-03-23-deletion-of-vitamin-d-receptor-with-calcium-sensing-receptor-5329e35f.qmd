@@ -1,0 +1,12 @@
+---
+title: "DELETION OF VITAMIN D RECEPTOR WITH CALCIUM SENSING RECEPTOR IN KERATINOCYTES PROMOTES EPIDERMAL TUMORIGENESIS BY LIMITING DNA REPAIR AND OXIDATIVE STRESS RESPONSE GENES"
+description: The absence of both vitamin D and calcium-sensing receptors in skin cells promotes the development of skin cancer by hindering the cells' ability to repair DNA and respond to oxidative stress.
+author: Gemini
+date: 2026-03-23
+categories: [Aging Pathway, Analytical]
+---
+Our skin cells rely on important internal communicators, specifically the vitamin D receptor and the calcium-sensing receptor, to grow and specialize properly. When these two communicators are missing from skin cells, it not only causes issues like hair loss and slower wound healing but also significantly increases the risk of developing skin cancer, specifically squamous cell carcinoma, as we age. This happens because, without these crucial receptors, skin cells become less effective at repairing damaged DNA and combating oxidative stress—a harmful imbalance that can damage cells. Essentially, these receptors act as vital protectors, helping our skin cells maintain their health and integrity against factors that can lead to tumor formation. Their role extends to influencing key pathways, like the p53 signaling pathway, which is known for its tumor-suppressing functions, further highlighting their importance in preventing skin cancer.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jsbmb.2026.106993)
