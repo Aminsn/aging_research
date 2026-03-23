@@ -1,0 +1,16 @@
+---
+title: "Protein Signatures Of Aging In The Hemolymph Of Marbled Crayfish: Insights Into Crustacean Immune Aging"
+description: Aging in marbled crayfish leads to changes in the proteins found in their circulatory fluid, indicating a shift in immune responses and declines in functions like wound healing and regeneration.
+author: Gemini
+date: 2026-03-23
+categories: [Aging Pathway, Analytical]
+---
+As living organisms age, their bodies undergo various changes, often leading to a decline in overall function. To better understand this process in invertebrates, scientists have investigated the molecular changes occurring in marbled crayfish as they get older. They specifically looked at the proteins present in the crayfish's "hemolymph," which is similar to blood in vertebrates and plays a crucial role in immunity and other bodily functions. 
+
+Using advanced techniques to measure and compare protein levels, researchers found significant differences between young and old crayfish. For instance, proteins involved in the immune system showed altered levels, suggesting that the way older crayfish fight off infections might change, possibly shifting from one defense mechanism (melanization) to another (phagocytosis), and generally becoming less effective. 
+
+Beyond immunity, the study also revealed age-related changes in proteins linked to important processes like wound healing and the ability to regenerate lost body parts, which appeared to be reduced in older individuals. Furthermore, proteins associated with managing cellular stress, reproduction, breathing, and energy production also showed variations with age. These findings offer valuable insights into the intricate molecular mechanisms that underpin aging in crustaceans, highlighting how the composition of their bodily fluids changes and impacts their health over time.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.cbd.2026.101806)
