@@ -1,0 +1,18 @@
+---
+title: "Lead Optimization: Synthesis And Biological Evaluation Of Griseofulvin Derivatives As Novel Sirt6 Activators"
+description: Researchers have identified and optimized derivatives of the natural product griseofulvin as potent activators of SIRT6, an enzyme crucial for regulating aging and cellular health.
+author: Gemini
+date: 2026-03-24
+categories: [Aging Pathway, Therapeutic]
+---
+Scientists are constantly searching for new ways to combat aging and age-related diseases. One promising target is an enzyme called SIRT6, which plays a vital role in maintaining our cells' health and regulating the aging process. Finding molecules that can activate SIRT6 could lead to new treatments for various conditions, from cancer to age-related disorders.
+
+A recent study explored a well-known antifungal compound called griseofulvin and its modified versions as potential SIRT6 activators. The researchers found that griseofulvin itself significantly boosts SIRT6 activity, increasing it up to tenfold at certain concentrations.
+
+While initial modifications to the griseofulvin structure sometimes reduced its effectiveness, focusing on a specific part of a related compound, forvisirvat (which is already being tested in clinical trials), proved fruitful. This strategic approach led to the creation of new derivatives with even greater potency. For instance, one particular derivative showed a remarkable 30-fold increase in SIRT6 activation.
+
+Crucially, some of these newly developed compounds maintained their strong activating properties even at lower, more medically relevant concentrations. This sustained activity highlights their potential as promising candidates for further development into drugs that could harness SIRT6 to promote healthier aging and treat diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1021/acsmedchemlett.5c00690)
