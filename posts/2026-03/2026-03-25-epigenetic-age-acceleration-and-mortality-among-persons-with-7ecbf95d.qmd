@@ -1,0 +1,12 @@
+---
+title: "Epigenetic Age Acceleration And Mortality Among Persons With Poorly Controlled HIV"
+description: Individuals with HIV, particularly those with poorly controlled viral loads, experience accelerated biological aging at a cellular level, which significantly increases their risk of death.
+author: Gemini
+date: 2026-03-25
+categories: [Clock, Analytical]
+---
+Our bodies have a biological clock that can sometimes tick faster than our chronological age, a phenomenon known as accelerated biological aging. Recent research has shed light on how this accelerated aging impacts individuals living with HIV, especially those whose viral infection is not well-controlled. The study found that people with HIV, particularly those with detectable levels of the virus in their blood or weakened immune systems, show signs of their cells aging more rapidly than individuals without HIV. This cellular aging isn't just an interesting observation; it's independently linked to a significantly higher risk of death. In fact, having accelerated biological aging, whether or not combined with HIV, was associated with a substantially increased chance of mortality. These findings highlight the critical importance of managing HIV effectively and suggest that addressing the underlying biological aging processes could be a new frontier in improving health outcomes and extending lives for this vulnerable population.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/gerona/glag071)
