@@ -1,0 +1,18 @@
+---
+title: "Cellular Senescence In Skeletal Muscle Aging"
+description: Cells that stop dividing and accumulate with age, known as senescent cells, play a significant role in the decline of skeletal muscle mass and function.
+author: Gemini
+date: 2026-03-25
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+As we age, our bodies undergo various changes, and one key process contributing to this is called cellular senescence. This is a state where cells stop dividing permanently, even though they are still alive. These "senescent" cells accumulate in tissues over time and are characterized by several features, including DNA damage and a distinctive "senescence-associated secretory phenotype" (SASP).
+
+The SASP involves these cells releasing a cocktail of inflammatory molecules, enzymes, and growth factors that can negatively affect the surrounding healthy tissue. In skeletal muscle, the accumulation of these senescent cells is linked to the age-related decline in muscle mass and strength, a condition known as sarcopenia. They can also impair the ability of muscle stem cells, called satellite cells, which are crucial for muscle repair and regeneration, to function properly.
+
+Research in both animal models and humans has shown an increase in markers associated with cellular senescence, such as specific proteins like p16 and p21, and components of the SASP, in aging skeletal muscle. These findings suggest that cellular senescence is a significant factor in how our muscles age.
+
+Crucially, studies have explored therapeutic approaches, known as senotherapeutics or senolytics, which are drugs designed to selectively eliminate these senescent cells. In preclinical models, these interventions have shown promise in improving the molecular profile and function of skeletal muscle, offering a potential strategy to combat age-related muscle decline and enhance muscle health in later life.
+
+---
+
+Source: [link to paper](https://doi.org/10.3803/EnM.2025.2816)
