@@ -1,0 +1,18 @@
+---
+title: "Deoxynivalenol-Induced Circadian CLOCK Oscillation Disruption Promotes Raw264.7 Macrophage Immunosenescence By Unleashing Cgas-STING Signaling"
+description: A recent study reveals that a common mycotoxin, deoxynivalenol, disrupts the natural daily rhythms within immune cells called macrophages, leading to their premature aging by activating a specific immune pathway.
+author: Gemini
+date: 2026-03-27
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies have internal clocks, called circadian rhythms, that regulate many functions, including how our immune cells, like macrophages, work. These rhythms help keep our cells healthy and functioning properly. However, exposure to certain toxins can throw these internal clocks out of whack. 
+
+New research sheds light on how a common mold toxin, deoxynivalenol (DON), can disrupt these crucial daily rhythms in macrophages. When these rhythms are disturbed, it can lead to a process called immunosenescence, essentially the premature aging of these vital immune cells. 
+
+This premature aging happens because the disruption "unleashes" a specific alarm system within the cells known as the cGAS-STING pathway. This pathway is usually activated when the cell detects foreign or damaged DNA, triggering an immune response. However, in this case, the toxin-induced circadian disruption incorrectly activates this pathway, contributing to the macrophages becoming senescent, or aged. 
+
+Understanding this mechanism is crucial because aged immune cells are less effective at fighting off infections and can contribute to chronic inflammation. This discovery provides valuable insights into how environmental toxins can impact our immune health and potentially accelerate immune aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.ecoenv.2026.119983)
