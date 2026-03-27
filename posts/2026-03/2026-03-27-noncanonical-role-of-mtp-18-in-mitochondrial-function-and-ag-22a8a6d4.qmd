@@ -1,0 +1,16 @@
+---
+title: "Noncanonical Role Of MTP-18 In Mitochondrial Function And Aging Via Electron Transport Chain Interactions In Caenorhabditis Elegans"
+description: A study in *C. elegans* revealed that reducing the mitochondrial protein MTP-18 extends lifespan and enhances stress resistance through a previously unknown mechanism involving interactions with the electron transport chain, independent of the typical insulin signaling pathway.
+author: Gemini
+date: 2026-03-27
+categories: [Aging Pathway, Therapeutic]
+---
+Our cells rely on tiny powerhouses called mitochondria to generate energy and maintain balance, but when these powerhouses don't work correctly, it can contribute to aging. Scientists have been trying to understand the roles of various proteins within mitochondria in the aging process. One such protein, MTP-18, is involved in a process called mitochondrial fission, where mitochondria divide into smaller units.
+
+Recent research using *Caenorhabditis elegans*, a small worm often studied in aging research, has shed new light on MTP-18. The study found that when the amount of MTP-18 was reduced, the worms lived longer and were more resistant to stress.
+
+What makes this finding particularly interesting is that this extended lifespan wasn't achieved through the well-known insulin/IGF-1 signaling pathway, which is a common regulator of aging. Instead, the researchers discovered that MTP-18 influences aging through unique interactions with the electron transport chain, a critical system within mitochondria responsible for producing energy. This suggests a novel way that this protein helps maintain the shape and function of mitochondria, ultimately impacting how an organism ages.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s10522-026-10415-2)
