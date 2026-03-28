@@ -1,0 +1,18 @@
+---
+title: "Novel Small-Molecule Positive Allosteric Modulator 1 With Blood-Brain Barrier Penetration Activity Exerts Anti-Cellular Senescence Effects Via The Pac1-R/Yy1/Sirt6 Pathway"
+description: A novel small molecule, SPAM1, capable of crossing the blood-brain barrier, has been found to reverse cellular aging by modulating the PAC1-R/YY1/SIRT6 pathway, offering potential for treating age-related neurodegeneration.
+author: Gemini
+date: 2026-03-28
+categories: [Therapeutic, Aging Pathway]
+---
+Our bodies are constantly aging, and at the cellular level, this process is called cellular senescence. Senescent cells, often referred to as "zombie cells," stop dividing and accumulate, contributing to various age-related diseases, including neurodegenerative conditions like Alzheimer's and Parkinson's. Scientists are actively searching for ways to combat this cellular aging to promote healthier aging and potentially treat these debilitating diseases. 
+
+A recent breakthrough introduces a promising new compound, a small molecule known as SPAM1, that can effectively penetrate the brain. This is a crucial feature because many potential drugs struggle to reach the brain due to the protective blood-brain barrier. Once in the brain, this molecule targets a specific receptor called PAC1-R.
+
+The research shows that by interacting with PAC1-R, SPAM1 initiates a cascade of events within the cells. It influences key proteins, specifically increasing the levels of SIRT6 and Lamin B1, which are known to play roles in anti-aging and maintaining cell health. Simultaneously, it decreases the levels of YY1 and p16, markers associated with cellular senescence.
+
+In studies using models of aging, treatment with this molecule led to remarkable improvements, including better brain structure and an increase in healthy neurons. These findings suggest that this novel compound could be a powerful tool in the fight against cellular aging and neurodegeneration, paving the way for new therapeutic strategies.
+
+---
+
+Source: [link to paper](https://doi.org/10.3724/abbs.2026032)
