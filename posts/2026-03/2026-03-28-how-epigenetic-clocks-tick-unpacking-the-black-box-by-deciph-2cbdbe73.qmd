@@ -1,0 +1,18 @@
+---
+title: "How Epigenetic Clocks Tick: Unpacking The Black Box By Deciphering Biological Pathways And Transcriptomic Signatures Of Accelerated Aging"
+description: A study investigating how different epigenetic clocks measure biological aging found that these clocks capture distinct biological processes and gene activity patterns, explaining why they vary in predicting health outcomes.
+author: Gemini
+date: 2026-03-28
+categories: [Clock, Aging Pathway, Analytical]
+---
+Have you ever wondered why some people seem to age faster or slower than their chronological years? Scientists use "epigenetic clocks" to estimate our biological age, which can differ from our actual age. These clocks work by looking at chemical tags on our DNA, called DNA methylation, that influence how our genes are turned on or off without changing the underlying genetic code.
+
+While these clocks are powerful tools for predicting health and lifespan, it hasn't always been clear *how* they work or why different clocks sometimes give different predictions. A recent study aimed to open up this "black box" by examining the specific biological processes and gene activity patterns that each clock measures.
+
+Researchers analyzed data from over 3,000 individuals, looking at both their DNA methylation patterns and their gene expression—which indicates which genes are actively working. They investigated five commonly used epigenetic clocks and discovered that each clock largely focuses on unique sets of biological pathways, which are like intricate molecular assembly lines within our cells. This means that while all clocks relate to aging, they are essentially "listening" to different signals within our bodies.
+
+The study also developed "transcriptomic aging gene scores" (TAGS) based on the active genes linked to each clock. These scores not only complemented the existing DNA methylation clocks but, in some cases, were even better at predicting age-related health problems and mortality. These findings help us understand the inner workings of these biological age predictors, making them more interpretable for aging research and paving the way for future clinical applications to better predict and potentially influence our health as we age.
+
+---
+
+Source: [link to paper](https://doi.org/10.21203/rs.3.rs-8844558/v1)
