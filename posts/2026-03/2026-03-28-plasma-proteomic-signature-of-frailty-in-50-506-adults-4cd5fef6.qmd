@@ -1,0 +1,18 @@
+---
+title: "Plasma Proteomic Signature Of Frailty In 50,506 Adults"
+description: Researchers identified over a thousand plasma proteins associated with frailty and developed a proteomic frailty score that can predict various diseases and respond to modifiable risk factors.
+author: Gemini
+date: 2026-03-28
+categories: [Analytical, Aging Pathway, Clock]
+---
+Our bodies are incredibly complex, and as we age, many factors contribute to how well we maintain our health. One important aspect is frailty, a state of increased vulnerability to poor health outcomes. Understanding the biological underpinnings of frailty is crucial for developing effective interventions.
+
+A recent large-scale study delved into the world of proteins found in our blood plasma to uncover new insights into frailty. Plasma proteins are tiny molecules circulating in our blood that play vital roles in almost all bodily functions. By analyzing thousands of these proteins from a vast number of adults, researchers identified a significant number of them that are linked to frailty.
+
+This extensive analysis revealed specific biological pathways, such as those involving the "collagen-containing extracellular matrix" (the support structure around our cells) and "vesicle lumen pathways" (related to how cells transport substances), that are particularly implicated in frailty. More excitingly, the study led to the development of a new tool called the "Proteomic Frailty Score" (PFS). This score, based on the unique patterns of proteins in an individual's blood, proved to be a powerful predictor of a wide range of future diseases. It also showed that it could respond to changes in lifestyle and other factors that we can modify.
+
+The findings also highlighted that changes in frailty-associated proteins occur in distinct phases across a person's lifespan, with notable shifts around ages 50 and 63. To make this research accessible, an online tool was created, allowing anyone to calculate their PFS. This work not only deepens our understanding of frailty at a molecular level but also offers a promising new biomarker for biological aging and identifies potential targets and critical timeframes for interventions to promote healthier aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.cmet.2026.02.013)
