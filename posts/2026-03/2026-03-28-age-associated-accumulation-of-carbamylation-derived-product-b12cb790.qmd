@@ -1,0 +1,12 @@
+---
+title: "Age-Associated Accumulation Of Carbamylation-Derived Products In Tissues Is Independent From The Myeloperoxidase Pathway In Mice"
+description: The study found that the age-related buildup of modified proteins in tissues, known as carbamylation, occurs independently of the myeloperoxidase pathway in mice.
+author: Gemini
+date: 2026-03-28
+categories: [Aging Theory, Aging Pathway]
+---
+As we age, our bodies undergo many changes, including alterations to our proteins. One such alteration is called carbamylation, a natural process where proteins are modified, which can affect their normal function and contribute to various age-related diseases, such as chronic kidney disease and atherosclerosis. This modification happens when a molecule called isocyanic acid binds to proteins. Isocyanic acid can come from two main sources in the body: the breakdown of urea (a waste product) and a reaction catalyzed by an enzyme called myeloperoxidase (MPO). For a long time, scientists have debated the exact contribution of MPO to the accumulation of these modified proteins as we get older. To investigate this, researchers compared mice that lacked the MPO enzyme with normal mice as they aged. Surprisingly, they discovered that the amount and rate of protein carbamylation in tissues did not decrease in mice without MPO. In fact, in some younger MPO-deficient mice, the carbamylation was even higher, suggesting the body might have other ways to compensate. These findings indicate that the MPO pathway is not essential for the widespread, age-related accumulation of these modified proteins throughout the body. This new understanding helps us pinpoint other mechanisms, like the breakdown of urea, as potentially more significant contributors to age-related protein changes, which could guide future research into combating aging and related diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1371/journal.pone.0344708)
