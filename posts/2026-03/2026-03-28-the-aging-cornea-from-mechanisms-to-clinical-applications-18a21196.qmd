@@ -1,0 +1,12 @@
+---
+title: "The Aging Cornea: From Mechanisms To Clinical Applications"
+description: The cornea, a crucial part of the eye for vision and protection, undergoes significant structural and functional changes with age, increasing susceptibility to various eye surface diseases.
+author: Gemini
+date: 2026-03-28
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+As we age, the transparent front part of our eye, called the cornea, which is essential for focusing light and protecting the eye, experiences notable changes. These age-related alterations can make our eyes more vulnerable to various conditions affecting the eye's surface. For instance, the outermost protective layer of the cornea, known as the epithelium, tends to become thinner. The thick middle layer, called the stroma, undergoes changes in its structure, with its main protein, collagen, becoming stiffer due to increased "cross-linking," which is like the fibers getting tangled and rigid. Additionally, the innermost layer of cells, the endothelium, which is vital for keeping the cornea clear, loses cells over time. The nerves within the cornea, crucial for sensation and healing, also decrease in number and function. These changes are driven by fundamental aging processes within our cells. These include damage to our genetic material (genomic instability), the shortening of protective caps on our DNA (telomere shortening), and a decline in the efficiency of our cells' powerhouses (mitochondrial dysfunction). Other factors involve cells that stop dividing but don't die, instead releasing harmful substances (cellular senescence), a less efficient cellular "recycling" process (impaired autophagy), a reduced supply of cells that can repair and replace damaged tissue (stem cell exhaustion), and persistent low-level inflammation. By understanding these complex changes and their underlying mechanisms, researchers aim to develop strategies to slow down corneal aging, maintain overall eye health, and preserve good vision as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.arr.2026.103103)
