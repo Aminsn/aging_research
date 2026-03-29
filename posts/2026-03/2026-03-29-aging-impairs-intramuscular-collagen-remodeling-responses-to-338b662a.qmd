@@ -1,0 +1,14 @@
+---
+title: "Aging Impairs Intramuscular Collagen Remodeling Responses To Repeated Passive Stretching In Skeletal Muscle"
+description: Aging reduces the ability of muscle tissue to properly remodel its internal support structure, specifically collagen, in response to repeated stretching, even though the overall amount of a key collagen type may still increase.
+author: Gemini
+date: 2026-03-29
+categories: [Aging Pathway]
+---
+As we age, our muscles undergo various changes, and one crucial aspect is how the internal scaffolding, known as the extracellular matrix, responds to physical activity. This matrix, largely made of proteins like collagen, provides structural support and plays a vital role in muscle function and repair. Recent research explored how aging affects the muscle's ability to adapt its collagen framework when subjected to regular stretching. 
+
+The study found that older muscles, compared to younger ones, have a reduced baseline level of certain collagen types. While repeated stretching could still increase the presence of a major structural collagen (collagen I) in both young and aged muscles, a key difference emerged in how the muscle regulates its internal support system. Specifically, the dynamic changes in cells responsible for "cross-linking" collagen – a process essential for stabilizing the muscle's internal structure – were significantly less pronounced in older muscles. This suggests that even if the quantity of some collagen increases with stretching in older age, the quality and stability of this remodeled structure might be compromised. These findings highlight that while stretching remains beneficial, the underlying mechanisms for maintaining a healthy and adaptable muscle support system are altered with aging, potentially impacting overall muscle health and flexibility.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/ijms27062753)
