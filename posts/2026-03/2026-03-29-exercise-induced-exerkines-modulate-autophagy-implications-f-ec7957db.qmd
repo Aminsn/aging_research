@@ -1,0 +1,20 @@
+---
+title: "Exercise-Induced Exerkines Modulate Autophagy: Implications For Interorgan Crosstalk In The Hallmarks Of Ageing"
+description: Exercise triggers the release of signaling molecules called exerkines that regulate a cellular recycling process known as autophagy, which is vital for communication between organs and influences the aging process.
+author: Gemini
+date: 2026-03-29
+categories: [Aging Theory, Aging Pathway, Lever]
+---
+As we age and lead more sedentary lives, our bodies become more susceptible to chronic diseases, often linked to disruptions in how our cells maintain themselves. A key cellular process called autophagy, which is responsible for degrading and recycling cellular components, becomes impaired with age and inactivity. This impairment contributes to various health issues, including muscle loss, heart disease, metabolic disorders, and neurodegenerative conditions.
+
+Fortunately, physical exercise acts as a powerful, non-drug intervention that can reactivate autophagy and provide widespread health benefits throughout the body. These benefits aren't just due to local changes in the tissues that are working; they also involve complex communication between different organs.
+
+Central to this communication are special bioactive factors released during exercise, collectively known as "exerkines." These include molecules like myokines from muscles, cardiokines from the heart, adipokines from fat tissue, and hepatokines from the liver. Instead of working in isolation, exerkines create an integrated signaling network that precisely controls autophagy in various tissues, such as skeletal muscle, the heart, liver, adipose tissue, bone, and the central nervous system.
+
+This regulation of autophagy by exerkines involves crucial cellular pathways, including AMPK/mTOR, FoxO, SIRT1, ULK1, and TFEB. These pathways work together to manage energy metabolism, ensure the quality of our cells' powerhouses (mitochondria), control inflammation, and regulate protein turnover.
+
+Understanding this intricate connection between exercise, exerkines, and autophagy offers a promising avenue for developing new strategies to prevent and manage chronic diseases, ultimately promoting healthier aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/ijms27062746)
