@@ -1,0 +1,18 @@
+---
+title: "Bone Marrow Mesenchymal Stem Cell-Derived Exosomes Ameliorate Intervertebral Disc Degeneration By Regulating Hmgb1 Acetylation Via Sirt6"
+description: Bone marrow mesenchymal stem cell-derived exosomes have been found to reduce intervertebral disc degeneration by regulating a specific protein modification, which in turn helps to decrease inflammation.
+author: Gemini
+date: 2026-03-30
+categories: [Aging Pathway, Therapeutic]
+---
+Back pain is a widespread issue, often stemming from a condition called intervertebral disc degeneration, where the cushioning discs between our spinal bones wear down. Current treatments for this condition often have limitations, highlighting the need for new approaches.
+
+Exciting new research points to the potential of tiny sacs, known as exosomes, released by special cells found in bone marrow. These "bone marrow mesenchymal stem cell-derived exosomes" act as messengers, carrying beneficial molecules to damaged areas.
+
+This study reveals that these exosomes can significantly help in treating disc degeneration. They achieve this by influencing a key pathway that controls inflammation. Specifically, they promote the activity of a protein called SIRT6, which then removes a chemical tag from another protein, HMGB1. This action helps to calm down a major inflammatory process in the disc.
+
+The findings show that these exosomes effectively reduce inflammation, prevent the death of important disc cells, and slow down the overall progression of disc degeneration. This discovery offers a promising new strategy for developing therapies to combat intervertebral disc degeneration and alleviate chronic back pain.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bbrc.2026.153648)
