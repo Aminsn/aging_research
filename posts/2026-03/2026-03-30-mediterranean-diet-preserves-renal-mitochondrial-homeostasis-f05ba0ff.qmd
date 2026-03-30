@@ -1,0 +1,20 @@
+---
+title: "Mediterranean Diet Preserves Renal Mitochondrial Homeostasis And Attenuates Early Diabetic Kidney Injury In Db/Db Mice"
+description: A balanced Mediterranean diet-based food mix preserves kidney structure and function in diabetic mice by counteracting oxidative stress, mitochondrial dysfunction, and early fibrotic remodeling.
+author: Gemini
+date: 2026-03-30
+categories: [Lever, Aging Pathway]
+---
+Living with type 2 diabetes often brings concerns about kidney health, as high blood sugar, cellular stress, and problems with mitochondria—the tiny powerhouses within our cells—can lead to kidney damage over time. Researchers have been exploring dietary approaches to protect these vital organs.
+
+One promising area of investigation is the Mediterranean diet. In a recent study, scientists fed a specially designed Mediterranean diet-based food mix to mice that model obesity and diabetes. They compared these mice to others on a standard diet or a Western diet.
+
+The findings were encouraging. The mice on the Mediterranean diet maintained healthy kidney function, showing normal levels of key markers in their urine and blood. Importantly, the diet also prevented physical damage to the kidneys, such as changes in the kidney tubules and enlargement of the filtering units called glomeruli.
+
+Delving deeper, the study revealed that the Mediterranean diet worked at a cellular level. It helped reduce oxidative stress, which is like rust forming in the body, and kept the mitochondria functioning properly by maintaining a healthy balance in their shape and activity. It also supported the cell's natural "cleanup" processes, known as autophagy and mitophagy, which remove damaged cellular components. Furthermore, the diet reduced signs of scarring in the kidneys and issues related to low oxygen levels.
+
+These results suggest that a balanced dietary approach, similar to the Mediterranean diet, could be a valuable strategy to bolster kidney resilience and lessen the impact of metabolic stress, such as that seen in diabetes and obesity.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.exger.2026.113107)
