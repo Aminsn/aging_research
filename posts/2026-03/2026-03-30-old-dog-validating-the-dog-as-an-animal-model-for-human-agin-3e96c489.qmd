@@ -1,0 +1,18 @@
+---
+title: "OLD DOG - Validating The DOG As An Animal Model For Human Aging Studies"
+description: The OLD-DOG Project is a study designed to identify and validate biological indicators of aging in companion dogs and assess their ability to predict health and lifespan, thereby evaluating dogs as models for human aging research.
+author: Gemini
+date: 2026-03-30
+categories: [Clock, Analytical]
+---
+Understanding how we age is a critical challenge, and finding effective ways to promote healthy aging is a major goal for scientists. Traditionally, much of this research has relied on laboratory animals like mice, but these models don't always perfectly reflect the complex aging process in humans, partly because they live in very controlled environments, unlike our varied daily lives.
+
+This is where our beloved companion dogs come in. They share our homes, our lifestyles, and even many of the same age-related diseases, such as cancer, arthritis, and cognitive decline, which is similar to dementia in humans. Because dogs age faster than humans but in similar ways, they offer a unique opportunity to study aging and potential interventions on a more practical timescale.
+
+A new research initiative is exploring this potential by focusing on identifying "biomarkers" of aging in dogs. Biomarkers are measurable biological characteristics that indicate a process, such as aging or disease. Think of them like internal health meters. By studying a large group of privately owned dogs over time, researchers are collecting extensive data, including blood and fecal samples, physical and cognitive performance tests, and owner questionnaires.
+
+The goal is to find reliable biomarkers that can predict a dog's health trajectory and how long they will live. If successful, these findings could not only improve the health and well-being of our canine companions but also provide invaluable insights into human aging, potentially leading to new strategies for healthier, longer lives for us all.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.tjfa.2026.100145)
