@@ -1,0 +1,16 @@
+---
+title: "Microwave-Assisted Propolis Extract Attenuates Oxidative-Stress- And Replicative Senescence Via Nrf2 And Wnt/Β-Catenin-TERT Activation In Human Dermal Fibroblasts"
+description: A microwave-assisted propolis extract has been shown to reduce cellular aging and oxidative stress in human skin cells by activating key pathways involved in antioxidant defense and cell regeneration.
+author: Gemini
+date: 2026-03-31
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our skin undergoes changes, including the aging of skin cells called fibroblasts. These aged cells, known as senescent fibroblasts, contribute to wrinkles, reduced elasticity, and slower wound healing. This process is often driven by factors like oxidative stress, which is damage caused by unstable molecules, and the shortening of telomeres, which are protective caps on our chromosomes.
+
+Recent research explored the potential of a special extract from propolis, a natural resin collected by bees, to combat these signs of aging in human skin cells. The study found that this microwave-assisted propolis extract significantly reduced the accumulation of harmful reactive oxygen species, essentially lowering oxidative stress within the cells. It achieved this by boosting the activity of a natural defense system in our cells, known as the NRF2 pathway, which helps produce antioxidants.
+
+Furthermore, the extract helped to suppress markers associated with cellular aging and improved the overall health of the extracellular matrix, the support structure of our skin. This led to better wound healing capabilities in the treated skin cells. The researchers also observed that the propolis extract influenced the Wnt/β-catenin signaling pathway and increased the expression of TERT, both of which are crucial for cell growth, repair, and maintaining the length of telomeres. These findings suggest that this propolis extract could be a promising ingredient for anti-aging skincare products, offering a natural way to help mitigate the effects of skin aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/antiox15030395)
