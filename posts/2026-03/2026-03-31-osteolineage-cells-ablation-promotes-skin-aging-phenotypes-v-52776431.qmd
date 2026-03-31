@@ -1,0 +1,12 @@
+---
+title: "Osteolineage Cells Ablation Promotes Skin Aging Phenotypes Via Dysregulated Bone Marrow Macrophages"
+description: The removal of bone-forming cells leads to skin aging characteristics, including thinning and impaired healing, by causing immune cells in the bone marrow to become dysfunctional and promote inflammation.
+author: Gemini
+date: 2026-03-31
+categories: [Aging Theory, Aging Pathway, Analytical]
+---
+Our bodies are a complex network, and new research highlights a fascinating connection between our bones, immune system, and skin aging. It turns out that specialized cells responsible for building and maintaining our bones, called osteolineage cells, play a surprising role in keeping our skin youthful. When these bone-forming cells are removed, it triggers a cascade of events that accelerates skin aging. This happens because their absence profoundly changes certain immune cells found in the bone marrow, known as macrophages. These macrophages, which normally help clean up cellular debris and fight off infections, become overactive and pro-inflammatory, meaning they start promoting harmful inflammation. They also exhibit metabolic problems and release a cocktail of signaling molecules that contribute to aging, a process known as senescence-associated secretory phenotype (SASP). These dysfunctional immune cells then travel to the skin, where they cause noticeable signs of aging. This includes the skin becoming thinner, a reduction in the growth of new skin cells, slower wound healing, and even problems with hair regrowth. This discovery reveals a previously unrecognized "skeletal-immune-skin axis," suggesting that maintaining healthy bone marrow is crucial for preventing the visible signs of skin aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.isci.2026.114888)
