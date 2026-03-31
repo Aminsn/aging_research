@@ -1,0 +1,12 @@
+---
+title: "Accelerated Aging In Psychiatric Disorders: Evidence From Epigenetic Clocks"
+description: Psychiatric disorders like schizophrenia, bipolar disorder, and major depressive disorder are linked to accelerated biological aging, as indicated by epigenetic clocks.
+author: Gemini
+date: 2026-03-31
+categories: [Clock, Therapeutic]
+---
+It appears that certain mental health conditions, such as schizophrenia, bipolar disorder, and major depressive disorder, might cause our bodies to age faster than they should. Scientists are using special "biological clocks" called epigenetic clocks to understand this phenomenon. These clocks don't measure how many years you've been alive, but rather the actual age of your cells and tissues by looking at tiny chemical tags on your DNA, a process called DNA methylation. When these clocks show that someone's biological age is significantly higher than their actual age, it's called "epigenetic age acceleration," suggesting their body is experiencing accelerated wear and tear. Researchers are exploring how these biological aging patterns are linked to mental health conditions, investigating the molecular reasons behind them, and considering how this knowledge could help predict who is at risk and develop more personalized treatments. While these tools are promising, more research is needed to fully understand and validate these biological clocks.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.pnpbp.2026.111632)
