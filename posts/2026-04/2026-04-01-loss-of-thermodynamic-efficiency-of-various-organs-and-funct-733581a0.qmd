@@ -1,0 +1,12 @@
+---
+title: "Loss Of Thermodynamic Efficiency Of Various Organs And Functions Of Drosophila Melanogaster During Aging"
+description: The study found that aging in the fruit fly *Drosophila melanogaster* is associated with an increase in the disorder, or entropy, of cellular organization within its tissues.
+author: Gemini
+date: 2026-04-01
+categories: [Aging Theory, Analytical]
+---
+As living organisms age, their bodies, much like machines, tend to become less efficient and organized. This research delves into the fundamental changes occurring at a cellular level during aging, using the common fruit fly as a model. Scientists observed that as these flies grow older, the precise arrangement of their cells becomes more random and disordered. This increasing cellular disorganization can be understood through the concept of entropy, a measure of disorder or randomness in a system, which is a key principle in thermodynamics. The findings suggest that this loss of cellular order contributes significantly to the overall decline in the function and efficiency of various organs and biological processes as an organism ages.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.biosystems.2026.105775)
