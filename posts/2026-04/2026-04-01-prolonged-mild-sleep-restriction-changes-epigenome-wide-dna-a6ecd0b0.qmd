@@ -1,0 +1,20 @@
+---
+title: "Prolonged Mild Sleep Restriction Changes Epigenome-Wide DNA Methylation In Peripheral Blood Cells: A Randomized Crossover Trial"
+description: Prolonged mild sleep restriction leads to changes in DNA methylation in genes related to the body's internal clock and other genes across the epigenome.
+author: Gemini
+date: 2026-04-01
+categories: [Aging Pathway, Lever, Analytical]
+---
+Have you ever wondered if your sleep habits could be impacting your genes? Recent research suggests that even consistently getting a little less sleep than you need might be leaving a mark on your DNA.
+
+Our bodies are incredibly complex, and one way they regulate gene activity is through a process called DNA methylation. Think of it like tiny on/off switches on your genes. These switches can be influenced by various factors, including lifestyle, and play a role in processes like aging and disease susceptibility.
+
+A study explored how prolonged mild sleep restriction affects these DNA methylation patterns. Researchers conducted a randomized crossover trial with healthy adults who typically slept 7-9 hours per night. Participants experienced two six-week periods: one with adequate sleep (at least 7 hours per night) and another with mild sleep restriction (about 1.5 hours less sleep per night).
+
+The findings revealed that even this mild, prolonged sleep restriction was associated with changes in DNA methylation. Specifically, alterations were observed in genes that control our internal body clock, known as circadian genes, as well as in many other genes throughout the epigenome. Most of these changes involved an increase in methylation, a process called hypermethylation.
+
+These results suggest that our sleep patterns, even subtle shifts, could have a "plastic epigenetic mechanism," meaning they can influence how our genes are expressed. The study also highlighted that pathways associated with these changes are involved in aging-related processes, such as how our bodies handle growth signals, blood sugar, and fats. While these are preliminary findings, they open the door for more research into how maintaining healthy sleep could be crucial for our long-term health at a genetic level.
+
+---
+
+Source: [link to paper](https://doi.org/10.14336/AD.2025.1261)
