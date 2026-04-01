@@ -1,0 +1,12 @@
+---
+title: "Three-Dimensional Niche-Like Porous Structure Locoregionally Regulating Macrophage Immunosenescence Rejuvenates Aged Bone Repair"
+description: A specially designed porous structure can improve bone repair in older individuals by influencing immune cells to rejuvenate the function of bone-forming stem cells.
+author: Gemini
+date: 2026-04-01
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our bodies become less efficient at repairing themselves, and this includes our bones. When bones are damaged in older individuals, the stem cells responsible for repair, called bone marrow mesenchymal stem cells, don't work as well as they used to. This leads to slower and less effective healing. Scientists are looking for new ways to boost this repair process. Recent research suggests that a key factor might be certain immune cells, specifically a type of macrophage. In aging, a deficiency of these particular macrophages (known as ARG1⁺ macrophages) seems to worsen the ability of bone stem cells to rebuild bone. This new study explores how a unique three-dimensional porous structure can create a supportive environment, or "niche," that helps regulate the aging of these immune cells. By doing so, it aims to restore the regenerative capacity of the aged bone stem cells, ultimately leading to better bone repair in older patients.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bioactmat.2026.03.028)
