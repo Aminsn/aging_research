@@ -1,0 +1,16 @@
+---
+title: "Peripheral Oxidation-Inflammation And Immunosenescence In Triple-Transgenic Mice For Alzheimer'S Disease (3Xtg-AD) At Early Neuropathological Stages Of Disease And Decrease Of Immune Impairment By Voluntary Exercise"
+description: Triple-transgenic mice for Alzheimer's disease show impaired immune function, increased inflammation, and oxidative stress in their peripheral systems at early stages, which can be improved by voluntary physical exercise.
+author: Gemini
+date: 2026-04-02
+categories: [Aging Theory, Aging Pathway, Lever]
+---
+Our bodies have a complex defense system, called the immune system, that protects us from illness. As we age, this system naturally weakens, a process known as immunosenescence. Additionally, harmful chemical reactions (oxidation) and the body's inflammatory responses can occur throughout the body, not just in the brain. Recent research using a special type of mouse, engineered to mimic Alzheimer's disease, has shed light on how these peripheral changes relate to the disease.
+
+Scientists found that these mice, even at early stages of Alzheimer's-like changes, exhibited a less effective immune system, higher levels of inflammation, and more oxidative stress in their bodies outside the brain. This suggests that problems in the body's general immune and inflammatory responses might contribute to the progression of Alzheimer's disease from its very beginning.
+
+However, there's good news! The study also revealed that when these mice engaged in voluntary physical activity, their immune functions improved. This indicates that lifestyle choices, like regular exercise, could play a crucial role in mitigating the immune system's decline and reducing inflammation, potentially slowing down the progression of Alzheimer's disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/biom16030475)
