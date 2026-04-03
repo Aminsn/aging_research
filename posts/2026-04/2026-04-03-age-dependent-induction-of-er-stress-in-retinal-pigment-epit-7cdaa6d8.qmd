@@ -1,0 +1,18 @@
+---
+title: "Age-Dependent Induction Of ER Stress In Retinal Pigment Epithelium Impairs Phagocytosis Via Adam17-Dependent MERTK Shedding"
+description: Aging leads to stress in retinal cells, which hinders their ability to clear cellular debris, a process essential for healthy vision, by causing the loss of a crucial receptor on the cell surface.
+author: Gemini
+date: 2026-04-03
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our bodies undergo various changes, and sometimes these changes can affect the delicate cells responsible for our vision. Recent research sheds light on how aging impacts the retinal pigment epithelium (RPE) cells, which are vital for maintaining healthy eyesight. These cells act like the "cleanup crew" of the eye, regularly engulfing and digesting shed photoreceptor outer segments (POS) – the light-sensing parts of our eye's photoreceptors. This continuous cleanup is crucial for preventing the accumulation of waste and ensuring proper visual function. 
+
+The study reveals that with age, RPE cells experience increased "endoplasmic reticulum (ER) stress." The endoplasmic reticulum is like a cell's factory, responsible for making and folding proteins. When it gets stressed, proteins can misfold, disrupting normal cell operations. This ER stress in aging RPE cells significantly impairs their ability to perform their cleanup duties, leading to a buildup of cellular debris. 
+
+Researchers found that this impairment is due to a specific chain of events. ER stress activates an enzyme called ADAM17. This enzyme then "sheds" or removes a critical receptor called MERTK from the surface of the RPE cells. MERTK is essential for the RPE cells to recognize and bind to the photoreceptor outer segments they need to engulf. With less MERTK on their surface, the RPE cells become less efficient at phagocytosis. 
+
+This age-dependent decline in RPE cell cleanup, driven by ER stress and MERTK shedding, is believed to contribute to the development of degenerative retinal diseases, such as age-related macular degeneration (AMD). Understanding this mechanism opens new avenues for potential therapies aimed at protecting our vision as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jbc.2026.111397)
