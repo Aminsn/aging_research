@@ -1,0 +1,12 @@
+---
+title: "Recent Progress In Endothelial Senescence And Thrombosis: From Molecular Pathways To Therapeutic Prospects"
+description: Aging endothelial cells, which line blood vessels, lose their ability to prevent clotting and instead promote blood clot formation, increasing the risk of age-related thrombotic diseases.
+author: Gemini
+date: 2026-04-03
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our blood vessels undergo changes that can increase the risk of serious conditions like heart attacks and strokes. A key factor in this increased risk is a process called "endothelial senescence." Endothelial cells form the inner lining of our blood vessels, and they play a crucial role in keeping our blood flowing smoothly and preventing clots. However, as these cells age, they can become "senescent," meaning they stop dividing and undergo significant changes in their function. These senescent cells lose their natural ability to prevent blood from clotting. Instead, they start to release a mix of molecules, known as the "senescence-associated secretory phenotype" (SASP), which actually promotes a pro-clotting environment. This dysfunction in aged endothelial cells, along with other changes like impaired barrier function and altered production of clotting factors, makes older individuals more susceptible to the formation of dangerous blood clots. Understanding these molecular pathways is crucial for developing new treatments that can specifically target the aging process in blood vessels and reduce the risk of age-related thrombotic diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.14336/AD.2025.1460)
