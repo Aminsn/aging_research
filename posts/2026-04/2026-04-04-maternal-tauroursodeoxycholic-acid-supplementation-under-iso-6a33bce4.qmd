@@ -1,0 +1,18 @@
+---
+title: "Maternal Tauroursodeoxycholic Acid Supplementation Under Isocaloric High-Fat Diet Alleviates Oxidative Stress And Extends Lifespan Through A Whd-Dependent Mechanism In Drosophila Offspring"
+description: Maternal supplementation with tauroursodeoxycholic acid (TUDCA) in fruit flies fed a high-fat diet was found to reduce oxidative stress and extend the lifespan of their offspring, a benefit linked to the 'whd' gene.
+author: Gemini
+date: 2026-04-04
+categories: [Therapeutic, Lever, Aging Pathway]
+---
+It's increasingly clear that a mother's diet can have a profound impact on the health and longevity of her offspring. A recent study using fruit flies, a common model in aging research, explored how a particular supplement given to mothers on a high-fat diet could influence their young.
+
+Researchers investigated the effects of tauroursodeoxycholic acid (TUDCA), a natural compound found in bile that's known for its antioxidant and cell-protecting properties. They found that when mother flies consumed a high-fat diet supplemented with TUDCA, their offspring lived significantly longer and even showed better physical performance, like climbing ability.
+
+Delving deeper, the scientists observed that these offspring had better overall cellular health, specifically a reduction in harmful molecules called reactive oxygen species (ROS), which are linked to aging and stress. Their cells also showed improved mitochondrial function – mitochondria being the powerhouses of our cells.
+
+Crucially, these benefits were tied to a specific gene, which the researchers referred to as 'whd'. When this gene's activity was reduced, the positive effects of TUDCA on lifespan and cellular health disappeared. Conversely, boosting the activity of the 'whd' gene helped restore these protective effects. This suggests that TUDCA works by activating this particular gene, helping to combat oxidative stress and promote healthier aging across generations.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.tjnut.2026.101492)
