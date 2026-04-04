@@ -1,0 +1,16 @@
+---
+title: "The Effect Of The COVID-19 Pandemic On Young Children'S Biological Ageing"
+description: A study investigating the impact of the COVID-19 pandemic on young children found no significant effects on their biological aging trajectories from one month to 30 months of age.
+author: Gemini
+date: 2026-04-04
+categories: [Clock, Analytical]
+---
+During the unprecedented times of the recent global health crisis, many wondered about its long-term effects, especially on the youngest members of our society. A recent study delved into how growing up during the pandemic might have influenced the "biological age" of infants and toddlers. Unlike chronological age, which is simply how many years you've been alive, biological age reflects the true age of your cells and tissues, influenced by genetics, lifestyle, and environment. It can be a more accurate indicator of overall health and how well your body is functioning.
+
+Researchers collected saliva samples from children at one month and then again at 30 months of age to measure their "epigenetic age." Epigenetic age is a way to estimate biological age by looking at chemical modifications on a person's DNA, which can change over time and in response to environmental factors. These changes act like a clock, providing insights into the aging process at a cellular level. The study aimed to see if the varying levels of exposure to the pandemic's social disruptions during a child's first year of life had any noticeable impact on this biological clock.
+
+Interestingly, the findings suggest that there were no large effects of pandemic exposure on the children's biological aging patterns between one month and 30 months of age. This research contributes to our understanding of early childhood development during widespread societal stress, specifically focusing on biological markers rather than just psychological or developmental milestones.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/chidev/aacag034)
