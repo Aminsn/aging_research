@@ -1,0 +1,12 @@
+---
+title: "Monocyte Epigenetic Age Acceleration Is Linked To Non-Somatic Depressive Symptoms In Women With And Without HIV"
+description: Accelerated aging of monocytes, a type of immune cell, is linked to non-somatic depressive symptoms, specifically anhedonia, in women both with and without HIV, with a stronger association observed in women living with HIV.
+author: Gemini
+date: 2026-04-04
+categories: [Clock, Analytical]
+---
+Depression can be challenging to identify in women, especially those living with HIV, due to the wide range of symptoms and the absence of clear biological indicators. This research explores a potential new way to detect certain types of depressive symptoms by looking at the "biological age" of specific immune cells called monocytes. Monocytes are crucial components of our immune system, and their accelerated aging, known as epigenetic age acceleration, has been observed in women with HIV. Researchers used a specialized tool, a "DNA methylation clock" called MonoDNAmAge, to estimate the biological age of these monocytes. The study found a significant connection between this accelerated monocyte aging and non-physical depressive symptoms, such as anhedonia (the inability to feel pleasure), in women regardless of their HIV status. Interestingly, this link was particularly strong in women living with HIV. These findings suggest that monitoring the aging of monocytes could serve as a sensitive biomarker for identifying non-somatic depressive symptoms, especially in women with HIV, offering a new avenue for earlier detection and intervention. More studies are needed to fully understand the underlying biological processes.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/gerona/glag083)
