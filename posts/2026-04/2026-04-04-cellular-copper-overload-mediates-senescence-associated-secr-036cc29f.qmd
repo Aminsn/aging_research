@@ -1,0 +1,12 @@
+---
+title: "Cellular Copper Overload Mediates Senescence-Associated Secretory Phenotype Induction In Bv2 Microglia Following Lead And Copper Exposure"
+description: Cellular copper overload, particularly when combined with lead exposure, drives brain immune cells called microglia to adopt a harmful, aging-associated state that contributes to neuroinflammation.
+author: Gemini
+date: 2026-04-04
+categories: [Aging Pathway, Therapeutic]
+---
+Our brains rely on specialized immune cells called microglia to stay healthy. However, as we age, or when exposed to environmental toxins like lead, these microglia can change, becoming "senescent." This means they enter an aging-associated state where they release inflammatory substances, contributing to brain inflammation and cognitive decline. This research uncovers a critical mechanism behind this harmful transformation. It shows that when brain cells are exposed to lead, and especially when there's an excess of copper inside these cells, it triggers a cascade of events. This cellular copper overload leads to the production of harmful molecules called reactive oxygen species and the release of mitochondrial DNA, which then activates a specific inflammatory pathway (the cGAS-STING-NLRP3 axis). This activation pushes microglia into that detrimental, inflammatory state. Importantly, the study found that reducing the excess copper could reverse these harmful effects, suggesting a potential strategy to combat neuroinflammation and protect brain health, particularly in the context of environmental toxin exposure.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.fct.2026.116068)
