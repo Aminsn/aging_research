@@ -1,0 +1,12 @@
+---
+title: "Myeloid Cell Nuclear Differentiation Antigen (MNDA) Is An Interferon-Inducible Regulator Of Myelopoiesis. Potential Role In The Myeloid-Biased Aging Process"
+description: Myeloid cell nuclear differentiation antigen (MNDA) is an interferon-regulated protein that influences the production of myeloid cells and may contribute to the aging process.
+author: Gemini
+date: 2026-04-04
+categories: [Aging Theory, Aging Pathway]
+---
+Our immune system changes as we get older, often becoming less effective and more prone to inflammation. One key aspect of this change is an increase in the production of certain immune cells called myeloid cells, a process known as myeloid-biased aging. This research explores a protein called MNDA, which is activated by signals from the immune system, specifically by interferons, which are proteins that help fight infections. The study suggests that MNDA plays a role in regulating the creation of myeloid cells. It can also influence how the body handles inflammation by promoting the removal of certain immune cells and encouraging the activity of other cells that help calm down immune responses. The findings propose a connection between MNDA and the aging process: as we age, damaged cells can release DNA, triggering an immune pathway that produces interferons, which in turn activates MNDA. This activation of MNDA could potentially contribute to the myeloid-biased changes seen in aging and might worsen age-related health issues.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.arr.2026.103112)
