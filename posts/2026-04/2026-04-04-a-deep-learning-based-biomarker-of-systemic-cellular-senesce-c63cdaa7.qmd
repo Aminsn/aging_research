@@ -1,0 +1,16 @@
+---
+title: "A Deep-Learning Based Biomarker Of Systemic Cellular Senescence Burden To Predict Mortality And Health Outcomes"
+description: Researchers developed a deep learning-based score that can predict mortality risk and the development of serious chronic medical conditions by measuring the burden of aging cells in the body.
+author: Gemini
+date: 2026-04-04
+categories: [Clock, Analytical, Aging Pathway, Lever]
+---
+As we age, some of our cells stop dividing but don't die off; instead, they enter a state called "cellular senescence." These senescent cells can release a mix of molecules, known as the "senescence-associated secretory phenotype" (SASP), which can negatively affect surrounding tissues and contribute to various age-related diseases. Think of it like a few bad apples spoiling the bunch.
+
+Scientists have now created a new tool, a "biomarker" called the SASP Score, which uses advanced artificial intelligence, specifically a "deep learning" approach, to measure the overall burden of these senescent cells in a person's body. By analyzing large-scale "proteomics data" – the study of all proteins in a biological system – this AI model can identify patterns in the blood that reflect the presence and activity of these aging cells.
+
+The exciting news is that this SASP Score isn't just a theoretical measure. It has been shown to be a strong predictor of an individual's risk of mortality and their likelihood of developing serious chronic conditions like dementia, heart attacks, and strokes. Furthermore, the research demonstrated that lifestyle interventions, such as multimodal exercise, can actually change this score, suggesting it could be used to track the effectiveness of treatments aimed at slowing down or reversing aspects of aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.03.20.26348913)
