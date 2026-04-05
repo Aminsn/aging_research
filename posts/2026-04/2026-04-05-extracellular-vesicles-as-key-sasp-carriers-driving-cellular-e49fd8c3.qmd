@@ -1,0 +1,16 @@
+---
+title: "Extracellular Vesicles As Key SASP Carriers Driving Cellular Senescence, Inflammaging, And Therapeutic Opportunities In Aging And Age-Related Diseases"
+description: Extracellular vesicles act as key messengers, carrying signals from aging cells that contribute to chronic inflammation and other age-related conditions, while also offering potential for new treatments and diagnostic tools.
+author: Gemini
+date: 2026-04-05
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+Our bodies are made of countless cells, and as we age, some of these cells enter a state called "senescence." These senescent cells stop dividing but remain active, accumulating in our tissues over time. A crucial aspect of these aging cells is their ability to release a unique mix of molecules, known as the Senescence-Associated Secretory Phenotype (SASP), which includes inflammatory signals and other factors. 
+
+Recent research highlights the vital role of tiny sacs called extracellular vesicles (EVs) in this process. EVs are like microscopic快递包裹 (delivery packages) released by cells, carrying proteins, lipids, and genetic material to other cells. This work emphasizes that EVs are key carriers of the SASP, effectively transmitting these "aging" signals from senescent cells to healthy neighboring cells and even distant tissues. 
+
+This EV-mediated communication is a significant contributor to "inflammaging," a chronic, low-grade inflammation associated with aging, as well as other hallmarks of aging like stem cell exhaustion and genomic instability. Interestingly, these tiny vesicles have a dual nature: while they can drive age-related problems, they also hold great promise as therapeutic agents. Scientists are exploring their potential to deliver drugs, promote tissue repair, and even reduce the visible signs of aging, particularly when derived from healthy stem cells. Furthermore, EVs could serve as valuable diagnostic tools for various age-related diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.14336/AD.2026.0134)
