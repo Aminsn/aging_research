@@ -1,0 +1,16 @@
+---
+title: "Associations Of Epigenetic Age Acceleration With Motor Impairment: Evidence From The Parkinson'S Progression Markers Initiative Cohort"
+description: Accelerated biological aging, as measured by epigenetic clocks, is robustly associated with the worsening of tremor impairment in Parkinson's disease, with these associations being particularly consistent and multi-dimensional in men.
+author: Gemini
+date: 2026-04-05
+categories: [Clock, Analytical]
+---
+Our bodies age in two ways: chronologically, simply by the passage of time, and biologically, reflecting the actual wear and tear on our cells and tissues. Scientists can now measure this biological age using "epigenetic clocks," which analyze chemical modifications on our DNA. This new research explores the connection between accelerated biological aging and motor problems in Parkinson's disease.
+
+The study found a strong link between a faster biological aging rate and the progression of tremors, a common motor symptom in Parkinson's. Interestingly, this connection was more pronounced and widespread in men, suggesting that biological aging might affect men and women with Parkinson's differently. While accelerated aging was clearly associated with worsening tremors, its relationship with other motor symptoms like gait issues or rigidity was less consistent or even inverse.
+
+These findings suggest that systemic biological aging might specifically worsen the brain circuits responsible for tremors, distinct from the pathways involved in other Parkinson's symptoms. This means that epigenetic clocks could become valuable tools for tracking how Parkinson's progresses and for identifying individuals at higher risk for developing more severe tremors. Understanding these connections could pave the way for new strategies to monitor the disease and potentially develop treatments that target the biological aging processes contributing to specific motor impairments.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.neurobiolaging.2026.03.006)
