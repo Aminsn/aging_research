@@ -1,0 +1,16 @@
+---
+title: "Lonp1 Inhibition Disrupts Mitochondrial Function In The Hippocampus And Drives An Aging-Like Synaptic And Cognitive Phenotype In Adult Samp8 Mice"
+description: Inhibiting the protein Lonp1 in the hippocampus of adult mice disrupts the energy-producing parts of cells, leading to changes in brain connections and problems with learning, mimicking aspects of brain aging.
+author: Gemini
+date: 2026-04-06
+categories: [Aging Theory, Aging Pathway]
+---
+Our brains rely on tiny powerhouses within our cells called mitochondria to function properly. A key protein, Lonp1, acts like a quality control manager within these mitochondria, ensuring that damaged or misfolded proteins are cleared away, a process known as proteostasis. When Lonp1 activity is hindered, this crucial cleanup process falters.
+
+Recent research has shed light on the significant role of Lonp1 in brain health, particularly in the hippocampus, a brain region vital for learning and memory. Scientists found that reducing Lonp1 activity in adult mice led to a buildup of problematic proteins within mitochondria, severely impacting their ability to produce energy (ATP) and dramatically increasing harmful byproducts called reactive oxygen species (ROS).
+
+These cellular changes had noticeable effects on the brain. The connections between brain cells, known as synapses, underwent specific alterations, with a reduction in certain types of dendritic spines, which are crucial for receiving signals. Consequently, the mice experienced difficulties with learning tasks that depend on the hippocampus. These findings are particularly important because they suggest that problems with Lonp1 and mitochondrial health can drive an aging-like decline in brain function, linking issues in cellular energy and waste management to cognitive challenges. This research highlights Lonp1 as a potential target for future strategies aimed at preserving brain and cognitive function as we age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.freeradbiomed.2026.03.059)
