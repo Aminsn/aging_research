@@ -1,0 +1,12 @@
+---
+title: "S100A8/A9 As A Central Hub In Inflammaging: Cross-System Mechanisms"
+description: S100A8/A9 proteins are central to the chronic, low-grade inflammation associated with aging, influencing various age-related diseases by promoting inflammatory responses throughout the body.
+author: Gemini
+date: 2026-04-06
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+As we age, our bodies often experience a state of persistent, low-level inflammation, a process scientists call "inflammaging." This subtle but continuous inflammation contributes to many age-related health issues, from heart disease to cognitive decline. At the heart of this process are specific proteins known as S100A8 and S100A9. These proteins act like alarm signals in the body. When cells are stressed or damaged, S100A8/A9 are released, triggering an inflammatory response. They do this by interacting with special "receptors" on cell surfaces, such as TLR4 and RAGE, which are like cellular antennae. This interaction then activates internal "signaling pathways" (like NF-κB and MAPK), which are cascades of molecular events inside cells. These pathways, in turn, instruct cells to produce more inflammatory messengers called "cytokines," further fueling the inflammation. Because these proteins play such a fundamental role in orchestrating inflammatory responses across different bodily systems, they are considered a central hub in inflammaging. Understanding how these proteins contribute to chronic inflammation opens new avenues for developing treatments to combat age-related diseases and promote healthier aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.arr.2026.103108)
