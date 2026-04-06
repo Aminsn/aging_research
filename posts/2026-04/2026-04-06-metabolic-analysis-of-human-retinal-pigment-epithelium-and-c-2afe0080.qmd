@@ -1,0 +1,18 @@
+---
+title: "Metabolic Analysis Of Human Retinal Pigment Epithelium And Choroid Tissue In Aging And Macular Degeneration"
+description: The study revealed significant metabolic alterations in the retinal pigment epithelium and choroid with aging, noting a prominent increase in trimethylamine N-oxide and uric acid, with these changes being more pronounced between young and healthy aged individuals than between aged individuals and those with macular degeneration.
+author: Gemini
+date: 2026-04-06
+categories: [Aging Pathway, Analytical]
+---
+Our eyes, particularly the back part responsible for sharp central vision, undergo significant changes as we age. A recent study delved into the tiny chemical molecules, called metabolites, present in two crucial eye tissues: the retinal pigment epithelium (RPE) and the choroid. The RPE is a layer of cells that supports the light-sensing cells of the retina, while the choroid is a network of blood vessels that provides nutrients. 
+
+Using a technique called metabolomics, which allows scientists to identify and measure many small molecules at once, researchers compared the metabolic profiles of these tissues from young individuals, healthy older individuals, and those with different stages of age-related macular degeneration (AMD), a common cause of vision loss in the elderly. 
+
+Surprisingly, the most significant metabolic shifts were observed when comparing young eyes to healthy aged eyes, rather than comparing healthy aged eyes to those with AMD. This suggests that the aging process itself brings about substantial metabolic alterations in these tissues. Among the many metabolites analyzed, two stood out as significantly increased in aging choroids: trimethylamine N-oxide (TMAO) and uric acid. Further experiments showed that high levels of uric acid could hinder the movement of certain cells that line blood vessels, hinting at a potential role in age-related changes in the eye's blood supply. 
+
+These findings offer new insights into how the eye's metabolism changes with age and provide a foundation for understanding the complex processes that contribute to both normal aging and diseases like AMD. Understanding these metabolic shifts could pave the way for new strategies to maintain eye health as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.03.24.713982)
