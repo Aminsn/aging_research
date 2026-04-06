@@ -1,0 +1,16 @@
+---
+title: "An FDA-Approved Tenofovir Alafenamide-Based Antiretroviral Therapy Reduces Biological Age In Healthy Adults: First Human Proof-Of-Concept For Retrotransposon-Targeted Gerotherapeutics"
+description: An FDA-approved antiretroviral medication, typically used for HIV treatment, has been shown to reduce biological age in healthy adults.
+author: Gemini
+date: 2026-04-06
+categories: [Therapeutic, Aging Pathway, Clock]
+---
+Scientists have long been exploring ways to slow down or even reverse the aging process. A recent study investigated a class of drugs called nucleos(t)ide reverse transcriptase inhibitors (NRTIs), which are commonly used to treat HIV. These medications were hypothesized to have "gerotherapeutic" effects, meaning they could potentially combat aging, by suppressing the activity of certain genetic elements called retrotransposons that are associated with aging.
+
+In this research, healthy adults aged 18-50 participated in studies where they received either an NRTI regimen containing emtricitabine-tenofovir-alafenamide (FTC/TAF) or another containing emtricitabine-tenofovir-disoproxil fumarate (FTC/TDF) for 12 weeks. The researchers measured biological age using advanced DNA methylation techniques, which essentially look at chemical modifications on DNA that change with age.
+
+The results were quite compelling for the FTC/TAF group. Participants showed significant reductions in several measures of epigenetic aging, including scores like DunedinPACE and PhenoAge, which are indicators of biological age. Furthermore, markers associated with inflammation, such as epigenetic IL-6, also decreased. In contrast, the group receiving FTC/TDF did not experience similar changes in their biological age markers. These findings suggest that FTC/TAF may indeed have anti-aging properties, possibly due to how it interacts with cells. The study highlights the potential of existing medications for new applications in healthy aging, though further research with placebo-controlled trials is needed to confirm these exciting initial observations.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.03.23.26349105)
