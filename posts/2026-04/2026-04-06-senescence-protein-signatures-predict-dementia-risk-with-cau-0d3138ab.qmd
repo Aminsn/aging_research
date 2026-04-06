@@ -1,0 +1,12 @@
+---
+title: "Senescence Protein Signatures Predict Dementia Risk With Causal Implication For TBCA: A Two-Cohort Study"
+description: A minimal set of circulating proteins associated with cellular aging can predict the risk of developing dementia, with one specific protein, Tubulin folding cofactor A (TBCA), showing a causal link to the condition.
+author: Gemini
+date: 2026-04-06
+categories: [Analytical, Clock, Aging Pathway, Therapeutic]
+---
+Our bodies contain cells that, as we age, can enter a state called senescence. These "senescent" cells don't divide anymore, but they release a mix of molecules, known as the senescence-associated secretory phenotype (SASP), which can contribute to various age-related diseases. This research explored whether these circulating SASP proteins could serve as early warning signs for dementia. By analyzing protein levels in the blood of thousands of individuals over time, scientists developed a scoring system based on a small number of these proteins. They found that higher scores were consistently linked to an increased risk of developing dementia, both in middle-aged and older adults. Importantly, the study also identified a specific protein, Tubulin folding cofactor A (TBCA), that appears to be causally involved in the development of dementia. This suggests that not only can these protein signatures act as useful indicators for dementia risk, but TBCA itself could be a promising target for future treatments aimed at preventing or slowing down the disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.21203/rs.3.rs-9131525/v1)
