@@ -1,0 +1,16 @@
+---
+title: "Microbiome Contribution To <I>Indy</I> Longevity In <I>Drosophila</I>"
+description: Reducing the activity of a gene called Indy in fruit flies leads to a longer lifespan by improving gut health and altering the gut microbiome, even though the microbiome itself is not essential for this longevity effect.
+author: Gemini
+date: 2026-04-06
+categories: [Aging Pathway]
+---
+Scientists have uncovered a fascinating link between a specific gene and longevity in fruit flies. They found that when the activity of a gene, which acts as a transporter for a molecule called citrate, is reduced, the flies live significantly longer. This extended lifespan is associated with a healthier gut, specifically a delay in age-related gut problems and better maintenance of the gut lining. 
+
+One key observation was that flies with reduced activity of this gene had fewer bacteria in their gut and a more diverse range of microbial species as they aged. Interestingly, while the presence of gut microbes wasn't strictly necessary for the flies to live longer, removing all microbes actually boosted the longevity effect, suggesting a complex interplay between the gene and the microbial community. 
+
+Further investigation revealed that the gene's reduced activity also led to lower levels of certain signaling molecules (called JAK/STAT ligands) in the gut. This change likely helps maintain the health and balance of intestinal stem cells, which are crucial for gut repair and function. These findings suggest that this gene influences both the gut microbiome and specific cellular pathways to promote a longer, healthier life.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.03.25.714291)
