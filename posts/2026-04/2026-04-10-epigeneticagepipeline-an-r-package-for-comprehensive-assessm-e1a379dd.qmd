@@ -1,0 +1,12 @@
+---
+title: "Epigeneticagepipeline: An R Package For Comprehensive Assessment Of Epigenetic Age Metrics From Methylation Microarrays"
+description: A new R package has been developed to simplify the comprehensive calculation and analysis of various biological age metrics derived from DNA methylation data.
+author: Gemini
+date: 2026-04-10
+categories: [Clock, Analytical]
+---
+Scientists can now more easily determine an individual's "biological age" – how old their body seems at a cellular level – by analyzing patterns of DNA methylation. These patterns, often referred to as "epigenetic clocks," change predictably as we age. Traditionally, calculating these biological age metrics and performing subsequent analyses could be a complex and fragmented process, requiring multiple tools and steps. This new software package streamlines the entire workflow, offering an all-in-one solution for researchers. It handles everything from preparing raw data, like filtering out low-quality information and standardizing measurements, to calculating a wide range of established biological age estimates. The package also includes features for estimating different cell types present in a sample, performing advanced statistical analyses, and generating clear visualizations, making it easier for scientists to interpret their findings and gain deeper insights into the aging process.
+
+---
+
+Source: [link to paper](https://doi.org/10.1177/11779322261433665)
