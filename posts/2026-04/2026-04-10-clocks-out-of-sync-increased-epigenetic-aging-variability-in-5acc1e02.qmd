@@ -1,0 +1,16 @@
+---
+title: "Clocks Out Of Sync: Increased Epigenetic Aging Variability In Multiple Sclerosis"
+description: Individuals with multiple sclerosis exhibit altered patterns of biological aging, with different measures of epigenetic age reflecting distinct aspects of the disease, including accelerated aging in some cellular contexts and a potential deceleration in others due to immune cell changes.
+author: Gemini
+date: 2026-04-10
+categories: [Clock, Analytical]
+---
+Our bodies have a "biological age" that can differ from our chronological age, influenced by lifestyle and disease. This biological age can be estimated using "epigenetic clocks," which analyze chemical modifications on our DNA. These modifications, called DNA methylation, change over time and can indicate how quickly our bodies are aging at a cellular level.
+
+Recent research into multiple sclerosis (MS), a chronic disease affecting the brain and spinal cord, reveals that individuals with MS show distinct patterns of biological aging compared to healthy individuals. Interestingly, different epigenetic clocks, which are essentially different ways of measuring biological age, provide varied insights into the disease. For instance, one type of clock suggests an accelerated biological age in MS patients, which could mean a higher risk for age-related health problems.
+
+Conversely, another widely used epigenetic clock might indicate a decelerated biological age in MS patients, possibly due to shifts in the types and activity of immune cells in their blood. Furthermore, studies have shown that specific brain support cells, called glial cells, in patients with progressive MS exhibit signs of accelerated biological aging. These findings highlight that biological aging is a complex factor in MS, with different cellular and molecular processes being affected. Understanding these varied aging patterns could be crucial for developing new ways to track disease progression and potentially create more targeted treatments for MS.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jns.2026.125904)
