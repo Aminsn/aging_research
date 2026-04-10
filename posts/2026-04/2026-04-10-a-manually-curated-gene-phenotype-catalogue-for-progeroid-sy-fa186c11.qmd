@@ -1,0 +1,16 @@
+---
+title: "A Manually Curated Gene-Phenotype Catalogue For Progeroid Syndromes And Premature Aging"
+description: Researchers have developed a comprehensive, manually curated catalog detailing the genes and associated physical characteristics of 56 progeroid syndromes and related premature aging disorders, encompassing 144 genes and 160 distinct clinical entities.
+author: Gemini
+date: 2026-04-10
+categories: [Aging Theory, Aging Pathway, Analytical]
+---
+Imagine a group of rare genetic conditions where individuals experience accelerated aging, often developing age-related features much earlier in life. These are called progeroid syndromes, and studying them can offer valuable insights into the broader process of human aging. However, understanding these complex disorders has been challenging because information about them is scattered across many different scientific papers and databases, often using inconsistent terms.
+
+To tackle this problem, a new resource has been created: a meticulously organized catalog that brings together a vast amount of information. This catalog integrates data from numerous scientific publications and a major genetic database, providing a unified view of these conditions. It includes details on 144 genes linked to 56 different syndromes and their subtypes, covering 160 unique clinical presentations, along with their associated physical manifestations categorized into 18 groups based on affected body systems.
+
+By visualizing this compiled data as a "genome-phenome association network" (a map showing how genes relate to observable traits) and a "protein-protein interaction (PPI) network" (a map of how proteins encoded by these genes interact), researchers can now gain new insights into the diverse genetic and physical characteristics of these disorders. This comprehensive resource serves as a crucial reference, paving the way for future research into premature aging syndromes and ultimately enhancing our understanding of the fundamental mechanisms of physiological aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.18632/aging.206366)
