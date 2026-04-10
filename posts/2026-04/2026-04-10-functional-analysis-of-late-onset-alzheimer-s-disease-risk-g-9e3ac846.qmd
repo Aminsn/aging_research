@@ -1,0 +1,20 @@
+---
+title: "Functional Analysis Of Late-Onset Alzheimer'S Disease Risk Genes In <I>Caenorhabditis Elegans</I> Identifies Regulators Of Neuronal Aging"
+description: The study identified several understudied genes linked to late-onset Alzheimer's disease that directly influence how specific types of neurons age in *C. elegans*, often independently of the organism's overall lifespan.
+author: Gemini
+date: 2026-04-10
+categories: [Aging Pathway, Therapeutic]
+---
+Scientists have long struggled to understand how genetic risk factors for late-onset Alzheimer's disease (LOAD) contribute to the disease in living organisms. To tackle this challenge, researchers turned to the tiny nematode *Caenorhabditis elegans*, a well-established model in biological research due to its simple nervous system and ease of genetic manipulation.
+
+The team investigated 14 genes previously associated with LOAD. They systematically reduced the activity of these genes using a technique called RNA interference (RNAi) and then carefully observed various aspects of the worms' health, including their lifespan, the aging-related degeneration of specific neurons, and their learning and memory abilities.
+
+Interestingly, most of these genetic manipulations did not affect the worms' overall lifespan. However, the researchers found that many of these genes significantly influenced the aging process of particular neuron types, demonstrating a clear neuron-class selectivity. For instance, reducing the activity of some genes slowed down neuronal degeneration, while others accelerated it.
+
+One notable finding was that the reduction of a gene called *tbc-17* helped preserve the structure of mitochondria, the energy-producing organelles within cells, in neurons during early aging and improved their ability to cope with stress. Another gene, *ech-2*, not only enhanced short-term memory in younger worms but also counteracted the accelerated neuronal degeneration caused by amyloid-beta, a protein strongly implicated in Alzheimer's disease.
+
+These results highlight that certain genes linked to LOAD play a direct and crucial role in neuronal aging, often through pathways involving early endosomes (cellular compartments for sorting and transport) and lipids (fats). This research provides a valuable framework for identifying new targets for therapeutic interventions and for understanding the complex interplay between different genetic risk factors in Alzheimer's disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.03.26.714531)
