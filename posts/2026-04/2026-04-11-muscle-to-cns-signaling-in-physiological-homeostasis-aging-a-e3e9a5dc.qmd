@@ -1,0 +1,16 @@
+---
+title: "Muscle-To-CNS Signaling In Physiological Homeostasis, Aging, And Disease"
+description: Muscles communicate with the brain, particularly under stress, to protect against the accumulation of harmful proteins associated with neurodegenerative diseases.
+author: Gemini
+date: 2026-04-11
+categories: [Aging Pathway, Therapeutic, Lever]
+---
+Our bodies are incredibly interconnected, and new research highlights a fascinating communication pathway between our muscles and our brain, which is the central nervous system (CNS). It turns out that muscles don't just help us move; they also send signals to the brain, especially when they are under a type of strain called "proteostatic stress." This kind of stress occurs when there's an imbalance in how proteins are made, folded, and cleared in our cells, which can lead to the buildup of damaged proteins. 
+
+These signals from the muscles are carried by special molecules called "myokines," which are soluble substances secreted by muscle cells. When muscles release these myokines, they can travel to the brain and trigger protective responses. This muscle-to-brain signaling pathway appears to be crucial for maintaining the health of our brain cells and can even help shield them from the harmful accumulation of proteins that is a hallmark of many neurodegenerative diseases, such as Alzheimer's and Parkinson's. 
+
+This discovery suggests that the health and activity of our muscles play a more significant role in brain health and aging than previously understood. It opens up exciting possibilities for new strategies to combat age-related brain decline and neurodegenerative conditions by focusing on how we can enhance this vital muscle-to-CNS communication.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.molmed.2026.03.006)
