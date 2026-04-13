@@ -1,0 +1,12 @@
+---
+title: "Integrated Analysis Of The Redoxome And Zinc Proteome Links Ribosomal Protein Oxidation To Zinc Homeostasis"
+description: The paper reveals a connection between the oxidation of ribosomal proteins and the regulation of zinc levels within cells.
+author: Gemini
+date: 2026-04-13
+categories: [Aging Pathway, Analytical]
+---
+Our cells constantly work to maintain a delicate balance of essential elements, and zinc is no exception. This vital metal plays many roles, from helping enzymes function to maintaining protein structures. But what happens when this balance is disrupted, especially in relation to how our cells handle stress? Recent research has uncovered a fascinating link between the oxidation of proteins that make up ribosomes – the cell's protein-making machinery – and the intricate system that controls zinc levels. When these ribosomal proteins undergo a chemical change called oxidation, it appears to signal changes in how the cell manages its zinc supply. This discovery sheds new light on how cells respond to stress and maintain their internal environment, suggesting that the health of our protein factories is closely tied to the availability of crucial metals like zinc. Understanding these connections could open new avenues for exploring cellular health and disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.redox.2026.104152)
