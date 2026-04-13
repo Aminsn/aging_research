@@ -1,0 +1,16 @@
+---
+title: "The Senescence-Inhibitory P53 Isoform Δ133P53Α Represses The Proinflammatory Chemokine Cxcl10 In Progeria Model Mice And Naturally Aged Mice"
+description: The p53 isoform Δ133p53α reduces levels of the proinflammatory chemokine CXCL10 in both progeria model mice and naturally aged mice, suggesting a role in counteracting aging-associated inflammation.
+author: Gemini
+date: 2026-04-13
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies naturally produce different versions of important proteins. One such variant, called Δ133p53α, is a natural form of the well-known p53 protein, which plays a crucial role in cell health. This particular variant has been found to help prevent cells from entering a state called "cellular senescence," where they stop dividing and contribute to aging and inflammation.
+
+In a recent study, researchers investigated the effects of Δ133p53α in mice, including those with a condition called progeria, which causes accelerated aging, and naturally aged mice. They discovered that Δ133p53α significantly reduces the levels of a signaling molecule known as CXCL10. CXCL10 is a "proinflammatory chemokine," meaning it acts like a beacon, attracting immune cells and fueling inflammation in the body.
+
+This finding is important because it suggests that CXCL10 is a key player in the inflammation associated with both accelerated and normal aging. By showing that Δ133p53α can repress CXCL10, this research highlights a potential new pathway for developing therapies that could target inflammation and potentially slow down aspects of the aging process.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.03.31.715385)
