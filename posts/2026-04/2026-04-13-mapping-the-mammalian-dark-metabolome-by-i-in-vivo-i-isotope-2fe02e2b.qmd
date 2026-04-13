@@ -1,0 +1,18 @@
+---
+title: "Mapping The Mammalian Dark Metabolome By <I>In Vivo</I> Isotope Tracing"
+description: Researchers have developed a new method using isotope tracing and AI to map the origins of thousands of previously unknown metabolites in mammals, uncovering new metabolic pathways and age-related changes.
+author: Gemini
+date: 2026-04-13
+categories: [Aging Pathway, Analytical]
+---
+Our bodies are bustling factories, constantly creating and breaking down countless tiny molecules called metabolites. While we know a lot about some of these, many remain a mystery – a "dark metabolome" of unknown compounds. Understanding these hidden molecules is crucial because they play vital roles in health and disease.
+
+Recently, scientists made a significant leap in exploring this dark metabolome. They developed a powerful new approach that combines a technique called *in vivo* isotope tracing with advanced computational analysis and artificial intelligence. Imagine feeding mice specially labeled nutrients, like sugars or amino acids, where some of the atoms are slightly heavier than usual. By tracking these "heavy" atoms as they move through the body and become part of new molecules, researchers can pinpoint the building blocks and pathways that create thousands of previously unidentifiable metabolites.
+
+This innovative method has already yielded exciting discoveries. It has revealed entirely new families of molecules produced by mammalian metabolism, expanding our understanding of the complex chemical reactions happening within us. For example, they found new types of molecules derived from cysteine and taurine. Furthermore, the research uncovered a group of molecules called isoprenoids, which are linked to a pathway involving mevalonate. Interestingly, one of these isoprenoids, 2,3-dihydrofarnesoic acid, was found to be significantly reduced in both aging mice and humans, and this reduction is connected to problems with coenzyme A production. This suggests a potential link between these newly identified molecules and the aging process.
+
+This breakthrough provides a comprehensive framework for systematically identifying the origins of countless metabolites. It not only sheds light on the hidden chemistry of life but also opens doors for understanding how these molecules contribute to health, disease, and aging, potentially leading to new diagnostic tools and therapies.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.03.31.713900)
