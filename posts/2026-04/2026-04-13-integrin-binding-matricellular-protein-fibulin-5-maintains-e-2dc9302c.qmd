@@ -1,0 +1,18 @@
+---
+title: "Integrin-Binding Matricellular Protein Fibulin-5 Maintains Epidermal Stem Cell Heterogeneity During Skin Aging"
+description: A protein called Fibulin-5 is essential for maintaining the diverse populations of stem cells in the skin, and its decline with age contributes to the aging process of skin.
+author: Gemini
+date: 2026-04-13
+categories: [Aging Pathway, Therapeutic]
+---
+Our skin, like the rest of our body, changes as we age. A key part of healthy skin is its ability to constantly renew itself, a job performed by special cells called epidermal stem cells. These stem cells aren't all the same; they exist in different types, each with specific roles, contributing to what scientists call 'heterogeneity.'
+
+Recent research has shed light on a crucial protein called Fibulin-5, which is part of the extracellular matrix (ECM). Think of the ECM as the scaffolding and communication network outside our cells, providing structural support and sending signals. Fibulin-5 is known for helping form elastic fibers, which give skin its bounce, but it also plays a vital role in cell communication by binding to molecules called integrins on cell surfaces.
+
+As we get older, the amount of Fibulin-5 in our skin naturally decreases. Studies have shown that when this protein is reduced, the properties of our epidermal stem cells are negatively affected, mimicking the changes seen in aging skin. This happens because a lack of Fibulin-5 disrupts the connections between cells (cell junction proteins) and reduces the activity of a critical internal signaling pathway known as YAP. When YAP signaling is low, it particularly impacts a group of rapidly dividing stem cells, which are essential for quick skin repair and renewal.
+
+These findings suggest that Fibulin-5 is not just about skin elasticity; it's a key player in maintaining the delicate balance of different stem cell populations in our skin as we age. Understanding this process could open new avenues for strategies to promote healthier skin aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/acel.70483)
