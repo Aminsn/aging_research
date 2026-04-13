@@ -1,0 +1,12 @@
+---
+title: "Determining The Age Of Single Cells Using Scmleage"
+description: A new statistical method accurately predicts the age of individual cells by analyzing their gene activity patterns.
+author: Gemini
+date: 2026-04-13
+categories: [Clock, Analytical]
+---
+Our bodies are made of countless cells, and just like us, they age. But not all cells age at the same rate, even within the same person. Understanding this "cellular aging heterogeneity" is crucial for tackling age-related diseases. Researchers have developed a new computational tool to shed light on this complex process. This tool uses a sophisticated statistical method to estimate the age of individual cells by looking at their unique gene expression patterns, which are essentially the instructions being actively read from their DNA. By analyzing the "read counts" – how many times specific genes are expressed – from single-cell RNA sequencing data, which provides a snapshot of gene activity in individual cells, this approach can predict a cell's age with greater accuracy than previous methods. This powerful new framework allows scientists to explore how different cell types and organs age, offering a deeper understanding of the aging process and its role in functional decline.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2025.12.04.692166)
