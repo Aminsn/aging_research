@@ -1,0 +1,18 @@
+---
+title: "Temporal AI Model Predicts Drivers Of Cell State Trajectories Across Human Aging"
+description: A new temporal AI model, MaxToki, can predict how human cells change over time across the lifespan, identifying key factors that drive aging and age-related diseases, with some predictions experimentally verified in living organisms.
+author: Gemini
+date: 2026-04-13
+categories: [Analytical, Therapeutic]
+---
+Scientists have long sought to understand the intricate process of aging at a cellular level, but traditional methods often provide only a snapshot of a cell's condition, making it difficult to track the slow, progressive changes that occur over decades. This limitation has hindered the discovery of effective interventions for age-related diseases like heart disease and dementia.
+
+Now, a groundbreaking artificial intelligence model, named MaxToki, offers a new way to observe and predict how cells evolve throughout the human lifespan. Unlike previous models that analyze cells in isolation, MaxToki is a "temporal AI model," meaning it learns from entire "cell state trajectories"—the sequence of changes a cell undergoes over time. It was trained on an enormous dataset of nearly a trillion "gene tokens," which are essentially pieces of genetic information, from millions of human cells spanning from birth to old age.
+
+This innovative approach allows MaxToki to forecast how cell states will change over long periods and, crucially, to identify the "drivers" of these changes. These drivers are the underlying factors, such as specific "transcription factors" (proteins that control which genes are active), that push cells along their aging pathways. The model can even predict novel targets that influence aging, and some of these "perturbations"—or changes—have been experimentally validated in living mice, showing they can indeed cause age-related cellular dysfunction.
+
+MaxToki represents a significant leap forward because it can generalize its understanding to unseen cell types, ages, and even disease states it wasn't explicitly trained on. This capability could dramatically accelerate the discovery of new therapies by pinpointing the most promising anti-aging interventions before costly and time-consuming long-term studies are undertaken. By providing a framework to decode and control dynamic cellular trajectories, this technology holds immense potential for developing strategies to program therapeutic cellular changes and combat age-related diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.03.30.715396)
