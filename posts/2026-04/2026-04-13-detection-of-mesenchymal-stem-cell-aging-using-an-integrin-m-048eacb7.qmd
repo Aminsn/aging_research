@@ -1,0 +1,12 @@
+---
+title: "Detection Of Mesenchymal Stem Cell Aging Using An Integrin Mechano-Probe"
+description: A new integrin mechano-probe can detect aging in mesenchymal stem cells by identifying reduced integrin force signals, which correlates with a decrease in β1 integrin expression.
+author: Gemini
+date: 2026-04-13
+categories: [Clock, Aging Pathway, Therapeutic]
+---
+As we age, the effectiveness of our body's repair cells, known as mesenchymal stem cells (MSCs), naturally diminishes. While traditional methods for identifying aging in these cells rely on biochemical markers, it's also understood that their mechanical properties change over time. Researchers have developed an innovative tool, a "mechano-probe," to specifically measure the forces exerted by integrins, which are proteins on the cell surface that help cells interact with their environment. This probe successfully identified older MSCs by detecting a reduction in these integrin forces, a change that was found to be linked to lower levels of a specific integrin protein called beta-1. The study also showed that increasing the amount of beta-1 integrin in aged MSCs could restore their mechanical signaling, suggesting a pathway that might help these cells regain some of their youthful function. This new mechano-probe offers a promising, non-biochemical way to distinguish aged MSCs, even within a mixed population, and could complement existing methods for assessing cell health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/nyas.70247)
