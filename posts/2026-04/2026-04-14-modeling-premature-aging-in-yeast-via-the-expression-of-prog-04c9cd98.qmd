@@ -1,0 +1,16 @@
+---
+title: "Modeling Premature Aging In Yeast Via The Expression Of Progerin"
+description: Scientists successfully created a yeast model of premature aging by introducing the Progerin protein, which led to slower growth, increased genetic instability, and a shorter lifespan in the yeast cells.
+author: Gemini
+date: 2026-04-14
+categories: [Aging Theory, Aging Pathway]
+---
+Imagine a tiny organism, like yeast, helping us understand how and why we age. Researchers have developed a new way to study premature aging by introducing a specific protein, called Progerin, into yeast cells. Progerin is notorious for causing a rare genetic disorder in humans that leads to rapid aging in children.
+
+When this protein was introduced into yeast, it caused several significant changes. The yeast cells grew much slower, experienced more errors in their genetic material (known as genome instability), and had a shorter overall lifespan. Interestingly, while a normal version of the protein (Lamin A) was quickly broken down, Progerin stuck around for a much longer time. It also tended to accumulate in the 'mother' yeast cells, a process thought to protect the 'daughter' cells and ensure they start with a clean slate for a full life.
+
+These findings are exciting because they show that yeast can mimic key aspects of human premature aging. This new yeast model provides a powerful and simpler tool for scientists to explore the underlying genetic processes that drive both premature and normal aging, potentially leading to new insights and treatments for age-related conditions.
+
+---
+
+Source: [link to paper](https://doi.org/10.18632/aging.206367)
