@@ -1,0 +1,18 @@
+---
+title: "Unravelling Genome-Wide Mosaic Microsatellite Mutations At Single-Cell Resolution"
+description: Researchers developed a new algorithm, BayesMonSTR, to accurately detect mosaic microsatellite mutations at single-cell resolution, revealing an accumulation of these mutations, particularly longer insertions and deletions, in aging cells and neurons.
+author: Gemini
+date: 2026-04-16
+categories: [Aging Theory, Analytical]
+---
+Our bodies are made of trillions of cells, and sometimes, the DNA within these cells can change over time, leading to what we call "mosaic mutations." One type of these changes occurs in specific repetitive DNA sequences known as short tandem repeats (STRs), or microsatellites. These microsatellites are crucial because they can influence how our genes are regulated and have been linked to various human diseases.
+
+However, detecting these mosaic STR mutations in individual cells has been a significant challenge due to their complex nature and technical difficulties. To overcome this, scientists have developed a powerful new computational tool called BayesMonSTR.
+
+Using this innovative tool, researchers made some striking discoveries. They found that as we age, our cells accumulate more of these mosaic STR mutations, specifically longer insertions and deletions within these repetitive DNA segments. This accumulation was observed in both cells that divide and those that don't. Interestingly, neurons in the prefrontal cortex, a vital part of our brain, showed a particularly high number of these mutations, with aged neurons exhibiting a notable increase in longer STR deletions.
+
+Furthermore, these mutations were often found in critical regions of our DNA that control gene activity, such as transcription start sites and active enhancers of highly expressed genes. This suggests that these changes could potentially impact how our genes function. This new research provides a crucial foundation for identifying disease-related mosaic STR mutations and offers a deeper understanding of how these genetic variations contribute to aging and development.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.02.04.703915)
