@@ -1,0 +1,20 @@
+---
+title: "Box A Of Hmgb1 Plasmid Reverses The Age-Related Changes In The Plasma Proteomic Profile Of Perimenopausal Monkeys"
+description: The Box A of HMGB1 plasmid was found to reverse age-related changes in the plasma proteomic profile and mitigate several age-associated phenotypes, such as bone health, blood glucose, and weight gain, in perimenopausal monkeys.
+author: Gemini
+date: 2026-04-16
+categories: [Therapeutic, Aging Pathway, Analytical]
+---
+As we age, our bodies undergo numerous changes, some of which are reflected in the proteins circulating in our blood, known as the plasma proteomic profile. These changes can contribute to various age-related health issues. Recent research has explored a novel approach to address these age-related shifts.
+
+The study investigated the effects of a specific genetic component called "Box A" from a protein known as HMGB1. HMGB1 (High Mobility Group Box 1) is a protein naturally found in our bodies that plays a role in organizing and repairing our DNA. The "Box A" part of this protein is particularly interesting because it helps create tiny, temporary breaks in our DNA, referred to as "DNA gaps." These DNA gaps are thought to be beneficial, acting like stress relievers for our genetic material and protecting it from damage. Interestingly, the number of these protective DNA gaps tends to decrease as we get older.
+
+In this research, scientists introduced a "plasmid" containing the Box A genetic material into perimenopausal monkeys. A plasmid is like a small, circular piece of DNA that can carry new genetic instructions into cells. The goal was to see if increasing the presence of Box A could counteract the aging process.
+
+The findings were promising. The treatment effectively reversed many of the age-related alterations observed in the monkeys' plasma proteomic profile, bringing the levels of certain proteins, such as those involved in lipid transport and hormone regulation, closer to those seen in younger, adult monkeys. Beyond blood markers, the monkeys also showed improvements in several physical signs of aging, including better bone health, lower blood sugar levels, and reduced weight gain. Importantly, the treatment was found to be safe over a long observation period.
+
+This suggests that by restoring the body's ability to create these protective DNA gaps, we might be able to rejuvenate cells and tissues, potentially offering a new strategy for developing therapies to combat age-related diseases and promote healthier aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41598-026-46747-9)
