@@ -1,0 +1,16 @@
+---
+title: "Altered Lipid Profile In Mice Lacking The DNA Repair Protein Ercc1"
+description: Mice lacking the DNA repair protein ERCC1 exhibit increased vulnerability to damage caused by oxidized lipids.
+author: Gemini
+date: 2026-04-16
+categories: [Aging Theory, Aging Pathway]
+---
+Our bodies possess intricate systems to maintain cellular health, including specialized proteins that repair damaged DNA. One such crucial repair crew is the ERCC1-XPF complex, which is essential for fixing various types of DNA damage, including those that link DNA strands together or result from oxidative stress.
+
+This research explored the consequences when this vital DNA repair system is compromised. The study focused on a process called lipid peroxidation, where fats in our bodies are damaged by oxygen, creating unstable molecules that can then harm DNA and proteins. These damaged fats naturally accumulate in tissues as mammals age.
+
+The findings revealed that cells and mice deficient in the ERCC1-XPF repair protein were significantly more susceptible to the detrimental effects of these oxidized fats. When exposed to products of lipid peroxidation, these deficient cells experienced inhibited proliferation, increased reactive oxygen species (a type of cellular stress), and more extensive DNA damage. Furthermore, mice with a compromised ERCC1-XPF system, even when consuming a diet rich in common polyunsaturated fatty acids, showed accelerated onset of aging-related pathologies and a reduced lifespan. This indicates that the inability to effectively repair DNA damage caused by oxidized lipids contributes significantly to cellular decline and tissue degeneration, even from everyday dietary sources.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.dnarep.2026.103935)
