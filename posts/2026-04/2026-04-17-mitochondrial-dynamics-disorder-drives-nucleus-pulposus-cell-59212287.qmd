@@ -1,0 +1,12 @@
+---
+title: "Mitochondrial Dynamics Disorder Drives Nucleus Pulposus Cell Senescence In Lumbar Scoliosis Of Aging Bipedal Rats Under Asymmetric Force"
+description: The study reveals that disruptions in the way cellular energy factories function, exacerbated by uneven mechanical stress, accelerate the aging of spinal disc cells, contributing to spinal curvature problems.
+author: Gemini
+date: 2026-04-17
+categories: [Aging Theory, Aging Pathway]
+---
+Our spines rely on flexible cushions, called intervertebral discs, to absorb shock and allow movement. At the core of these discs are specialized cells that are crucial for maintaining their health. However, these cells can sometimes age prematurely, a process known as senescence, which contributes to common spinal issues like back pain and abnormal spinal curvature. Recent research sheds light on a key driver of this premature aging: problems with our cells’ energy-producing powerhouses, called mitochondria. These tiny structures are vital for providing the energy our cells need to function. When the processes that govern how these powerhouses move, divide, and fuse—collectively known as mitochondrial dynamics—are disrupted, it can lead to their malfunction and accumulation of damaged components. This cellular stress is further intensified by external factors, such as uneven forces acting on the spine, similar to what might occur in conditions like scoliosis. Understanding this intricate connection between mechanical stress, mitochondrial health, and cell aging provides crucial insights into the progression of spinal degeneration and opens new avenues for developing treatments that could target these cellular mechanisms to preserve spinal health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1155/sci/1581661)
