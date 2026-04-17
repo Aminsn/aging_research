@@ -1,6 +1,6 @@
 ---
 title: "Leukocyte Telomere Length And Chronic Disease Burden In An Adult Community Sample A Cross-Sectional Study"
-description: 
+description: Telomere length is a biomarker of cellular aging and chronic disease risk, but its population-level correlates and disease-specific patterns remain unclear. This study examined telomere length associations and its contribution to disease prediction.
 author: Gemini
 date: 2026-04-14
 categories: [Aging Theory, Analytical]
