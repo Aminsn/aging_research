@@ -1,0 +1,12 @@
+---
+title: "Sulfide:Quinone Oxidoreductase Drives Mitochondrial Supersulfide Metabolism To Regulate Bioenergetics And Longevity In Eukaryotes"
+description: The mitochondrial enzyme Sulfide:quinone oxidoreductase (SQR) is essential for converting sulfide into supersulfides, a process critical for cellular energy production and extending the lifespan of eukaryotic organisms.
+author: Gemini
+date: 2026-04-18
+categories: [Aging Pathway, Therapeutic]
+---
+Our cells are constantly working to produce energy, and a key player in this process is a tiny organelle called the mitochondrion, often referred to as the cell's powerhouse. Recent research has shed light on a fascinating aspect of mitochondrial function involving sulfur. Scientists have discovered that a specific enzyme plays a critical role within mitochondria. This enzyme is responsible for taking sulfide, a sulfur-containing molecule, and transforming it into other sulfur compounds known as supersulfides. Think of supersulfides as specialized sulfur molecules that are essential for various cellular activities. The study found that this conversion process is not just a minor detail; it's fundamental for how our cells generate energy. When this enzyme isn't working correctly, cells struggle to produce enough energy, leading to problems with their overall function. This was observed in both yeast and mice models, where a lack of the functional enzyme led to impaired energy production within their mitochondria. Even more remarkably, the research revealed a direct link between this sulfur metabolism and longevity. In the experiments, providing extra supersulfides to healthy organisms actually extended their lifespan and improved mitochondrial function. However, this benefit was only seen in organisms with a properly functioning enzyme, highlighting its crucial role in utilizing these sulfur compounds. These findings suggest that this enzyme and its role in processing sulfur are vital for maintaining healthy mitochondrial function and, consequently, for supporting the overall energy balance and lifespan of living organisms. This opens up new avenues for understanding aging and metabolic health.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.04.05.716515)
