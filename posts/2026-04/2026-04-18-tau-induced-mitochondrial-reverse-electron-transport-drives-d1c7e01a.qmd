@@ -1,0 +1,18 @@
+---
+title: "Tau-Induced Mitochondrial Reverse Electron Transport Drives Neurodegeneration"
+description: A recent study reveals that the protein tau, when dysregulated, drives brain cell degeneration by promoting a harmful process within mitochondria called reverse electron transport.
+author: Gemini
+date: 2026-04-18
+categories: [Aging Pathway, Therapeutic]
+---
+Our brain cells rely on tiny powerhouses called mitochondria to generate energy. A protein known as tau, often associated with neurodegenerative diseases like Alzheimer's, has been found to play a crucial role in regulating how these mitochondria function. Normally, tau helps maintain healthy brain cells, but under stress or aging, it can become problematic. 
+
+New research shows that tau can enter mitochondria and directly interact with a key component of their energy-producing machinery, called mitochondrial complex I. This interaction can trigger a process called "reverse electron transport" (RET). Think of it like a factory assembly line running backward, which isn't how it's supposed to work. When RET is activated, it leads to the overproduction of harmful molecules called reactive oxygen species (ROS), which are like cellular waste products that can damage cells. It also disrupts the balance of important energy-carrying molecules (NAD+/NADH ratio) within the cell. 
+
+This harmful RET process, once initiated by tau, can create a vicious cycle: the elevated RET further promotes the abnormal modification of tau (known as tau hyperphosphorylation), making it even more toxic. This self-perpetuating loop ultimately drives the degeneration of brain cells. 
+
+Crucially, the study found that by preventing tau from entering mitochondria or by disrupting its interaction with mitochondrial complex I, the harmful RET activity was reduced. Furthermore, inhibiting RET through genetic or pharmacological means protected against brain cell degeneration in various models. These findings suggest that targeting this tau-induced mitochondrial reverse electron transport could be a promising new strategy for developing treatments for neurodegenerative diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.04.04.716514)
