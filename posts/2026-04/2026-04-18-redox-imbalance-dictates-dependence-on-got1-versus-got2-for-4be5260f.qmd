@@ -1,0 +1,16 @@
+---
+title: "Redox Imbalance Dictates Dependence On Got1 Versus Got2 For Rod Photoreceptor Health During Aging And Stress"
+description: An imbalance in cellular energy processes, specifically an excess of reducing agents, harms rod photoreceptor cells, and targeting the protein GOT2 may protect these cells in blinding eye diseases.
+author: Gemini
+date: 2026-04-18
+categories: [Aging Pathway, Therapeutic]
+---
+Our eyes rely on specialized cells called photoreceptors to detect light and allow us to see. Unfortunately, the loss of these cells is a major cause of vision impairment in many eye diseases. This new research sheds light on how two important proteins, GOT1 and GOT2, which are part of a cellular system called the malate-aspartate shuttle, play different roles in keeping these photoreceptor cells healthy. The malate-aspartate shuttle is like a tiny transport system within our cells, moving energy-related molecules around to ensure proper function.
+
+The study found that when GOT1 is missing in rod photoreceptors, it leads to the accumulation of a molecule called NADH. This buildup creates an imbalance, a state referred to as "reductive stress," which is detrimental to the cells and causes them to degenerate. However, surprisingly, when GOT2 was missing, the photoreceptors showed minimal damage.
+
+Even more exciting, the researchers discovered that reducing the activity of GOT2 actually protected photoreceptor cells in a model of retinal detachment, a severe eye condition where the light-sensing tissue at the back of the eye pulls away from its normal position. This suggests that an overly reductive environment, characterized by too much NADH, is harmful to photoreceptors. By understanding the distinct roles of GOT1 and GOT2, and particularly the protective effect of targeting GOT2, this research opens up new possibilities for developing treatments to prevent photoreceptor cell death in various blinding diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.04.05.716322)
