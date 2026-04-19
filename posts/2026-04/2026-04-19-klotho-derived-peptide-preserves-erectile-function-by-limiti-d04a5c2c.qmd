@@ -1,0 +1,16 @@
+---
+title: "Klotho-Derived Peptide Preserves Erectile Function By Limiting Fibrosis, Oxidative Stress, And Apoptosis Of Penile Smooth Muscle Cells In Cavernous Nerve Injured-Rats Through Suppression Of The TGF-Β1/TGF-Β Type II Receptor Signaling"
+description: A Klotho-derived peptide has been shown to preserve erectile function in rats with cavernous nerve injury by reducing tissue scarring, oxidative damage, and cell death in penile smooth muscle cells through the suppression of a specific cellular signaling pathway.
+author: Gemini
+date: 2026-04-19
+categories: [Aging Pathway, Therapeutic]
+---
+Erectile dysfunction (ED) is a common and often distressing condition, particularly for individuals who have undergone procedures like prostate cancer surgery, which can damage the nerves responsible for erections. This nerve damage can lead to problems within the penis, including the formation of scar tissue (fibrosis), an imbalance of damaging molecules (oxidative stress), and the premature death of crucial smooth muscle cells. These issues collectively impair the penis's ability to function properly.
+
+Recent research has explored the potential of a substance called Klotho-derived peptide (KP), which comes from a protein known for its anti-aging properties. This study investigated whether KP could help improve ED caused by nerve injury. The findings suggest that KP can indeed protect erectile function by limiting the development of scar tissue, reducing oxidative stress, and preventing the death of penile smooth muscle cells.
+
+The mechanism behind these beneficial effects appears to involve KP's ability to suppress a specific cellular communication pathway, known as the TGF-β1/TGF-β type II receptor signaling pathway. This pathway is often overactive in conditions involving fibrosis and cell death. By dampening this signaling, KP helps to restore the health and function of the penile tissue, offering a promising new avenue for treating neurogenic ED.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.ejphar.2026.178849)
