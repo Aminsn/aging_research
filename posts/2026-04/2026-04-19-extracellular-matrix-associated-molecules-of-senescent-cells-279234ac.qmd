@@ -1,0 +1,12 @@
+---
+title: "Extracellular Matrix-Associated Molecules Of Senescent Cells Induce A Senescence Phenotype In Proliferative Cells Via TGF-Β Signaling Pathway"
+description: The extracellular matrix surrounding senescent cells can induce a senescence phenotype in healthy, proliferative cells by activating the TGF-β signaling pathway.
+author: Gemini
+date: 2026-04-19
+categories: [Aging Theory, Aging Pathway]
+---
+As we age, some of our cells become "senescent," meaning they stop dividing but remain active, often releasing substances that can harm neighboring healthy cells. This study reveals a new way these senescent cells influence their surroundings: through the structural scaffolding they leave behind, known as the extracellular matrix (ECM). Researchers found that the ECM from senescent cells, unlike that from healthy cells, can actually trigger healthy cells to become senescent themselves. This "senescence-inducing" effect was observed both in lab dishes and in living organisms. A key player in this process is a cellular communication route called the TGF-β signaling pathway. When this pathway was blocked, the spread of senescence was significantly reduced. The findings also pinpointed a specific protein within the senescent ECM, called TGFβ1I1, that helps mediate this effect. This discovery highlights the importance of the cellular environment in aging and suggests potential new targets for therapies aimed at combating age-related diseases by preventing the spread of cellular senescence.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.biomaterials.2026.124117)
