@@ -1,0 +1,20 @@
+---
+title: "Metformin Alleviates Aging-Associated Periodontitis Via Nrf2-Mediated Restoration Of The Ire1Α Dependent Unfolded Protein Response"
+description: Metformin, a common anti-aging drug, has been found to reduce inflammation and bone loss associated with aging-related gum disease by improving a crucial cellular stress response pathway.
+author: Gemini
+date: 2026-04-20
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+As we age, our bodies undergo various changes, and our oral health is no exception. Many older adults experience periodontitis, a severe gum disease that can lead to tooth loss due to inflammation and bone destruction. Recent research sheds light on a potential new approach to combat this age-related condition.
+
+The study found that a key cellular process, known as the unfolded protein response (UPR), becomes impaired in gum tissue stem cells (specifically, periodontal ligament stem cells) as we get older. The UPR is like a quality control system within our cells, ensuring that proteins are correctly folded and functional. When this system falters, it leads to increased inflammation and reduces the ability of these stem cells to regenerate bone, contributing to the progression of periodontitis.
+
+A protein called NRF2 plays a vital role in maintaining and restoring this essential cellular stress response. The good news is that metformin, a widely used medication for diabetes and known for its anti-aging properties, can activate NRF2. By doing so, metformin helps to restore the UPR in aging gum tissue cells, effectively reducing inflammation and promoting healthier bone.
+
+To maximize the therapeutic benefits, the researchers also developed a specialized delivery system for metformin. This innovative system targets senescent cells—cells that have stopped dividing and can contribute to aging and disease—and delivers metformin directly to them. In experiments using a mouse model of aging-related periodontitis, this targeted delivery system showed promising results in alleviating bone loss.
+
+This research highlights the NRF2-UPR pathway as a critical factor in the health of gum tissue as we age and suggests that metformin, especially when delivered precisely, could be a valuable treatment strategy for aging-associated periodontitis.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bioactmat.2026.03.060)
