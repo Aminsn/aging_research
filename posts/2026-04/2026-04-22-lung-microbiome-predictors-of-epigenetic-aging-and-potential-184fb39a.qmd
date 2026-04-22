@@ -1,0 +1,12 @@
+---
+title: "Lung Microbiome Predictors Of Epigenetic Aging And Potential Associations With Smoking And Electronic Cigarette Use"
+description: A study has identified specific bacterial species in the lung microbiome that are associated with biological aging in healthy individuals, with differences observed in smokers and electronic cigarette users.
+author: Gemini
+date: 2026-04-22
+categories: [Clock, Lever, Analytical]
+---
+Our lungs are home to a diverse community of microbes, and new research suggests these tiny residents might play a role in how our lungs age. While we know that faster lung aging can make us more vulnerable to lung diseases, it hasn't been clear if the lung microbiome—the collection of microorganisms living in our lungs—is connected to this aging process in healthy people. This groundbreaking study explored this link by examining markers of biological aging in the lungs of healthy individuals, including those who smoke, use electronic cigarettes, and those who have never smoked. The researchers used advanced techniques to identify live bacteria in the lungs and found specific bacterial species that could predict whether someone's lungs were aging faster or slower with high accuracy. Interestingly, two particular bacterial species were found in significantly lower amounts in smokers compared to non-smokers. One of these species was also linked to chemical byproducts of smoking and e-cigarette use. These findings are the first to suggest a potential connection between the lung microbiome and biological aging in healthy individuals, indicating that exposure to traditional and electronic cigarettes might alter the microbial profiles associated with lung aging. This opens up new avenues for understanding lung health and potentially developing interventions to slow down lung aging and reduce disease risk.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13148-026-02126-9)
