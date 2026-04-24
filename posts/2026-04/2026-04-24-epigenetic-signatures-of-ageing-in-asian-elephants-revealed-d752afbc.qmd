@@ -1,0 +1,18 @@
+---
+title: "Epigenetic Signatures Of Ageing In Asian Elephants Revealed By Reduced Representation Bisulphite Sequencing"
+description: Researchers developed a highly accurate DNA methylation-based "epigenetic clock" for Asian elephants, capable of estimating their chronological age with high precision.
+author: Gemini
+date: 2026-04-24
+categories: [Clock, Analytical, Aging Pathway]
+---
+Understanding how long-lived species age is crucial for their conservation and management. Scientists have developed a new tool, often called an "epigenetic clock," to accurately determine the age of Asian elephants. This clock works by looking at specific chemical modifications on DNA, called DNA methylation, which change predictably as an individual gets older.
+
+This innovative method, which analyzed blood samples from many elephants, can predict an elephant's age with remarkable accuracy, with an average error of less than five years. This level of precision is comparable to similar age-estimation tools developed for humans and other animals.
+
+The study also revealed that while most elephants show a consistent increase in their "epigenetic age" over time, some individuals age at different rates, suggesting variations in the biological aging process. The DNA changes linked to age were found in genes associated with important biological functions like development, brain activity, and metabolism, mirroring patterns seen across many mammals.
+
+This breakthrough provides a valuable new way to study aging in Asian elephants, an endangered species with complex social structures and long lifespans. It offers a powerful tool for conservation efforts, helping researchers better understand elephant populations and inform strategies to protect them.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/eva.70236)
