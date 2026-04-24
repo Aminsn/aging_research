@@ -1,0 +1,16 @@
+---
+title: "Cross Species Activity Of TERT Human Telomerase Component"
+description: The human telomerase protein can form active complexes with the RNA component from several mammalian species, but only in non-human primate cells does it lead to sustained telomere lengthening, making these primates suitable models for telomerase-based therapies.
+author: Gemini
+date: 2026-04-24
+categories: [Aging Pathway, Therapeutic]
+---
+Our cells contain an important enzyme called telomerase, which helps maintain the protective caps at the ends of our chromosomes, known as telomeres. Think of telomeres like the plastic tips on shoelaces; they prevent the chromosomes from fraying and losing vital genetic information. Telomerase is made of two main parts: a protein and an RNA molecule. For the enzyme to work correctly, these two parts need to fit together perfectly. This compatibility can differ between species.
+
+Researchers explored whether the human telomerase protein could team up with the RNA molecules from various other mammals, including monkeys, pigs, dogs, rabbits, rats, and mice. They found that the human protein could indeed form an active complex with the RNA from monkeys, pigs, rabbits, and rats in a test tube. However, it didn't work with the RNA from dogs or mice.
+
+Even more importantly, when the human telomerase protein was introduced into living cells from these animals, only monkey cells (along with human cells) showed a significant and lasting increase in telomere length over time. This discovery is crucial because it suggests that non-human primates are the most effective animal models for studying and developing new treatments that aim to activate telomerase, especially for conditions linked to short telomeres.
+
+---
+
+Source: [link to paper](https://doi.org/10.18632/aging.206372)
