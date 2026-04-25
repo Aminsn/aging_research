@@ -1,0 +1,12 @@
+---
+title: "Cellular Memory Of Sub-Lethal Stress"
+description: The paper proposes that partial activation of a cell's internal death mechanisms, rather than the initial external stressors, can drive long-term changes in tissues, contributing to chronic inflammation, aging, and cancer.
+author: Gemini
+date: 2026-04-25
+categories: [Aging Theory, Aging Pathway]
+---
+Cells are constantly exposed to various stresses, and they have sophisticated ways to respond. While severe stress can lead to cell death, this research explores what happens when cells experience "sub-lethal" stress – a level of stress that doesn't immediately kill them. The key finding is that even a partial activation of the cell's internal "self-destruction" programs, known as regulated cell death pathways (such as apoptosis, pyroptosis, necroptosis, and ferroptosis), can leave a lasting mark. Instead of the external stress itself, it's this incomplete activation of internal death signals that can drive long-term changes in tissues. This cellular "memory" of sub-lethal stress has significant implications for understanding and potentially treating conditions such as persistent inflammation, the aging process, and the development of cancer. It suggests a new way to think about how our cells contribute to these long-term health issues.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.immuni.2026.02.017)
