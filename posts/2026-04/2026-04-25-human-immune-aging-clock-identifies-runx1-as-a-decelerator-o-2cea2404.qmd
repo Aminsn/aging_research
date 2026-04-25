@@ -1,0 +1,14 @@
+---
+title: "Human Immune Aging Clock Identifies Runx1 As A Decelerator Of T Cell Senescence"
+description: Scientists have developed a human immune aging clock and identified a protein called RUNX1 that can slow down the aging process of T cells, which are crucial components of our immune system.
+author: Gemini
+date: 2026-04-25
+categories: [Clock, Aging Pathway, Therapeutic, Analytical]
+---
+Our immune system, a vital defense against illness, naturally weakens as we age, a process known as immunosenescence. This decline makes us more susceptible to infections and diseases. Researchers have now created a sophisticated "immune aging clock" that can precisely measure how much an individual's immune system has aged. 
+
+Using this advanced tool, they pinpointed a key protein called RUNX1. It turns out that the levels of RUNX1 naturally decrease in our T cells—a type of immune cell—as we get older. What's exciting is that when scientists removed RUNX1 from young T cells, those cells started showing signs of aging. Conversely, when RUNX1 was boosted in older T cells, it helped reverse some of these aging characteristics. This suggests that RUNX1 acts like a "youth factor" for our T cells, playing a crucial role in keeping them functional. These findings open up new possibilities for developing therapies that could target RUNX1 to rejuvenate our immune system and potentially combat age-related health issues.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.immuni.2026.02.007)
