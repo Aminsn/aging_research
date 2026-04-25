@@ -1,0 +1,16 @@
+---
+title: "Phosphorylation Of Cullin3 By The Pseudokinase Aldh18A1 Disrupts Keap1-Mediated Nrf2 Degradation"
+description: A recent study found that the pseudokinase ALDH18A1 phosphorylates Cullin3, which in turn disrupts the KEAP1-mediated degradation of NRF2, a protein crucial for cellular defense.
+author: Gemini
+date: 2026-04-25
+categories: [Aging Theory, Aging Pathway]
+---
+Our bodies have a vital defense mechanism against cellular damage, often triggered by environmental stressors or the aging process. A key player in this defense is a protein called NRF2, which acts as a master switch to activate protective genes. Under normal conditions, the levels of NRF2 are carefully controlled by a cellular "cleanup crew" that includes a protein called KEAP1 and a larger complex containing Cullin3. This crew works by tagging NRF2 for destruction, ensuring that our protective systems are only activated when truly necessary.
+
+However, new research has uncovered a fascinating way this regulatory process can be influenced. Scientists have discovered that a protein known as ALDH18A1, which belongs to a class called "pseudokinases" (proteins that resemble enzymes that add phosphate groups to other molecules), can directly modify Cullin3 by attaching a phosphate group to it. This modification acts like a disruption to the normal function of the cleanup crew, making it less efficient at tagging NRF2 for degradation.
+
+When NRF2 is not broken down as quickly, its levels increase, allowing it to activate a wider range of genes that protect our cells from various forms of stress. This discovery provides a novel insight into how our body's antioxidant and protective responses are regulated, potentially opening new avenues for understanding and addressing diseases associated with cellular damage and oxidative stress.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bbrc.2026.153762)
