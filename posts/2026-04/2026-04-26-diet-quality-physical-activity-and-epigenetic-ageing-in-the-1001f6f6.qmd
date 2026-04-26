@@ -1,0 +1,16 @@
+---
+title: "Diet Quality, Physical Activity And Epigenetic Ageing In The Finnish Working-Age Population"
+description: Healthier eating habits over extended periods are linked to a slower rate of biological aging, particularly benefiting individuals with lower levels of physical activity.
+author: Gemini
+date: 2026-04-26
+categories: [Lever, Clock, Analytical]
+---
+Ever wondered if your lifestyle choices truly impact how you age on a biological level? Recent research sheds light on the powerful connection between what we eat, how active we are, and our "epigenetic age." Epigenetic age is a fascinating concept that reflects your biological age, which can be different from your chronological age, based on chemical modifications to your DNA. These modifications, called epigenetic changes, can be influenced by environmental factors, including diet and exercise. 
+
+This study, conducted over several decades with a large group of Finnish working-age adults, explored how long-term dietary patterns and physical activity levels relate to these epigenetic changes. Researchers tracked participants' eating habits for up to 32 years and measured their epigenetic age over a seven-year period. They used various established diet quality scores to assess how healthy participants' diets were.
+
+The findings revealed a clear trend: consistently healthier eating was associated with a slower pace of epigenetic aging. This means that individuals who maintained good dietary habits over many years showed signs of aging more slowly at a cellular level. Interestingly, the study also highlighted a crucial interaction with physical activity. While a healthy diet benefited everyone, it appeared to be especially important for those who were less physically active, suggesting that good nutrition might offer a protective effect against accelerated biological aging when exercise levels are low. This research underscores the long-term impact of our daily choices on our biological clock, emphasizing the importance of a balanced diet for a healthier aging process.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.tjnut.2026.101540)
