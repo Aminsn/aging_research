@@ -1,0 +1,12 @@
+---
+title: "From Vessels To Cognition: The Mediating Role Of Biological Aging In The Cognitive Trajectory Of Diabetic Patients"
+description: Vascular stiffness, measured by estimated Pulse Wave Velocity, is a significant predictor of long-term cognitive decline in diabetic patients, with accelerated biological aging playing a major role in this relationship.
+author: Gemini
+date: 2026-04-26
+categories: [Analytical]
+---
+Many people know that diabetes can affect various parts of the body, but its impact on brain health and thinking abilities is a growing concern. New research sheds light on how the stiffness of our blood vessels, a measure of their health, can predict how our thinking skills might change over time, especially for those living with diabetes. This study found that individuals with diabetes who had stiffer blood vessels were significantly more likely to experience a decline in their overall thinking skills, mental sharpness, and memory over a period of several years. What's particularly interesting is that a large part of this connection can be explained by accelerated biological aging. This means that stiffer blood vessels might be speeding up the body's aging process at a cellular level, which in turn contributes to a faster decline in cognitive function. These findings suggest that maintaining healthy blood vessels could be a crucial strategy in preserving brain health for people with diabetes, highlighting the importance of managing vascular health to support long-term cognitive well-being.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.exger.2026.113135)
