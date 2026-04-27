@@ -1,0 +1,18 @@
+---
+title: "Humanized Klotho Haplotypes Cause Widespread Transcriptomic Changes In Mouse Brain"
+description: Humanized versions of the Klotho gene, an aging factor, cause extensive changes in gene activity across the mouse brain, affecting functions related to energy production, protein synthesis, and communication between brain cells.
+author: Gemini
+date: 2026-04-27
+categories: [Aging Pathway, Analytical]
+---
+Our bodies contain a fascinating "longevity gene" called Klotho, which plays a role in aging and has been linked to the risk of developing Alzheimer's Disease. In humans, there are two common versions, or "haplotypes," of this gene: FC and VS. The VS version is thought to offer some protection against Alzheimer's.
+
+To better understand how these human genetic differences impact the brain, scientists developed a special mouse model. These mice were engineered to carry either the human FC or VS Klotho gene variants. By studying these mice, researchers could observe the effects of these human genes in a living system.
+
+What they found was quite remarkable. While younger mice (four months old) showed no significant differences, older mice (12 months old) carrying the different human Klotho variants displayed widespread "transcriptomic changes." This means there were significant differences in which genes were active or inactive throughout their brains. These changes were particularly noticeable in genes involved in crucial brain functions, such as those responsible for the mitochondria (the powerhouses of our cells), ribosomes (which build proteins), and synapses (the connections between brain cells that allow them to communicate).
+
+These findings suggest that human variations in the Klotho gene can profoundly influence brain function and may contribute to the risk and progression of conditions like Alzheimer's Disease. This new mouse model provides a valuable tool for future research, helping us to unravel the complex mechanisms of aging and neurodegenerative diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.04.15.718745)
