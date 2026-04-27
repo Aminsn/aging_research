@@ -1,0 +1,16 @@
+---
+title: "Tracking DNA Methylation-Based Biological Age Over 8 Years And Its Association With Mortality In Community-Dwelling Older Adults"
+description: The rate at which an individual's biological age changes over time, as measured by DNA methylation, is significantly associated with their risk of mortality, and this trajectory is influenced by lifestyle factors.
+author: Gemini
+date: 2026-04-27
+categories: [Clock, Analytical, Lever]
+---
+Have you ever wondered if your body is aging faster or slower than your actual years? Scientists are now using advanced tools to measure something called "biological age," which is essentially how old your body appears at a cellular level, rather than just the number of candles on your birthday cake. This is often done by looking at DNA methylation, a natural process where tiny chemical tags attach to your DNA, influencing how your genes work without changing the DNA sequence itself. These patterns can act like an "epigenetic clock," providing a more accurate picture of your body's true age. 
+
+A recent study followed a group of older adults for over eight years to understand how their biological age changed over time and what that meant for their health. They found that while biological age is generally linked to chronological age, it doesn't always progress at the same rate for everyone. Interestingly, lifestyle choices play a significant role in this. Factors like smoking, how much you exercise, and alcohol consumption were identified as major influences on how quickly or slowly an individual's biological age advanced. 
+
+Perhaps the most crucial finding was the strong connection between the *rate of change* in biological age and mortality. Individuals whose biological age increased more rapidly over the study period had a higher risk of death from all causes. This suggests that tracking how your biological age changes could be a powerful indicator of future health. The research also highlighted that these aging patterns can differ between sexes, emphasizing the need for more personalized approaches in understanding and addressing the aging process.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13148-026-02067-3)
