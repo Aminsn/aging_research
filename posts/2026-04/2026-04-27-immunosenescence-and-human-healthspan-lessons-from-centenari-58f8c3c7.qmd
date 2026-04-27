@@ -1,0 +1,16 @@
+---
+title: "Immunosenescence And Human Healthspan. Lessons From Centenarians"
+description: Centenarians exhibit an adaptively remodeled immune system, rather than a simple decline, which contributes to their exceptional healthspan and resilience against age-related diseases.
+author: Gemini
+date: 2026-04-27
+categories: [Aging Theory, Aging Pathway, Clock, Therapeutic]
+---
+As we grow older, our immune system naturally undergoes changes, a process scientists call immunosenescence. This often means we become more susceptible to infections and diseases. However, a recent study focusing on individuals who live to be 100 years or more, known as centenarians, offers a remarkable perspective: their immune systems don't just deteriorate. Instead, they adapt in unique ways that help them maintain good health. 
+
+These exceptionally long-lived individuals show distinct immune characteristics. For example, they retain a healthy number of "naïve" T cells, which are like fresh immune cells ready to respond to new threats. They also have an expanded population of "cytotoxic" T cells, which are specialized in eliminating infected or cancerous cells. Importantly, their bodies are better at regulating inflammation, a low-grade chronic inflammation often associated with aging and various health problems. They also demonstrate improved resistance to cellular stress and maintain crucial genetic control mechanisms.
+
+In essence, the research suggests that achieving a long and healthy life isn't about preserving a "youthful" immune system, but rather about an immune system that has successfully adapted and found a balanced way to function effectively. Unlocking the secrets of these protective immune mechanisms in centenarians could lead to new ways of assessing biological age and developing treatments to help everyone live healthier, longer lives.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.coi.2026.102777)
