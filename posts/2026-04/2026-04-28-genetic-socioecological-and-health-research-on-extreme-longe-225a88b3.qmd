@@ -1,0 +1,18 @@
+---
+title: "Genetic, Socioecological, And Health Research On Extreme Longevity In Semisupercentenarians And Supercentenarians: A Scoping Review"
+description: The paper synthesizes existing research on individuals living to 105 years and beyond, identifying key genetic, socioecological, and health factors associated with extreme longevity.
+author: Gemini
+date: 2026-04-28
+categories: [Analytical, Lever]
+---
+Imagine living to 105 or even 110 years old! What makes these individuals, often called "super-agers," so special? Scientists are intensely studying these exceptionally long-lived people to unlock the secrets of healthy aging and discover clues that could benefit everyone.
+
+One of the most striking findings is that these individuals often maintain remarkable mental sharpness and physical ability well into their later years. It appears that reaching such an advanced age in good health isn't due to a single factor, but rather a complex interplay of influences. Our genetic makeup plays a significant role, with certain gene variations and patterns appearing to contribute to extreme longevity.
+
+Beyond genetics, the environment and lifestyle factors are also crucial. This includes daily habits, diet, where a person lives, and the strength of their social connections. Even personality traits have been linked to living an exceptionally long life. These individuals also tend to experience a "compression of morbidity," meaning they delay the onset of age-related diseases and disabilities until the very end of their lives.
+
+While much research has been done, there's a recognized need for more consistent methods and terminology across studies to better understand these factors globally. To address this, a comprehensive framework has been proposed to guide future research, aiming to create a unified approach for gathering even more valuable information. Ultimately, by understanding what allows these super-agers to thrive, we can gain insights that help promote healthier, longer lives for the broader population.
+
+---
+
+Source: [link to paper](https://doi.org/10.1155/jare/1605361)
