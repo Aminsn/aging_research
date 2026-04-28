@@ -1,0 +1,12 @@
+---
+title: "Effects Of AGK-2 Treatment On Sirtuin-2, Oxidative Stress And Apoptosis In Ageing Pancreatic Tissue Of Rats"
+description: Treatment with AGK-2, a compound that inhibits sirtuin-2, was found to reduce oxidative stress and programmed cell death in the aging pancreatic tissue of rats, suggesting a potential strategy to combat age-related pancreatic decline.
+author: Gemini
+date: 2026-04-28
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our bodies undergo various changes, and our organs can become more susceptible to damage. A recent study explored how a specific protein, sirtuin-2 (SIRT2), contributes to the aging process in the pancreas, a vital organ for digestion and blood sugar regulation. The research revealed that in older rats, the pancreas showed increased levels of SIRT2, along with higher levels of oxidative stress—a harmful imbalance caused by reactive molecules—and more programmed cell death, known as apoptosis. These factors can contribute to the decline in pancreatic function over time. The study investigated the effects of a compound called AGK-2, which specifically blocks the activity of SIRT2. When aged rats were treated with AGK-2, the researchers observed a significant reduction in SIRT2 levels, a decrease in oxidative stress markers, and less apoptosis in their pancreatic tissue. Furthermore, the treatment improved the overall antioxidant status, meaning the pancreas was better equipped to fight off damaging reactive molecules. These findings suggest that by targeting and modulating SIRT2 activity, it might be possible to counteract some of the negative effects of aging on the pancreas, potentially offering new avenues for therapies to maintain pancreatic health as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.1080/13813455.2026.2657419)
