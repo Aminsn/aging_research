@@ -1,0 +1,16 @@
+---
+title: "Romo1 And Mitochondrial Complex II/SDH Are Required For Spare Respiratory Capacity And Glucose Homeostasis In Mice"
+description: ROMO1, a protein found in the inner mitochondrial membrane, is essential for embryonic development and plays a critical role in maintaining normal blood sugar levels by regulating mitochondrial function and the cell's capacity for extra energy production.
+author: Gemini
+date: 2026-04-28
+categories: [Aging Pathway]
+---
+Our bodies rely on tiny powerhouses within our cells, called mitochondria, to generate energy. A protein named ROMO1 plays a vital role in keeping these powerhouses running efficiently. This protein is essential for early development, as its absence can lead to severe developmental issues.
+
+Beyond development, ROMO1 is critical for maintaining healthy blood sugar levels, particularly through its function in specialized cells in the pancreas that produce insulin. When this protein is missing in these insulin-producing cells, especially in males, the cells struggle to release enough insulin in response to glucose, leading to problems with blood sugar control. Interestingly, while young females might not show immediate effects, aging females also experience similar issues.
+
+At a deeper level, ROMO1 helps maintain what's called "spare respiratory capacity" – essentially, a cell's reserve ability to produce extra energy when demand increases. This reserve capacity is linked to a specific part of the mitochondria called Complex II, also known as succinate dehydrogenase (SDH), which is crucial for energy production. Without ROMO1, this reserve capacity is diminished, impacting the cell's ability to respond to energy demands and properly regulate blood sugar. These findings highlight the importance of ROMO1 and mitochondrial health for overall metabolic balance.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s00125-026-06728-z)
