@@ -1,0 +1,14 @@
+---
+title: "Multitissue, Multi-Time Point Transcriptomic Atlas Of Aging In Mice And Rats"
+description: Researchers have developed a comprehensive map of gene activity across numerous tissues and time points in aging mice and rats, revealing diverse patterns of gene expression changes throughout the lifespan that vary by tissue, sex, and species.
+author: Gemini
+date: 2026-04-28
+categories: [Analytical, Aging Pathway]
+---
+Our bodies undergo complex changes as we age, and understanding these changes at a fundamental level is crucial for promoting healthier aging. A recent large-scale study has created an unprecedented map of gene activity across numerous tissues and throughout the lifespan of mice and rats. This "gene expression atlas" shows which genes are turned on or off, and to what extent, in different parts of the body at various ages.
+
+The research uncovered that the way genes change with age isn't uniform. Some genes show a steady, "linear" increase or decrease in activity over time, while others follow more complex, "logistic" patterns, changing rapidly at certain life stages. Interestingly, these age-related genetic shifts vary significantly depending on the specific tissue, the sex of the animal, and even between mice and rats. For instance, some tissues appear more resilient to age-related changes in gene activity than others. This comprehensive resource provides invaluable insights into the intricate molecular processes of aging, offering a foundation for future studies aimed at understanding and potentially mitigating age-related diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1126/sciadv.ady8401)
