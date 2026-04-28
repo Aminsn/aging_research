@@ -1,0 +1,18 @@
+---
+title: "Eya4 Promotes Cellular Senescence By Enhancing P21 Transcription Through Interaction With Six2"
+description: A recent study found that a protein called EYA4 increases during aging and promotes cellular senescence, a state where cells stop dividing, by interacting with another protein, SIX2, to enhance the production of p21, a key molecule in the senescence pathway.
+author: Gemini
+date: 2026-04-28
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our bodies undergo many changes, and one significant process is called cellular senescence. This is when cells permanently stop dividing, a state that plays a dual role in our health: it can help suppress tumors and repair tissues, but when improperly regulated, it also contributes to tissue dysfunction and the progression of chronic diseases associated with aging.
+
+Scientists have identified a protein, EYA4, whose levels increase as we get older. This protein has been found to play a critical role in driving cells into this senescent state. The research shows that EYA4 doesn't act alone; it teams up with another protein called SIX2, which is a transcription factor—a protein that helps turn specific genes on or off.
+
+Together, the EYA4-SIX2 team boosts the production of a molecule known as p21. Think of p21 as a crucial switch that, when activated, tells cells to stop dividing and enter senescence. This entire process is also dependent on p53, a well-known protein often called the "guardian of the genome" due to its role in cell cycle control and tumor suppression.
+
+Understanding how EYA4, in collaboration with SIX2, promotes cellular senescence by increasing p21 levels offers valuable insights into the molecular mechanisms of aging. This discovery suggests that targeting EYA4 could potentially be a promising strategy to delay the aging process and mitigate age-related diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s44307-026-00109-8)
