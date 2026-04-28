@@ -1,0 +1,18 @@
+---
+title: "<I>C. Elegans</I> Somatostatin/Allatostatin C Signaling Regulates Sleep, Metabolism, Survival, And Memory Via A Sleep-Active Neuron"
+description: A signaling pathway in the roundworm *C. elegans*, involving the molecules NLP-99 and NPR-16, plays a crucial role in regulating sleep, metabolism, survival, and memory by controlling the activity of a specific sleep-active neuron.
+author: Gemini
+date: 2026-04-28
+categories: [Aging Pathway]
+---
+Scientists have uncovered a fascinating mechanism in the tiny roundworm, *C. elegans*, that sheds light on how fundamental biological processes like sleep, metabolism, survival, and memory are interconnected. This research focuses on a signaling pathway involving a molecule called NLP-99 and its receptor, NPR-16, which are similar to somatostatin/allatostatin C found in many animals, including humans.
+
+The study revealed that certain nerve cells, active during wakefulness (called AIY neurons), release NLP-99. This molecule then activates NPR-16. The receptor NPR-16 has a dual role: it can activate a specific sleep-active nerve cell (known as the RIS neuron) from outside the cell, while simultaneously, within the RIS neuron itself, it can reduce the release of sleep-inducing signaling molecules called FLP-11 neuropeptides.
+
+This intricate control system has different effects depending on the worm's life stage. During a period of paused development (larval arrest), strong activity of this pathway in the RIS neuron actually inhibits sleep, leading to less fat storage and reduced survival. However, in well-fed adult worms, the pathway is essential for activating the RIS neuron and promoting sleep, while also influencing how long the worm lives. Furthermore, both the NLP-99/NPR-16 pathway and the RIS neuron's FLP-11 signaling are vital for the process of turning short-term memories into lasting ones.
+
+These findings suggest that this type of signaling, which controls the activity of sleep neurons, might be a conserved mechanism across different species, potentially offering insights into similar physiological regulations in more complex organisms.
+
+---
+
+Source: [link to paper](https://doi.org/10.1126/sciadv.adv8387)
