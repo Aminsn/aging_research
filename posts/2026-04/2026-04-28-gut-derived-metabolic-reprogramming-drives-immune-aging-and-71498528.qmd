@@ -1,0 +1,12 @@
+---
+title: "Gut-Derived Metabolic Reprogramming Drives Immune Aging And Tissue Degeneration"
+description: A high-fat, cholesterol-rich diet can alter gut bacteria and metabolism, leading to reduced levels of the amino acid histidine, which in turn drives immune system changes and tissue degeneration, particularly in the retina.
+author: Gemini
+date: 2026-04-28
+categories: [Aging Pathway, Therapeutic, Lever]
+---
+Our bodies undergo significant changes as we age, often involving shifts in our gut bacteria, metabolism, and a rise in chronic inflammation. Scientists have recently uncovered a fascinating connection between what we eat and how these processes contribute to age-related tissue damage. It turns out that a diet high in fat and cholesterol can disrupt the delicate balance of our gut microbiome—the community of bacteria living in our intestines. This disruption leads to a decrease in a vital amino acid called histidine in our bloodstream. This reduction in histidine then "reprograms" our immune system, essentially making it more prone to inflammation, a state often referred to as "immune aging." This heightened inflammation can then contribute to the degeneration of various tissues, including the retina, as seen in conditions like age-related macular degeneration. The good news is that this research suggests potential new avenues for intervention, such as dietary adjustments to boost histidine levels or targeting specific metabolic pathways, to help combat age-related diseases and promote healthier aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.04.14.718497)
