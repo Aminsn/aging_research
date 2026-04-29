@@ -1,0 +1,16 @@
+---
+title: "Epigenetics As Biomarkers Of Cumulative Physical Performance In Community-Dwelling Adults: A Cross-Sectional Feasibility Study"
+description: A study found that biological age, as measured by epigenetic clocks based on DNA methylation, is significantly associated with physical performance in middle-aged and older adults.
+author: Gemini
+date: 2026-04-29
+categories: [Clock, Analytical]
+---
+As we age, maintaining physical function is key to a healthy and independent life. But how can we tell if our bodies are aging faster than our years suggest, and potentially heading towards physical decline? This is where exciting new research comes in, exploring "epigenetic clocks" as potential early warning signs.
+
+Think of your chronological age as the number of candles on your birthday cake. Your biological age, however, reflects the true age of your cells and tissues, which can be influenced by lifestyle and genetics. Epigenetic clocks are sophisticated tools that estimate this biological age by looking at patterns of "DNA methylation" – tiny chemical tags on your DNA that can switch genes on or off. These tags change over time, and their patterns can reveal how quickly your body is aging at a cellular level.
+
+Recent research has shown that these biological age markers are not just abstract numbers; they are significantly linked to how well people perform physically. This means that even in relatively healthy adults, these epigenetic clocks can indicate whether someone is at a higher risk of experiencing age-related physical decline. This is a big step forward because it offers a way to identify individuals who might benefit from early, targeted interventions to promote healthy aging and maintain their physical abilities for longer.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/cells15080718)
