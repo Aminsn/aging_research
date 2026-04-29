@@ -1,0 +1,12 @@
+---
+title: "Lycium Barbarum Polysaccharides Promote Longevity And Healthspan In Caenorhabditis Elegans Via Insulin/IGF-1 Signalling And Lipid Metabolic Remodelling"
+description: Lycium barbarum polysaccharides extend the lifespan and improve various health indicators in *Caenorhabditis elegans* by modulating specific genetic pathways related to aging and metabolism.
+author: Gemini
+date: 2026-04-29
+categories: [Therapeutic, Aging Pathway]
+---
+Scientists are constantly looking for ways to slow down the aging process and improve health as we get older. One area of interest is natural compounds, and recent research has focused on polysaccharides found in *Lycium barbarum*, commonly known as goji berries. Studies using *Caenorhabditis elegans*, a tiny worm often used in aging research due to its short lifespan and genetic similarities to humans, have revealed promising results. It was found that these polysaccharides can significantly extend the lifespan of these worms. Beyond just living longer, the worms also showed improved health, including a better ability to handle environmental stress, enhanced reproductive capabilities, and stronger muscles. These beneficial effects appear to be linked to the polysaccharides' influence on key genetic pathways within the worms, specifically those involving genes like sir-2.1, daf-12, and daf-16. These genes are part of a fundamental system that controls how an organism responds to insulin and insulin-like growth factors, which are crucial for regulating metabolism and the aging process. By modulating these pathways, the polysaccharides seem to reprogram the worms' biology to promote longevity and overall well-being. This research provides a foundation for further exploring these compounds as potential dietary supplements or therapeutic agents to combat aging and age-related conditions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s10522-026-10435-y)
