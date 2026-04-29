@@ -1,0 +1,18 @@
+---
+title: "Metformin And Epigenetic Age In Non-Diabetic Older People With HIV In Madrid (METFORAGING): A Double-Blind, Randomised, Placebo-Controlled, Pilot Trial"
+description: A pilot trial investigating metformin in non-diabetic older people with HIV found no statistically significant difference in epigenetic age acceleration compared to placebo, although all 11 tested epigenetic biomarkers showed a trend favoring the metformin group.
+author: Gemini
+date: 2026-04-29
+categories: [Therapeutic, Clock]
+---
+Living with HIV, even with effective treatment, can sometimes lead to a phenomenon called "accentuated aging," where individuals experience age-related health issues earlier than their HIV-negative peers. Researchers are constantly looking for ways to address this, and one promising candidate is metformin, a medication commonly used for diabetes that has also shown potential anti-aging effects.
+
+A recent pilot study explored whether metformin could help slow down biological aging in older, non-diabetic individuals living with HIV. The study involved giving participants either metformin or a placebo for nearly two years. To assess biological age, the researchers used advanced tools called "epigenetic clocks," which analyze changes in DNA that reflect how old a person's body truly is, rather than just their chronological age.
+
+While the primary measure of biological age didn't show a statistically significant improvement with metformin, it's important to note that all other biological age markers examined in the study consistently leaned towards a positive effect from metformin. Crucially, the medication was found to be safe and well-tolerated by the participants, which is a vital step for any potential new treatment.
+
+These preliminary findings suggest that while this pilot study didn't provide a definitive answer, it paves the way for larger, more comprehensive studies. Future research with more participants will be essential to determine if metformin can indeed play a role in modifying biological aging in people living with HIV, potentially improving their long-term health and quality of life.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.eclinm.2026.103874)
