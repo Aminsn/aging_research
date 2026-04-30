@@ -1,0 +1,16 @@
+---
+title: "Retinal Pigment Epithelium Ageing: Cellular And Molecular Mechanisms Of Long-Term Homeostasis And Age-Related Dysfunction"
+description: The aging of the retinal pigment epithelium, a crucial cell layer in the eye, is characterized by a gradual decline in its ability to maintain balance due to issues with cell structure, energy production, waste removal, and inflammation, rather than simply widespread cell loss.
+author: Gemini
+date: 2026-04-30
+categories: [Aging Theory, Aging Pathway]
+---
+Our eyes rely on a crucial layer of cells at the back, called the retinal pigment epithelium (RPE), to maintain healthy vision. These cells are responsible for many vital tasks, including nourishing the light-sensing cells, recycling visual pigments, and clearing away cellular waste. Because these RPE cells are long-lived and don't typically divide and replace themselves, they are an excellent model for understanding how aging affects our tissues over time.
+
+New research highlights that the aging of these essential eye cells isn't about a sudden failure of one part, but rather a slow, progressive loss of their ability to work together effectively. Imagine a finely tuned orchestra where, over decades, instruments gradually fall out of sync. This "loss of system coherence" means that even though individual cellular processes might still be active, their coordinated function declines, making the cells less efficient and more vulnerable to damage.
+
+This decline manifests in several key ways. We see changes in the physical structure of the cells, making them less organized. There are also problems with the cell's energy factories, called mitochondria, and how the cells process nutrients, leading to an energy imbalance. Furthermore, the cells struggle to manage and clear out cellular waste and damaged proteins, leading to a buildup of harmful substances. Finally, an ongoing, low-level inflammation contributes to the overall stress and dysfunction. Together, these interacting issues reduce the RPE's capacity to maintain a healthy balance, increasing the risk of age-related vision problems. Understanding these complex, interconnected changes in the RPE provides valuable insights not only for eye health but also for how other long-lived tissues in our body age.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/cells15080725)
