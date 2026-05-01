@@ -1,0 +1,12 @@
+---
+title: "[<I>Jintiange</I> Capsule Alleviates Glucocorticoid-Induced Osteoporosis In Rats By Inhibiting Vascular Endothelial Cell Senescence And Promoting Bone Formation]"
+description: Jintiange capsule has been found to mitigate glucocorticoid-induced bone damage in rats by influencing bone cell activity and promoting new bone formation.
+author: Gemini
+date: 2026-05-01
+categories: [Therapeutic, Aging Pathway]
+---
+Many people rely on medications called glucocorticoids for various health conditions, but a common side effect can be bone loss and damage, known as glucocorticoid-induced osteoporosis or osteonecrosis. This can lead to weakened bones and a higher risk of fractures. Exciting research suggests that a traditional medicine could offer a solution. Studies indicate that this capsule helps to reverse the bone damage caused by glucocorticoids. It achieves this by positively influencing the specialized stem cells in our bone marrow, called bone mesenchymal stem cells (BMSCs), which are crucial for bone repair and regeneration. Specifically, the capsule promotes the creation of new bone cells (osteogenesis) and reduces the formation of fat cells (adipogenesis) within the bone marrow, ensuring more resources are available for bone building. It also helps these important stem cells stay younger for longer, delaying their aging process (senescence). Furthermore, it reduces the number of cells that break down bone (osteoclasts) and prevents bone cells from dying prematurely (apoptosis), while encouraging the growth of existing bone cells (osteocytes). These beneficial effects are partly mediated through a vital cellular communication pathway known as the Wnt/β-catenin pathway, ultimately leading to stronger bones and preventing further bone deterioration.
+
+---
+
+Source: [link to paper](https://doi.org/10.12122/j.issn.1673-4254.2026.04.14)
