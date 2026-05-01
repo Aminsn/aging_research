@@ -1,0 +1,18 @@
+---
+title: "Senolytics Alleviate Cyclophosphamide-Induced Premature Ovarian Insufficiency By Eliminating Senescent Cells"
+description: A combination of drugs known as senolytics can alleviate premature ovarian insufficiency caused by chemotherapy by eliminating harmful senescent cells in the ovaries.
+author: Gemini
+date: 2026-05-01
+categories: [Therapeutic, Aging Pathway, Analytical]
+---
+Chemotherapy, while life-saving for cancer patients, can have significant side effects, including premature ovarian insufficiency (POI) in young women. This condition can lead to infertility and hormonal imbalances. Recent research sheds light on a key culprit behind this damage: "senescent cells."
+
+Senescent cells are often referred to as "zombie cells" because they stop dividing but don't die. Instead, they accumulate in tissues and release harmful substances, creating a toxic environment. In the context of chemotherapy, a drug called cyclophosphamide (CY) can trigger the accumulation of these senescent cells in the ovaries. These "zombie cells" then release a cocktail of inflammatory molecules, collectively known as the "senescence-associated secretory phenotype" (SASP), which damages the delicate ovarian environment, leading to a decline in egg-producing follicles and ultimately, POI.
+
+However, there's promising news. Scientists have investigated a class of drugs called senolytics, which are designed to selectively eliminate these senescent cells. Specifically, a combination of two senolytic compounds, dasatinib and quercetin, was tested in models of chemotherapy-induced ovarian damage. The findings were encouraging: this senolytic treatment effectively cleared the harmful senescent cells from the ovaries and reduced the inflammatory substances they released. This led to a restoration of normal hormone levels, regular reproductive cycles, and an increase in the number of healthy ovarian follicles.
+
+This research suggests that targeting and removing these "zombie cells" could be a powerful new strategy to protect ovarian function in female cancer patients undergoing chemotherapy, offering hope for preserving fertility and endocrine health.
+
+---
+
+Source: [link to paper](https://doi.org/10.4081/ejh.2026.4537)
