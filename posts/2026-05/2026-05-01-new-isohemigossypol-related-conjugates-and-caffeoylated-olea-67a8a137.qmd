@@ -1,0 +1,14 @@
+---
+title: "New Isohemigossypol Related Conjugates And Caffeoylated Oleanane Triterpenoids From <I>Hibiscus Syriacus</I> Roots With Anti-Senescence Modulating Activity"
+description: Researchers identified new compounds from *Hibiscus syriacus* roots that demonstrated anti-senescence activity by suppressing a key aging-related protein and reducing markers of cellular aging.
+author: Gemini
+date: 2026-05-01
+categories: [Aging Pathway, Therapeutic]
+---
+Ever wondered if nature holds secrets to slowing down aging? Recent research has uncovered promising compounds from the roots of the *Hibiscus syriacus* plant, commonly known as the Rose of Sharon, that show potential in combating cellular aging. 
+
+Scientists isolated several novel substances, including unique isohemigossypol conjugates and caffeoylated triterpenoids, from these roots. When tested in laboratory settings, some of these compounds exhibited a remarkable ability to reduce signs of cellular senescence, a process where cells stop dividing and can contribute to aging and age-related diseases. Specifically, these compounds were found to suppress the activity of a protein called p16, which is a known marker for cellular aging. They also reduced the production of certain inflammatory molecules, known as SASP-related cytokines, which are associated with senescent cells and can harm surrounding healthy tissues. These findings suggest that *Hibiscus syriacus* could be a valuable natural source for developing new anti-aging treatments.
+
+---
+
+Source: [link to paper](https://doi.org/10.1039/d6ra01557c)
