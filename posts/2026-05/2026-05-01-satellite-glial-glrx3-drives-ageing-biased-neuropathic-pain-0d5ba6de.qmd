@@ -1,0 +1,12 @@
+---
+title: "Satellite Glial Glrx3 Drives Ageing-Biased Neuropathic Pain Via Hmgb1"
+description: Researchers have identified a specific protein in support cells of the nervous system that contributes to why older individuals are more susceptible to chronic nerve pain.
+author: Gemini
+date: 2026-05-01
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+Chronic nerve pain, a debilitating condition, often affects older individuals more severely, but the reasons behind this age-related vulnerability have been unclear. Recent research sheds light on a crucial mechanism involving specialized support cells in our nervous system called satellite glial cells. These cells, which surround nerve cells, play a significant role in how pain signals are processed. The study found that in older individuals experiencing chronic nerve pain, a specific protein named GLRX3 (glutaredoxin-3) becomes overly active in these satellite glial cells. GLRX3's job is to remove a protective chemical tag, called S-glutathionylation, from another protein known as HMGB1. When HMGB1 loses this tag, it becomes highly active and triggers a specific receptor, TLR4, on nerve cells. This activation of the HMGB1-TLR4 pathway then leads to the persistent and heightened pain experienced in conditions like neuropathic pain, which is pain caused by damage to the nerves. This discovery is significant because it identifies a key "redox axis" – a pathway involving chemical reactions that regulate cell function – that drives age-biased neuropathic pain. The findings also suggest potential new ways to treat this type of pain. For instance, blocking GLRX3's activity or the HMGB1-TLR4 pathway could offer relief, especially for older patients and those suffering from chemotherapy-related nerve pain. Furthermore, monitoring the levels of the protective S-glutathionylation on HMGB1 in the blood could serve as a new way to identify individuals at higher risk for chronic nerve pain as they age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/brain/awag138)
