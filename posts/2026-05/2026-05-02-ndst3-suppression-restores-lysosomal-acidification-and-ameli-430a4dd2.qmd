@@ -1,0 +1,18 @@
+---
+title: "Ndst3 Suppression Restores Lysosomal Acidification And Ameliorates Amyloid-Β And MAPT/Tau Pathology In Alzheimer'S Disease"
+description: Suppressing the protein NDST3 can restore the normal acidic environment within cellular waste disposal units called lysosomes, which in turn reduces the harmful amyloid-β and tau protein buildup, lessens neuronal damage, and improves cognitive function in models of Alzheimer's disease.
+author: Gemini
+date: 2026-05-02
+categories: [Aging Pathway, Therapeutic]
+---
+Scientists have recently identified a crucial link in the progression of Alzheimer's disease: the impaired acidity within lysosomes, which are essentially the recycling centers of our cells. When these lysosomes become less acidic, they struggle to break down waste products, leading to the accumulation of toxic proteins like amyloid-β and tau, hallmarks of Alzheimer's.
+
+A new study highlights a protein called NDST3, which is found at elevated levels in the brains of individuals with Alzheimer's. This protein plays a role in regulating the acidity of lysosomes. Researchers found that by reducing the activity of NDST3, they could restore the proper acidic environment within these cellular recycling units.
+
+This restoration of lysosomal acidity had significant positive effects. It enhanced the cell's ability to clear out the problematic amyloid-β and tau proteins. In animal models of Alzheimer's, lowering NDST3 levels not only re-acidified lysosomes but also led to a decrease in amyloid plaques and tau tangles, reduced damage to brain cells, and even improved memory and thinking abilities.
+
+These findings suggest that targeting NDST3 could be a promising new strategy for developing treatments to combat Alzheimer's disease by helping brain cells effectively clean up harmful waste.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s40035-026-00549-1)
