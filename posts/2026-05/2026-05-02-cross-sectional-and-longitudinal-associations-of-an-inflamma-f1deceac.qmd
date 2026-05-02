@@ -1,0 +1,12 @@
+---
+title: "Cross-Sectional And Longitudinal Associations Of An Inflammatory Aging Clock With Intrinsic Capacity And Functional Ability In Older Adults With Physical And Cognitive Impairments: The COGFRAIL Cohort"
+description: A study on older adults with mild cognitive and functional impairments found no association between an inflammation-based biological aging clock and their intrinsic capacity or functional ability.
+author: Gemini
+date: 2026-05-02
+categories: [Clock, Analytical]
+---
+As we age, our bodies undergo various changes, and chronic inflammation is often considered a key factor in this process. Scientists have developed "aging clocks" to measure biological age, with some focusing specifically on inflammation. A recent study investigated whether one such inflammation-based clock could predict how well older adults maintain their physical and mental capabilities, known as intrinsic capacity, and their ability to perform daily tasks. The research followed a group of very old adults, all of whom had some degree of frailty and mild cognitive or functional difficulties. Over a period of about two years, the study observed a natural decline in their ability to perform basic and instrumental daily activities, as well as their overall intrinsic capacity. However, surprisingly, the study found no link between the inflammation-based biological age acceleration and these measures of functional ability or intrinsic capacity. This suggests that, in this particular group of older adults with existing impairments, the inflammatory aging clock may not be a useful indicator of their functional decline. The researchers emphasize that more studies are needed in different groups of older adults to confirm these findings.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/gerona/glag106)
