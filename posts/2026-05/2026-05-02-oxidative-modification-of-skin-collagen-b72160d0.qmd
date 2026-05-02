@@ -1,0 +1,12 @@
+---
+title: "Oxidative Modification Of Skin Collagen"
+description: The paper reveals that a byproduct of fat oxidation, called malondialdehyde (MDA), attaches to collagen in the skin, causing the collagen structure to unravel and break apart.
+author: Gemini
+date: 2026-05-02
+categories: [Aging Theory, Aging Pathway]
+---
+Our skin is constantly exposed to various stressors, both from within our bodies and from the environment, which can lead to a process called oxidative stress. This is essentially an imbalance where harmful molecules, known as reactive oxygen species (ROS), overwhelm our body's natural defenses. One of the damaging consequences of oxidative stress is the breakdown of fats in our skin, producing a compound called malondialdehyde, or MDA. This MDA doesn't just float around harmlessly; it actively seeks out and binds to collagen, the essential protein that gives our skin its strength and elasticity. When MDA attaches to collagen, it causes significant damage. Imagine a tightly wound spring suddenly losing its structure and breaking into smaller pieces – that's similar to what happens to collagen. Its characteristic triple-helix shape unfolds, and the long collagen chains can even fragment. This damage to collagen is a key factor in the visible signs of skin aging, such as wrinkles and loss of firmness, and can also contribute to various skin-related diseases. Understanding how these harmful molecules interact with vital skin components like collagen is crucial for developing new strategies to protect our skin and combat the effects of aging and environmental damage.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.ijbiomac.2026.152174)
