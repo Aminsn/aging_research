@@ -1,0 +1,16 @@
+---
+title: "Energy Constraint On Human Health"
+description: The human body operates under an evolved energy budget, leading to trade-offs in how energy is allocated among vital functions, stress responses, and growth, maintenance, and repair processes, with chronic stress potentially suppressing the latter and increasing disease risk.
+author: Gemini
+date: 2026-05-03
+categories: [Aging Theory]
+---
+Our bodies are constantly managing a limited energy budget, much like how we manage our finances. This energy needs to be carefully distributed among three main categories of processes: those essential for immediate survival (vital functions), those that help us respond to challenges (stress responses), and those dedicated to long-term health and well-being (growth, maintenance, and repair). 
+
+When we face ongoing stress, whether from work, illness, or other demands, our body prioritizes the more "urgent" vital and stress-related functions. This means that the energy available for growth, maintenance, and repair (GMR) processes—which include everything from healing wounds and building muscle to maintaining a strong immune system and repairing cellular damage—can be reduced. Over time, this consistent redirection of energy away from GMR can make us more susceptible to illness and hinder our body's ability to recover and stay healthy. 
+
+Conversely, activities that promote GMR, such as getting enough sleep, engaging in moderate exercise, and managing stress effectively, help ensure that our body has the resources it needs for long-term upkeep. By understanding this fundamental energy economy, we can make more informed choices to support our body's natural capacity for health and resilience throughout our lives.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.tem.2026.02.010)
