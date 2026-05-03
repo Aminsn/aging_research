@@ -1,0 +1,20 @@
+---
+title: "Emerging Chemical Strategies For Cd38 Inhibition: Restoring NAD<Sup>+</Sup> Metabolism And Disease Control"
+description: The paper explores new chemical approaches to block the CD38 enzyme, which helps restore levels of a vital molecule called NAD+ and offers potential for controlling diseases.
+author: Gemini
+date: 2026-05-03
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies rely on a crucial molecule called NAD+ (nicotinamide adenine dinucleotide) for many essential processes, from energy production to DNA repair. Unfortunately, as we age, the levels of NAD+ naturally decline, contributing to various age-related health issues like metabolic problems and reduced physical function.
+
+A key player in this decline is an enzyme known as CD38. This enzyme acts like a "drain" for NAD+, breaking it down and reducing its availability in our cells.
+
+Recent research is focusing on finding ways to "plug this drain" by developing chemical compounds that can inhibit, or block, the activity of CD38. By doing so, the goal is to restore NAD+ levels, potentially counteracting the effects of aging and improving overall health.
+
+Scientists are exploring various chemical strategies, including different types of molecules that can specifically target and inhibit CD38. For instance, a compound known as 78c has shown promising results in studies with aged mice, where it successfully increased NAD+ levels, improved metabolic functions, enhanced exercise performance, and even extended their healthy lifespan. Other naturally occurring compounds, like nicotinamide riboside and soluble uric acid, have also been identified as CD38 inhibitors.
+
+This research opens exciting avenues for developing new therapies to combat age-related diseases and promote healthier aging by maintaining optimal levels of this vital molecule.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bmc.2026.118676)
