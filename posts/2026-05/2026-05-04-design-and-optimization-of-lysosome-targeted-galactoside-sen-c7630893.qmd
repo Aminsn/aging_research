@@ -1,0 +1,16 @@
+---
+title: "Design And Optimization Of Lysosome-Targeted Β-Galactoside Senolytic Prodrugs: Harnessing The Aromatic Ring Of Self-Immolative Linkers"
+description: Researchers have developed new senolytic prodrugs that selectively target and eliminate senescent cells, which are associated with aging and age-related diseases, by utilizing a specific enzyme found in these cells.
+author: Gemini
+date: 2026-05-04
+categories: [Therapeutic, Aging Pathway]
+---
+Our bodies contain "senescent cells," often called "zombie cells," which accumulate with age and contribute to various age-related diseases. Scientists have been developing drugs called senolytics to clear these harmful cells. However, a major challenge with current senolytics is their lack of selectivity, leading to unwanted side effects because they can also affect healthy cells. 
+
+To overcome this, a new approach involves designing "prodrugs." These are inactive forms of a drug that only become active when they reach their intended target. In this innovative strategy, researchers have created prodrugs equipped with a special sugar molecule called galactose. This galactose acts as a key that is recognized and removed by an enzyme called senescence-associated β-galactosidase (SA-β-gal), which is highly active in senescent cells. 
+
+Once the galactose is removed, a clever chemical component known as a "self-immolative linker" automatically breaks down, releasing the active senolytic drug precisely where it's needed—inside the senescent cells. This targeted delivery system ensures that the drug is activated only in the problematic cells, significantly reducing the risk of side effects and paving the way for safer and more effective treatments for age-related conditions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1021/acs.jmedchem.5c01922)
