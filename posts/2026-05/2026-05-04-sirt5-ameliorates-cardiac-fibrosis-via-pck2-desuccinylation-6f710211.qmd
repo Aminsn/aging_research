@@ -1,0 +1,18 @@
+---
+title: "Sirt5 Ameliorates Cardiac Fibrosis Via Pck2 Desuccinylation-Mediated Metabolic Reprogramming In Cardiac Fibroblasts"
+description: A recent study found that the protein SIRT5 prevents heart scarring by removing a specific chemical modification from the enzyme PCK2, which stops heart cells called fibroblasts from changing their metabolism and becoming active in scar formation.
+author: Gemini
+date: 2026-05-04
+categories: [Aging Pathway, Therapeutic]
+---
+Heart scarring, known as cardiac fibrosis, is a serious condition that can lead to heart failure. Despite its widespread impact, effective treatments are scarce. Recent research sheds light on a promising new pathway that could offer therapeutic targets for this debilitating disease.
+
+The study highlights the crucial role of a protein called SIRT5, which is found in the mitochondria, the energy-producing centers of our cells. Scientists observed that levels of SIRT5 are significantly lower in the heart cells of both humans and mice suffering from heart failure. When SIRT5 is deficient, specialized heart cells called fibroblasts, which are responsible for forming scar tissue, undergo a metabolic shift. Instead of using their usual efficient energy production method, they switch to a less efficient process, which unfortunately activates them to produce excessive scar tissue.
+
+The key to this process lies with another enzyme, PCK2, which plays a vital role in how cells manage their energy. Normally, SIRT5 acts like a tiny eraser, removing a specific chemical tag called a succinyl group from PCK2. However, when SIRT5 levels drop, PCK2 accumulates this succinyl tag, which essentially inactivates it. This inactivation of PCK2 is what triggers the metabolic change in fibroblasts, leading to the formation of scar tissue.
+
+Crucially, the research demonstrated that by restoring SIRT5 or by preventing PCK2 from getting this succinyl tag, the metabolic shift in fibroblasts was reversed, and the progression of heart scarring was significantly reduced. These findings suggest that targeting SIRT5 or the specific modification of PCK2 could be a novel strategy to combat cardiac fibrosis and improve heart health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1161/CIRCULATIONAHA.125.077756)
