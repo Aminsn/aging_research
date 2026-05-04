@@ -1,0 +1,18 @@
+---
+title: "Mechanoage, A Machine Learning Platform To Identify Individuals Susceptible To Breast Cancer Based On Mechanical Properties Of Single Cells"
+description: A new machine learning platform can identify individuals susceptible to breast cancer by analyzing the mechanical properties of their single breast cells, revealing that cells from younger high-risk women can exhibit characteristics of accelerated aging.
+author: Gemini
+date: 2026-05-04
+categories: [Clock, Analytical, Aging Pathway]
+---
+For many women, understanding their personal risk of breast cancer remains a challenge. Current screening methods like mammograms primarily detect tumors that have already formed, and genetic tests only identify a small percentage of at-risk individuals. But what if we could spot risk at a much earlier, cellular level?
+
+Imagine your cells have a "mechanical age" – how they physically respond to stress, like being squeezed. This isn't necessarily the same as your chronological age. Researchers have developed a groundbreaking approach that uses a tiny device, called a microfluidic platform, to gently squeeze individual breast cells. This process measures how stiff or flexible they are and how quickly they bounce back after being deformed. These physical characteristics are their "mechanical properties."
+
+An artificial intelligence system, or machine learning platform, then analyzes these mechanical properties. It learns to distinguish between cells from women of different ages and risk levels. The findings are quite remarkable: cells from older women tend to be stiffer and take longer to recover. More surprisingly, cells from younger women who carry genetic mutations like BRCA1/2, which are known to increase breast cancer risk, behave mechanically like cells from much older women. This suggests an accelerated "mechanical aging" in these high-risk cells.
+
+This innovative method introduces a new way to quantify breast cancer risk, called mechano-RISQ, which is a score based on these cellular mechanical profiles. By identifying these subtle physical changes in cells before any tumor develops, this technology could offer a crucial early warning system. It has the potential to complement existing risk models and provide a tangible, cell-based assessment for the vast majority of women who currently lack clear indicators of their breast cancer susceptibility.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.ebiom.2026.106241)
