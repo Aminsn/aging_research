@@ -1,0 +1,16 @@
+---
+title: "Preserved Mitochondrial Ribosomal Protein Gene Expression Marks A Youthful Transcriptional State In Chinese Nonagenarians And Centenarians"
+description: Chinese individuals aged 90 and above exhibit a younger molecular profile in their blood, characterized by the sustained expression of specific genes involved in mitochondrial protein production.
+author: Gemini
+date: 2026-05-04
+categories: [Aging Pathway, Clock, Analytical]
+---
+Ever wondered what makes some people live exceptionally long and healthy lives? New research sheds light on the molecular secrets of aging by studying individuals in China who have reached 90 years or more. These "super-agers" often defy typical signs of aging at a cellular level.
+
+The study found that these long-lived individuals have a "transcriptional age" in their blood that appears younger than their actual chronological age. This means that the activity of their genes, particularly in their white blood cells, resembles that of much younger people. A key discovery was the preserved expression of a specific set of eight genes responsible for building proteins within the mitochondria, the powerhouses of our cells.
+
+This sustained activity of mitochondrial protein-making genes suggests that these individuals might have better-maintained mitochondrial function, which is crucial for energy production and overall cellular health. While aging typically leads to a decline in these processes, the findings indicate that maintaining the expression of these particular genes could be a signature of slower molecular aging. This research offers a fresh perspective on the biological underpinnings of healthy aging and longevity, highlighting the importance of mitochondrial health in living a long and vibrant life.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.xcrm.2026.102767)
