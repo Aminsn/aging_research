@@ -1,0 +1,18 @@
+---
+title: "Chrebp-Mediated Regulation Of Lipid Metabolism In Liver And Brown Adipose Tissue Of Long-Lived Mice"
+description: A study on long-lived mice found that a protein called ChREBP, which controls fat production, is decreased in the liver and increased in brown fat, suggesting this tissue-specific regulation of fat metabolism may contribute to extended lifespan.
+author: Gemini
+date: 2026-05-04
+categories: [Aging Theory, Aging Pathway]
+---
+Scientists have uncovered a fascinating aspect of metabolism that might be linked to a longer life. They investigated how the body produces fat from carbohydrates, a process called de novo lipogenesis (DNL), and the role of a key protein regulator known as ChREBP.
+
+In studies involving several strains of long-lived mice, researchers observed a consistent pattern: the activity of ChREBP and the enzymes involved in fat production were reduced in the liver. This is significant because high fat production in the liver is often associated with poor metabolic health and aging-related issues like insulin resistance.
+
+Conversely, in the brown adipose tissue (BAT), often referred to as "good fat" due to its role in burning calories to generate heat, the activity of ChREBP and fat-producing enzymes was found to be elevated. Increased DNL in brown fat is considered a sign of good metabolic health.
+
+These findings suggest that the way the body manages fat production in different tissues—decreasing it in the liver while increasing it in brown fat—could be a shared characteristic among animals with extended lifespans. This tissue-specific control of fat metabolism might play a crucial role in promoting longevity.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s11357-026-02263-2)
