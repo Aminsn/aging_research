@@ -1,0 +1,18 @@
+---
+title: "The Long-Lived Immune System Of Centenarians"
+description: Centenarians, individuals aged 100 or older, often maintain a remarkably preserved immune system that resembles that of much younger individuals, contributing to their exceptional longevity and resistance to age-related diseases.
+author: Gemini
+date: 2026-05-04
+categories: [Aging Theory, Aging Pathway, Analytical]
+---
+People who live to be 100 years or more, known as centenarians, often possess an immune system that defies their advanced age, functioning more like that of younger adults. This remarkable resilience helps them avoid or delay common age-related illnesses and maintain their health for longer.
+
+Researchers have found that these exceptionally long-lived individuals exhibit a reduced decline in immune function, a process typically seen with aging called immunosenescence. They also show greater resistance to "inflammaging," which is chronic, low-grade inflammation associated with aging. This preserved immune state is not due to a single factor but rather a coordinated set of adaptations within their bodies.
+
+Key contributions to their robust immunity include a dampened activation of the NLRP3 inflammasome, a protein complex that triggers inflammation, and enhanced autophagy, a cellular "housekeeping" process that removes damaged components. Centenarians also display a tempered senescence-associated secretory phenotype (SASP), meaning their aging cells release fewer harmful molecules that can promote inflammation. Studies looking at their genes (transcriptomic), gene regulation (epigenetic), and gut microbes (microbial signatures) reveal patterns consistent with a youthful immune system, including beneficial changes in their gut microbiome composition.
+
+Furthermore, their immune profiles show a selective retention of "naïve T cells," which are immune cells ready to respond to new threats, and an expansion of "cytotoxic CD4+ and CD8+ subsets," types of T cells that are effective at killing infected or cancerous cells. They also demonstrate tightly controlled inflammatory signaling, better resistance to oxidative stress (damage from harmful molecules), and preserved epigenetic regulation, which influences how genes are expressed. These findings suggest that centenarians have developed unique ways to maintain a balanced and effective immune system, offering valuable insights into strategies for promoting healthy aging in the broader population.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41577-026-01291-5)
