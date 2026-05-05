@@ -1,0 +1,16 @@
+---
+title: "An Integrated Anti-Aging Framework Targeting NAD<Sup>+</Sup> Homeostasis, Mitochondrial Quality Control, And Redox Stability: Roles Of NMN/NR, PQQ, And EGT"
+description: A new anti-aging framework proposes a three-pronged approach using NMN/NR, PQQ, and EGT to address age-related decline by improving cellular energy production, mitochondrial health, and protection against damage.
+author: Gemini
+date: 2026-05-05
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+As we age, our cells, particularly the tiny powerhouses within them called mitochondria, can start to falter. This decline in mitochondrial function is a major contributor to many age-related issues, leading to reduced energy, impaired cell renewal, and increased cellular stress. Traditional approaches often focus on just one aspect of this complex problem, which can be insufficient to tackle the systemic challenges of aging. 
+
+However, a new integrated strategy suggests a more comprehensive solution by combining three key compounds. The first, NMN/NR (nicotinamide mononucleotide/nicotinamide riboside), helps maintain healthy levels of a vital molecule called NAD+, which is crucial for energy production and many cellular processes. By boosting NAD+, it supports the overall health and function of mitochondria. The second compound, PQQ (pyrroloquinoline quinone), plays a role in renewing and strengthening mitochondria, ensuring they are robust and efficient. Finally, EGT (L-ergothioneine) acts as a powerful protector, shielding cells from harmful oxidative stress and maintaining a stable internal environment. 
+
+By working together, these three compounds create a synergistic effect, addressing the interconnected issues of aging by supporting cellular energy, improving mitochondrial quality, and enhancing the cell's ability to resist damage. This integrated approach offers a promising foundation for developing more effective strategies to promote healthy aging and combat age-related decline.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.redox.2026.104191)
