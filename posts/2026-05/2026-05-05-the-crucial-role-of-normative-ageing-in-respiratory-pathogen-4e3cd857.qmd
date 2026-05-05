@@ -1,0 +1,16 @@
+---
+title: "The Crucial Role Of Normative Ageing In Respiratory Pathogenesis"
+description: The paper comprehensively assesses how the respiratory system changes with age, including physiological and structural alterations, and the genetic and molecular factors that lead to a decline in lung function.
+author: Gemini
+date: 2026-05-05
+categories: [Aging Theory, Aging Pathway]
+---
+As we age, our bodies undergo many changes, and our respiratory system is no exception. Over time, the lungs and the structures supporting breathing experience significant transformations. For instance, the lungs become less elastic, and the chest wall, which protects the lungs, can become stiffer, making it harder to take deep breaths. The muscles responsible for breathing also tend to weaken, further impacting our ability to inhale and exhale efficiently.
+
+Beyond these physical changes, there are also microscopic shifts occurring. Cells within the lungs can enter a state called "senescence," where they stop dividing but remain in the body, releasing substances that promote chronic inflammation. This low-grade, persistent inflammation, combined with other genetic and molecular factors, contributes to the overall decline in lung function.
+
+These age-related changes are not just a natural part of getting older; they also play a crucial role in making individuals more susceptible to various respiratory diseases. By understanding these "normal" aging processes in the respiratory system, researchers aim to develop better strategies and interventions to maintain lung health and prevent age-related breathing difficulties and illnesses.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.lanhl.2026.100842)
