@@ -1,0 +1,16 @@
+---
+title: "Epigenetic Skin Aging And Its Reversal To Improve Skin Longevity Across Ethnicities And Phototypes Using A Dihydromyricetin-Containing Serum: Results From A Prospective, Single-Cohort Study"
+description: A serum containing dihydromyricetin can reverse biological skin age and improve visible signs of aging across various ethnicities and skin types by targeting epigenetic changes.
+author: Gemini
+date: 2026-05-06
+categories: [Aging Theory, Aging Pathway, Clock, Therapeutic, Analytical]
+---
+Skin aging is a complex process influenced by many factors, and one key aspect involves "epigenetic" changes. Think of epigenetics as a set of instructions that tells your genes when and how to work, without changing the genes themselves. As we age, these instructions can get a bit muddled, leading to signs of aging like wrinkles and rough skin.
+
+A recent study explored these epigenetic changes in the skin across a diverse group of people, including various ethnicities and skin tones. Researchers found that age-related epigenetic alterations, specifically a type of DNA modification called hypermethylation, are consistent across different populations. They even developed a new "skin clock" that can accurately predict the biological age of skin based on these epigenetic markers.
+
+The exciting part? The study investigated a topical serum containing a natural compound called dihydromyricetin (DHM). When applied, this serum significantly reduced the epigenetic age of the skin. This "epigenetic rejuvenation" wasn't just a biological change; it also led to noticeable improvements in the skin's appearance, such as smoother texture, fewer visible wrinkles, and improved skin structure. This research suggests that by targeting these epigenetic mechanisms, we can develop effective strategies to promote skin longevity and improve its youthful appearance for everyone, regardless of their ethnic background or skin type.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s13555-026-01764-4)
