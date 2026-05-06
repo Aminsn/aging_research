@@ -1,0 +1,12 @@
+---
+title: "Class I Histone Deacetylases And Their Inhibitors As Targets To Modulate Cellular Senescence In Osteoarthritis"
+description: Research suggests that targeting specific enzymes called Class I histone deacetylases with inhibitors may offer a way to influence cellular aging processes in osteoarthritis.
+author: Gemini
+date: 2026-05-06
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, some of our cells can enter a state called 'cellular senescence.' These cells stop dividing but remain active, often releasing substances that can contribute to age-related conditions, including osteoarthritis. Osteoarthritis is a common joint disease characterized by the breakdown of cartilage, the protective tissue cushioning our bones. Scientists are investigating a group of enzymes known as histone deacetylases, or HDACs. These enzymes play a vital role in controlling which genes in our cells are active or inactive. Imagine our DNA as a long thread wound around tiny spools called histones. HDACs work by removing chemical tags from these spools, which can make the DNA more tightly packed and harder for the cell to access certain genes. Specifically, a subset of these enzymes, called Class I HDACs, appear to be involved in the cellular aging processes observed in osteoarthritis. Researchers are exploring the potential of 'inhibitors' – molecules designed to block the activity of these Class I HDACs. By interfering with these enzymes, the goal is to influence the cellular aging pathways, potentially helping to protect cartilage and slow the progression of osteoarthritis.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s11357-026-02260-5)
