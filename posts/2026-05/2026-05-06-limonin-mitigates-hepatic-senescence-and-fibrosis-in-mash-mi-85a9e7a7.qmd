@@ -1,0 +1,12 @@
+---
+title: "Limonin Mitigates Hepatic Senescence And Fibrosis In MASH Mice By Targeting Stat3 To Inhibit Galectin-3/Mtorc1 Signaling"
+description: Limonin, a compound found in citrus fruits, has been shown to reduce liver aging and scarring in mice with a severe form of fatty liver disease by interfering with specific cellular signaling pathways.
+author: Gemini
+date: 2026-05-06
+categories: [Aging Pathway, Therapeutic]
+---
+Many people worldwide are affected by a serious liver condition called Metabolic dysfunction-associated steatohepatitis (MASH), a severe form of fatty liver disease that can lead to liver scarring, known as fibrosis, and even liver cancer. As we age, our liver cells can also show signs of aging, a process called hepatic senescence, which makes the liver more vulnerable to diseases like MASH. Recent research has explored the potential of a natural compound called limonin, commonly found in citrus fruits, to combat these liver problems. The study found that limonin can significantly reduce both liver cell aging and the development of fibrosis in mice with MASH. It achieves this by targeting a specific cellular communication route, known as the STAT3 pathway. By interfering with STAT3, limonin effectively dampens the activity of two other key players, Galectin-3 and mTORC1. Galectin-3 is a protein known to contribute to liver scarring, while mTORC1 is a complex that regulates cell growth and metabolism, and its overactivity can contribute to disease progression. This discovery suggests that limonin could be a promising natural agent for developing new treatments for MASH and related liver conditions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.phymed.2026.158244)
