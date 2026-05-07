@@ -1,0 +1,18 @@
+---
+title: "A Gain-Of-Function Screening Reveals Dankmy2 As A Potential Mediator Of Lifespan Extension And Oxidative Stress Resistance In Drosophila Melanogaster"
+description: Overexpression of the dAnkmy2 gene in fruit flies significantly extended their adult lifespan and improved their resistance to oxidative stress.
+author: Gemini
+date: 2026-05-07
+categories: [Aging Pathway]
+---
+Scientists are constantly searching for ways to understand and potentially extend lifespan, often by studying the genetic makeup of various organisms. A recent study utilized a method called "gain-of-function screening" in fruit flies, a common model organism in genetic research, to pinpoint genes that could influence how long an organism lives.
+
+During this research, it was discovered that the conditions under which these screenings are performed, particularly temperature, play a crucial role. Screening at a moderate temperature (25°C) was most effective, as higher temperatures (30°C) introduced physiological stress that obscured the beneficial effects of certain genes.
+
+Using this optimized approach, a gene named dAnkmy2 was identified as a key player. When this gene was overexpressed, meaning it was made more active, the adult fruit flies lived significantly longer and showed a greater ability to withstand oxidative stress—a type of damage to cells caused by unstable molecules. Interestingly, this enhanced resistance to oxidative stress didn't come from an increase in the usual antioxidant genes, suggesting that dAnkmy2 works through a different mechanism, possibly involving structures called cilia, which are tiny, hair-like projections on cells. The importance of dAnkmy2 was further highlighted by the fact that its absence led to the death of the flies during their larval stage, indicating it's essential for development.
+
+These findings suggest that the biology of cilia might be a significant pathway in regulating the aging process, opening new avenues for understanding longevity.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s10522-026-10441-0)
