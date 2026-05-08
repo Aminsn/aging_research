@@ -1,0 +1,18 @@
+---
+title: "Immune Checkpoint Blockade As An Accelerator Of Adrenal Aging: A Testable Model Linking Low-Grade Cortical Inflammation To Proteostasis Failure, LDLR/Sult2A1 Suppression, And Reduced DHEA Output"
+description: Immune checkpoint blockade, a type of cancer treatment, is hypothesized to accelerate the aging of the adrenal glands by causing chronic inflammation, which leads to a decrease in the production of the hormone DHEA while maintaining normal cortisol levels.
+author: Gemini
+date: 2026-05-08
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+Cancer treatments have revolutionized patient care, but some, like those that unleash the body's immune system to fight tumors, can have unexpected long-term side effects. One such side effect is the impact on our adrenal glands, small organs located above the kidneys that produce vital hormones.
+
+Researchers are now proposing a fascinating model: these powerful immune-boosting therapies might actually speed up the aging process of the adrenal glands. The idea is that while these treatments are effective against cancer, they can also trigger a persistent, low-level inflammation within a specific part of the adrenal gland called the zona reticularis. This area is crucial for producing certain hormones.
+
+This chronic inflammation, the model suggests, disrupts the cells' ability to maintain their proteins properly (a process called proteostasis) and handle fats. This, in turn, interferes with key pathways responsible for making dehydroepiandrosterone (DHEA), a hormone involved in various bodily functions. The result is a noticeable drop in DHEA levels, even as levels of another important adrenal hormone, cortisol, remain relatively stable. This pattern closely mirrors what happens during natural adrenal aging.
+
+Understanding this mechanism is vital because it redefines some of the treatment's side effects as a form of "accelerated organ aging." This new perspective could lead to better ways to identify patients at risk for these long-term endocrine issues. It also opens the door for potential interventions, such as monitoring DHEA levels in patients undergoing these therapies and exploring treatments like DHEA replacement to mitigate these effects and improve the quality of life for survivors.
+
+---
+
+Source: [link to paper](https://doi.org/10.1136/jitc-2025-014454)
