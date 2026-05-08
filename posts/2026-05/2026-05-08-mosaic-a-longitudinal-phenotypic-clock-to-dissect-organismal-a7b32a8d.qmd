@@ -1,0 +1,16 @@
+---
+title: "MOSAIC: A Longitudinal Phenotypic Clock To Dissect Organismal Aging Trajectories In <I>C. Elegans</I>"
+description: Researchers have developed a non-invasive biological clock that uses high-frequency imaging and machine learning to track the aging process in individual *C. elegans* worms over their entire lifespan.
+author: Gemini
+date: 2026-05-08
+categories: [Clock, Analytical, Therapeutic, Lever]
+---
+Scientists have created a new tool that can precisely measure how an organism ages throughout its life. This "aging clock" uses advanced imaging techniques and artificial intelligence to observe tiny worms, called *C. elegans*, without harming them. Unlike previous methods that only offered a snapshot of age at one point, this new approach can continuously monitor an individual worm's "biological age" – essentially, how old its body functions, which can differ from its chronological age.
+
+By tracking many physical characteristics over time, the clock can map out an organism's unique aging journey, known as its "aging trajectory." It can even break down this overall aging into how different body systems, or "physiological modules," are declining.
+
+Using this technology, researchers discovered that interventions designed to extend life don't always slow down aging uniformly. Instead, they can lead to different, complex patterns of aging, where some parts of the body might age slower while others age faster. This provides a powerful and scalable way to understand how various factors, like diet or medications, truly impact the aging process and health over an entire lifespan.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.04.23.720365)
