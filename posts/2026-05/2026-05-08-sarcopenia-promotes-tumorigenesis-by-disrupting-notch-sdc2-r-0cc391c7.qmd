@@ -1,0 +1,18 @@
+---
+title: "Sarcopenia Promotes Tumorigenesis By Disrupting NOTCH-Sdc2-Regulated Biogenesis Of Muscle-Derived Extracellular Vesicles"
+description: Sarcopenia, the age-related loss of muscle mass and strength, promotes tumor growth by disrupting the production of tumor-suppressing extracellular vesicles from muscle tissue.
+author: Gemini
+date: 2026-05-08
+categories: [Aging Pathway, Therapeutic, Lever]
+---
+Our muscles do more than just help us move; they also play a crucial role in fighting cancer. New research reveals that healthy skeletal muscles act as an anti-tumor organ by releasing tiny packages called extracellular vesicles (EVs) that can suppress tumor growth.
+
+However, with sarcopenia, an age-related condition characterized by the loss of muscle mass and strength, this protective mechanism falters. Sarcopenic muscles produce fewer of these beneficial EVs, and the EVs they do release have an altered content, losing their ability to suppress tumors.
+
+Scientists have identified a specific microRNA, called miR-7a-5p, which is abundant in EVs from healthy muscle and acts as a tumor suppressor by inhibiting a signaling pathway known as TEAD1. This protective microRNA diminishes with aging, contributing to the loss of tumor-suppressive activity.
+
+The production of these muscle-derived EVs is regulated by a pathway involving NOTCH and SDC2. This pathway naturally declines with age, but interestingly, it can be reactivated through exercise. These findings highlight a previously unrecognized communication pathway between muscles and tumors, offering exciting new avenues for potential therapeutic interventions to combat cancer by targeting muscle health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41467-026-72410-y)
