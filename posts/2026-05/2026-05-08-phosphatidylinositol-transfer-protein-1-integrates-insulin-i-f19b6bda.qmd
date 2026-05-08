@@ -1,0 +1,16 @@
+---
+title: "Phosphatidylinositol Transfer Protein-1 Integrates Insulin/IGF-1 And TOR Signaling To Negatively Regulate Lifespan And Healthspan In Caenorhabditis Elegans"
+description: A protein called phosphatidylinositol transfer protein-1 (pitp-1) has been found to negatively control how long an organism lives and its overall health by linking two major cellular signaling pathways, insulin/IGF-1 and TOR.
+author: Gemini
+date: 2026-05-08
+categories: [Aging Pathway, Therapeutic]
+---
+Scientists have recently uncovered a crucial player in the intricate dance of aging: a protein known as pitp-1. While pitp-1 was known to be part of a fundamental cellular process called the phosphoinositide (PIP) cycle, its specific role in promoting a long and healthy life remained a mystery until now.
+
+Through studies on the tiny worm *C. elegans*, researchers discovered that reducing the levels of pitp-1, either by genetic removal or by silencing its activity, significantly extended the worms' lifespan. Not only did they live longer, but they also maintained better movement as they aged and showed increased resilience to stress. These beneficial effects were linked to the dampening of a key cellular pathway known as TOR (Target of Rapamycin) signaling, which is a master regulator of growth and metabolism.
+
+Conversely, increasing the amount of pitp-1 had the opposite effect, shortening lifespan and negatively impacting health by boosting TOR signaling. The research also revealed that pitp-1 is influenced by another important aging pathway, the insulin/IGF-1 signaling pathway, suggesting it acts as a central coordinator between these two critical systems that govern how we age. Interestingly, simply reducing pitp-1 in nerve cells during early adulthood was enough to promote a longer, healthier life. This work sheds new light on the complex mechanisms of aging and offers potential new avenues for understanding and promoting healthy longevity.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s12929-026-01246-x)
