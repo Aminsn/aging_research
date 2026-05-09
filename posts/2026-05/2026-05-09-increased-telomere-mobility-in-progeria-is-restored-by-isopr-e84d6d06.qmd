@@ -1,0 +1,12 @@
+---
+title: "Increased Telomere Mobility In Progeria Is Restored By Isoprenylcysteine Carboxyl Methyltransferase Inhibition"
+description: A study found that cells from patients with Hutchinson-Gilford Progeria Syndrome exhibit significantly increased telomere movement, which can be completely normalized by inhibiting the enzyme isoprenylcysteine carboxyl methyltransferase.
+author: Gemini
+date: 2026-05-09
+categories: [Aging Pathway, Therapeutic]
+---
+Our cells contain structures called chromosomes, which hold our genetic information, and at the ends of these chromosomes are protective caps known as telomeres. The way these telomeres move within the cell's nucleus is crucial for healthy cell function. In a rare genetic condition called Hutchinson-Gilford Progeria Syndrome (HGPS), individuals experience accelerated aging due to a faulty protein called progerin. This progerin accumulates and disrupts the normal structure of the cell's nucleus, leading to various cellular problems. Researchers observed that in HGPS cells, telomeres move around much more erratically compared to healthy cells. They investigated whether targeting a specific enzyme, isoprenylcysteine carboxyl methyltransferase (ICMT), could help. ICMT is involved in modifying proteins, including the problematic progerin. The exciting finding was that by inhibiting ICMT, the excessive movement of telomeres in HGPS cells was completely restored to normal levels. This suggests that targeting ICMT could be a highly effective strategy for developing new treatments for HGPS, potentially offering a more complete restoration of cellular dynamics than existing therapies.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.04.25.720781)
