@@ -1,0 +1,14 @@
+---
+title: "From Plant To Prosthesis: An Engineered Biomimetic Disc Repairs Senescence-Associated Intervertebral Disc Degeneration In Goats"
+description: Researchers successfully implanted engineered biomimetic spinal discs into goats, demonstrating that these lab-grown tissues can restore the structure, biology, and mechanical function of degenerated intervertebral discs.
+author: Gemini
+date: 2026-05-09
+categories: [Therapeutic, Aging Pathway]
+---
+Imagine a future where debilitating back and neck pain, often caused by worn-out spinal discs, could be treated not with invasive fusions or limited mechanical devices, but with a custom-grown, living replacement. Recent research has brought us a significant step closer to this reality by successfully implanting bioengineered spinal discs into goats.
+
+These innovative discs, designed to mimic the natural structure of healthy spinal segments, were shown to integrate effectively and restore the disc's normal function. Unlike current treatments that often provide only symptomatic relief and don't fully restore movement, these engineered tissues aim to biologically replace the damaged disc, allowing for a full range of motion. The choice of goats for this study was strategic, as their spinal disc dimensions and semi-upright posture are similar to humans, making the findings highly relevant for future human applications. Early results indicate that these lab-grown discs maintained or even improved their structural integrity and mechanical properties over several weeks, performing as well as or better than natural discs. This breakthrough paves the way for further long-term studies and eventually, the potential to create personalized, biological solutions for people suffering from chronic spinal disc degeneration.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bioactmat.2026.04.024)
