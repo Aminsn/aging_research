@@ -1,0 +1,12 @@
+---
+title: "Aging-Associated Ccl8<Sup>+</Sup> Senescent Macrophages Recruit Ccr1<Sup>+</Sup> Neutrophils To Promote Nets Formation And Impair Meningeal Lymphatic Drainage"
+description: The study reveals that aging-associated senescent macrophages attract specific neutrophils, leading to the formation of neutrophil extracellular traps that hinder the brain's waste drainage system.
+author: Gemini
+date: 2026-05-10
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+As we age, our bodies undergo various changes, and one crucial system that can become less efficient is the brain's waste removal process. This system, known as meningeal lymphatic drainage, is responsible for clearing out harmful substances and maintaining brain health. When it doesn't work properly, it can contribute to age-related neurological issues. This research sheds light on a newly discovered mechanism behind this age-related decline. It highlights how certain immune cells, specifically older, "senescent" macrophages that produce a molecule called CCL8, act as recruiters. They attract another type of immune cell, neutrophils, which carry a receptor called CCR1. Once recruited, these neutrophils release web-like structures known as Neutrophil Extracellular Traps (NETs). These NETs, while usually involved in fighting infections, can unfortunately clog up the delicate meningeal lymphatic vessels, impeding the brain's ability to clear waste effectively. Understanding this intricate interplay between aging immune cells and lymphatic dysfunction opens new avenues for developing strategies to maintain brain health as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.14336/AD.2026.0132)
