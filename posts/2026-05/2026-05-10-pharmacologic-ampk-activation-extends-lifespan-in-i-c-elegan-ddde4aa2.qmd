@@ -1,0 +1,18 @@
+---
+title: "Pharmacologic AMPK Activation Extends Lifespan In <I>C. Elegans</I> And Improves Aspects Of Healthspan In Mice"
+description: A specific drug that activates AMP-activated kinase (AMPK) extended the lifespan of C. elegans worms and improved various health indicators in aged mice.
+author: Gemini
+date: 2026-05-10
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our bodies often struggle with how they manage energy, a process crucial for all bodily functions. Scientists have long known that a central protein, called AMP-activated kinase (AMPK), acts as a master regulator of this energy metabolism. In fact, directly boosting AMPK activity through genetic means has been shown to extend the lives of many different species.
+
+This recent research explored whether a specific drug, MK-8722, which activates AMPK, could offer similar benefits. The findings were quite exciting: when tiny worms called *C. elegans* were treated with MK-8722, their lifespan significantly increased without any negative impact on their movement or ability to reproduce.
+
+The study also looked at aged mice, where the drug showed remarkable improvements in several aspects of health. Treated mice experienced a reduction in body fat, maintained more stable fasting blood sugar levels, and exhibited enhanced daily rhythms in their metabolism, indicating an overall healthier metabolic state. Further analysis of the mice's livers revealed a decrease in inflammation and an increase in beneficial compounds related to sterols, effects that are often seen with calorie restriction, a known anti-aging intervention.
+
+These results suggest that using drugs to activate AMPK could be a promising new approach to develop therapies that not only extend lifespan but also improve health as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.04.21.719899)
