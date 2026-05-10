@@ -1,0 +1,18 @@
+---
+title: "Beyond Ercs: Exploring Catastrophic Forms Of Rdna Instability In Aging Yeast"
+description: Researchers have identified a new form of ribosomal DNA instability, termed Catastrophic IntraChromosomal Recombination (CICR), that contributes to the varied lifespans observed in aging yeast cells, alongside previously known extrachromosomal rDNA circles (ERCs).
+author: Gemini
+date: 2026-05-10
+categories: [Aging Theory, Aging Pathway]
+---
+Even genetically identical single-celled organisms, like yeast, exhibit a wide range of lifespans when grown under the same conditions. Understanding what drives this variability is key to unraveling the fundamental mechanisms of aging. For a long time, a major theory suggested that the accumulation of small, circular pieces of DNA called extrachromosomal rDNA circles (ERCs) was a primary cause of aging in these cells.
+
+However, recent research has delved deeper into the stability of ribosomal DNA (rDNA), which is crucial for making ribosomes—the cell's protein factories. This work reveals that aging yeast cells experience more than just ERC accumulation. They also develop a severe form of instability within their main chromosome, specifically in the region containing the rDNA.
+
+The scientists propose a new model, called Catastrophic IntraChromosomal Recombination (CICR), to explain this phenomenon. Imagine the cell's DNA as a long, intricate zipper. During replication, this zipper unzips and then re-zips to create two copies. CICR occurs when sections of the rDNA that are at different stages of this unzipping and re-zipping process recombine incorrectly. This catastrophic event leaves behind a problematic, branched structure on the chromosome, with a replication fork (the point where DNA is actively being copied) that cannot be properly resolved.
+
+These abnormal structures lead to a variety of toxic byproducts during cell division, ultimately contributing to the observed differences in how long individual yeast cells live. This suggests that a broader instability within the rDNA, rather than just the presence of ERCs, plays a significant role in the aging process.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.04.21.719800)
