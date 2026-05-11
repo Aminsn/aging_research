@@ -1,0 +1,16 @@
+---
+title: "Cytosolic Prdx1 Acts As An Extramitochondrial Sink To Set Mitochondrial H<Sub>2</Sub>O<Sub>2</Sub> Levels And Enable Resilience To Chronic Mitochondrial Oxidative Stress"
+description: A recent study revealed that the antioxidant enzyme PRDX1, located in the main fluid of the cell, plays a crucial role in controlling hydrogen peroxide levels within mitochondria, acting as an external sponge to protect these cellular powerhouses from ongoing damage.
+author: Gemini
+date: 2026-05-11
+categories: [Aging Pathway, Analytical]
+---
+Our cells are constantly working, and in doing so, they produce byproducts. One such byproduct is hydrogen peroxide (H2O2), a molecule that can be both a vital messenger and a harmful agent, causing what’s known as oxidative stress if levels get too high. Mitochondria, often called the "powerhouses" of our cells because they generate most of the energy, are major producers of H2O2. For a long time, it was thought that the antioxidant systems *inside* the mitochondria were the primary defense against this H2O2.
+
+However, new research has shed light on an unexpected hero: an enzyme called PRDX1, located in the cytosol, which is the jelly-like substance filling the cell outside of its organelles. This study found that PRDX1 is a surprisingly dominant player in regulating H2O2 levels within the mitochondria. It turns out that the inner membrane of the mitochondria, which separates the inside of the mitochondrion from the rest of the cell, is quite permeable to H2O2. This means H2O2 can easily escape the mitochondria and be "soaked up" by PRDX1 in the cytosol.
+
+Essentially, the cytosol acts as a major "sink" or sponge, preventing H2O2 from building up to damaging levels inside the mitochondria. When PRDX1 is missing, cells become much more vulnerable to chronic oxidative stress in their mitochondria. The research also uncovered that when PRDX1 is deficient, cells compensate by increasing mitophagy, a process where damaged mitochondria are selectively removed, highlighting the critical role of PRDX1 in maintaining mitochondrial health and overall cellular resilience.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.redox.2026.104195)
