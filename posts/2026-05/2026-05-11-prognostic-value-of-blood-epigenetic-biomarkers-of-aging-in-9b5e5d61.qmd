@@ -1,0 +1,14 @@
+---
+title: "Prognostic Value Of Blood Epigenetic Biomarkers Of Aging In Persons With Well-Controlled HIV-1 Infection"
+description: Blood tests that measure biological aging, known as epigenetic clocks, can predict the risk of serious health issues and mortality in individuals with well-controlled HIV.
+author: Gemini
+date: 2026-05-11
+categories: [Clock, Analytical]
+---
+Even with effective treatment, people living with HIV often experience health problems typically seen in older individuals, suggesting an accelerated aging process. Scientists are exploring new ways to understand and predict these health risks. One promising area involves "epigenetic clocks," which are essentially biological timers that measure your body's true age, rather than just your chronological age, by looking at chemical modifications on your DNA called "epigenetic biomarkers." These modifications can influence how your genes are expressed without changing the underlying DNA sequence.
+
+A recent study investigated whether these biological age markers could predict future health outcomes in individuals with well-controlled HIV. Researchers analyzed blood samples from a group of people with HIV who were on stable treatment and followed them for 10 years. They found that certain epigenetic clocks were indeed associated with a higher risk of developing various health complications, including aging-related conditions, serious non-AIDS events (health issues not directly caused by HIV itself), and even certain cancers. Specifically, some of these biological age indicators were linked to a significantly increased risk of all-cause mortality. These findings suggest that these advanced blood tests could serve as valuable tools for identifying individuals with HIV who are at a higher risk of long-term health problems, potentially allowing for earlier interventions and more personalized care.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/cid/ciaf537)
