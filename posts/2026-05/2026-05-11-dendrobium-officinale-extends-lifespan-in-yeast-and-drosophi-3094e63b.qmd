@@ -1,0 +1,16 @@
+---
+title: "Dendrobium Officinale Extends Lifespan In Yeast And Drosophila Via Context-Dependent Pi3K-AKT Modulation"
+description: The herb Dendrobium officinale extends the lifespan of yeast and fruit flies by modulating the PI3K-AKT signaling pathway in a manner that depends on the cellular environment.
+author: Gemini
+date: 2026-05-11
+categories: [Therapeutic, Aging Pathway, Analytical]
+---
+For centuries, traditional Chinese medicine has utilized certain herbs for their health-promoting properties, including the potential to extend life. Recent scientific investigations have shed light on one such herb, *Dendrobium officinale*, and its remarkable effects on aging. Researchers explored its impact using two well-established models in aging research: yeast, a single-celled organism, and fruit flies, small insects that share many genetic similarities with humans.
+
+The studies revealed that extracts from *Dendrobium officinale* successfully extended the lifespan of both yeast and fruit flies. This anti-aging effect is linked to its influence on a critical cellular communication system known as the PI3K-AKT signaling pathway. This pathway acts like a central control system within cells, regulating vital processes such as growth, metabolism, and how cells respond to stress. What makes this finding particularly intriguing is that the herb's modulation of this pathway is "context-dependent," meaning its specific effects can vary based on the particular conditions of the cells or tissues.
+
+Beyond just extending life, the research also showed that in fruit flies, *Dendrobium officinale* improved physical performance, like climbing ability, and helped mitigate some of the negative health consequences associated with a high-sugar diet. These findings suggest that this traditional herb may promote longevity and improve health by fine-tuning fundamental cellular pathways involved in the aging process.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jep.2026.121777)
