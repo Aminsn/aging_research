@@ -1,0 +1,12 @@
+---
+title: "Znrf2-Mediated CD-M6Pr Degradation And Lysosomal Dysfunction Aggravate Cellular Senescence And Aging"
+description: The protein ZNRF2 promotes the breakdown of CD-M6PR, a crucial receptor for lysosomal function, leading to impaired cellular recycling and accelerating cellular aging.
+author: Gemini
+date: 2026-05-13
+categories: [Aging Theory, Aging Pathway]
+---
+Our cells contain tiny recycling centers called lysosomes, which are essential for breaking down waste and old cell parts to keep everything running smoothly. However, as we age, these vital recycling centers can start to malfunction, a process strongly linked to cellular aging, also known as senescence. A key player in the proper functioning of these recycling centers is a protein called CD-M6PR, which acts like a delivery truck, ensuring that the necessary enzymes reach the lysosomes. In aging cells, the amount of this important delivery protein is significantly reduced. This reduction happens because another protein, ZNRF2, becomes more active in aging cells and essentially tags CD-M6PR for destruction. This destructive process is further amplified by cellular stress, which activates a pathway involving a molecule called mTORC1, leading to an increase in ZNRF2. When CD-M6PR is degraded, the lysosomes cannot receive their essential enzymes, leading to a buildup of waste and a decline in their recycling capabilities. This impaired function of the cellular recycling system then accelerates the overall aging process of the cell. Understanding this newly identified pathway could open doors to developing new strategies to combat age-related diseases by targeting the health of our cellular recycling centers.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s11357-026-02253-4)
