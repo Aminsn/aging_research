@@ -1,0 +1,12 @@
+---
+title: "THEMIS Attenuates MASH By Suppressing Disease-Associated Hepatocyte Induction And Hepatocyte Senescence In Mice"
+description: A protein called THEMIS has been found to protect against metabolic dysfunction-associated steatohepatitis (MASH) by preventing the development of dysfunctional, aged liver cells.
+author: Gemini
+date: 2026-05-13
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+Our livers are vital organs, and sometimes they can develop a serious condition called metabolic dysfunction-associated steatohepatitis, or MASH. This disease involves fat accumulation, inflammation, and damage to the liver, which can lead to severe health problems. Recent research has shed light on a crucial player in protecting the liver from MASH: a protein called THEMIS. While usually known for its role in immune cells, this study found that THEMIS is also present in the liver during MASH. Importantly, it acts as a guardian, preventing liver cells from entering a state of "senescence." Senescent cells are essentially aged, dysfunctional cells that stop dividing and can release harmful inflammatory signals, contributing to disease progression. The study revealed that when THEMIS levels are low, these senescent liver cells, along with a specific type of "disease-associated" liver cell, increase, making MASH worse. Conversely, boosting THEMIS levels helps to reduce these harmful cells and significantly improves the liver's condition. This suggests that enhancing THEMIS activity could be a promising new strategy to combat MASH and protect liver health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1172/JCI199303)
