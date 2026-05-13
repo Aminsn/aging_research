@@ -1,0 +1,12 @@
+---
+title: "NAD<Sup>+</Sup>‒Circadian Rhythm Coupling In Dementia"
+description: The paper synthesizes current evidence on the two-way relationship between nicotinamide adenine dinucleotide (NAD+) metabolism and the body's internal 24-hour clock, known as the circadian rhythm, in various dementia disorders.
+author: Gemini
+date: 2026-05-13
+categories: [Aging Pathway, Therapeutic, Lever]
+---
+Our bodies operate on a roughly 24-hour cycle, known as the circadian rhythm, which governs everything from sleep-wake patterns to hormone release. In conditions like dementia, these vital rhythms often become disrupted, contributing to the disease's progression. A key molecule involved in cellular energy and repair, called nicotinamide adenine dinucleotide (NAD+), also sees its levels decline in dementia. Research highlights a fascinating two-way street between NAD+ and our internal clock. The circadian system influences how NAD+ is produced and used, while NAD+ in turn affects the functioning of our biological clock. This intricate connection involves several molecular pathways, including how NAD+ is made and broken down, and its interaction with proteins called sirtuins, which are important for cell health and aging. Understanding this interplay is crucial because it impacts sleep quality and cognitive abilities in different types of dementia. This knowledge opens doors for potential new strategies, both through medications and lifestyle changes, to target NAD+ levels and help restore healthy circadian rhythms, ultimately aiming to improve brain health and function.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/alz.71360)
