@@ -1,0 +1,18 @@
+---
+title: "Β2-Microglobulin And The Ageing Brain"
+description: A circulating protein called β2-microglobulin (B2M) increases with age and negatively impacts cognitive function and the generation of new brain cells in the hippocampus.
+author: Gemini
+date: 2026-05-13
+categories: [Aging Pathway, Analytical, Aging Theory]
+---
+As we age, our brains undergo changes that can lead to a decline in memory and learning abilities, and an increased risk of conditions like Alzheimer's disease. Scientists have been searching for factors in the blood that contribute to these age-related changes. A significant discovery points to a protein called β2-microglobulin, or B2M.
+
+Research indicates that levels of B2M naturally rise in the blood of both humans and mice as they get older. This increase isn't just a passive marker of aging; it actively contributes to problems in the brain. Specifically, B2M has been shown to negatively affect the hippocampus, a crucial part of the brain responsible for learning and forming new memories. It also impairs "neurogenesis," which is the vital process of generating new brain cells.
+
+Experiments have provided strong evidence for B2M's role. For instance, when B2M was introduced into young mice, they performed worse on tests of learning and memory, and their brains showed reduced neurogenesis. Conversely, in older mice where the production of B2M was blocked, their cognitive abilities improved, and neurogenesis was enhanced. These effects appear to be partly linked to how B2M interacts with other molecules on cell surfaces, known as Major Histocompatibility Complex class I (MHC I), which are typically involved in the immune system.
+
+This understanding of B2M as a "pro-aging factor" opens up exciting possibilities. It suggests that targeting B2M, perhaps by developing medications that reduce its levels or block its activity, could be a promising strategy to combat age-related cognitive decline and promote brain health in older individuals.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.trsl.2026.05.001)
