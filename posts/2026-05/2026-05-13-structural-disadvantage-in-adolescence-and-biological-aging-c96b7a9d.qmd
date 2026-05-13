@@ -1,0 +1,16 @@
+---
+title: "Structural Disadvantage In Adolescence And Biological Aging In Early Midlife"
+description: Living in disadvantaged neighborhoods is associated with accelerated biological aging in young and middle-aged Black Americans, irrespective of their age or gender.
+author: Gemini
+date: 2026-05-13
+categories: [Clock, Lever, Analytical]
+---
+Have you ever wondered if where you grow up or live can affect how quickly your body ages? New research suggests that the answer is yes, especially for certain communities. This study explored how living in neighborhoods with fewer resources and more challenges—what researchers call "neighborhood disadvantage"—can impact our biological age, which is how old our cells and body systems appear, rather than just the number of years we've been alive.
+
+The findings indicate that for young and middle-aged Black Americans, experiencing neighborhood disadvantage is linked to a faster biological aging process. This accelerated aging was observed regardless of whether individuals were younger adults or in early midlife, and it affected both men and women. To measure this, scientists looked at specific markers in our DNA, known as DNA methylation (DNAm)-based aging indices like PhenoAge, GrimAge, and DunedinPoAm, which act like internal clocks telling us how fast our bodies are aging at a molecular level.
+
+This connection between neighborhood conditions and how quickly our bodies age highlights a significant factor contributing to health disparities. It suggests that the environment we live in can have a profound and measurable impact on our long-term health. Understanding these links is crucial because it points to the importance of community-level interventions. Policies and programs aimed at reducing neighborhood disadvantage could play a vital role in promoting healthier aging, particularly within communities disproportionately affected by these challenges.
+
+---
+
+Source: [link to paper](https://doi.org/10.1001/jamanetworkopen.2026.11913)
