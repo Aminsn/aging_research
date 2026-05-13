@@ -1,0 +1,18 @@
+---
+title: "Red Ginseng-Derived Components Attenuate UVB-Induced Keratinocyte Senescence Via Senomorphic Mechanisms"
+description: Components derived from red ginseng can reduce the harmful effects of aging skin cells caused by ultraviolet B (UVB) radiation by modulating their behavior rather than eliminating them.
+author: Gemini
+date: 2026-05-13
+categories: [Therapeutic, Aging Pathway]
+---
+As we age, and especially with exposure to environmental stressors like ultraviolet B (UVB) radiation from the sun, our skin cells can enter a state called senescence. These "senescent" cells don't die; instead, they accumulate and release a cocktail of inflammatory and damaging molecules, known as the senescence-associated secretory phenotype (SASP), which can negatively affect surrounding healthy cells and contribute to skin aging.
+
+Recent research explored the potential of components from Korean red ginseng to combat this process in skin cells called keratinocytes. The study found that these ginseng-derived components act as "senomorphics." Unlike "senolytics," which aim to kill senescent cells, senomorphics work by modulating the harmful substances these aging cells release, thereby reducing their detrimental impact without causing cell death.
+
+Specifically, the research demonstrated that these red ginseng components significantly reduced the levels of key markers associated with cellular aging (like p16 and p21) and decreased the production of inflammatory factors (such as IL-6, IL-8, and IL-1β) that are typically elevated in UVB-damaged skin cells. Furthermore, they helped improve the ability of skin cells to grow and specialize. These beneficial effects were linked to the modulation of stress-responsive pathways within the cells.
+
+This discovery suggests that red ginseng components could offer a promising approach to anti-aging strategies by mitigating the spread of aging signals and reducing cellular stress in the skin, ultimately promoting healthier skin function.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jgr.2026.101018)
