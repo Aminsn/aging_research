@@ -1,0 +1,18 @@
+---
+title: "The MICOS Complex Regulates Mitochondrial Structure And Oxidative Stress During Age-Dependent Structural Deficits In The Kidney"
+description: The MICOS complex, a group of proteins essential for maintaining the internal structure of mitochondria, becomes impaired in the kidneys during aging, contributing to structural damage, increased oxidative stress, and a decline in kidney function.
+author: Gemini
+date: 2026-05-13
+categories: [Aging Pathway]
+---
+As we age, our bodies undergo many changes, and our kidneys are no exception. These vital organs, responsible for filtering waste and maintaining fluid balance, require a tremendous amount of energy to function properly. This energy is primarily supplied by tiny powerhouses within our cells called mitochondria.
+
+Recent research sheds light on a crucial player in kidney health during aging: a group of proteins known as the MICOS complex. Think of mitochondria as miniature power plants with intricate internal folds, called cristae, which are essential for efficient energy production. The MICOS complex acts like an architect, maintaining the precise structure of these cristae.
+
+This study found that as kidneys age, the MICOS complex becomes impaired. This impairment leads to significant structural damage within the mitochondria, making them less efficient. Imagine a power plant where the internal machinery starts to break down and become disorganized. This breakdown also results in an increase in "oxidative stress," which is an imbalance between harmful free radicals and protective antioxidants in the body, essentially causing cellular damage. Furthermore, the ability of mitochondria to manage calcium, another critical cellular process, is also disrupted.
+
+These findings suggest a compelling link between the decline of this protein complex, the structural integrity of mitochondria, and the overall health of our kidneys as we get older. Understanding this connection could pave the way for new strategies to protect kidney function and reduce the risk of age-related kidney diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/acel.70534)
