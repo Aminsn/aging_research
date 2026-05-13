@@ -1,0 +1,18 @@
+---
+title: "Integrative In Silico And In Vitro Evaluation Of Vialox And Leuphasyl Pentapeptides For Antiaging Applications"
+description: The study investigated the anti-aging potential of Vialox and Leuphasyl pentapeptides, finding that they can reduce wrinkles by modulating muscle contractions and influencing skin health.
+author: Gemini
+date: 2026-05-13
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+Scientists are constantly exploring new ways to combat the visible signs of aging, particularly wrinkles. Recent research has focused on small protein fragments called peptides, which can mimic natural processes in the body. This particular study looked at two such peptides, Vialox and Leuphasyl, to understand how they might help reduce wrinkles.
+
+Using a combination of advanced computer modeling (known as "in silico" studies) and laboratory experiments with cells ("in vitro" evaluation), researchers explored the mechanisms behind these peptides' anti-aging effects. They found that Vialox, also known as Pentapeptide-3, works similarly to certain components found in snake venom. It acts on the nerve-muscle connection, specifically by blocking receptors that receive signals for muscle contraction. By preventing these signals, it helps relax facial muscles, which are often responsible for dynamic wrinkles like crow's feet and forehead lines. This leads to a reduction in muscle cell contraction, ultimately smoothing the skin.
+
+Leuphasyl, or Pentapeptide-18, takes a slightly different approach. It mimics natural pain-relieving substances in the body called enkephalins. Leuphasyl interacts with specific receptors on nerve cells, which in turn reduces the release of a chemical messenger called acetylcholine. Acetylcholine is crucial for muscle contraction, so by modulating its release, Leuphasyl also helps to relax muscles and diminish the appearance of expression wrinkles.
+
+Both peptides have shown promising results in reducing wrinkle depth and improving skin roughness by targeting the underlying muscle contractions that contribute to wrinkle formation. This research highlights the potential of these innovative peptide-based ingredients as effective, non-invasive options for anti-aging applications.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/cbdv.202502546)
