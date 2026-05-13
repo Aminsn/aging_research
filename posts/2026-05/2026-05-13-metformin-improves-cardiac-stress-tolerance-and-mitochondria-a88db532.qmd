@@ -1,0 +1,16 @@
+---
+title: "Metformin Improves Cardiac Stress Tolerance And Mitochondrial Function During Early Aging"
+description: Metformin treatment in aged hearts improves the function of cellular powerhouses and reduces heart damage during stress by alleviating a specific type of cellular stress called endoplasmic reticulum stress.
+author: Gemini
+date: 2026-05-13
+categories: [Therapeutic, Aging Pathway]
+---
+Our bodies change as we get older, and our hearts are no exception. With age, the tiny powerhouses within our heart cells, called mitochondria, don't work as efficiently. This makes the heart more vulnerable to damage, especially during stressful events like a heart attack, where blood flow is temporarily cut off and then restored.
+
+A key factor contributing to this age-related decline is something called endoplasmic reticulum (ER) stress. The endoplasmic reticulum is another part of the cell involved in making and folding proteins. When it gets stressed, it can negatively impact the mitochondria, further hindering their ability to produce energy.
+
+However, a common anti-diabetic medication, metformin, shows promise in addressing this issue. Research indicates that treating aged hearts with metformin can reduce this ER stress. By doing so, metformin helps to restore the proper functioning of the mitochondria. This improvement in mitochondrial health ultimately leads to a significant reduction in heart damage when the heart is under stress. This suggests that metformin could play a role in protecting our hearts as we age by improving how our cells handle stress and produce energy.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.exger.2026.113159)
