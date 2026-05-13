@@ -1,0 +1,18 @@
+---
+title: "Exosome-Delivered Enampt From Exercise Activates Sirt1 To Counteract Age-Related Hepatic Steatosis And Fibrosis"
+description: Exercise prompts the release of tiny sacs called exosomes containing a protein called eNAMPT, which then activates another protein, SIRT1, to help combat age-related fat accumulation and scarring in the liver.
+author: Gemini
+date: 2026-05-13
+categories: [Aging Pathway, Lever, Therapeutic]
+---
+As we age, our bodies undergo various changes, and one significant factor is the decline in a crucial molecule called NAD+. This decline is linked to many age-related health issues. However, exciting new research sheds light on how a simple activity like exercise can help combat this.
+
+It turns out that when you exercise, your body releases tiny, bubble-like structures called extracellular vesicles, often referred to as exosomes. Think of them as microscopic messengers carrying important cargo between cells. Among the vital contents within these exosomes is an enzyme called eNAMPT.
+
+Once these eNAMPT-carrying exosomes reach other cells, they play a key role in boosting the production of NAD+. This increase in NAD+ then activates a protein known as SIRT1. SIRT1 is a powerful player in maintaining cellular health and metabolic balance.
+
+This entire process is incredibly beneficial, especially for organs like the liver. Age-related conditions such as hepatic steatosis (fatty liver) and fibrosis (scarring) are often linked to metabolic imbalances. By enhancing NAD+ levels and activating SIRT1 through exercise-induced eNAMPT, the body gains a natural defense mechanism to counteract these age-related liver problems, promoting overall better health as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/acel.70541)
