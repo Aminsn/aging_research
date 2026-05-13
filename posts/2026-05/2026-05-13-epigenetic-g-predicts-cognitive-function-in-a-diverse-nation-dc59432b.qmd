@@ -1,0 +1,20 @@
+---
+title: "Epigenetic G Predicts Cognitive Function In A Diverse, Nationally Representative Sample Of Older Adults"
+description: A blood-based marker derived from DNA changes, called epigenetic g, can predict cognitive function and the risk of developing dementia in older adults.
+author: Gemini
+date: 2026-05-13
+categories: [Clock, Analytical]
+---
+Scientists are constantly searching for better ways to understand and predict cognitive health as we age. Traditional methods often rely on questionnaires or expensive brain imaging, and while genetic factors play a role, they don't tell the whole story. This is where a new type of biological indicator, derived from changes in our DNA, comes into play.
+
+Our bodies have a fascinating system called epigenetics, which involves modifications to our DNA that don't change the underlying genetic code but can influence how our genes behave. One such modification is called DNA methylation. Researchers have developed a specific measure based on these DNA methylation patterns, dubbed "epigenetic g," which acts as an indicator of general cognitive ability—essentially, how well our brains perform tasks like thinking, remembering, and problem-solving.
+
+A recent study explored the effectiveness of this epigenetic g in a large and diverse group of older adults across the United States. The findings were significant: higher levels of epigenetic g were consistently linked to better cognitive function. More importantly, this blood-based marker was also a strong predictor of who would develop dementia, a severe decline in mental ability, over a six-year period.
+
+What makes this particularly exciting is that epigenetic g provided valuable insights even after accounting for other known factors that influence cognitive health, such as age, education, socioeconomic status, and even specific genetic predispositions like the APOE ε4 gene, which is associated with Alzheimer's disease. This suggests that epigenetic g offers a unique and independent way to assess an individual's risk.
+
+Because it can be measured from a simple blood sample, this new biomarker holds great promise. It could lead to more accessible and earlier identification of individuals at risk for cognitive decline and dementia, potentially allowing for earlier interventions and a deeper understanding of how lifestyle and environment impact brain health throughout life.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13148-026-02142-9)
