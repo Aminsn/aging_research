@@ -1,0 +1,16 @@
+---
+title: "Melatonin Regulates Arylhydrocarbon Receptor Mediated UVR-Induced Processes Related To Inflammation, Skin Aging And Carcinogenesis In Human Ex Vivo Skin"
+description: Melatonin significantly reduces processes in UV-irradiated human skin that are linked to inflammation, cellular aging, and the development of cancer by influencing a specific cellular receptor.
+author: Gemini
+date: 2026-05-13
+categories: [Aging Pathway, Therapeutic]
+---
+Our skin is constantly exposed to environmental stressors like ultraviolet radiation (UVR) from the sun, which can lead to inflammation, premature aging, and even skin cancer. A key player in these damaging processes is a protein called the arylhydrocarbon receptor (AhR). When activated by UVR, AhR triggers a cascade of events that harm skin cells. 
+
+Recent research using human skin tissue studied outside the body (ex vivo skin) has shed light on how melatonin, a natural hormone, can counteract these harmful effects. The study found that melatonin significantly reduces the activation of AhR caused by UVR. This reduction in AhR activity then leads to several protective outcomes. 
+
+For instance, melatonin helps to prevent DNA damage, specifically the formation of "cyclobutane pyrimidine dimers" (CPDs), which are a common type of UV-induced DNA lesion. It also reduces markers associated with DNA double-strand breaks and cellular stress. Furthermore, melatonin was observed to decrease the expression of proteins involved in the breakdown of collagen, such as MMP2, and increase its inhibitor, TIMP1, suggesting a protective effect against photoaging, which is aging caused by sun exposure. By preventing the UV-dependent activation of AhR, melatonin ultimately reduces inflammation and cellular damage, offering a promising avenue for protecting skin from the detrimental effects of sun exposure.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/exd.70235)
