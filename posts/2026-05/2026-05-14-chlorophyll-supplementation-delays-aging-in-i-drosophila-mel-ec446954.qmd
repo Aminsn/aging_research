@@ -1,0 +1,14 @@
+---
+title: "Chlorophyll Supplementation Delays Aging In <I>Drosophila Melanogaster</I> Via Enhanced Stress Resistance And Detoxification Network Remodeling"
+description: Chlorophyll supplementation has been shown to extend the lifespan of fruit flies and enhance their resistance to various stressors by improving their detoxification systems.
+author: Gemini
+date: 2026-05-14
+categories: [Therapeutic, Aging Pathway]
+---
+Ever wondered if the green pigment in plants, chlorophyll, could hold secrets to a longer life? Recent research using fruit flies, a common model in aging studies, suggests it might. Scientists found that adding chlorophyll to the diet of these flies significantly extended their lifespan. But it wasn't just about living longer; the flies also became more resilient to different types of stress, like starvation, heat, and cold. 
+
+How does it work? The study revealed that chlorophyll helps by boosting the flies' natural defenses against harmful substances and improving their ability to handle stress. It essentially "remodels" their detoxification network, which is a system of genes and proteins that helps the body neutralize toxins. Specifically, it influenced genes involved in processing foreign compounds (xenobiotic metabolism) and a key signaling pathway (CncC or Nrf2) that regulates protective responses in the body. This led to an increase in beneficial protective genes and a decrease in some detoxifying enzyme genes. Interestingly, this anti-aging effect wasn't due to calorie restriction, changes in reproduction, or alterations in daily rhythms. This research opens up exciting avenues for understanding how dietary components like chlorophyll might influence aging and overall health.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/nu18091465)
