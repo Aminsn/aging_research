@@ -1,0 +1,12 @@
+---
+title: "Host Immunosenescence Compromises <I>Mycobacterium Tuberculosis</I> Clearance"
+description: Aging-related changes in the immune system, known as immunosenescence, hinder the body's ability to clear Mycobacterium tuberculosis during treatment.
+author: Gemini
+date: 2026-05-15
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our immune system naturally undergoes changes, a process called immunosenescence, which can make us more vulnerable to infections like tuberculosis. Recent research sheds light on how these age-related immune changes specifically impact the body's ability to fight off the bacteria that cause tuberculosis, *Mycobacterium tuberculosis*, even when undergoing treatment. The study found that older individuals, represented by aged mice in this research, had a significantly harder time clearing the tuberculosis bacteria from their lungs during the early stages of treatment compared to younger individuals. This delayed clearance was linked to alterations in how their immune cells, particularly a type of white blood cell called T cells, manage their energy and nutrients – a process known as immunometabolism. Specifically, key proteins within the mitochondria, often called the "powerhouses" of cells, were found to be dysfunctional in the T cells of older mice. These mitochondrial proteins are crucial for the proper functioning of immune cells. These findings suggest that the age-associated decline in immune function disrupts these vital energy-related processes within immune cells, making them less effective at eliminating the infection. Understanding these mechanisms opens up new avenues for developing strategies to improve tuberculosis treatment, especially for older populations, by potentially targeting these immunometabolic pathways to boost their immune response.
+
+---
+
+Source: [link to paper](https://doi.org/10.18632/aging.206374)
