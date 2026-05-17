@@ -1,0 +1,18 @@
+---
+title: "The Role Of Phospho-Ubiquitin In Mitochondrial Health And Diseases"
+description: Phosphorylated ubiquitin acts as a critical signal to mark damaged mitochondria for removal, a process vital for maintaining cellular health and preventing neurodegenerative diseases.
+author: Gemini
+date: 2026-05-17
+categories: [Aging Theory, Aging Pathway]
+---
+Our cells rely on tiny powerhouses called mitochondria to generate energy. When these mitochondria get damaged, they can harm the cell if not properly removed. This is where a special tag, called phosphorylated ubiquitin (pUb), comes into play. Think of pUb as a "red flag" that appears on the surface of damaged mitochondria.
+
+This tagging process is orchestrated by two key proteins: PINK1, a type of enzyme called a kinase, and Parkin, an E3 ligase. When a mitochondrion is damaged, PINK1 becomes active on its surface and adds phosphate groups to ubiquitin, creating pUb. This pUb then recruits and activates Parkin, which further decorates the damaged mitochondrion with more ubiquitin tags. These tags signal the cell to initiate a crucial clean-up process called mitophagy.
+
+Mitophagy is essentially the cell's recycling system, where damaged mitochondria are engulfed and broken down by the autophagy-lysosome system, preventing their harmful accumulation. When this process doesn't work correctly, it can contribute to the development of neurodegenerative diseases like Parkinson's and Alzheimer's, where brain cells progressively lose function.
+
+Researchers have found that levels of pUb are often elevated in the brains of individuals with these conditions and increase with age. This suggests that pUb could serve as a valuable "biomarker," a measurable indicator, for detecting mitochondrial damage and potentially diagnosing or monitoring the progression of these diseases, particularly when measured in cerebrospinal fluid (CSF).
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jbc.2026.113128)
