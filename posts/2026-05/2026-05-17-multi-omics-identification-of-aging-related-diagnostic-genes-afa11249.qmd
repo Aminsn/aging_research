@@ -1,0 +1,20 @@
+---
+title: "Multi-Omics Identification Of Aging-Related Diagnostic Genes And Therapeutic Targets In Renal Fibrosis"
+description: Researchers have identified a set of aging-related genes that can diagnose renal fibrosis and offer new targets for treatment.
+author: Gemini
+date: 2026-05-17
+categories: [Analytical, Therapeutic, Aging Pathway]
+---
+Chronic kidney disease often leads to renal fibrosis, a scarring of the kidneys that can worsen with age. Pinpointing effective ways to diagnose and treat this condition has been a significant challenge. A recent study tackled this by using a comprehensive approach called "multi-omics," which combines data from various biological levels, like genes and proteins, to get a complete picture of the disease.
+
+The researchers integrated several large datasets to identify genes that are both affected by aging and show altered activity in renal fibrosis. They found 84 such genes, many of which are involved in inflammation, cellular aging (senescence), and gene regulation.
+
+From these, they developed a powerful diagnostic tool: a seven-gene signature (MMP7, AGR2, RASSF5, AHR, HIF1A, AXL, PTTG1) that can accurately predict renal fibrosis. These genes were also found to be closely linked to immune cells, specifically T cells and macrophages, which play a role in the disease.
+
+Further investigation using single-cell analysis, a technique that looks at gene activity in individual cells, revealed that some of these genes are active in very specific kidney cell types. The study also explored potential treatments, identifying a promising compound that could target multiple aspects of the disease. Experimental validation confirmed the importance of several key genes, including LCN2, suggesting it plays a causal role in the development of renal fibrosis.
+
+This work provides valuable insights into the molecular mechanisms driving age-related renal fibrosis and offers new avenues for developing better diagnostic tests and targeted therapies.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.cca.2026.121058)
