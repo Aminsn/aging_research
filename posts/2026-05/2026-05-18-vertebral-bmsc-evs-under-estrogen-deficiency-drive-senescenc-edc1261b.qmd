@@ -1,0 +1,18 @@
+---
+title: "Vertebral BMSC-Evs Under Estrogen Deficiency Drive Senescence-Related Mitochondrial Dysfunction In Endplate Chondrocytes Via Mrpl1 Mrna Delivery"
+description: Estrogen deficiency causes bone marrow stem cells to release tiny sacs containing a specific genetic message (MRPL1 mRNA), which then makes cartilage cells in the spine age faster and their energy-producing parts (mitochondria) malfunction.
+author: Gemini
+date: 2026-05-18
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies are incredibly complex, and sometimes, a change in one area can have unexpected ripple effects elsewhere. A recent study sheds light on how a common hormonal change, like the drop in estrogen levels often seen after menopause, can impact spinal health.
+
+Researchers discovered that when estrogen levels are low, specialized cells in our bone marrow, called mesenchymal stem cells, start to show signs of aging. These aging stem cells then release tiny packages, known as extracellular vesicles, which act like messengers. What’s inside these packages is crucial: they carry a specific genetic instruction, an mRNA molecule called MRPL1.
+
+These MRPL1-carrying packages travel to the cartilage cells in our spinal discs, called endplate chondrocytes. Once delivered, the MRPL1 instruction causes these cartilage cells to produce more of the MRPL1 protein. This excess protein then interferes with the cells’ powerhouses, the mitochondria, specifically disrupting their ability to produce energy. This energy disruption leads to the premature aging of the cartilage cells, contributing to the degeneration of the spinal discs and potentially leading to back problems.
+
+Understanding this intricate communication pathway between bone marrow stem cells and spinal cartilage cells provides a new perspective on how hormonal changes can influence spinal health. It also opens doors for potential new treatments, as the study showed that a common antibiotic, doxycycline, could block this process in animal models, offering a promising avenue for future therapies to combat spinal degeneration.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s12276-026-01719-x)
