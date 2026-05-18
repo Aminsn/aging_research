@@ -1,0 +1,16 @@
+---
+title: "Garlic-Derived Metabolite Activates Lkb1, Promotes Adipose Enampt Secretion, And Improves Age-Related Muscle Function Via Hypothalamic Signaling"
+description: A compound derived from garlic improves age-related muscle function by activating a key metabolic enzyme and facilitating communication between fat tissue and the brain.
+author: Gemini
+date: 2026-05-18
+categories: [Aging Pathway, Lever]
+---
+Imagine a natural compound that could help keep your muscles strong as you age. Recent research has uncovered just such a substance, called S-1-propenyl-L-cysteine (S1PC), which is found in aged garlic extract. This compound doesn't work directly on your muscles, but rather through a fascinating communication pathway involving your fat tissue and brain. 
+
+The study found that S1PC activates an important enzyme called LKB1, which is a master regulator of how your cells use energy. This activation then triggers a cascade that leads to the release of a protein called eNAMPT from your fat tissue. Think of eNAMPT as a messenger. These messengers travel through your bloodstream, specifically targeting a part of your brain called the hypothalamus, which plays a crucial role in many bodily functions, including metabolism and aging. 
+
+This interaction in the brain then sends signals that ultimately improve muscle strength and reduce signs of frailty, as observed in aged mice. What's even more exciting is that preliminary human studies showed that S1PC can also increase eNAMPT levels in people. This discovery sheds new light on how different organs in your body communicate to regulate aging and offers a promising new direction for developing strategies to maintain muscle health as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.cmet.2026.04.006)
