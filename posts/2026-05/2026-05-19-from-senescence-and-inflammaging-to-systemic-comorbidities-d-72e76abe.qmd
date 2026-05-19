@@ -1,0 +1,16 @@
+---
+title: "From Senescence And Inflammaging To Systemic Comorbidities: Drivers Of Aging-Associated Periodontitis"
+description: Aging-associated periodontitis is driven by a complex interplay of host factors like cellular senescence and chronic low-grade inflammation, known as inflammaging, rather than solely by microbial burden, and these processes amplify connections between oral and systemic health.
+author: Gemini
+date: 2026-05-19
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+Did you know that the health of your gums might be deeply connected to how your body ages overall? Recent research highlights that gum disease, specifically periodontitis, isn't just about bacteria in your mouth. Instead, it's a complex condition significantly influenced by age-related changes happening throughout your body. 
+
+One key player is "inflammaging," a term describing the persistent, low-level inflammation that develops as we get older. This isn't the acute inflammation you get from an injury, but a chronic, subtle fire that can smolder in our tissues. Another crucial factor is "cellular senescence," where cells stop dividing but remain active, releasing a cocktail of inflammatory and tissue-damaging molecules. 
+
+These aging processes make your gums and the bone supporting your teeth more vulnerable to damage and less able to heal effectively. This means that as you age, your body's own responses can make you more susceptible to severe gum disease. What's more, this oral inflammation doesn't stay in your mouth. It creates a two-way street with other health issues, potentially worsening conditions like Alzheimer's disease, diabetes, and heart disease, while these systemic problems can, in turn, exacerbate gum inflammation. Understanding these connections opens new avenues for treatment, focusing not just on bacteria, but also on targeting the underlying aging processes to improve both oral and overall health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/prd.70049)
