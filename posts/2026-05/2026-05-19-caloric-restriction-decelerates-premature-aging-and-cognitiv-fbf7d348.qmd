@@ -1,0 +1,16 @@
+---
+title: "Caloric Restriction Decelerates Premature Aging And Cognitive Decline In Mice With Deficient DNA Repair"
+description: Caloric restriction has been shown to slow down premature aging and improve cognitive function in mice that have a deficiency in their DNA repair mechanisms.
+author: Gemini
+date: 2026-05-19
+categories: [Aging Theory, Aging Pathway, Lever]
+---
+Our bodies are constantly exposed to factors that can damage our DNA, and specialized repair systems are in place to fix this damage. When these repair systems don't work properly, DNA damage can accumulate, leading to signs of early aging and problems with brain function, such as difficulties with learning and memory. One crucial enzyme, called Apex1, is essential for fixing certain types of DNA damage. 
+
+Recent research explored what happens when this enzyme is deficient in the brain and found that mice with this deficiency experienced early and progressive cognitive impairment. This included issues with spatial learning and memory, changes in brain cell structure, and reduced connections between brain cells. 
+
+However, a promising intervention emerged: caloric restriction. This involves consistently reducing overall food intake without causing malnutrition. The study found that a regimen of caloric restriction significantly reduced these premature aging characteristics and improved cognitive abilities in the mice with impaired DNA repair. These findings suggest that maintaining healthy DNA repair is vital for a healthy aging brain and highlight caloric restriction as a potential strategy to combat age-related cognitive decline, especially when DNA repair systems are compromised.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s42003-026-10182-3)
