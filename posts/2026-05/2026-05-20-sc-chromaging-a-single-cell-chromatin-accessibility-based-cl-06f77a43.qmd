@@ -1,0 +1,18 @@
+---
+title: "Sc-Chromaging: A Single-Cell Chromatin Accessibility-Based Clock Decodes Cell-Type-Specific Epigenetic Aging Trajectories"
+description: A new method has been developed to measure the age of individual cells and track their developmental paths by analyzing changes in how their DNA is packaged, revealing that cells within an organism age at different rates.
+author: Gemini
+date: 2026-05-20
+categories: [Clock, Analytical, Aging Pathway]
+---
+Understanding how individual cells age has been a significant challenge in biology. While we know that organisms age, the precise mechanisms and variations at the single-cell level have been difficult to pinpoint. Traditional "epigenetic clocks" typically measure the average age of a group of cells, obscuring the unique aging trajectories of individual cells. 
+
+Now, a groundbreaking approach allows scientists to determine the age of single cells and trace their developmental history. This method focuses on "chromatin accessibility," which refers to how tightly or loosely DNA is packed within a cell's nucleus. When DNA is loosely packed, it's more accessible for genes to be turned on; when it's tightly packed, gene activity is restricted. These changes in DNA packaging are part of the epigenome, a layer of chemical tags and structural modifications that influence gene expression without altering the underlying DNA sequence. 
+
+The new technique identifies specific regions in the DNA, dubbed "clock-like loci," where changes in chromatin accessibility are consistently linked to a cell's age. By observing how the accessibility of these regions changes as a cell divides, researchers can essentially count a cell's "mitotic age"—how many times it has replicated. This provides a unique, cell-type-specific measure of aging. 
+
+This advancement offers unprecedented insights into how different cell types age at varying rates within the same organism. It has broad implications for understanding fundamental biological processes, including how blood cells develop, how organs form, the progression of diseases like cancer, the functioning of the immune system, and even brain development. This ability to track individual cell aging and development opens new avenues for research into aging-related diseases and potential interventions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41514-026-00398-2)
