@@ -1,0 +1,16 @@
+---
+title: "Decreased Expression Of Ribonucleotide Reductase M2 Accelerates Ovarian Aging By Suppressing Cell Proliferation And Inducing DNA Damage In Mouse Theca-Interstitial Cells"
+description: A reduction in the protein ribonucleotide reductase M2 (Rrm2) in specific ovarian cells (theca-interstitial cells) accelerates ovarian aging in mice by hindering cell growth and causing damage to DNA.
+author: Gemini
+date: 2026-05-20
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+Our bodies are constantly aging, and this process affects all organs, including the ovaries, which are crucial for female fertility. A recent study sheds light on a previously underappreciated aspect of ovarian aging: the role of specialized cells called theca-interstitial cells. These cells are vital support structures within the ovary.
+
+Researchers found that a particular gene, ribonucleotide reductase M2 (Rrm2), which is essential for repairing and copying our genetic material (DNA), is significantly less active in older ovaries. When the scientists experimentally reduced the activity of Rrm2 in theca-interstitial cells, they observed several detrimental effects. These cells showed a decrease in their ability to synthesize new DNA, their growth was stunted, and they began to undergo early programmed cell death. Furthermore, this reduction in Rrm2 led to DNA damage and a state known as cellular senescence, where cells stop dividing and can contribute to aging-related problems.
+
+In living mice, inhibiting RRM2 also resulted in fewer primordial follicles, which are the earliest stage of egg cells, and increased DNA damage within the ovaries. These findings suggest that the decline in Rrm2 activity in these ovarian support cells is a key driver of ovarian aging. Understanding this mechanism opens up new possibilities for developing strategies to slow down ovarian aging by targeting these senescent, or "aged," somatic cells.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13048-026-02125-7)
