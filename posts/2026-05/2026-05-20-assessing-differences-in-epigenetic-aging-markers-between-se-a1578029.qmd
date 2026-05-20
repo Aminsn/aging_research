@@ -1,0 +1,16 @@
+---
+title: "Assessing Differences In Epigenetic Aging Markers Between Sexual Or Gender Minority And Straight Cisgender Adults Using The Coronary Artery Risk Development In Young Adults Cohort"
+description: Research indicates that sexual and gender minority adults may experience accelerated biological aging at a cellular level compared to their straight cisgender counterparts.
+author: Gemini
+date: 2026-05-20
+categories: [Clock, Analytical]
+---
+Our bodies have two ages: the number of years we've lived (chronological age) and how old our cells and tissues actually are (biological age). Scientists can measure this biological age using 'epigenetic clocks,' which look at tiny chemical tags on our DNA. These tags can change how our genes work without altering the DNA sequence itself, and their patterns can reveal insights into our health and aging process. 
+
+A recent study delved into whether individuals who identify as sexual or gender minorities show different patterns in these biological aging markers compared to straight cisgender adults. It's known that sexual and gender minority individuals often face unique stressors, such as discrimination, prejudice, and social stigma, collectively known as minority stress. These experiences can have a significant impact on health. 
+
+By examining a large, long-term group of participants, the research aimed to understand if these social and psychological factors translate into differences in how quickly our bodies age at a cellular level. The findings suggest that sexual and gender minority individuals might indeed exhibit signs of accelerated biological aging, highlighting the profound impact that social experiences and stress can have on our fundamental biological processes. This work underscores the importance of addressing health disparities and promoting inclusive environments to support the well-being of all individuals.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.socscimed.2026.119390)
