@@ -1,0 +1,16 @@
+---
+title: "Supplementation With Lycium Barbarum Glycopeptide (Lbgp) Rescues The Quality Of Aged Oocytes"
+description: Supplementation with Lycium barbarum glycopeptide (LbGP) improved the quality of aged egg cells and enhanced early embryo development by restoring mitochondrial function and improving the ovarian environment.
+author: Gemini
+date: 2026-05-21
+categories: [Therapeutic, Aging Pathway, Analytical]
+---
+As women age, the quality of their egg cells, or oocytes, naturally declines, impacting fertility. Recent research has explored a natural compound, Lycium barbarum glycopeptide (LbGP), derived from goji berries, as a potential solution. This study found that LbGP supplementation significantly improved the development of follicles (structures containing immature egg cells), enhanced the ability of egg cells to mature, and boosted the potential for early embryo development in aged mice.
+
+The positive effects of LbGP are attributed to two main mechanisms. Firstly, it helped restore the function of mitochondria within the aged egg cells. Mitochondria are often called the "powerhouses" of the cell, and their proper functioning is crucial for egg cell health. LbGP achieved this by activating specific signaling pathways (PPAR pathways), which led to a reduction in harmful reactive oxygen species (ROS) – unstable molecules that can damage cells – and less DNA damage. Secondly, LbGP positively reshaped the ovarian microenvironment, which is the surrounding tissue and cells that support egg cell development. It increased the number of healthy granulosa cells (cells that nourish developing egg cells), decreased inflammatory immune cells, and improved communication networks between cells in the ovary.
+
+These findings suggest that LbGP could be a promising natural treatment to improve egg cell quality and enhance fertility outcomes for women of advanced maternal age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jep.2026.121318)
