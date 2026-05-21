@@ -1,0 +1,12 @@
+---
+title: "The Type 2 Deiodinase Thr92Ala Polymorphism And Cognitive Aging: Current Evidence And Biological Context"
+description: Research on the Thr92Ala polymorphism in the type 2 deiodinase gene shows conflicting evidence regarding its association with cognitive aging, with some studies suggesting a link to reduced cognitive function in animal models and specific human groups, while others find no significant association in older adults.
+author: Gemini
+date: 2026-05-21
+categories: [Aging Pathway]
+---
+Our bodies rely on a delicate balance of hormones for proper functioning, and thyroid hormones are particularly important for brain health and our ability to think and remember. A specific genetic variation, called the Thr92Ala polymorphism, in a gene responsible for an enzyme known as type 2 deiodinase, has been a focus of research into how our brains age. This enzyme is crucial because it converts an inactive thyroid hormone (T4) into its active form (T3), which the brain needs to function optimally. Studies exploring the connection between this genetic variation and cognitive aging have presented a mixed bag of findings. In laboratory mice, for instance, carrying this particular genetic change has been linked to poorer cognitive performance, with these effects becoming more noticeable as the mice get older. These animal studies suggest that the polymorphism might disrupt thyroid hormone signals and cause cellular stress in the brain, potentially contributing to a decline in mental abilities. However, when researchers have looked at human populations, especially older adults, the picture isn't as clear-cut. Some studies have concluded that there's no significant link between having this genetic variation and experiencing cognitive impairment in later life. This indicates that while the polymorphism might play a role in certain situations or in specific groups of people, its overall impact on cognitive aging in the broader older adult population might not be consistently observed or as direct as initially thought. Scientists continue to investigate these complex relationships to fully understand the biological implications of this genetic variation.
+
+---
+
+Source: [link to paper](https://doi.org/10.1177/20420188261444838)
