@@ -1,0 +1,18 @@
+---
+title: "Germ Cells Are Hidden Contributors Of Sex Differences In Vertebrate Lifespan"
+description: Germ cells, which are responsible for reproduction, have sex-dependent effects on how long vertebrates live, extending lifespan in males and shortening it in females.
+author: Gemini
+date: 2026-05-21
+categories: [Aging Theory, Aging Pathway]
+---
+Have you ever wondered why females often live longer than males across many animal species, including humans? New research sheds light on a surprising factor: the very cells responsible for creating offspring, known as germ cells.
+
+Scientists have discovered that these reproductive cells play a hidden, yet crucial, role in determining how long vertebrates live, and their impact differs significantly between the sexes. In males, the presence of germ cells appears to limit lifespan. When these cells were removed in a vertebrate model, males actually lived longer and showed improved health, a benefit linked to increased vitamin D signaling in their bodies.
+
+Conversely, in females, germ cells seem to be essential for a longer life. Removing them in females led to a shorter lifespan, which was associated with changes in hormone signaling, specifically increased levels of a growth factor (IGF-1) and reduced estrogen. This suggests that female reproductive cells contribute to longevity through different hormonal pathways than in males.
+
+These findings challenge previous assumptions about the universal role of reproductive cells in aging and highlight a complex, sex-specific interplay between reproduction and overall lifespan. Understanding these distinct mechanisms could open new avenues for research into healthy aging and potentially explain some of the longevity differences observed between sexes in the animal kingdom. Interestingly, the study also found that supplementing with vitamin D could extend lifespan in both males and females.
+
+---
+
+Source: [link to paper](https://doi.org/10.1262/jrd.2026-044)
