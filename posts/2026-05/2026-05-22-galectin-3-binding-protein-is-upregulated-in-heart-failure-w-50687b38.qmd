@@ -1,0 +1,16 @@
+---
+title: "Galectin-3 Binding Protein Is Upregulated In Heart Failure With Preserved Ejection Fraction And Associated With Endothelial Nitric Oxide Synthase Deficiency"
+description: A study found that a protein called Galectin-3 binding protein is increased in individuals with a specific type of heart failure where the heart still pumps blood effectively but has trouble relaxing, and this increase is connected to issues with a crucial enzyme involved in blood vessel health.
+author: Gemini
+date: 2026-05-22
+categories: [Aging Pathway, Analytical]
+---
+Heart failure with preserved ejection fraction (HFpEF) is a growing health concern, particularly among older adults, characterized by the heart’s inability to relax properly despite maintaining its pumping ability. This condition is often linked to aging, widespread inflammation, and problems with the inner lining of blood vessels, known as endothelial dysfunction. A key player in maintaining healthy blood vessels is an enzyme called endothelial nitric oxide synthase (eNOS), and its impaired function is central to HFpEF.
+
+Recent research has identified a protein, Galectin-3 binding protein (LGALS3BP), that is significantly elevated in the blood of HFpEF patients compared to healthy individuals. Further investigation suggests a potential link between this protein and inflammatory pathways. Laboratory studies showed that when endothelial cells, which line our blood vessels, are under metabolic stress, they produce more LGALS3BP. This effect was even more pronounced in cells lacking functional eNOS. Additionally, a deficiency in eNOS was associated with a modified form of LGALS3BP and increased signs of cellular aging and a process called autophagy, where cells break down and recycle their components.
+
+These findings suggest that LGALS3BP could serve as a valuable indicator of endothelial dysfunction in age-related heart and metabolic conditions, potentially opening new avenues for understanding and addressing HFpEF.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s11357-026-02314-8)
