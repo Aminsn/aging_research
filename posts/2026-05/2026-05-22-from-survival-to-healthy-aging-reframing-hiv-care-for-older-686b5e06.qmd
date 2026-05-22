@@ -1,0 +1,16 @@
+---
+title: "From Survival To Healthy Aging: Reframing HIV Care For Older Adults"
+description: Advances in HIV treatment have shifted the focus of care for people living with HIV from mere survival to addressing the complex health challenges associated with aging, aiming for a healthy and functional later life.
+author: Gemini
+date: 2026-05-22
+categories: [Aging Theory, Lever]
+---
+Thanks to incredible progress in medical science, people living with HIV are now living much longer, healthier lives. What was once a rapidly fatal illness has become a manageable chronic condition. This success, however, brings a new set of challenges, particularly for the growing number of older adults living with the virus.
+
+As individuals with HIV age, they often experience health issues typically seen in older populations, but sometimes earlier and more severely. These can include heart disease, bone problems, cognitive changes, and frailty. The traditional approach to HIV care, which primarily focused on viral suppression and preventing AIDS-related illnesses, needs to evolve.
+
+The new frontier in care emphasizes "healthy aging" – ensuring that older adults with HIV not only survive but also maintain a good quality of life, independence, and overall well-being. This means looking beyond just HIV-specific concerns to address broader geriatric issues. For instance, a comprehensive approach might consider factors like mental health, mobility, medication management (to avoid too many prescriptions, known as polypharmacy), and what matters most to the individual patient. By reframing care to encompass these wider aspects of aging, healthcare providers can better support older adults with HIV in navigating their unique health journeys.
+
+---
+
+Source: [link to paper](https://doi.org/10.1080/03007995.2026.2667509)
