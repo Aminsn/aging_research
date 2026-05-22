@@ -1,0 +1,12 @@
+---
+title: "Two Birds With One Stone: Targeting Mettl3 Ameliorates Doxorubicin-Induced Endothelial Premature Senescence And Atherosclerosis While Potentiating Its Antitumor Efficacy"
+description: Researchers found that manipulating a specific protein can both reduce the harmful side effects of a common chemotherapy drug on blood vessels and improve its effectiveness against cancer.
+author: Gemini
+date: 2026-05-22
+categories: [Aging Pathway, Therapeutic]
+---
+A recent study has uncovered a promising strategy to improve cancer treatment while simultaneously protecting the heart and blood vessels. Chemotherapy drugs, while vital for fighting cancer, often come with severe side effects, including damage to the cardiovascular system, such as the premature aging of cells lining our blood vessels and the hardening and narrowing of arteries. This research focused on a key protein called METTL3, which plays a role in modifying genetic material (RNA) within cells. By targeting and influencing the activity of METTL3, scientists discovered a dual benefit: not only did it help to prevent the chemotherapy-induced damage to blood vessels, but it also made the cancer treatment itself more potent. This approach offers a potential way to make cancer therapies safer and more effective, addressing two major challenges in patient care with a single intervention.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.freeradbiomed.2026.05.290)
