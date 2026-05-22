@@ -1,0 +1,16 @@
+---
+title: "Senescent Cells In Systemic Aging: SASP Heterogeneity, Immune Escape, And Endocrine Modulation"
+description: The paper investigates how aging cells contribute to widespread inflammation and age-related diseases through varied signaling molecules, their capacity to avoid immune detection, and the influence of hormones on these processes.
+author: Gemini
+date: 2026-05-22
+categories: [Aging Theory, Aging Pathway]
+---
+As we age, some of our cells stop dividing but don't die off; these are called senescent cells. Instead, they accumulate in our tissues and release a complex mix of signaling molecules, known as the senescence-associated secretory phenotype (SASP). These molecules, which include inflammatory proteins (cytokines), growth factors, and enzymes (proteases), can significantly alter the surrounding tissue and spread inflammation throughout the body.
+
+One key insight is that the specific cocktail of molecules released by these aging cells is not always the same. It can vary greatly depending on the type of cell, its metabolic condition, and what initially caused it to stop dividing. This "heterogeneity" means that the impact of these cells can differ widely across various tissues and organs.
+
+Furthermore, these senescent cells have developed clever ways to avoid being eliminated by our immune system, allowing them to persist and continue their inflammatory activities. The paper also sheds light on how hormones, through what's called endocrine signaling, can amplify the local effects of these aging cells into a more widespread, body-wide inflammatory state. Understanding these mechanisms is crucial because the accumulation of these persistent, secreting cells is a major link between molecular damage and the chronic, low-grade inflammation that characterizes aging, often referred to as "inflammaging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s10522-026-10449-6)
