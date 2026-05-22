@@ -1,0 +1,18 @@
+---
+title: "Evolutionary Genetics Of Ageing"
+description: Aging is primarily an evolutionary consequence resulting from the declining force of natural selection with increasing age, allowing detrimental genetic effects to accumulate or beneficial early-life traits to have late-life costs.
+author: Gemini
+date: 2026-05-22
+categories: [Aging Theory, Analytical]
+---
+Have you ever wondered why we age? It seems counterintuitive for a process that ultimately leads to decline and death to be a natural part of life. However, evolutionary biology offers compelling explanations for this universal phenomenon. It all boils down to how natural selection, the process by which organisms better adapted to their environment tend to survive and produce more offspring, operates over an individual's lifespan.
+
+One key idea is that the power of natural selection weakens significantly as an organism gets older. Imagine a harmful genetic change, or mutation, that only causes problems late in life, long after an individual has had a chance to reproduce. Because these late-acting mutations don't affect an organism's ability to have offspring, natural selection doesn't effectively remove them from the population. Over many generations, these minor, late-life detrimental mutations can accumulate, contributing to the overall process of aging.
+
+Another important concept is called "antagonistic pleiotropy." This refers to genes that have a dual effect: they provide a benefit early in life, perhaps by boosting growth or reproduction, but come with a cost later on, contributing to aging. Since early-life reproduction is crucial for passing on genes, natural selection favors these genes for their immediate benefits, even if they lead to problems down the road. For example, a gene that promotes rapid growth in youth might also contribute to tissue wear and tear later in life. The early advantage outweighs the late disadvantage in the eyes of evolution.
+
+Together, these evolutionary forces explain why aging is not necessarily a "programmed" event, but rather an inevitable outcome of how natural selection shapes life histories. It's a trade-off, where the focus is on maximizing reproductive success, even if it means a gradual decline in later years.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41576-026-00959-x)
