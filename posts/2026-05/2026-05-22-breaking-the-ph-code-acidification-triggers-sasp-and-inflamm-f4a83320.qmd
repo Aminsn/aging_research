@@ -1,0 +1,16 @@
+---
+title: "Breaking The Ph Code: Acidification Triggers SASP And Inflammation In Cellular Senescence"
+description: A recent study reveals that increased acidity inside aging cells acts as a crucial signal, triggering them to release inflammatory molecules and adopt characteristics associated with cellular aging.
+author: Gemini
+date: 2026-05-22
+categories: [Aging Theory, Aging Pathway]
+---
+Our bodies are made of countless cells, and as we age, some of these cells enter a state called "cellular senescence." These senescent cells stop dividing but don't die off; instead, they can accumulate and contribute to various age-related problems. One of their key features is the "senescence-associated secretory phenotype" (SASP), where they release a cocktail of molecules, including inflammatory proteins, that can harm surrounding healthy tissues and fuel chronic inflammation.
+
+New research sheds light on a surprising trigger for this inflammatory process: the acidity inside these aging cells. It turns out that when the internal environment of a cell becomes more acidic (its pH level drops), it acts as a master switch. This acidification isn't just a side effect; it actively kicks off a chain of events, including changes in how the cell processes sugar (a process called glycolysis), which then leads to the production of specific molecules that drive the SASP and its associated inflammation. Essentially, the cell's internal acidity acts as a critical signal, linking its metabolism to its inflammatory output.
+
+Understanding this "pH code" offers exciting possibilities. By finding ways to normalize the internal pH of senescent cells, or to interrupt this acidity-driven inflammatory circuit, we might be able to develop new strategies to combat age-related chronic inflammation and the diseases it contributes to.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/jb/mvaf080)
