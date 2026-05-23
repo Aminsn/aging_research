@@ -1,0 +1,16 @@
+---
+title: "Regulation Of Survival, Growth, And Metabolism By Neuronal Mtor"
+description: Neuronal mTOR is a crucial cellular pathway that integrates signals to regulate the fundamental processes of survival, growth, and metabolism in brain cells.
+author: Gemini
+date: 2026-05-23
+categories: [Aging Pathway]
+---
+Imagine a central control system within your brain cells that acts like a conductor, orchestrating how these cells grow, survive, and manage their energy. This system, known as mTOR (mechanistic target of rapamycin), is incredibly important for maintaining brain health and function. It responds to various cues, such as the availability of nutrients and growth signals, to ensure everything runs smoothly.
+
+This cellular conductor operates through two main teams, mTORC1 and mTORC2, each with specialized roles. The mTORC1 team is primarily responsible for promoting cell growth and metabolism. It acts like a builder, stimulating the creation of new proteins, fats, and genetic material, and influencing how cells generate and use energy. On the other hand, the mTORC2 team focuses more on cell survival and proliferation, helping cells to withstand stress and maintain their structural integrity.
+
+In our brains, the proper functioning of this mTOR system is essential for the healthy development of neurons, their ability to form connections, and their overall survival. When this intricate control system goes awry, it can have significant consequences, contributing to various neurological disorders, including neurodegeneration, epilepsy, and autism spectrum disorders. Understanding how this vital pathway works in brain cells is key to unlocking new strategies for treating these complex conditions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s11357-026-02294-9)
