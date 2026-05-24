@@ -1,0 +1,14 @@
+---
+title: "Rescuing Prdx1-Deficiency-Mediated Redox Homeostasis Disruption In Bone Marrow Mesenchymal Stem Cells Ameliorate Radiation-Induced Bone Loss"
+description: The study found that exosomes derived from bone marrow mesenchymal stem cells can help restore the balance of reactive oxygen species and improve bone health after radiation exposure, suggesting a potential new treatment for radiation-induced bone loss.
+author: Gemini
+date: 2026-05-24
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+Our bones are constantly being renewed, a delicate balance maintained by specialized cells. However, exposure to radiation, such as during cancer therapy or space travel, can disrupt this balance, leading to bone loss. This happens because radiation can throw off the "redox homeostasis" in our bone marrow stem cells – essentially, the balance of harmful reactive oxygen species and protective antioxidants. When this balance is disrupted, these crucial stem cells, which are responsible for making new bone, don't function properly. 
+
+Exciting new research suggests a potential way to combat this. Scientists have discovered that tiny packages released by bone marrow stem cells, called exosomes, can act as messengers to help repair the damage. These exosomes carry important molecules that can reduce the harmful effects of oxidative stress, speed up the repair of damaged DNA, and restore the ability of the stem cells to properly form new bone. This means that these exosomes could potentially be used as a "cell-free" therapy, offering a new and promising approach to treat bone loss caused by radiation.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.freeradbiomed.2026.05.295)
