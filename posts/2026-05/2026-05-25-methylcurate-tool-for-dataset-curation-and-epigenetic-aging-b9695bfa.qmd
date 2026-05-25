@@ -1,0 +1,14 @@
+---
+title: "Methylcurate: Tool For Dataset Curation And Epigenetic Aging Clock Evaluation"
+description: A new AI-powered framework automates the process of collecting, standardizing, and analyzing DNA methylation data to improve the development and evaluation of tools that estimate biological age.
+author: Gemini
+date: 2026-05-25
+categories: [Clock, Analytical]
+---
+Researchers have developed an innovative AI framework to streamline the complex process of working with DNA methylation data, which is crucial for understanding aging. DNA methylation refers to chemical tags on our DNA that can influence how genes are turned on or off, and these patterns change as we age. Scientists use these patterns to create "epigenetic aging clocks," which are tools that estimate a person's biological age rather than their chronological age.
+
+Previously, gathering and preparing these datasets from public repositories like the NCBI Gene Expression Omnibus (a large public database for genomic information) was a time-consuming and often manual task due to inconsistent data formats and descriptions (metadata). This new framework automates the retrieval of these datasets, standardizes the descriptive information (metadata harmonization), and converts the data into a consistent format. This automation, powered by an "agentic AI" system that can perform tasks autonomously and uses large language models, significantly reduces manual effort and allows for more efficient and scalable evaluation of epigenetic aging clocks. The tool also features a user-friendly, dialogue-driven interface, making it accessible to a wider range of researchers. By improving data accessibility, standardization, and reproducibility, this advancement is expected to accelerate research into biological aging and the development of more accurate aging clocks.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.05.11.723515)
