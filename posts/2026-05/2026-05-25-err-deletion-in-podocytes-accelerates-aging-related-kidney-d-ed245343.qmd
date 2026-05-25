@@ -1,0 +1,16 @@
+---
+title: "Errγ Deletion In Podocytes Accelerates Aging Related Kidney Disease"
+description: Deleting a specific protein called ERRγ in specialized kidney cells called podocytes accelerates age-related kidney damage.
+author: Gemini
+date: 2026-05-25
+categories: [Aging Pathway, Therapeutic]
+---
+Our kidneys work tirelessly to filter waste from our blood, and a crucial part of this filtering system relies on specialized cells called podocytes. These cells act like a sieve, preventing important proteins from escaping into our urine. As we age, these podocytes can become less efficient, contributing to age-related kidney diseases. 
+
+Recent research has shed light on a protein called ERRγ, which appears to be vital for maintaining the health and integrity of these podocytes, particularly as we get older. Scientists found that when ERRγ was removed from podocytes, the kidneys showed accelerated signs of aging. This included an increase in protein in the urine, a common indicator of kidney damage, as well as structural changes within the kidney's filtering units, such as thickening of the glomerular basement membrane and damage to the podocytes' delicate finger-like projections, known as foot processes. 
+
+These findings suggest that ERRγ plays a critical role in protecting podocytes from the wear and tear of aging. Its absence can lead to metabolic imbalances within these cells, triggering pathways that cause scarring and inflammation, and ultimately speeding up the aging process in the kidney's filtering structures. This work highlights ERRγ as a key regulator of how kidney cells manage their energy and function as they age, offering new insights into the mechanisms behind age-related kidney disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.05.11.724391)
