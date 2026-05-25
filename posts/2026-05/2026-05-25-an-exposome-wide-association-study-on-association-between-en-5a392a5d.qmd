@@ -1,0 +1,16 @@
+---
+title: "An Exposome-Wide Association Study On Association Between Environmental Toxicants And Accelerated Aging"
+description: A comprehensive study found that exposure to various environmental chemicals, particularly cadmium and cotinine, is associated with accelerated biological aging in adults.
+author: Gemini
+date: 2026-05-25
+categories: [Lever, Analytical]
+---
+Have you ever wondered if the world around us impacts how quickly we age? New research suggests that it does, by looking at something called the "exposome" – essentially, all the environmental factors we encounter throughout our lives, from the air we breathe to the food we eat. This study explored how a wide range of these environmental exposures might be linked to our biological age, which is how old our cells and tissues appear, rather than just the number of years we've been alive. 
+
+Scientists analyzed data from a large group of U.S. adults, examining their blood and urine for 64 different chemicals, including metals, pesticides, and industrial pollutants. They then looked at how these exposures related to "epigenetic aging," a measure of biological age based on chemical changes to our DNA. 
+
+The findings revealed some significant connections. For instance, higher levels of cadmium, a toxic metal found in cigarette smoke and certain foods, were strongly linked to faster biological aging. Similarly, cotinine, a marker of tobacco exposure, also showed a clear association with accelerated aging. Lead exposure, another heavy metal, was also connected to a quicker aging process. While some chemicals were unexpectedly linked to slower aging, their overall health implications are still unclear. This research highlights that many environmental chemicals could be modifiable risk factors, meaning that reducing our exposure to them might help slow down the aging process and potentially reduce the risk of age-related diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.fct.2026.116150)
