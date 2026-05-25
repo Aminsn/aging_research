@@ -1,0 +1,18 @@
+---
+title: "Human Whole-Blood NAD<Sup>+</Sup> Levels Do Not Vary With Age Or Lifestyle Interventions"
+description: Whole-blood NAD+ levels in humans remain stable with age and are not significantly affected by various lifestyle interventions, although they do increase with nicotinamide riboside supplementation.
+author: Gemini
+date: 2026-05-25
+categories: [Aging Pathway, Clock, Therapeutic, Lever, Analytical]
+---
+Our bodies rely on a vital molecule called nicotinamide adenine dinucleotide (NAD+), which acts as a crucial helper in many cellular processes, including generating energy and repairing our DNA. For a long time, it was widely believed that the amount of NAD+ in our bodies naturally decreased as we aged, and that this decline contributed to the aging process and related health problems. This idea fueled the popularity of supplements aimed at boosting NAD+ levels.
+
+However, a recent comprehensive study has challenged this long-held assumption. Researchers meticulously examined NAD+ levels in the whole blood of a large group of people, spanning various ages and lifestyle habits. Using highly precise measurement techniques, they discovered that, contrary to popular belief, whole-blood NAD+ levels remained remarkably consistent throughout a person's life. Furthermore, these levels were not significantly altered by common lifestyle interventions such as regular exercise or specific dietary changes.
+
+It's important to note that while age and general lifestyle didn't impact blood NAD+ levels, the study did confirm that taking supplements like nicotinamide riboside, which are designed to increase NAD+, successfully raised these levels in the blood. This indicates that these supplements do have a biological effect.
+
+The findings suggest that simply measuring NAD+ levels in whole blood might not be a reliable indicator of how much we are aging or how effective our general lifestyle choices are in influencing this molecule. This research encourages us to rethink how we assess cellular health and the impact of various anti-aging strategies.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s42255-026-01537-5)
