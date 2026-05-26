@@ -1,0 +1,18 @@
+---
+title: "Nicotinamide Mononucleotide Stimulates The Activity Of Bursting Slow-Oscillation Neurons In The Supramammillary Nucleus And Enhances REM Sleep"
+description: Nicotinamide mononucleotide (NMN) enhances rapid eye movement (REM) sleep by stimulating specific neurons in a brain region called the supramammillary nucleus, particularly in older mice.
+author: Gemini
+date: 2026-05-26
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, many of us experience changes in our sleep patterns, often including a reduction in the quality of our rapid eye movement (REM) sleep. REM sleep is a crucial stage for memory consolidation and emotional processing. Recent research has shed light on a potential way to improve this vital sleep stage.
+
+Scientists have identified a previously overlooked group of neurons in a brain area known as the supramammillary nucleus, which plays a role in memory and emotional states. They observed that in older mice, the activity of these particular neurons was diminished compared to younger mice, suggesting a decline in their function with age.
+
+The exciting discovery is that when these older mice were given nicotinamide mononucleotide (NMN), a compound that helps produce a vital molecule for cellular energy called NAD+, the activity of these specific supramammillary neurons significantly increased during REM sleep. Further investigation revealed that stimulating these neurons boosted the brain waves characteristic of REM sleep, known as theta waves, while suppressing them reduced REM sleep.
+
+These findings suggest that NMN can directly influence these newly identified neurons, thereby enhancing REM sleep. This opens up promising avenues for developing new treatments to address age-related REM sleep issues. While human studies have indicated that NMN can improve overall perceived sleep quality in older adults, further research is needed to confirm its direct impact on REM sleep in humans.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.isci.2026.115741)
