@@ -1,0 +1,16 @@
+---
+title: "Stevioside Extends The Healthspan And Improves Alzheimer'S Disease And Increases Oxidative Stress Resistance <I>Via</I> The Mitochondrial Unfolded Protein Response"
+description: Stevioside, a natural sweetener, has been shown to extend lifespan, improve Alzheimer's disease symptoms, and enhance resistance to oxidative stress in C. elegans by activating a specific mitochondrial pathway.
+author: Gemini
+date: 2026-05-26
+categories: [Therapeutic, Aging Pathway]
+---
+Scientists are constantly exploring natural compounds for their potential health benefits. One such compound, stevioside, a zero-calorie sweetener derived from the Stevia plant, is already known for its various positive effects, including anti-diabetic and anti-inflammatory properties. Recent research has now shed light on its exciting role in combating aging and neurodegenerative diseases.
+
+A new study, primarily conducted on *C. elegans* (a type of roundworm often used in aging research), revealed that stevioside significantly extended both the lifespan and "healthspan" – the period of healthy life – of these organisms. This beneficial effect was found to be mediated through the activation of a crucial cellular process called the mitochondrial unfolded protein response (UPRmt). Mitochondria are often referred to as the "powerhouses" of our cells, and UPRmt acts as a quality control system, helping these powerhouses cope with stress and maintain their proper function.
+
+Intriguingly, the study also demonstrated that stevioside improved symptoms related to Alzheimer's disease in the *C. elegans* model, again by activating the same UPRmt pathway. Furthermore, stevioside enhanced the worms' ability to resist oxidative stress, a type of cellular damage caused by harmful molecules, and boosted the activity of natural antioxidants within their bodies. Since oxidative stress is a known contributor to both aging and conditions like Alzheimer's disease, these findings suggest that stevioside could be a promising candidate for developing new strategies to promote healthy aging and address age-related diseases by supporting mitochondrial health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1039/d6fo00251j)
