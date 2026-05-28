@@ -1,0 +1,16 @@
+---
+title: "A Self-Powered Chloroplast-Driven Nanophotosystem For Treating Skin Photoaging Through Rejuvenating Mitochondria And Revitalizing Senescent Fibroblasts"
+description: Researchers developed a novel self-powered nanophotosystem using plant-derived components delivered via microneedles to treat skin photoaging by rejuvenating cellular energy factories and revitalizing aged skin cells.
+author: Gemini
+date: 2026-05-28
+categories: [Therapeutic, Aging Pathway]
+---
+Our skin, the body's largest organ, constantly faces challenges from the environment, especially sunlight, which can lead to a common issue called photoaging. This process accelerates skin aging, causing wrinkles, loss of elasticity, and other visible signs. At the heart of this problem are specialized skin cells called fibroblasts, which become "senescent" or aged, losing their ability to function properly. These senescent fibroblasts suffer from damaged mitochondria, the tiny powerhouses within cells that generate energy, and a depletion of crucial molecules like NAD(P)H, essential for cellular processes.
+
+To combat this, scientists have developed an innovative approach inspired by nature's own energy production system: photosynthesis. They created a tiny, self-powered system that uses components from green algae, specifically "nanothylakoid units" (NTUs), which are the parts of chloroplasts responsible for photosynthesis. These NTUs are combined with hyaluronic acid-based microneedles, which are tiny, painless needles that help deliver the treatment directly into the skin.
+
+Once delivered, this "nanophotosystem" acts like a miniature power plant within the aged skin cells. It boosts the creation of new, healthy mitochondria and increases the production of adenosine triphosphate (ATP), the main energy currency of cells. It also replenishes NAD(P)H levels, restoring the cells' metabolic balance. This revitalization helps the senescent fibroblasts regain their youthful functions, leading to several remarkable benefits. The treatment promotes the regeneration of damaged skin tissues, significantly increases the production of collagen (a protein vital for skin elasticity and firmness), and reduces the presence of harmful molecules associated with aging cells. Ultimately, this leads to a noticeable reduction in the signs of skin photoaging, offering a promising new "green" and biocompatible strategy for rejuvenating the skin.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s12951-026-04561-5)
