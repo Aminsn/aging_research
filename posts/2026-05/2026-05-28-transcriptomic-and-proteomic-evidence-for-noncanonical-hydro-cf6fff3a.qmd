@@ -1,0 +1,12 @@
+---
+title: "Transcriptomic And Proteomic Evidence For Noncanonical Hydrogen Sulfide Metabolism And Immune Dysregulation In Down Syndrome"
+description: The study found that individuals with Down Syndrome exhibit an unconventional way of producing hydrogen sulfide, a gasotransmitter, which is linked to immune system dysregulation and an imbalance in oxidative stress, suggesting a mechanism beyond the extra chromosome 21.
+author: Gemini
+date: 2026-05-28
+categories: [Aging Pathway, Analytical]
+---
+Individuals with Down Syndrome (DS), a genetic condition caused by an extra copy of chromosome 21, often experience accelerated immune cell aging, making them more vulnerable to infections and autoimmune diseases. A recent study sheds new light on a previously unrecognized aspect of DS pathology: how a molecule called hydrogen sulfide (H2S) is processed in the body and its profound impact on immune regulation. H2S is a "gasotransmitter," a signaling molecule involved in many vital bodily functions, including immune responses. Traditionally, it was thought that H2S overproduction in DS was primarily due to increased activity of an enzyme called cystathionine-β-synthase (CBS). However, this new research found no consistent elevation in CBS activity. Instead, the study uncovered a "noncanonical," or unconventional, pathway for H2S overproduction in DS. This alternative route involves an increased expression of a thioredoxin-dependent cysteine catabolism pathway. The researchers also consistently observed high levels of superoxide dismutase 1 (SOD1) in individuals with DS. High SOD1 was strongly associated with inflammatory conditions and a pro-inflammatory immune response. Interestingly, this elevated SOD1 was correlated with increased activity in pathways involving glutathione and thioredoxin, which are crucial for antioxidant defenses and the generation of H2S. This unexpected connection between oxidative stress (an imbalance between harmful molecules and the body's ability to neutralize them) and H2S overproduction suggests that targeting these newly identified metabolic pathways could offer novel therapeutic strategies to manage immune dysregulation and improve the health of individuals with Down Syndrome.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41598-026-45627-6)
