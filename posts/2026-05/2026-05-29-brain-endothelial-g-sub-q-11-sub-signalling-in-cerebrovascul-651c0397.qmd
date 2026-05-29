@@ -1,0 +1,20 @@
+---
+title: "Brain Endothelial Gα<Sub>Q/11</Sub> Signalling In Cerebrovascular Function And Cognition Of Aged Mice"
+description: Brain endothelial Gαq/11 signaling is crucial for maintaining normal vascular reactivity and its loss in aged mice leads to capillary rarefaction, blood-brain barrier disruption, and cognitive impairment, mimicking hallmarks of cerebral small vessel disease.
+author: Gemini
+date: 2026-05-29
+categories: [Aging Pathway, Aging Theory]
+---
+Our brains rely on a healthy network of tiny blood vessels to function properly. When these vessels, lined by special cells called endothelial cells, don't work as they should, it can contribute to serious conditions like stroke and dementia. This is often seen in a condition called cerebral small vessel disease, which is linked to problems like a leaky blood-brain barrier and general dysfunction of these vessel-lining cells.
+
+Recent research has shed light on a specific signaling pathway involving proteins called Gαq/11 within these brain endothelial cells. These proteins are known to help regulate how blood vessels constrict and relax, which is vital for controlling blood flow to different parts of the brain.
+
+Scientists investigated what happens when this Gαq/11 signaling is specifically removed from the endothelial cells in the brains of mice. They found that while younger mice maintained their vessel structure, older mice without this signaling pathway developed significant issues. Their brains showed a reduction in the number of tiny blood vessels (capillary rarefaction) and a breakdown of the blood-brain barrier, which normally acts as a protective shield for the brain.
+
+These vascular problems were accompanied by other concerning changes, including disruptions in signals important for blood vessel growth and health (VEGF signaling), increased signs of cellular aging, and oxidative stress within the blood vessels. Ultimately, these mice exhibited cognitive impairment, along with molecular changes in the brain associated with neurodegeneration, such as increased tau phosphorylation and reduced myelination, which affects nerve signal transmission.
+
+These findings suggest that the Gαq/11 signaling pathway in brain endothelial cells plays a protective role against the age-related decline in brain blood vessel function and subsequent cognitive problems. The study highlights that the combination of endothelial dysfunction and aging can accelerate cognitive decline, offering a new potential target for therapies aimed at preventing or treating age-related neurological disorders.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.ebiom.2026.106283)
