@@ -1,0 +1,16 @@
+---
+title: "Dapl1 Deficiency Impairs Autophagy In Retinal Pigment Epithelium To Drive Age-Dependent Retinal Pathologies"
+description: A deficiency in the protein DAPL1 in retinal pigment epithelium cells hinders the cellular self-cleaning process called autophagy, making the retina more vulnerable to age-related eye diseases.
+author: Gemini
+date: 2026-05-29
+categories: [Aging Pathway]
+---
+Our eyes are constantly working, and like any hard-working system, their cells need a way to clean up and recycle their components. This vital process is called autophagy, a kind of cellular "self-eating" that removes damaged parts and ensures healthy function. When this cleanup system falters, especially in the retinal pigment epithelium (RPE) cells—a crucial support layer for our vision—it can lead to serious age-related eye conditions, such as age-related macular degeneration (AMD).
+
+Recent research has shed light on a key player in this process: a protein called DAPL1. Scientists have discovered that when DAPL1 is missing or not functioning correctly in RPE cells, the essential autophagy process is impaired. This impairment doesn't just sit idly by; it actively contributes to the development of age-dependent retinal problems. Studies in mice showed that a lack of DAPL1 led to various issues, including increased stress in the retina, damage to the light-sensing cells (photoreceptors) and RPE cells, accumulation of fatty deposits, and activation of immune cells in the eye.
+
+Further investigation revealed the intricate mechanism behind DAPL1's role. It appears that DAPL1 helps regulate a complex network of proteins that control autophagy. Specifically, it suppresses certain factors (E2F1 and c-MYC) which, in turn, influences other pathways (mTOR, ATG16, Beclin1, and DAPK1) to promote the cellular cleanup. Essentially, DAPL1 acts as a crucial switch, ensuring that RPE cells can effectively maintain their health through autophagy. These findings suggest that understanding and potentially manipulating DAPL1 could offer new avenues for protecting our vision as we age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jfma.2026.05.038)
