@@ -1,0 +1,20 @@
+---
+title: "Symptom-Level Precision Neurology In Amyotrophic Lateral Sclerosis (ALS): Linking Microglial Pruning, Mitochondrial Nicotinamide Adenine Dinucleotide (NAD+) Compensation, And Autophagy Failure Across The Aging Spectrum"
+description: The paper proposes a new framework for understanding Amyotrophic Lateral Sclerosis (ALS) that links the disease's progression and varied symptoms to issues with brain immune cell activity, cellular energy production, and the cell's waste removal system, especially as the body ages.
+author: Gemini
+date: 2026-05-29
+categories: [Aging Theory, Aging Pathway]
+---
+Amyotrophic Lateral Sclerosis, or ALS, is a devastating disease that affects nerve cells, leading to muscle weakness and paralysis. For a long time, it's been understood as a disease primarily attacking motor neurons, the cells that control movement. However, the wide range of symptoms and their varied progression among patients suggest a more complex picture.
+
+A recent hypothesis framework offers a fresh perspective, proposing that ALS might stem from a combination of factors affecting how our brain cells function and maintain themselves. It suggests that a process called "microglial pruning," where specialized immune cells in the brain (microglia) remove connections between nerve cells (synapses), might play a role. While this pruning is a normal part of brain health, its dysregulation could contribute to the disease.
+
+Another key aspect highlighted is the role of mitochondria, often called the "powerhouses" of our cells, and a vital molecule called Nicotinamide Adenine Dinucleotide (NAD+), which is crucial for energy production. The paper suggests that a failure in the body's ability to maintain adequate NAD+ levels and manage mitochondrial stress could be central to ALS progression.
+
+Finally, the framework points to "autophagy failure," meaning the cell's natural "cleanup" process, which removes damaged components and waste, isn't working effectively. This cellular waste buildup, combined with the effects of aging, could further contribute to the disease.
+
+Essentially, this new way of thinking about ALS suggests that symptoms might emerge when the brain's ability to adapt and repair itself is overwhelmed by factors like excessive pruning, overactive nerve cell signaling, aging, and inflammation, all while the cell's energy supply and waste removal systems are compromised. This approach encourages looking at ALS not as a single, uniform disease, but as a collection of related issues that manifest differently in each person, paving the way for more personalized research and potential treatments.
+
+---
+
+Source: [link to paper](https://doi.org/10.7759/cureus.109147)
