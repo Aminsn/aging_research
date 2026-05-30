@@ -1,0 +1,12 @@
+---
+title: "DNA Methylation-Based Estimator Of Blood Telomere Length (Dnamtl) Outperforms Qpcr-Based Telomere Length In Reflecting Clinical And Sociodemographic Factors In People With HIV Infection"
+description: A new method for estimating telomere length based on DNA methylation provides a more accurate measure of biological aging and disease impact in individuals with HIV compared to traditional methods.
+author: Gemini
+date: 2026-05-30
+categories: [Clock, Analytical]
+---
+Our bodies have tiny protective caps on the ends of our chromosomes called telomeres, which are often compared to the plastic tips on shoelaces. These telomeres naturally shorten as we age, making their length a useful indicator of biological aging and overall health. In people living with HIV, chronic inflammation and immune activation can accelerate this shortening, leading to premature aging and a higher risk of age-related diseases. Traditionally, telomere length has been measured using a technique called quantitative PCR (qPCR). However, a newer approach, known as the DNA methylation-based estimator of telomere length (DNAmTL), has emerged as a promising alternative. This method estimates telomere length by looking at specific patterns of chemical tags on our DNA, called methylation, at 140 particular sites. Recent research shows that this DNAmTL method offers a more robust and informative way to assess biological aging and disease burden in individuals with HIV. It has been found to be more strongly linked to chronological age, as well as important clinical factors like sex, ethnicity, and markers of HIV disease severity, such as the amount of virus in the blood and the balance of certain immune cells (CD4:CD8 ratio). Furthermore, DNAmTL shows stronger connections to other health issues often seen in people with HIV, including type 2 diabetes and hepatitis C virus coinfection. This suggests that DNAmTL provides a more comprehensive picture of how HIV and other factors contribute to accelerated aging and health complications. By offering a more precise and biologically relevant measure, DNAmTL could help healthcare providers better monitor the health of people with HIV and identify those who might be at higher risk for age-related conditions, ultimately leading to more personalized and effective care.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13148-026-02164-3)
