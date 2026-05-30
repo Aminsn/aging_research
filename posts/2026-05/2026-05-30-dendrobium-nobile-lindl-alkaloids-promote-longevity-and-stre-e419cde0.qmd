@@ -1,0 +1,12 @@
+---
+title: "Dendrobium Nobile Lindl. Alkaloids Promote Longevity And Stress Resistance Of Caenorhabditis Elegans Via DAF-16 And Skn-1"
+description: An alcohol extract from the traditional Chinese herb Dendrobium nobile extends the lifespan and enhances stress resistance in the model organism Caenorhabditis elegans by activating the DAF-16 pathway.
+author: Gemini
+date: 2026-05-30
+categories: [Therapeutic, Aging Pathway]
+---
+Researchers have explored how natural compounds from a traditional herb can influence aging and resilience to stress. A recent study using the tiny worm Caenorhabditis elegans as a model organism revealed that extracts from this herb can significantly extend the worms' lifespan and boost their ability to withstand environmental stressors like heat and oxidative damage. These beneficial effects appear to be primarily driven by the activation of a key genetic pathway involving a protein called DAF-16. DAF-16 acts like a master switch, controlling genes related to stress response and longevity. While another important longevity pathway, involving the protein SKN-1, was also investigated for its role in these effects, the primary mechanism observed for lifespan extension was through DAF-16. This research sheds light on potential natural compounds that could contribute to healthy aging and disease prevention by modulating fundamental biological processes.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.archger.2026.106308)
