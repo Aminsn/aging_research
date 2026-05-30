@@ -1,0 +1,14 @@
+---
+title: "Deletion Of Top2B Promoter Using CRISPR-Cas9 Induces Senescence In HEK 293T Cells"
+description: The precise removal of the TOP2B gene's regulatory region using CRISPR-Cas9 technology can induce a state of cellular aging in human kidney cells.
+author: Gemini
+date: 2026-05-30
+categories: [Aging Pathway]
+---
+Our cells have a natural process called senescence, which is like a cellular retirement plan. When cells become old or damaged, they stop dividing and enter this senescent state, preventing them from potentially becoming cancerous. Recent scientific advancements have allowed us to precisely edit genes, the blueprints of life, using a revolutionary tool called CRISPR-Cas9. This technology acts like molecular scissors, enabling scientists to cut and modify specific DNA sequences. 
+
+In a recent study, researchers utilized this powerful gene-editing tool to investigate the role of a particular gene, TOP2B, in human kidney cells (HEK 293T cells). By specifically deleting the promoter region of the TOP2B gene—the part that controls when and how much of the gene is expressed—they effectively reduced its activity. This targeted manipulation led to a fascinating outcome: the cells entered a state of senescence. This finding suggests that TOP2B plays a crucial role in regulating cellular aging and that its controlled reduction could potentially influence the aging process at a cellular level. Understanding these mechanisms could open new avenues for research into age-related diseases and cellular longevity.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bbrep.2026.102620)
