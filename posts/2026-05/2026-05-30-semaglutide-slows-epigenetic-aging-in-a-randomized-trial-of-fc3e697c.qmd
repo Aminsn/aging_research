@@ -1,0 +1,16 @@
+---
+title: "Semaglutide Slows Epigenetic Aging In A Randomized Trial Of HIV-Associated Lipohypertrophy"
+description: A study found that the medication semaglutide significantly slowed biological aging in individuals with HIV-associated lipohypertrophy, as measured by changes in their DNA.
+author: Gemini
+date: 2026-05-30
+categories: [Therapeutic, Clock, Analytical]
+---
+Could a medication commonly used for diabetes and weight management also help slow down aging? New research suggests this might be the case for individuals living with HIV who experience a condition called lipohypertrophy, which involves abnormal fat accumulation and is often linked to accelerated aging. 
+
+Scientists investigated the effects of a drug known as a GLP-1 receptor agonist, which works by mimicking a natural hormone that helps regulate blood sugar and appetite. They looked at how this medication impacted "epigenetic aging," a measure of a person's biological age based on chemical modifications to their DNA. These "epigenetic clocks" can reveal how quickly a person's body is aging at a cellular level, which can differ from their actual chronological age.
+
+The findings indicate that the medication significantly decelerated these biological aging markers across various systems in the body, including those related to inflammation, brain health, and heart function. This suggests that the benefits observed go beyond just weight loss, hinting at a broader protective effect against the aging process. While this study focused on a specific group, it opens exciting possibilities for further research into how such medications might contribute to extending a healthy lifespan.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41467-026-72861-3)
