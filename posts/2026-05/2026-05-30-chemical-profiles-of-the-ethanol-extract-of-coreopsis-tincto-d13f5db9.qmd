@@ -1,0 +1,20 @@
+---
+title: "Chemical Profiles Of The Ethanol Extract Of Coreopsis Tinctoria Nutt. Based On UHPLC-LTQ-Orbitrap-MS/MS And MS<Sup>3</Sup> And Its Protective Effect On MGO-Induced Damage To Hacat Cells"
+description: The ethanol extract of Coreopsis tinctoria Nutt. was found to contain 28 components and demonstrated a protective effect against methylglyoxal-induced damage in human skin cells, suggesting its potential for ameliorating skin glycation aging.
+author: Gemini
+date: 2026-05-30
+categories: [Therapeutic, Aging Pathway, Analytical]
+---
+Skin aging is a complex process, and one significant contributor is "glycation aging," which occurs when sugar molecules react with proteins and fats, leading to damage. A key culprit in this process is a compound called methylglyoxal (MGO). This research explored the potential of a plant traditionally used in Chinese medicine, Coreopsis tinctoria Nutt., to combat this type of skin damage.
+
+Scientists analyzed the ethanol extract of Coreopsis tinctoria Nutt. using sophisticated analytical techniques, specifically UHPLC-LTQ-Orbitrap-MS/MS and MS3, which are advanced methods for identifying and characterizing chemical compounds. They successfully identified a total of 28 different components within the extract.
+
+To test its protective effects, human skin cells (HaCaT cells) were exposed to methylglyoxal to mimic glycation aging. When these damaged cells were treated with the plant extract, researchers observed remarkable improvements. The extract helped to improve cell growth and migration, which are crucial for healthy skin. It also significantly reduced harmful reactive oxygen species (ROS) and malondialdehyde (MDA), which are indicators of oxidative stress – a major factor in aging.
+
+Furthermore, the extract boosted the levels of an important antioxidant enzyme called superoxide dismutase (SOD) and decreased the activity of β-galactosidase, a marker associated with cellular aging. It also mitigated the accumulation of a specific histone modification (K9 trimethylated histone H3), which is linked to aging processes. On a molecular level, the extract regulated key proteins involved in cell cycle control and survival, such as P21 and P53, and influenced pathways like PI3K/AKT/mTOR, which are vital for cell growth and survival, as well as proteins like ZO-1 and Occludin, important for skin barrier function. These findings suggest that the components in Coreopsis tinctoria Nutt. extract have the potential to reduce skin aging caused by glycation.
+
+This research highlights the promise of natural ingredients for developing new strategies, such as "beauty-from-within" functional foods, to intervene in and potentially slow down skin aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1021/acsomega.5c13095)
