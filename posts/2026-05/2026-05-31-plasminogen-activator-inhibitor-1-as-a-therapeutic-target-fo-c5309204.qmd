@@ -1,0 +1,18 @@
+---
+title: "Plasminogen Activator Inhibitor-1 As A Therapeutic Target For Healthy Longevity, Immunosenescence, And Age-Related Disease: Translational Development Of The Small-Molecule Inhibitor Tm5614"
+description: The paper highlights Plasminogen Activator Inhibitor-1 (PAI-1) as a key factor in aging and age-related diseases, proposing its inhibition, particularly with the small-molecule TM5614, as a therapeutic strategy for promoting healthy longevity.
+author: Gemini
+date: 2026-05-31
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies have a natural regulator called Plasminogen Activator Inhibitor-1 (PAI-1), which is primarily known for its role in controlling blood clot breakdown. However, recent research reveals that PAI-1 does much more than just manage clotting; it plays a significant role in the aging process and the development of various age-related diseases.
+
+As we age, levels of PAI-1 tend to increase, contributing to conditions like cardiovascular disease, metabolic disorders, certain cancers, and even neurodegenerative diseases. It does this by influencing cellular senescence, a process where cells stop dividing and accumulate, leading to inflammation and tissue damage. Essentially, PAI-1 acts as a kind of "immune-aging checkpoint," where aging cells and other problematic cells can worsen immune system dysfunction and tissue damage.
+
+Scientists are now exploring ways to target PAI-1 to combat these age-related issues. One promising approach involves small-molecule inhibitors, such as a compound known as TM5614. Preclinical studies have shown that inhibiting PAI-1 with TM5614 can have multiple benefits, including reducing blood clots, preventing tissue scarring (fibrosis), lowering inflammation, and combating cellular senescence. This compound is even being investigated in clinical trials for conditions ranging from certain types of leukemia to pneumonia associated with COVID-19.
+
+By understanding and targeting PAI-1, we may unlock new strategies to promote healthier aging and mitigate the impact of many age-related diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/cells15100941)
