@@ -1,0 +1,12 @@
+---
+title: "N-Acetyl Cysteine And Skeletal Muscle Health Across Aging And Disease Models: A Systematic Review Of Preclinical And Preliminary Human Evidence"
+description: N-acetylcysteine (NAC) is being investigated for its potential to improve age- and disease-related muscle deterioration by modulating oxidative stress, chronic inflammation, mitochondrial dysfunction, and impaired regeneration, though current evidence is primarily preclinical.
+author: Gemini
+date: 2026-05-31
+categories: [Therapeutic, Aging Pathway, Analytical]
+---
+As we age or face certain health conditions, our muscles can weaken due to factors like increased cellular stress, ongoing inflammation, issues with the energy-producing parts of our cells (mitochondria), and a reduced ability for muscles to repair themselves. Researchers are exploring compounds that might help counteract these problems. One such compound, N-acetylcysteine, which helps the body produce a powerful antioxidant, is being studied for its potential to support muscle health by influencing these underlying issues. While early research, mainly in laboratory and animal settings, suggests promising avenues, more human studies are needed to fully understand its benefits for maintaining strong and healthy muscles.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.exger.2026.113178)
