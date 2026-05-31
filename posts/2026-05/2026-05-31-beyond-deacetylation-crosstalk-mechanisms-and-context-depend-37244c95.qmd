@@ -1,0 +1,18 @@
+---
+title: "Beyond Deacetylation: Crosstalk Mechanisms And Context-Dependent Regulation Of Sirtuin Non-Classical Enzymatic Functions In Disease"
+description: Sirtuins, a family of proteins, perform diverse enzymatic functions beyond their well-known role in removing acetyl groups, and these varied activities play crucial, context-dependent roles in the development and progression of diseases like cancer, metabolic syndrome, and neurodegeneration.
+author: Gemini
+date: 2026-05-31
+categories: [Aging Pathway, Therapeutic]
+---
+For a long time, a group of proteins called sirtuins were primarily known for their ability to remove acetyl groups from other proteins, a process called deacetylation. This action is vital for many cellular functions. However, recent research reveals that these versatile proteins are far more complex, acting as a diverse family of enzymes with a wide range of "non-classical" functions. 
+
+Beyond simply removing acetyl groups, sirtuins can also remove other chemical tags, such as myristoyl, succinyl, and lactyl groups, and even add a molecule called ADP-ribose to proteins. These additional activities are not random; they are highly specific to certain target proteins. What’s more, the impact of these sirtuin activities can change dramatically depending on the specific tissue, the cell's environment, and which other molecules are present. This means a sirtuin might be protective in one situation but contribute to disease in another. 
+
+These newly understood functions are critical in a variety of major health issues, including metabolic disorders like diabetes, different types of cancer, the aging process, brain diseases such as Alzheimer's, and heart conditions. The different sirtuin family members also interact with each other in complex ways, sometimes working together and sometimes opposing each other, to finely tune the body's metabolic balance. 
+
+Understanding these intricate roles opens up exciting new avenues for developing treatments. Scientists are now exploring therapies that specifically target these non-classical sirtuin activities, using everything from small drug molecules to natural compounds and advanced biological agents. The goal is to create highly precise treatments for age-related and metabolic diseases by leveraging the full, multifaceted power of sirtuins.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s10020-026-01503-7)
