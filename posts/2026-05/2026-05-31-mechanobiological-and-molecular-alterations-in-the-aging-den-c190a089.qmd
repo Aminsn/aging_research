@@ -1,0 +1,14 @@
+---
+title: "Mechanobiological And Molecular Alterations In The Aging Dentin-Pulp Complex"
+description: Aging in teeth leads to coordinated changes in cell death, inflammation, and cellular recycling processes, which are closely linked to alterations in the tooth's mechanical properties.
+author: Gemini
+date: 2026-05-31
+categories: [Aging Pathway]
+---
+As we age, our teeth undergo significant changes, not just in appearance but also at a microscopic level. Recent research sheds light on how the inner living tissue of the tooth, called the pulp, and the surrounding hard tissue, known as dentin, transform over time. This study reveals that the aging process in teeth involves a complex interplay of cellular activities, including programmed cell death (apoptosis), inflammatory responses, and a cellular "housekeeping" process called autophagy, where cells clean out damaged components.
+
+These molecular shifts are closely tied to changes in the physical characteristics of the dentin. For instance, the hardness and flexibility of dentin, measured by its modulus of elasticity, change with age, becoming stiffer in the crown of older teeth. These alterations can influence how the tooth responds to daily stresses and its overall health. Understanding these age-related changes in both the cellular mechanisms and the mechanical properties of teeth is crucial for developing better strategies to maintain dental health as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/life16050844)
