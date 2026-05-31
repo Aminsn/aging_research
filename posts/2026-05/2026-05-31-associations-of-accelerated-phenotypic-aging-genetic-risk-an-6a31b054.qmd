@@ -1,0 +1,16 @@
+---
+title: "Associations Of Accelerated Phenotypic Aging, Genetic Risk And Lifestyle With Incident Asthma, Subsequent Cardiovascular Disease And Death: A Prospective Study Using Multi-State Model"
+description: A study found that faster biological aging and higher genetic risk are linked to a greater chance of developing asthma and other chronic lung diseases, with the highest risk seen when both factors are present.
+author: Gemini
+date: 2026-05-31
+categories: [Clock, Lever, Analytical]
+---
+This research sheds light on how our biological age, which can differ from our chronological age, and our inherited genetic predispositions influence the likelihood of developing chronic respiratory conditions like asthma. The study found that individuals whose bodies are aging faster than expected, a concept known as "phenotypic age acceleration," face a significantly higher risk of developing conditions such as asthma, chronic obstructive pulmonary disease (COPD), and idiopathic pulmonary fibrosis (IPF).
+
+Beyond biological aging, genetic risk also plays a crucial role. The study revealed that people with a higher genetic susceptibility to these diseases have an elevated risk. Importantly, the research highlights a powerful combined effect: individuals who experience both accelerated biological aging and possess a high genetic risk have the greatest probability of developing these respiratory conditions. For example, those with both high genetic risk and an older biological age showed a substantially increased risk of incident asthma, IPF, and COPD.
+
+These findings suggest that understanding the interplay between how quickly our bodies age and our genetic makeup could be key to identifying individuals at higher risk for chronic respiratory diseases. This knowledge could lead to more personalized prevention strategies and interventions aimed at slowing biological aging or addressing genetic vulnerabilities to improve respiratory health outcomes.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.maturitas.2026.108981)
