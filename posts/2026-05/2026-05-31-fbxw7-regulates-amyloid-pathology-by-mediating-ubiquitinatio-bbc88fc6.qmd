@@ -1,0 +1,18 @@
+---
+title: "Fbxw7Α Regulates Amyloid Pathology By Mediating Ubiquitination And Degradation Of Bace1 In Alzheimer'S Disease"
+description: A protein called FBXW7α has been found to reduce the formation of amyloid plaques, a hallmark of Alzheimer's disease, by targeting the enzyme BACE1 for degradation.
+author: Gemini
+date: 2026-05-31
+categories: [Aging Pathway, Therapeutic]
+---
+Alzheimer's disease is a devastating condition characterized by the accumulation of sticky protein clumps, known as amyloid plaques, in the brain. A key player in the formation of these plaques is an enzyme called BACE1, which initiates the production of toxic amyloid-beta peptides. While directly blocking BACE1 has proven difficult in the past, new research sheds light on a promising alternative approach.
+
+Scientists have discovered that a protein named FBXW7α plays a crucial role in controlling the levels of BACE1. FBXW7α belongs to a family of proteins called E3 ubiquitin ligases, which act like cellular tags. They attach small molecules called ubiquitin to other proteins, marking them for destruction and removal by the cell's recycling system.
+
+This study revealed that FBXW7α specifically tags BACE1 for degradation, effectively reducing the amount of this plaque-forming enzyme in brain cells. When FBXW7α levels were low, BACE1 accumulated, leading to more amyloid plaque formation and cognitive problems in animal models. Conversely, increasing FBXW7α led to less BACE1, fewer plaques, and improved memory and thinking abilities.
+
+These findings suggest that enhancing the activity of FBXW7α could be a novel strategy to combat Alzheimer's disease by naturally reducing the production of harmful amyloid-beta without directly inhibiting BACE1's enzymatic function. This opens up exciting new avenues for developing treatments that could slow or even prevent the progression of this challenging neurodegenerative disorder.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41420-026-03159-y)
