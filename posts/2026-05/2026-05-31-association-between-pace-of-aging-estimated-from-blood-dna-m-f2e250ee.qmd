@@ -1,0 +1,14 @@
+---
+title: "Association Between Pace Of Aging Estimated From Blood DNA Methylation And All-Cause Mortality: The HUNT Study"
+description: The speed at which an individual biologically ages, as determined by changes in blood DNA, is an independent predictor of their risk of death from any cause.
+author: Gemini
+date: 2026-05-31
+categories: [Clock, Lever, Analytical]
+---
+Have you ever wondered if your "biological age" truly reflects how long you might live? New research suggests that the pace at which your body is aging, measured through specific changes in your blood, could be a significant indicator of your mortality risk. This study explored how the speed of biological aging, assessed by looking at chemical modifications on your DNA called DNA methylation, relates to the likelihood of dying from any cause. DNA methylation acts like a dimmer switch for genes, influencing how they function, and these patterns change as we age. 
+
+Researchers analyzed blood samples collected over a decade apart from a large population study. They used advanced "epigenetic clocks" to estimate an individual's pace of aging. The findings revealed that a faster pace of aging was consistently linked to a higher risk of all-cause mortality, even after accounting for other known health risk factors. Interestingly, factors like higher education were associated with a slower aging pace, while habits such as smoking and obesity were linked to a faster one. This suggests that our lifestyle choices and environment play a crucial role in our biological aging trajectory. This measure of aging pace could potentially offer a comprehensive look at how genetic, lifestyle, and environmental factors collectively influence an individual's aging process and overall health outcomes.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13148-026-02070-8)
