@@ -1,0 +1,18 @@
+---
+title: "A PUFA-Rich Diet Increases Endogenous Genotoxic Stress And Mitochondrial DNA Damage In Mice"
+description: A diet rich in polyunsaturated fatty acids (PUFAs) is associated with increased markers of lipid peroxidation and a greater degree of mitochondrial DNA damage in living organisms, particularly when cell membranes are enriched with n-6 PUFAs.
+author: Gemini
+date: 2026-06-01
+categories: [Aging Theory, Aging Pathway, Lever]
+---
+For a long time, replacing saturated fats with oils high in n-6 polyunsaturated fatty acids, often found in seed oils, has been promoted as a way to manage cholesterol levels. However, both n-6 and n-3 polyunsaturated fatty acids, which are essential for our bodies but cannot be made internally, are highly susceptible to oxidation. This oxidation process can lead to damage to our DNA over time, contributing to the aging process.
+
+To investigate this, a study was conducted where mice were fed one of two high-fat diets for 12 weeks: one rich in saturated fats (using coconut oil) or one rich in polyunsaturated fatty acids (using soybean oil). The researchers then examined various markers in the mice.
+
+The findings revealed that the mice on the polyunsaturated fatty acid-rich diet showed higher levels of compounds resulting from lipid peroxidation, which is a process where fats are damaged by free radicals. More importantly, these mice also exhibited a greater extent of damage to their mitochondrial DNA. Mitochondria are often called the "powerhouses" of our cells, and their DNA is crucial for their proper function.
+
+These results provide clear evidence that a diet high in polyunsaturated fatty acids can increase the level of genotoxic stress within the body, meaning it can lead to damage to genetic material.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s41021-026-00360-4)
