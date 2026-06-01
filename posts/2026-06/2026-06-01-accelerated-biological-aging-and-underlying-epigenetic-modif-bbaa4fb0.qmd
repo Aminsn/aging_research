@@ -1,0 +1,12 @@
+---
+title: "Accelerated Biological Aging And Underlying Epigenetic Modification Mediated The Association Between Obesity And Asthma"
+description: Obesity is linked to an increased risk of developing asthma, and this connection is partly explained by accelerated biological aging and changes in how genes are expressed.
+author: Gemini
+date: 2026-06-01
+categories: [Clock, Aging Pathway, Analytical]
+---
+It's well-known that obesity can increase the risk of various health problems, and one area of growing concern is its link to asthma. New research sheds light on a fascinating mechanism behind this connection: our bodies' internal aging process. While we all have a chronological age, our 'biological age' can sometimes be older, meaning our cells and tissues are aging faster than expected. This accelerated biological aging appears to be a key factor in why obese individuals are more prone to developing asthma. The underlying cause of this accelerated aging involves 'epigenetic modifications,' which are like tiny switches on our DNA that control which genes are active or inactive. These modifications don't change our genetic code itself, but they influence how our genes are expressed, essentially telling our cells what to do. In the context of obesity, these epigenetic changes contribute to a faster biological aging process, which in turn increases the likelihood of developing asthma. Understanding this intricate pathway could open doors for new strategies to prevent or manage asthma in individuals with obesity.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13148-026-02145-6)
