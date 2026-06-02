@@ -1,0 +1,12 @@
+---
+title: "Xenogeneic Mitochondrial Transplantation Improves Selected Age-Associated Phenotypes In Mice"
+description: Transplanting mitochondria from one species to another, specifically from yak to mice, improved certain age-related characteristics and mitochondrial function in the recipient mice.
+author: Gemini
+date: 2026-06-02
+categories: [Therapeutic, Aging Pathway]
+---
+Our cells contain tiny powerhouses called mitochondria, which are crucial for producing energy. As we age, these powerhouses can become less efficient, contributing to many age-related changes in our bodies. A recent study explored a novel approach to combat this decline by transplanting mitochondria from a different species into mice. This process, known as xenogeneic mitochondrial transplantation, involved introducing healthy mitochondria from yak into aged mice. The researchers observed that this intervention led to improvements in several age-associated characteristics in the mice, such as better physical endurance and a reduction in some visible signs of aging like hair loss and spinal curvature. It also enhanced the overall function of the mice's own mitochondria. The study suggests that these transplanted mitochondria interact with the host's cellular systems responsible for maintaining mitochondrial health. While the effectiveness of the treatment was dependent on the quality of the donor mitochondria, these findings offer promising proof-of-concept for the biological activity and short-term safety of this innovative approach to potentially address age-related decline.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/advs.75806)
