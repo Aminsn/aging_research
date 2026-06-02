@@ -1,0 +1,12 @@
+---
+title: "Integrated Analysis Of Chemical Components, Serum Metabolites, And Anti-Aging Mechanisms Of Qijingmingmu Decoction For Conjunctivochalasis Based On UPLC-Q-TOF-MS And Network Pharmacology"
+description: A traditional Chinese medicine, Qijing Mingmu decoction, has been found to alleviate cellular aging in eye tissue affected by conjunctivochalasis by targeting specific cellular signaling pathways.
+author: Gemini
+date: 2026-06-02
+categories: [Therapeutic, Aging Pathway, Analytical]
+---
+Many traditional remedies have been used for centuries, and modern science is now exploring their underlying mechanisms. One such remedy, a traditional Chinese medicine known as Qijing Mingmu decoction, has shown promise in treating an eye condition called conjunctivochalasis. This condition is often associated with cellular senescence, essentially the aging of cells in the conjunctiva, the membrane lining the eyelid and covering the white part of the eye. Recent research has delved into how this herbal preparation works at a molecular level. Scientists discovered that the decoction effectively reduces cellular aging in the affected eye tissue. It achieves this by influencing key internal communication networks within cells, specifically the p38 MAPK signaling pathway and the subsequent p53/p21 signaling. By modulating these pathways, the decoction helps to slow down the aging process of these cells, offering a scientific explanation for its therapeutic effects. This kind of research, often employing advanced analytical techniques like UPLC-Q-TOF-MS (a method for identifying and quantifying chemical compounds) and network pharmacology (a way to understand how multiple components interact with biological systems), helps to bridge the gap between traditional medicine and modern scientific understanding.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s10616-026-00983-z)
