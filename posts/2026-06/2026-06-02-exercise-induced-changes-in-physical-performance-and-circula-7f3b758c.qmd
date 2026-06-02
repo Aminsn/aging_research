@@ -1,0 +1,18 @@
+---
+title: "Exercise-Induced Changes In Physical Performance And Circulating Acyl-Coa Binding Protein/Diazepam Binding Inhibitor (ACBP/DBI) In Older Adults With And Without HIV"
+description: Exercise-induced improvements in physical performance are associated with reduced levels of a circulating stress hormone called acyl-CoA binding protein/diazepam binding inhibitor (ACBP/DBI) in older adults, irrespective of HIV status.
+author: Gemini
+date: 2026-06-02
+categories: [Aging Pathway, Lever, Analytical]
+---
+As we age, our bodies undergo various changes, and one factor that plays a role in the aging process is a molecule known as acyl-CoA binding protein/diazepam binding inhibitor (ACBP/DBI). This molecule acts as a tissue stress hormone and is linked to processes that contribute to aging. While we know that regular physical activity is beneficial for healthy aging, the specific connection between exercise and levels of ACBP/DBI in older individuals has been unclear.
+
+A recent study explored this relationship by observing older adults, some living with HIV and some without, who participated in a personalized exercise program. This program included a variety of activities like strength training, aerobic endurance exercises, balance work, and flexibility training over 48 weeks. Researchers measured participants' physical performance and their circulating levels of ACBP/DBI at different points throughout the study.
+
+The findings revealed that as participants improved their physical abilities, particularly in upper-body strength and aerobic fitness, their levels of ACBP/DBI tended to decrease. Over the full 48 weeks, significant improvements in overall physical performance were consistently linked to notable reductions in this aging-related hormone. For instance, a specific increase in a common physical performance score was associated with a substantial drop in ACBP/DBI levels. Importantly, these positive changes were observed in all older adults, regardless of their HIV status.
+
+This research suggests that the benefits of exercise extend beyond just feeling stronger or having more stamina; it can also lead to favorable molecular changes by reducing a hormone associated with aging. This provides further evidence for the importance of regular physical activity in promoting healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/gerona/glag136)
