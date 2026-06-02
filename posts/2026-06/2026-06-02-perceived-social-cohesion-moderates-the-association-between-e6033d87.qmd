@@ -1,0 +1,14 @@
+---
+title: "Perceived Social Cohesion Moderates The Association Between Neighborhood Socioeconomic Deprivation And Epigenetic Aging"
+description: Neighborhoods with higher socioeconomic deprivation are associated with faster biological aging, but strong social connections within a community can lessen this effect.
+author: Gemini
+date: 2026-06-02
+categories: [Clock, Lever, Analytical]
+---
+Have you ever wondered if your neighborhood affects how you age? New research suggests that it might, and that the strength of your community plays a crucial role. This study explored the link between the resources available in a neighborhood and our "biological age," which is essentially how old our body seems at a cellular level, often measured by changes in our DNA, rather than just how many years we've lived. 
+
+The findings indicate that living in an area with fewer resources and more challenges, often referred to as socioeconomic deprivation, is associated with a faster pace of biological aging. This means that individuals in such neighborhoods might show signs of aging more quickly at a molecular level. However, there's a hopeful twist: the study also found that a strong sense of community, characterized by trust, mutual support, and a feeling of belonging (what researchers call social cohesion), can actually protect against these negative effects. In other words, when people feel connected and supported in their neighborhood, it can help to slow down the accelerated biological aging linked to living in a deprived area. This highlights the powerful impact that our social environment has on our health and longevity.
+
+---
+
+Source: [link to paper](https://doi.org/10.1097/PSY.0000000000001500)
