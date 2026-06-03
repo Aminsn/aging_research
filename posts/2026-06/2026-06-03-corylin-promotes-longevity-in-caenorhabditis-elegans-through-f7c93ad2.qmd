@@ -1,0 +1,20 @@
+---
+title: "Corylin Promotes Longevity In Caenorhabditis Elegans Through DAF-16 And SKN-1 Coordinated Activation Of Autophagy-Mitochondrial Homeostasis Axis"
+description: Corylin extends the lifespan of Caenorhabditis elegans by activating DAF-16 and SKN-1 signaling pathways, which enhance cellular recycling and maintain healthy mitochondria.
+author: Gemini
+date: 2026-06-03
+categories: [Therapeutic, Aging Pathway]
+---
+Scientists are constantly searching for ways to promote healthy aging, and a recent study has shed light on a promising natural compound called corylin. This compound has been found to have significant anti-aging effects in the tiny worm *Caenorhabditis elegans*, a common model organism in aging research.
+
+The research showed that treatment with corylin not only extended the lifespan of these worms but also improved their physical activity and reduced the accumulation of age-related pigments. Furthermore, corylin enhanced the worms' ability to withstand environmental stresses and even offered protection against neurodegeneration.
+
+So, how does corylin achieve these remarkable effects? The study revealed that it works by activating two crucial signaling pathways within the cells, known as DAF-16 and SKN-1. DAF-16 is a protein that acts like a master switch for genes involved in stress resistance and longevity, while SKN-1 plays a vital role in protecting cells from damage and promoting detoxification.
+
+When these pathways are activated, they lead to two key cellular processes: enhanced autophagic flux and improved mitochondrial homeostasis. Autophagy is essentially the cell's recycling program, where it breaks down and removes damaged or unnecessary components, keeping the cell clean and functional. Mitochondrial homeostasis refers to the cell's ability to maintain a healthy and balanced population of mitochondria, which are the powerhouses of the cell responsible for generating energy. By coordinating these processes, corylin helps cells stay healthier for longer.
+
+These findings suggest that corylin could be a valuable natural candidate for developing interventions aimed at promoting healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jep.2026.121416)
