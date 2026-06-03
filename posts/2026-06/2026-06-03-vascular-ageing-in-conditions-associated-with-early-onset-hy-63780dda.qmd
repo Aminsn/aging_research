@@ -1,0 +1,12 @@
+---
+title: "Vascular Ageing In Conditions Associated With Early Onset Hypogonadism"
+description: Adolescents with conditions causing early low testosterone levels show signs of premature aging in their blood vessels, accompanied by increased cellular stress and changes in gene regulation.
+author: Gemini
+date: 2026-06-03
+categories: [Aging Pathway]
+---
+New research suggests that young individuals experiencing early-onset low testosterone, a condition known as hypogonadism, may be at a higher risk for premature aging of their blood vessels. The study focused on boys with conditions like Klinefelter syndrome and hypospadias, which are linked to reduced testosterone production from early development. Findings indicate that these adolescents exhibit signs of "early vascular aging," meaning their arteries are stiffening and showing damage sooner than expected. This was observed through elevated blood pressure and increased thickness of artery walls, which are indicators of cardiovascular strain. The study also revealed higher levels of oxidative stress, an imbalance between harmful molecules (free radicals) and the body's ability to neutralize them, which can damage cells. Additionally, changes in epigenetic markers, which are modifications to DNA that affect gene activity without altering the DNA sequence itself, were noted. These findings suggest that hormonal disruptions early in life could have long-term effects on heart and blood vessel health, highlighting the importance of further investigation into potential early interventions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1159/000552685)
