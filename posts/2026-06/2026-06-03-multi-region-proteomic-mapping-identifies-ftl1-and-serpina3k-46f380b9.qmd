@@ -1,0 +1,18 @@
+---
+title: "Multi-Region Proteomic Mapping Identifies Ftl1 And Serpina3K As Protective Factors In Cardiac Aging"
+description: A recent study has identified two proteins, FTL1 and SERPINA3K, as crucial protective factors against the decline in heart function associated with aging.
+author: Gemini
+date: 2026-06-03
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+Our hearts, like the rest of our bodies, undergo changes as we age, often leading to a decline in function and an increased risk of heart diseases. Understanding these age-related changes at a molecular level is key to developing strategies to keep our hearts healthy for longer. 
+
+Researchers recently conducted a detailed analysis of proteins in different regions of the heart across various stages of aging in mice. This "proteomic mapping" allowed them to see how the levels of thousands of proteins changed as the heart aged. They discovered that two specific proteins, FTL1 and SERPINA3K, showed significant changes in their expression as the heart got older. 
+
+Further investigation revealed that these proteins play a protective role. When the FTL1 protein was reduced in heart muscle cells (cardiomyocytes), it led to a type of cell death called ferroptosis, which is an iron-dependent form of cell demise, and cellular senescence, where cells stop dividing and contribute to aging. These negative effects could be reversed by a compound that inhibits ferroptosis. Similarly, increasing the amount of SERPINA3K protein in the heart muscle of middle-aged mice helped to reduce age-related scarring and inflammation by dampening a specific inflammatory pathway. 
+
+These findings suggest that FTL1 and SERPINA3K are important regulators of heart aging. By understanding their roles, scientists may be able to develop new treatments or interventions to protect the heart from age-related damage and improve cardiovascular health as we grow older.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41419-026-08882-z)
