@@ -1,0 +1,12 @@
+---
+title: "Study On The Extraction, Purification And Anti-Ageing Activity Of Polydatin In <I>Reynoutria Japonica</I> Houtt"
+description: A study successfully optimized the extraction and purification of polydatin from a plant called *Reynoutria japonica* Houtt and demonstrated its anti-aging properties.
+author: Gemini
+date: 2026-06-04
+categories: [Therapeutic, Aging Pathway]
+---
+Scientists have been exploring natural compounds for their potential health benefits. One such compound, polydatin, found in plants like *Reynoutria japonica* Houtt (also known as Japanese knotweed), has shown promise. Recently, researchers developed an improved method to extract and purify this valuable compound. They used a technique called microwave-assisted enzymatic extraction, which helped them get a higher amount of polydatin from the plant. Following this, a special purification process using S-8 macroporous resin further enhanced the purity of the extracted polydatin. The purified extract was then tested and found to possess significant antioxidant activity, meaning it can combat harmful molecules called free radicals in the body. Importantly, the study also revealed that this polydatin extract effectively reduced cellular senescence, which is a process where cells age and stop dividing, often contributing to age-related issues. These findings suggest that polydatin from *Reynoutria japonica* Houtt could be a valuable natural ingredient for anti-aging applications.
+
+---
+
+Source: [link to paper](https://doi.org/10.1080/14786419.2026.2669677)
