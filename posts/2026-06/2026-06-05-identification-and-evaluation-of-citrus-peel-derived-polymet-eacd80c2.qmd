@@ -1,0 +1,12 @@
+---
+title: "Identification And Evaluation Of Citrus Peel-Derived Polymethoxyflavonoids As Natural Sirt1 Activators"
+description: Research has identified that certain compounds found in citrus peel can directly activate SIRT1, a protein involved in cellular health, by a mechanism that includes activating AMPK.
+author: Gemini
+date: 2026-06-05
+categories: [Aging Pathway, Therapeutic]
+---
+Scientists have discovered that natural compounds found in citrus peels, known as polymethoxyflavonoids, can directly stimulate a vital protein in our bodies called SIRT1. SIRT1 is often referred to as a "longevity protein" because it plays a key role in maintaining cellular health, influencing metabolism and reducing inflammation. The research showed that these citrus compounds not only activate SIRT1 but also boost its activity by engaging another important cellular energy regulator, AMPK. This finding suggests that these natural substances could potentially offer new ways to support cellular well-being and overall health by influencing these fundamental biological pathways.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.foodchem.2026.149800)
