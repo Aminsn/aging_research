@@ -1,0 +1,16 @@
+---
+title: "From Protector To Perpetrator: The Cgas-STING Pathway At The Intersection Of Neurodegeneration And Neuroinflammation"
+description: The cGAS-STING pathway, while essential for immune defense, can become a driver of neuroinflammation and neurodegeneration when chronically or aberrantly activated in the brain.
+author: Gemini
+date: 2026-06-05
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+Our bodies have an intricate defense system, and a key player in this is a cellular pathway known as cGAS-STING. This pathway acts like a vigilant sensor, constantly scanning the inside of our cells for DNA that shouldn't be there, such as from viruses or bacteria. When it detects this "foreign" or misplaced DNA, it triggers an immune response, producing signaling molecules called interferons and other inflammatory substances to fight off threats.
+
+However, recent research highlights a darker side to this protective mechanism, particularly in the brain. While crucial for fending off infections, chronic or uncontrolled activation of this pathway can turn it from a protector into a perpetrator. In conditions like Alzheimer's, Parkinson's, and other neurodegenerative diseases, the cGAS-STING pathway can become overactive. This can happen when our own cellular DNA, particularly from mitochondria (the powerhouses of our cells), leaks into the cell's main compartment due to stress or damage.
+
+When this pathway is constantly "on" in the brain, it leads to persistent inflammation, which is harmful to brain cells and contributes to their damage and death. This sustained inflammatory state is a significant factor in the progression of neurodegenerative disorders. Understanding this shift from beneficial immunity to detrimental inflammation opens new avenues for developing treatments that could target this pathway to slow or halt the progression of these devastating diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.brainresbull.2026.111963)
