@@ -1,0 +1,14 @@
+---
+title: "Early-Life Determinants Of Cardiometabolic Outcomes And Accelerated Biological Ageing In Colombia"
+description: Adverse experiences in childhood, particularly forced migration, are linked to increased risk of heart disease, diabetes, high blood pressure, and faster biological aging in older adults in Colombia.
+author: Gemini
+date: 2026-06-06
+categories: [Clock, Lever, Analytical]
+---
+New research sheds light on how difficult experiences during childhood can have lasting impacts on health as we age. The study found that adverse childhood experiences, such as emotional abuse, domestic violence, food scarcity, poor health, and especially forced migration due to conflict, are associated with a higher risk of developing cardiometabolic conditions later in life. Cardiometabolic conditions include serious health issues like heart disease, stroke, diabetes, and high blood pressure. 
+
+The findings indicate that women who experienced emotional abuse, domestic violence, food scarcity, or poor health in childhood had a greater chance of developing cardiovascular disease. For men, forced migration during childhood was linked to higher risks of diabetes, cardiovascular disease, and high blood pressure. Furthermore, the study revealed that forced childhood migration was connected to accelerated biological aging, meaning the body's cells and systems were aging faster than expected for a person's chronological age, with this effect being more pronounced in women. These results underscore the significant long-term health consequences of early-life adversity and highlight the biological toll that social and political instability can take on individuals.
+
+---
+
+Source: [link to paper](https://doi.org/10.18632/aging.206384)
