@@ -1,0 +1,14 @@
+---
+title: "Remnant Cholesterol, Serum Uric Acid, And Biological Aging: Insights From Two Nationally Representative Cohorts"
+description: Elevated levels of serum uric acid are linked to accelerated biological aging in both American and Chinese populations.
+author: Gemini
+date: 2026-06-07
+categories: [Analytical, Aging Pathway]
+---
+Our bodies constantly undergo changes, and one fascinating area of research is "biological aging," which refers to the actual age of our cells and tissues, often differing from our chronological age. A recent study sheds light on a common substance in our blood, serum uric acid, and its connection to how quickly we biologically age. Serum uric acid is a natural byproduct formed when our bodies break down purines, which are found in many foods and are also produced by the body. 
+
+This research, drawing data from large groups of people in both the United States and China, found a significant link: higher levels of serum uric acid were consistently associated with signs of accelerated biological aging in both populations. This means that individuals with elevated uric acid levels tended to show markers indicating their bodies were aging faster than those with lower levels. Interestingly, while this link to accelerated aging was clear in both groups, the study also observed an increased risk of mortality associated with higher uric acid levels specifically in the U.S. population, but not in the Chinese cohort. These findings suggest that serum uric acid could be an important indicator of how our bodies are aging, prompting further investigation into its role in the aging process and its potential as a target for interventions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.exger.2026.113183)
