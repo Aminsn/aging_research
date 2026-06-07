@@ -1,0 +1,12 @@
+---
+title: "Gene Deletion Of Klotho In The Dentate Gyrus Does Not Affect The Number Of Adult-Born Granule Cells"
+description: The study found that removing the Klotho gene specifically in the dentate gyrus of mice temporarily reduced the number of immature neurons but did not affect the overall production or long-term survival of new adult-born granule cells.
+author: Gemini
+date: 2026-06-07
+categories: [Aging Pathway]
+---
+Our brains continue to produce new cells, a process called neurogenesis, even into adulthood. A key area for this is the dentate gyrus, a part of the hippocampus crucial for learning and memory. Scientists have been investigating factors that influence this process, including a gene known as Klotho, which is often associated with aging and longevity. This research explored what happens when the Klotho gene is specifically removed from the cells in the dentate gyrus. The findings indicate that while the absence of Klotho led to a temporary decrease in the number of newly formed, still-developing brain cells (immature neurons) during a specific window (7-17 days after their creation), it did not ultimately impact the initial creation of these new brain cells from their precursor cells (stem cell proliferation) or their ability to survive long-term. This suggests that the local presence of Klotho in this brain region is not essential for the overall generation and lasting presence of new brain cells.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41598-026-54703-w)
