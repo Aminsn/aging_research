@@ -1,0 +1,16 @@
+---
+title: "Universal Transcriptomic Hallmarks Of Mammalian Ageing And Mortality"
+description: A comprehensive study has revealed universal patterns of gene activity linked to aging and mortality across various mammalian species and tissues, enabling the creation of "clocks" that predict biological age and risk of death.
+author: Gemini
+date: 2026-06-07
+categories: [Aging Theory, Aging Pathway, Clock, Therapeutic, Lever, Analytical]
+---
+Scientists have made a significant leap in understanding how mammals age by identifying common molecular fingerprints across different species and tissues. By analyzing over 11,000 "transcriptomes" – complete sets of RNA molecules in a cell or organism that reflect gene activity – from mice, rats, macaques, and humans, researchers developed sophisticated "clocks" that can predict not just an organism's chronological age, but also its biological age and even its expected mortality.
+
+These molecular clocks are powerful tools, capable of showing how various interventions impact the aging process. For instance, they can detect when treatments slow down aging or when chronic diseases accelerate it. The research pinpointed specific biological pathways that consistently change with age and mortality. Pathways related to inflammation and immune responses tend to become more active, while those involved in energy production (like mitochondrial function) and metabolism often show reduced activity in older individuals or those with higher mortality risk.
+
+A key insight from this work is that many of the gene activity changes associated with aging are not just random wear and tear, but rather indicators of declining health. The study also identified specific genes, such as CDKN1A and LGALS3, whose activity patterns are consistently altered with age across different species and whose protein levels in human blood are linked to mortality and the presence of multiple chronic diseases. This groundbreaking research provides a universal framework for measuring and potentially targeting the aging process at the level of individual cellular components, offering new avenues for developing strategies to promote healthier and longer lives.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41586-026-10542-3)
