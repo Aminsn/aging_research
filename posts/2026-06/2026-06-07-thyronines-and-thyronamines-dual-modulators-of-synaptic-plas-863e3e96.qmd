@@ -1,0 +1,14 @@
+---
+title: "Thyronines And Thyronamines: Dual Modulators Of Synaptic Plasticity, Cognitive Decline, And Geriatric Depression In The Aging Brain"
+description: The paper investigates how naturally occurring compounds, thyronines and thyronamines, may influence brain functions related to learning, memory, and mood in the aging brain.
+author: Gemini
+date: 2026-06-07
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our brains undergo various changes that can affect our mental abilities and emotional well-being. Researchers are exploring how certain natural compounds, similar to thyroid hormones, might play a crucial role in these processes. These compounds, known as thyronines and thyronamines, appear to act as "dual modulators," meaning they can both promote and inhibit certain brain activities. They are being studied for their potential impact on how brain cells communicate, a process called synaptic plasticity. Synaptic plasticity is essential for learning and memory, as it allows the connections between brain cells to strengthen or weaken over time. 
+
+Furthermore, these compounds are being investigated for their involvement in cognitive decline, which refers to the gradual worsening of mental functions like memory and thinking that can occur with aging. Understanding their role could offer new insights into preventing or mitigating age-related memory loss. The research also delves into their connection with geriatric depression, a form of depression that affects older adults. By understanding how these natural brain chemicals influence synaptic plasticity, cognitive function, and mood in the aging brain, scientists hope to uncover new strategies for maintaining brain health and improving the quality of life for older individuals.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bbr.2026.116296)
