@@ -1,0 +1,12 @@
+---
+title: "Repeated Head Impacts Establish A Senescent Cranial Bone Marrow Niche That Impairs Brain Metabolism"
+description: Repeated mild head impacts cause the bone marrow in the skull to age prematurely, which in turn disrupts the brain's energy production and immune system.
+author: Gemini
+date: 2026-06-07
+categories: [Aging Theory, Aging Pathway]
+---
+Have you ever wondered about the long-term effects of even mild head bumps, like those experienced in sports or everyday accidents? New research sheds light on a surprising connection between these impacts and brain health. It turns out that repeated mild head injuries can cause the bone marrow located in your skull to age prematurely. This "aged" bone marrow then releases specific signaling molecules that travel to the brain. Once in the brain, these molecules disrupt how brain cells produce energy, particularly affecting the powerhouses of the cells called mitochondria. This disruption can lead to problems with the brain's overall energy supply and also impair the function of microglia, which are the brain's crucial immune cells. Essentially, this process links repeated mild head impacts to lasting issues with brain energy, a weakened brain immune system, and accelerated aging within the brain itself. Understanding this mechanism could pave the way for new strategies to protect brain health after head injuries.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s12974-026-03846-8)
