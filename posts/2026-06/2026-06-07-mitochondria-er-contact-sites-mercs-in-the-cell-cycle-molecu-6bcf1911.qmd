@@ -1,0 +1,16 @@
+---
+title: "Mitochondria-ER Contact Sites (MERCS) In The Cell Cycle: Molecular Architecture And Functional Remodeling Across Cellular States"
+description: Mitochondria-ER contact sites, which are tiny connections between the cell's powerhouses and its protein and lipid factory, dynamically change their structure and function throughout a cell's life cycle to manage energy, signaling, and stress.
+author: Gemini
+date: 2026-06-07
+categories: [Aging Pathway, Therapeutic]
+---
+Our cells are bustling cities, and within them, different compartments, called organelles, work together to keep everything running smoothly. Two particularly important organelles are mitochondria, often called the cell's powerhouses, and the endoplasmic reticulum (ER), which handles protein and lipid production. These two don't just float around independently; they form tiny, dynamic connections called contact sites.
+
+Recent research sheds light on how these contact sites are not static but constantly remodel themselves as a cell goes through its life cycle – from growing and dividing to resting or aging. These dynamic connections are crucial for coordinating essential cellular processes. For instance, they act as communication hubs, allowing for the efficient transfer of calcium signals and fats between the mitochondria and the ER. This communication is vital for regulating how mitochondria produce energy and how the cell responds to stress.
+
+During critical periods like cell division, these contact sites actually expand. This expansion is linked to an increased flow of calcium into the mitochondria, which in turn boosts the cell's energy production, providing the extra fuel needed for division. Furthermore, a specific protein called MIRO1 plays a key role in ensuring these contact sites increase in number during certain phases of the cell cycle, directly impacting the cell's energy levels and its ability to multiply. Understanding these intricate connections helps us appreciate the sophisticated ways our cells maintain balance and adapt to different demands.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s12915-026-02645-0)
