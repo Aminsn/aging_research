@@ -1,0 +1,18 @@
+---
+title: "DNA Methylation Signatures Of Atherosclerosis And Vascular-Related Outcomes In U.S. And Irish Population-Based Cohorts"
+description: DNA methylation patterns, which are chemical modifications to DNA, are linked to the presence and progression of atherosclerosis, a condition where plaque builds up in arteries, and are associated with various age-related health issues like cardiovascular disease, cognitive decline, and kidney problems across different populations.
+author: Gemini
+date: 2026-06-07
+categories: [Clock, Analytical]
+---
+Our bodies are incredibly complex, and scientists are constantly discovering new ways our genes influence our health. One fascinating area of research is epigenetics, which looks at how our environment and lifestyle can cause changes to our DNA without altering the underlying genetic code itself. One such epigenetic change is called DNA methylation, where a small chemical tag is added to our DNA, influencing how genes are turned on or off.
+
+Recent research has explored the connection between these DNA methylation patterns and atherosclerosis, a common condition where plaque builds up in our arteries, leading to serious health problems. The study found that specific patterns of DNA methylation are associated with the presence of atherosclerosis and can even predict future health outcomes.
+
+Specifically, researchers developed "scores" based on DNA methylation related to plaque in the arteries of the heart (coronary artery calcification) and neck (carotid plaque). Higher scores were linked to a less healthy metabolic profile and certain socioeconomic factors. More importantly, these methylation patterns were associated with a higher risk of cardiovascular disease, reduced cognitive function (like memory and thinking skills), and poorer kidney function.
+
+These findings suggest that by looking at these subtle chemical tags on our DNA, we might gain a better understanding of an individual's risk for age-related diseases. This could potentially lead to new ways to identify individuals at higher risk earlier, allowing for more targeted prevention strategies to maintain heart, brain, and kidney health as we age.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.05.25.26354072)
