@@ -1,0 +1,20 @@
+---
+title: "A Microrna Atlas Of The Human Prefrontal Cortex Across The Adult Lifespan"
+description: A new study has created a comprehensive map of microRNA activity in the human prefrontal cortex, a brain region crucial for thinking and memory, across the entire adult lifespan, identifying specific microRNAs that change significantly with age.
+author: Gemini
+date: 2026-06-08
+categories: [Aging Pathway, Analytical]
+---
+Our brains undergo remarkable changes as we age, impacting our cognitive abilities and increasing our susceptibility to conditions like Alzheimer's. To better understand these age-related shifts, scientists are looking at tiny molecules called microRNAs, or miRNAs. These small molecules play a big role in controlling which genes are turned on or off in our cells, essentially acting as master regulators of cellular processes.
+
+Recently, researchers embarked on an ambitious project to map the activity of these miRNAs in a critical part of the human brain: the dorsolateral prefrontal cortex. This area is vital for complex thought, decision-making, and memory, and it's particularly vulnerable to the effects of aging.
+
+By analyzing brain samples from individuals ranging from 18 to 100 years old using a technique called small RNA sequencing, the team built a detailed "atlas" of miRNA expression across the adult lifespan. Their findings revealed a progressive remodeling of miRNA expression patterns as people age, with the most striking differences observed when comparing younger and older individuals.
+
+One of the most significant discoveries was the robust increase of a specific miRNA, miR-34a-5p, in the aged brain. Other miRNAs, including miR-155-5p, miR-132-3p, miR-212-3p, miR-449a, and members of the miR-302 family, also showed notable age-associated changes.
+
+This comprehensive atlas provides an invaluable resource for the scientific community. It lays the groundwork for future investigations into how the disruption of these small regulatory molecules contributes to the aging process in the human brain and its vulnerability to neurodegenerative diseases. Understanding these intricate molecular networks could pave the way for new strategies to maintain brain health as we grow older.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.05.27.728239)
