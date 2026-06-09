@@ -1,0 +1,16 @@
+---
+title: "Misplaced Nucleic Acids As A Trigger Of Coagul-Aging"
+description: The accumulation of misplaced genetic material in the body as people age contributes to both chronic inflammation and an increased tendency for blood clotting.
+author: Gemini
+date: 2026-06-09
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+As we get older, our bodies undergo many changes, some of which can increase our risk of various diseases. Recent research sheds light on a fascinating connection between aging, inflammation, and blood clotting. It turns out that tiny fragments of genetic material, like DNA and RNA, that are normally kept safely inside our cells, can end up "misplaced" outside of them as we age. 
+
+This accumulation happens for a couple of reasons: our body's clean-up systems become less efficient at getting rid of these fragments, and older, "senescent" cells (cells that have stopped dividing but remain in the body) can actively release them. Once outside the cells, these misplaced genetic fragments act like alarm signals, triggering our immune system. They are recognized by special sensors in our cells, leading to a low-grade, chronic inflammation throughout the body, a phenomenon often called "inflammaging."
+
+But that's not all. These same misplaced genetic fragments also directly activate our blood clotting system. They can kickstart a process that leads to the formation of thrombin and fibrin, key components of blood clots. This dual action—triggering both inflammation and coagulation—creates a dangerous cycle that contributes to what scientists call "coagul-aging," an age-related shift towards a pro-clotting state. Understanding this intricate link between misplaced genetic material, inflammation, and blood clotting could pave the way for new strategies to combat age-related diseases like heart attacks and strokes.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.arr.2026.103190)
