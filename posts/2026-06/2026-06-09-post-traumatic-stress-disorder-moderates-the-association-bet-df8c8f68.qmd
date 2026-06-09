@@ -1,0 +1,12 @@
+---
+title: "Post-Traumatic Stress Disorder Moderates The Association Between Brainage Acceleration And Grimage Acceleration"
+description: Individuals with post-traumatic stress disorder exhibit accelerated biological aging, and the disorder influences the relationship between brain aging and overall biological aging.
+author: Gemini
+date: 2026-06-09
+categories: [Clock, Analytical]
+---
+Our bodies and brains don't always age at the same rate as our chronological years. Scientists can now estimate a person's "brain age" from brain scans, seeing if their brain appears older or younger than expected. Similarly, "biological age" can be measured by looking at changes in our DNA, which can give clues about our overall health and how long we might live. This research reveals that individuals experiencing post-traumatic stress disorder (PTSD) tend to show signs of accelerated aging in both their brains and their bodies. Furthermore, the presence of PTSD actually changes how these two measures of aging are connected. This suggests that PTSD doesn't just affect mental well-being, but also has a profound impact on our physical aging process, potentially contributing to the increased health risks often seen in those with the disorder. Understanding these links could pave the way for new approaches to support the long-term health of individuals affected by trauma.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.neurobiolaging.2026.05.010)
