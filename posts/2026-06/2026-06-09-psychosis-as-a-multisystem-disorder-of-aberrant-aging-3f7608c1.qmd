@@ -1,0 +1,18 @@
+---
+title: "Psychosis As A Multisystem Disorder Of Aberrant Aging"
+description: Psychotic disorders, including schizophrenia, are increasingly understood as conditions where the body and brain age at an accelerated rate, leading to a significantly reduced life expectancy.
+author: Gemini
+date: 2026-06-09
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+It's a common understanding that mental health conditions primarily affect the mind. However, emerging research is challenging this narrow view, particularly concerning conditions like psychosis, which affects about 3% of the population and often begins in early adulthood. We're learning that these disorders aren't just about brain chemistry; they involve the entire body, leading to a phenomenon known as "accelerated aging."
+
+Imagine your body's biological clock ticking faster than it should. That's essentially what happens in individuals with psychosis. This accelerated aging contributes to a significant gap in life expectancy, sometimes as much as 20 years, largely due to a higher risk of age-related health problems like heart disease and metabolic conditions. This isn't simply due to lifestyle choices or medication side effects; underlying biological processes are at play.
+
+Scientists are finding evidence of widespread issues such as chronic inflammation, problems with metabolism (how the body uses energy), and dysfunction in mitochondria (the powerhouses of our cells). These are all processes typically associated with aging, but they appear prematurely and more intensely in people with psychosis. Crucially, these changes are observed not just in the brain but across multiple bodily systems, and often even before any treatment has begun.
+
+This new perspective is a game-changer. By recognizing psychosis as a disorder of accelerated aging affecting the entire body, we can develop new strategies. Instead of solely focusing on mental symptoms, interventions could also target these aging processes, aiming to improve overall health, extend lifespan, and enhance the quality of life for those living with these challenging conditions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41514-026-00409-2)
