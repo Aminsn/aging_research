@@ -1,0 +1,16 @@
+---
+title: "Single-Nucleus Profiling Reveals A BBB Senescence Unit Driving AD Pathology In Human Brain"
+description: A new study has identified a group of aging cells at the blood-brain barrier, termed the "BBB senescence unit," that plays a critical role in driving the pathology of Alzheimer's disease in the human brain.
+author: Gemini
+date: 2026-06-11
+categories: [Aging Pathway, Analytical]
+---
+Our brains are protected by a highly selective filter called the blood-brain barrier (BBB), which controls what enters and leaves the brain. In diseases like Alzheimer's, this barrier can become compromised. Recent research has shed light on a key player in this breakdown: "senescent" cells. These are cells that have stopped dividing but remain active, often releasing harmful inflammatory signals.
+
+Using a sophisticated technique called single-nucleus RNA sequencing, which allows scientists to examine gene activity in individual cell nuclei, researchers analyzed human brain samples. They discovered a coordinated "BBB senescence unit" made up of several types of brain cells, including astrocytes (star-shaped support cells), pericytes (cells that wrap around blood vessels), microglia (the brain's immune cells), and T cells (another type of immune cell).
+
+Within this unit, these senescent cells exhibit inflammatory signaling and ineffective repair responses. A crucial discovery was the identification of a specific communication pathway, the SPP1-CD44 axis, as central to this aging process in the BBB. This pathway creates a self-sustaining inflammatory loop, where a protein called SPP1 is elevated in aging microglia, and its receptor, CD44, is increased in aging astrocytes. This continuous inflammatory cycle contributes significantly to the progression of Alzheimer's disease. These findings highlight cellular aging as a critical factor in Alzheimer's and offer new avenues for developing treatments that could target these specific cellular pathways.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s12035-026-05956-z)
