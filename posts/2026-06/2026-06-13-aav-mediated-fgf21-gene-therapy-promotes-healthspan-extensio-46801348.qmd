@@ -1,0 +1,18 @@
+---
+title: "AAV-Mediated Fgf21 Gene Therapy Promotes Healthspan Extension By Whole-Body Tissue-Specific Adaptations"
+description: A gene therapy using adeno-associated viruses to deliver the FGF21 gene extended health and lifespan and reversed age-related decline in mice.
+author: Gemini
+date: 2026-06-13
+categories: [Therapeutic, Aging Pathway]
+---
+Scientists have explored a novel approach to combat the effects of aging by utilizing a gene therapy that introduces a specific hormone into the body. This hormone, called Fibroblast Growth Factor 21 (FGF21), is naturally involved in regulating how our bodies use energy and maintain metabolic balance.
+
+The therapy involves using a modified, harmless virus, known as an adeno-associated virus (AAV), as a delivery system. This AAV carries the genetic instructions for producing FGF21 directly into muscle cells. In a recent study, this treatment was administered to older mice.
+
+The results were quite remarkable: the treated mice showed a sustained increase in FGF21 levels in their bloodstream, which led to an extension of both their healthy years and overall lifespan. Beyond just living longer, the mice also experienced a reversal of several common age-related problems, including resistance to insulin (a precursor to diabetes), unwanted weight gain, and a decline in both muscle strength and cognitive abilities. The therapy even influenced gene activity in key organs involved in metabolism and in the brain.
+
+These findings suggest that this gene therapy holds significant promise as a potential strategy to promote healthier aging in the future.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.ymthe.2026.05.025)
