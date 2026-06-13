@@ -1,0 +1,16 @@
+---
+title: "Time-Restricted Feeding Rejuvenates Cerebrovascular Function And Preserves Cognition During Aging"
+description: Time-restricted feeding has been shown to improve the health of blood vessels in the brain and preserve cognitive function during aging in mice.
+author: Gemini
+date: 2026-06-13
+categories: [Lever, Aging Pathway]
+---
+As we age, our thinking abilities can decline, and a major factor in this is the health of the tiny blood vessels in our brains. These vessels are crucial for delivering oxygen and nutrients, and when they don't function well, it can impact memory and other cognitive skills. Recent research has explored a promising lifestyle intervention: time-restricted eating, where food consumption is limited to specific hours of the day. 
+
+This approach has been found to significantly benefit brain health. It helps to rejuvenate the brain's blood vessel system, improving how blood flows to different areas of the brain. This includes enhancing "neurovascular coupling," which is the brain's ability to increase blood supply to active regions, ensuring they get the energy they need. The intervention also reduces inflammation in the brain and strengthens the "blood-brain barrier," a protective shield that prevents harmful substances from entering the brain. 
+
+At a deeper level, time-restricted eating works by making brain cells more efficient at using energy, a concept known as "metabolic flexibility." It also boosts the function of mitochondria, often called the powerhouses of our cells, within the brain's blood vessel lining. These improvements are partly linked to the production of "ketone bodies," which are molecules generated during fasting that provide an alternative fuel source for the brain. These findings suggest that simply adjusting *when* we eat could be a powerful strategy to maintain a healthy brain and sharp cognitive abilities as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.21203/rs.3.rs-9520035/v1)
