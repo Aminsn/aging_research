@@ -1,0 +1,18 @@
+---
+title: "Suppression Of Senescent Metabolism Of Adipose Tissue By Rebalancing Mitochondrial Homeostasis Via A Selective Drug Delivery System"
+description: A new targeted drug delivery system effectively suppresses aging-related metabolic dysfunction in fat tissue and improves physical performance in aged mice by restoring cellular energy balance.
+author: Gemini
+date: 2026-06-13
+categories: [Therapeutic, Aging Pathway]
+---
+As we age, our bodies undergo various changes, and one significant factor contributing to this decline is the accumulation of "senescent cells" – often called zombie cells – particularly in our fat tissue. These cells don't function properly and release harmful substances, leading to inflammation and metabolic problems throughout the body.
+
+To combat this, scientists have developed an innovative approach using tiny, naturally occurring sacs called extracellular vesicles. These vesicles are like microscopic delivery trucks, and in this research, they were specially modified with a "P3 peptide" to ensure they specifically target and deliver their cargo to aged fat tissue.
+
+Inside these targeted vesicles are two well-known compounds, dasatinib and quercetin, which work together to eliminate these problematic senescent cells. By precisely delivering these compounds, the system helps to rebalance the energy-producing powerhouses within cells, known as mitochondria, and reduces the release of inflammatory signals from senescent cells.
+
+Laboratory studies showed that this system successfully halted the aging process in fat cells and restored their normal functions. When tested in aged mice, the treatment led to noticeable improvements in their physical activity and overall metabolic health, while also reducing the signs of aging in their fat tissue. This breakthrough offers a promising new direction for developing anti-aging therapies that can precisely target specific tissues or organs to promote healthier aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s12951-026-04594-w)
