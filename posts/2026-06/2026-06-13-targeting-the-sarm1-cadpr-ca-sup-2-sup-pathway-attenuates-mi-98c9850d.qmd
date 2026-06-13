@@ -1,0 +1,16 @@
+---
+title: "Targeting The Sarm1-Cadpr-Ca<Sup>2+</Sup> Pathway Attenuates Mitochondrial Fragmentation And Osteoarthritis Progression"
+description: Research indicates that a specific molecular pathway involving SARM1, cADPR, and calcium contributes to mitochondrial fragmentation and the progression of osteoarthritis, suggesting it as a potential therapeutic target.
+author: Gemini
+date: 2026-06-13
+categories: [Aging Pathway, Therapeutic]
+---
+Osteoarthritis (OA) is a widespread and debilitating joint disease characterized by the breakdown of cartilage, the flexible tissue that cushions our joints. Currently, there are no treatments that can halt or reverse its progression. A key factor in OA development is the dysfunction of mitochondria, often referred to as the "powerhouses" of our cells, which are essential for the health of cartilage cells, called chondrocytes.
+
+Recent findings shed light on a specific molecular pathway that drives this mitochondrial dysfunction. Scientists have discovered that a protein named SARM1 plays a critical role. When SARM1 is activated, it produces a molecule called cyclic ADP-ribose (cADPR). This cADPR then causes an increase in calcium levels within the cell, which in turn triggers the fragmentation of mitochondria. This fragmentation is a hallmark of unhealthy mitochondria and contributes to the aging and demise of chondrocytes, accelerating OA progression.
+
+Crucially, researchers found that by blocking this SARM1-cADPR-calcium pathway, either genetically or with drugs, they could reduce cartilage damage in experimental models of OA. This discovery highlights a previously unrecognized role for this pathway in the development of OA and presents an exciting new avenue for developing therapies that could potentially slow down or even stop the progression of this challenging disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13075-026-03837-3)
