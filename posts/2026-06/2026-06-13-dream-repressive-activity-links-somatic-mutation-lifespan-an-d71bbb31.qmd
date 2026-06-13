@@ -1,0 +1,18 @@
+---
+title: "DREAM Repressive Activity Links Somatic Mutation, Lifespan And Disease"
+description: The activity of a protein complex called DREAM, which represses DNA repair, significantly influences the accumulation of DNA changes in body cells, thereby impacting an organism's lifespan and its susceptibility to age-related diseases.
+author: Gemini
+date: 2026-06-13
+categories: [Aging Theory, Aging Pathway, Therapeutic, Analytical]
+---
+Scientists have long sought to understand the fundamental mechanisms driving aging and age-related diseases. Recent research points to a crucial player: a group of proteins known as the DREAM complex. This complex acts like a cellular "brake system," specifically by shutting down genes responsible for repairing DNA damage.
+
+When this "brake" is heavily applied, meaning the DREAM complex is highly active, the body's ability to fix errors in its genetic code is reduced. This leads to a faster accumulation of what are called somatic mutations—changes in the DNA of body cells that build up over a lifetime. These accumulated mutations are strongly linked to the aging process and the development of various diseases.
+
+Studies have shown compelling connections: in mice, lower activity of this protein complex resulted in fewer somatic mutations. Looking across the animal kingdom, species with naturally lower activity of this complex tended to live significantly longer. Furthermore, in individuals with Alzheimer's disease, reduced activity of this complex was associated with a later onset of the disease and a decreased risk of severe brain pathology. Even genetically modifying mice to reduce the complex's activity protected them from accumulating these harmful DNA changes.
+
+These findings suggest that modulating the activity of this protein complex could be a promising avenue for future therapies aimed at slowing down aging and preventing age-related diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s43587-026-01132-z)
