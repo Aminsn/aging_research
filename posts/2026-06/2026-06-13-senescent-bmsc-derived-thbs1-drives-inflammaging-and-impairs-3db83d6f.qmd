@@ -1,0 +1,18 @@
+---
+title: "Senescent BMSC-Derived Thbs1 Drives Inflammaging And Impairs Bone Regeneration By Suppressing Pink1/Parkin-Mediated Mitophagy In Macrophages"
+description: A protein released by aging bone marrow cells promotes inflammation and hinders bone repair by disrupting the cellular waste removal system in immune cells.
+author: Gemini
+date: 2026-06-13
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our bone marrow environment can become chronically inflamed, a process called "inflammaging," which makes it harder for bones to heal. Scientists have discovered a key player in this process: a protein called thrombospondin-1 (Thbs1), which is released by older bone marrow stem cells.
+
+This Thbs1 protein acts on immune cells called macrophages, pushing them into a pro-inflammatory state. It does this by interfering with a vital cellular cleanup process known as mitophagy, which is responsible for removing damaged mitochondria (the powerhouses of the cell). When mitophagy is suppressed, damaged mitochondria accumulate, leading to oxidative stress and further inflammation.
+
+This creates a harmful cycle: the inflamed macrophages then release signals that further impair the ability of bone stem cells to form new bone. Essentially, the aging bone environment gets caught in a self-perpetuating loop of inflammation and poor bone regeneration.
+
+Crucially, when researchers reduced the levels of Thbs1 in aged rats, they observed improved mitochondrial health, a shift in macrophages to a more beneficial state, and significantly better bone repair. These findings highlight a specific molecular pathway that contributes to age-related bone issues and suggest that targeting Thbs1 could be a promising strategy for developing new treatments to improve bone regeneration in older individuals.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/acel.70575)
