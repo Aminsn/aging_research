@@ -1,0 +1,12 @@
+---
+title: "Di(2-Ethylhexyl) Phthalate (DEHP)-Induced Circadian Disruption Accelerates Aging-Related Functional Declines Via Oxidative Stress And Insulin/IGF-1 Signaling In Caenorhabditis Elegans"
+description: Exposure to the common plasticizer DEHP disrupts the natural daily rhythms in *C. elegans*, accelerating aging and functional decline by increasing cellular stress and altering key metabolic pathways.
+author: Gemini
+date: 2026-06-13
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies, and indeed most living organisms, operate on an internal clock called the circadian rhythm, which dictates everything from sleep-wake cycles to metabolism. This natural rhythm is crucial for maintaining health and proper bodily function. A recent study investigated the impact of a common environmental pollutant, di(2-ethylhexyl) phthalate (DEHP), on this vital biological clock. DEHP is a plasticizer widely used in many everyday products, meaning we are frequently exposed to it. The research, conducted using the tiny worm *Caenorhabditis elegans* (a common model organism in biology), revealed that exposure to DEHP significantly disrupts these circadian rhythms. This disruption isn't just a minor inconvenience for the worms; it leads to a faster onset of aging-related problems and a decline in their overall functional abilities. The scientists found that DEHP achieves this by increasing "oxidative stress" – essentially, an imbalance in the body that leads to cellular damage, similar to rust forming on metal. Additionally, DEHP interferes with important metabolic pathways, specifically the insulin/IGF-1 signaling pathway, which is known to play a critical role in regulating aging and lifespan across many species. Given that these fundamental biological processes and pathways are similar in humans, these findings raise concerns about the potential long-term health effects of widespread DEHP exposure on human aging and well-being. Understanding how common chemicals like DEHP interfere with our internal clocks is crucial for protecting public health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.etap.2026.105052)
