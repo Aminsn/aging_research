@@ -1,0 +1,16 @@
+---
+title: "Cpg Atlas: A Centralized Multi-Layer Database And AI Interface For DNA Methylation Research"
+description: A new centralized database and AI interface integrates diverse DNA methylation data from over a million specific DNA locations to streamline epigenetics research.
+author: Gemini
+date: 2026-06-14
+categories: [Analytical, Clock, Aging Theory]
+---
+Imagine tiny chemical tags on your DNA that act like switches, turning genes on or off. This process, called DNA methylation, plays a crucial role in health and disease, from aging to cancer. Researchers have gathered a vast amount of information about these tags, specifically at locations on the DNA called CpG sites. However, this valuable data has been scattered across many different sources, making it difficult for scientists to piece together a complete picture.
+
+To solve this challenge, a new comprehensive resource has been developed. This centralized database brings together 18 different types of information about over 1.2 million CpG sites, covering data from various generations of DNA methylation measurement technologies. It consolidates a wealth of knowledge, including how these DNA tags are associated with different traits and diseases, their role in "epigenetic clocks" (tools that estimate biological age based on methylation patterns), and details about the reliability of measurements. It also includes specialized data like tissue-specific methylation patterns and connections to hallmarks of aging and cancer.
+
+This resource is designed to be incredibly user-friendly, featuring an interactive web tool and an artificial intelligence interface that allows users to ask complex questions using everyday language. This means researchers can quickly access and analyze diverse data, accelerating the discovery of new biological insights and the development of biomarkers—biological indicators that can help diagnose or predict diseases. By providing a unified and easily accessible platform, this initiative aims to foster collaborative research and advance our understanding of how DNA methylation impacts human health.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.05.30.729020)
