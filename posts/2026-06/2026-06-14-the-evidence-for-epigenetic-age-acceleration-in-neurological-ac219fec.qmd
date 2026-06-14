@@ -1,0 +1,16 @@
+---
+title: "The Evidence For Epigenetic Age Acceleration In Neurological Disease: A Systematic Review"
+description: Epigenetic clocks, which measure biological age through chemical changes on DNA, show promise in understanding and managing neurodegenerative diseases like Alzheimer's and Parkinson's.
+author: Gemini
+date: 2026-06-14
+categories: [Clock, Analytical]
+---
+Our bodies age at different rates, and scientists have developed "epigenetic clocks" to measure this biological age, which can sometimes be older or younger than our actual years. These clocks work by looking at tiny chemical tags, called methyl groups, that attach to our DNA. These tags don't change our genetic code, but they can influence which genes are active or inactive, and their patterns change predictably as we get older.
+
+Recent research has explored how these biological age markers relate to serious brain conditions like Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis (ALS), and Huntington's disease. By systematically reviewing existing studies, researchers have found that when someone's biological age appears "accelerated" compared to their chronological age, it can be linked to these neurological disorders. This acceleration might offer clues about who is at higher risk, when a disease might begin, and how it could progress.
+
+These findings suggest that epigenetic clocks could become valuable tools. They might help us identify risk factors earlier, improve diagnosis, track the severity of a disease, predict its course, and even shed light on the fundamental biological processes driving these conditions. While more research is needed, the potential for these biological age measurements to transform our understanding and management of neurodegenerative diseases is significant.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.arr.2026.103201)
