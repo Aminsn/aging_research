@@ -1,0 +1,18 @@
+---
+title: "Age-Related Loss Of Y Chromosome Is Associated With Mortality After ST-Segment Elevation Myocardial Infarction"
+description: The age-related loss of the Y chromosome in some blood cells of men is linked to a higher risk of death following a severe type of heart attack.
+author: Gemini
+date: 2026-06-14
+categories: [Clock, Analytical]
+---
+As men get older, some of their blood cells can lose the Y chromosome, a phenomenon known as mosaic loss of Y chromosome (LOY). This isn't something inherited, but rather an acquired change that becomes more common with age. Recent research has shed light on a significant consequence of this cellular change, particularly for men who experience a severe type of heart attack called ST-segment elevation myocardial infarction (STEMI).
+
+The study found that men with a notable loss of the Y chromosome in their blood cells face a higher risk of dying after a STEMI. Specifically, those with a higher percentage of cells missing the Y chromosome showed increased rates of both overall mortality and death due to cardiovascular issues, especially fatal heart attacks.
+
+So, how does this happen? It appears that blood cells lacking the Y chromosome release more signaling molecules that contribute to inflammation and the formation of scar tissue in the heart. This process can negatively impact heart function and recovery after a heart attack.
+
+These findings suggest that measuring the extent of Y chromosome loss in a man's blood could serve as an important indicator to identify those at a higher risk of adverse outcomes after a STEMI. This could pave the way for more personalized medical approaches, allowing doctors to better assess risk and potentially tailor treatments for men based on their individual cellular profile.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s43856-026-01697-1)
