@@ -1,0 +1,16 @@
+---
+title: "Progerin-Induced Nuclear Envelope Remodeling Is Shaped By Cell Division And Nup153"
+description: Research reveals that the abnormal shaping of the cell's inner membrane, caused by the progerin protein linked to premature aging, happens in two distinct steps, with cell division playing a crucial role in the development of severe nuclear deformities.
+author: Gemini
+date: 2026-06-15
+categories: [Aging Theory, Aging Pathway]
+---
+Our cells contain a nucleus, which is like the cell's control center, housing our genetic material. This nucleus is protected by a double-layered membrane called the nuclear envelope. In a rare genetic disorder called Hutchinson-Gilford Progeria Syndrome (HGPS), which causes accelerated aging, a faulty protein named progerin leads to severe problems with this protective envelope.
+
+Scientists have now uncovered that the damage caused by progerin unfolds in a fascinating two-step process. Initially, before a cell divides, progerin primarily affects the inner layer of the nuclear envelope. It causes this inner layer to expand and fold inward, forming unusual multi-layered structures. These specific areas where progerin accumulates are also rich in a protein called NUP153, which is typically involved in forming pores in the nuclear envelope, but surprisingly, these areas lack the actual pores themselves.
+
+The real transformation, however, happens after the cell undergoes division and rebuilds its nuclear envelope. It's at this point that the nucleus develops the characteristic severe, irregular shapes and folds, known as lobulations, that are a hallmark of HGPS. Furthermore, the research suggests that NUP153 isn't just passively present; it actively helps in forming or stabilizing those initial inward folds of the inner nuclear membrane. Understanding this step-by-step process helps us grasp how aging-related cellular changes might differ in cells that divide frequently versus those that don't.
+
+---
+
+Source: [link to paper](https://doi.org/10.1242/jcs.264678)
