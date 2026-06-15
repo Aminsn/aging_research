@@ -1,0 +1,12 @@
+---
+title: "In Vivo Single-Cell Ribosome Profiling Reveals Cell-Type-Specific Translational Programs During Aging"
+description: Aging leads to distinct changes in protein production within specific skin stem cells, which impacts how these cells behave.
+author: Gemini
+date: 2026-06-15
+categories: [Aging Pathway, Analytical]
+---
+Our bodies are constantly making proteins, the workhorses of our cells, based on instructions from our genes. This process, called protein synthesis or translation, is crucial for all life. While we know that aging affects many cellular processes, how it specifically changes protein synthesis in individual cells within living tissues has been a mystery. Researchers have now developed a groundbreaking technique that allows them to observe protein production in single cells directly within a living organism, like a mouse. This advanced method, known as single-cell ribosome profiling, essentially takes a snapshot of all the proteins being made in each cell at a given moment. Using this innovative approach, scientists investigated how aging impacts the protein-making machinery in skin stem cells. These are special cells in our skin responsible for repair and regeneration. They discovered that as skin stem cells age, there are distinct and specific changes in their protein production patterns. Notably, the production of certain regulatory proteins, called AP-1 subunits, was significantly altered in older skin stem cells. These changes in protein synthesis were found to directly influence the behavior of other skin cells, called keratinocytes, which are vital for skin health and wound healing. This new technology provides an unprecedented view into the molecular changes that occur during aging at a cellular level. It not only sheds light on how aging affects our skin's regenerative capacity but also offers a powerful tool for future research into various diseases and biological processes.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.molcel.2026.04.017)
