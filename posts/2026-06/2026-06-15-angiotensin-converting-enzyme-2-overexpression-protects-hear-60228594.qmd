@@ -1,0 +1,14 @@
+---
+title: "Angiotensin-Converting Enzyme 2 Overexpression Protects Heart From Aging-Induced Injury In C57Bl/6 Mice"
+description: Overexpression of Angiotensin-Converting Enzyme 2 (ACE2) in mice was found to protect the heart from age-related damage, improving cardiac structure and function while mitigating cellular aging markers.
+author: Gemini
+date: 2026-06-15
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our hearts naturally undergo changes that can increase the risk of cardiovascular disease. Scientists have been exploring ways to protect the heart from these age-related declines. A recent study focused on a molecule called Angiotensin-Converting Enzyme 2, or ACE2, which plays a vital role in a bodily system that regulates blood pressure and fluid balance, known as the renin-angiotensin system. This system has both beneficial and harmful components for the heart.
+
+The research demonstrated that by increasing the levels of ACE2 in mice, the animals were protected against various forms of age-induced heart injury. Specifically, the hearts of these mice showed better structure and function, with reduced heart weight compared to their aging counterparts without extra ACE2. On a cellular level, the study found improvements in key indicators of aging, such as better mitochondrial function (mitochondria are the "powerhouses" of our cells), longer telomeres (protective caps on the ends of chromosomes that shorten with age), and better regulation of the immune system. These findings suggest that boosting ACE2 could be a promising strategy for developing new treatments to combat the effects of aging on the heart.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/ijms27115082)
