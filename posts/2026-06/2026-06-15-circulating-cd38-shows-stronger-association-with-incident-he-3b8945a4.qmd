@@ -1,0 +1,12 @@
+---
+title: "Circulating Cd38 Shows Stronger Association With Incident Heart Failure In Women Despite Lower Levels: Sex Differences And Kidney-Function Context"
+description: A study found that higher levels of circulating CD38 are more strongly linked to new cases of heart failure in women, even though women tend to have lower overall CD38 levels than men.
+author: Gemini
+date: 2026-06-15
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+Scientists have been exploring the role of a molecule called CD38, an enzyme known to be involved in aging and metabolic stress, and its connection to heart health. CD38 can deplete NAD+, a crucial molecule for cellular energy, which in turn can contribute to heart dysfunction. This recent research aimed to understand if the amount of CD38 circulating in the blood is associated with the development of new heart failure cases, whether this link differs between men and women, and how kidney function plays a role. The study, which analyzed plasma CD38 levels in over 42,000 participants, revealed a significant finding: the association between circulating CD38 and incident heart failure was notably stronger in women. This was observed despite women generally having lower CD38 levels compared to men. Interestingly, kidney function, measured by eGFR, was found to be a key factor. After accounting for kidney function, the association between CD38 and heart failure remained positive in women but became inverse in men. The researchers also noted that the link between CD38 and heart failure was less pronounced after adjusting for other biomarkers, suggesting that CD38 might share statistical connections with other indicators of disease rather than being a direct cause.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13293-026-00924-7)
