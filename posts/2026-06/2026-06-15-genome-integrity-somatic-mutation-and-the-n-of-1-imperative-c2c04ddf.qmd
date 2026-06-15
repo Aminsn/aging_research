@@ -1,0 +1,16 @@
+---
+title: "Genome Integrity, Somatic Mutation, And The N-Of-1 Imperative In Aging Research"
+description: The paper advocates for an "N-of-1" framework in aging research, emphasizing the importance of individual-specific genome integrity and the accumulation of somatic mutations in understanding the unique aging trajectories of each person.
+author: Gemini
+date: 2026-06-15
+categories: [Aging Theory, Analytical]
+---
+Aging is a complex process, and while much research focuses on population-level trends, a new perspective suggests we should look closer at the individual. Imagine your body as a collection of many different parts, each with its own unique story of aging. This is the essence of "mosaic aging," where cells, tissues, and organs within a single person can age at different rates.
+
+At the heart of this individual aging story are "somatic mutations." These are changes in our DNA that occur in body cells throughout our lives, unlike inherited mutations. As we age, these mutations accumulate, and how well our "genome integrity"—the overall health and stability of our DNA—is maintained plays a crucial role. The idea is that by tracking these individual-specific mutations and the state of our genome over time, we can get a much clearer picture of why some individuals experience certain age-related vulnerabilities or diseases.
+
+This "N-of-1 imperative" means shifting our focus from broad averages to the unique genetic journey of each person. By understanding these individual variations in how our DNA changes and is maintained, we can move towards more personalized approaches in medicine and gain deeper insights into the aging process itself.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s10522-026-10451-y)
