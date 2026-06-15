@@ -1,0 +1,18 @@
+---
+title: "Isoflavonoids From Iris Albicans As A Carbon Source To Enhance The Anti-Aging Potential Of Lactic Acid Bacteria-Derived Postbiotics"
+description: A recent study revealed that compounds from the Iris albicans plant can serve as a nutrient source for beneficial bacteria, leading to the production of substances with enhanced anti-aging properties.
+author: Gemini
+date: 2026-06-15
+categories: [Therapeutic, Aging Pathway]
+---
+As we age, our bodies undergo various changes, and scientists are constantly exploring new ways to support healthy aging. One exciting area of research involves "postbiotics," which are beneficial compounds produced by good bacteria. Unlike live probiotics, postbiotics are essentially the non-living parts or byproducts of these microbes, offering health benefits without needing live bacteria, making them a stable and safe option.
+
+A new study has shed light on how certain plant compounds can boost the anti-aging potential of these postbiotics. Researchers found that extracts and natural compounds, called isoflavonoids, from the *Iris albicans* plant can be used as a food source by specific lactic acid bacteria, particularly a strain called *Limosilactobacillus reuteri* MSD37. Isoflavonoids are natural plant compounds known for their health-promoting properties, including antioxidant effects.
+
+When these bacteria consume the *Iris albicans* compounds, the resulting postbiotics show significantly enhanced anti-aging capabilities. These include strong antioxidant activity, which helps protect our cells from damage caused by harmful molecules, and antiglycation activity, which helps prevent a process where sugars bind to proteins, contributing to aging and age-related diseases. The postbiotics were observed to preserve important cellular components, reduce protein damage, and inhibit the harmful interactions between Advanced Glycation End products (AGEs) and their receptors (RAGE), which are implicated in inflammation and cellular damage associated with aging.
+
+Furthermore, these enhanced postbiotics also demonstrated a high "prebiotic activity," meaning they can promote the growth of other beneficial bacteria. This discovery suggests that utilizing plant-derived nutrients like those from *Iris albicans* could be a promising strategy for developing new products to support healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41598-026-52823-x)
