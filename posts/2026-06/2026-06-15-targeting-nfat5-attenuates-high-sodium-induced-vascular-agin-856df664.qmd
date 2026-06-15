@@ -1,0 +1,12 @@
+---
+title: "Targeting Nfat5 Attenuates High Sodium-Induced Vascular Aging By Re-Sensitizing Senescent Smooth Muscle Cells To Apoptosis"
+description: Targeting the protein NFAT5 can reduce vascular aging caused by high sodium by making aged smooth muscle cells more susceptible to programmed cell death.
+author: Gemini
+date: 2026-06-15
+categories: [Aging Pathway, Therapeutic]
+---
+Our blood vessels naturally age, a process that can be sped up by factors like a diet high in salt. This accelerated aging, known as vascular aging, involves certain cells in our blood vessels, called smooth muscle cells, becoming 'senescent' or aged. These senescent cells resist natural cell death, contributing to the problem. A recent study explores how manipulating a specific protein, NFAT5, can help. By targeting NFAT5, researchers found a way to make these aged smooth muscle cells more responsive to apoptosis, which is the body's natural process for removing old or damaged cells. This re-sensitization to cell death helps to reduce the overall vascular aging effect caused by excessive sodium, offering a potential new strategy to combat age-related blood vessel issues.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.cellsig.2026.112641)
