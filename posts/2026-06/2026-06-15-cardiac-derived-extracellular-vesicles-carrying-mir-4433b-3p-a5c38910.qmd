@@ -1,0 +1,12 @@
+---
+title: "Cardiac-Derived Extracellular Vesicles Carrying Mir-4433B-3P Accelerate Cognitive Decline And Brain Aging By Suppressing Tp53Inp2-Mediated Neuronal Autophagy In Mice"
+description: Heart-derived tiny sacs carrying a specific microRNA accelerate brain aging and cognitive decline in mice by interfering with a cellular cleanup process in brain cells.
+author: Gemini
+date: 2026-06-15
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+Our bodies are constantly communicating, and sometimes, messages from one organ can impact another in unexpected ways. Recent research sheds light on how signals from the heart might influence brain health and aging. It appears that tiny packages released by heart cells, called extracellular vesicles, carry specific genetic material, in this case, a microRNA known as miR-4433b-3p. When these heart-derived packages reach the brain, they seem to disrupt a vital cellular process in neurons, the brain's cells, called autophagy. Autophagy is essentially the cell's recycling system, clearing out damaged components and maintaining cell health. By suppressing a key protein involved in this cleanup process, these heart signals can accelerate brain aging and lead to a decline in cognitive abilities. This discovery, observed in mice, suggests a novel pathway through which heart health could directly impact brain function and offers new avenues for understanding and potentially treating age-related cognitive issues.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s42003-026-10332-7)
