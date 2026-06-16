@@ -1,0 +1,16 @@
+---
+title: "Regulation Of Huntingtin-Polyq Aggregation By Glucose Transporters And Saccharide-Binding Receptors During Aging In Drosophila"
+description: A study in fruit flies revealed that glucose transporters and sugar-sensing receptors play a crucial role in controlling the clumping of a problematic protein associated with neurodegenerative diseases during aging.
+author: Gemini
+date: 2026-06-16
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies rely on a delicate balance of proteins, and when this balance is disrupted, it can lead to serious conditions like neurodegenerative diseases. Recent research sheds light on how sugar molecules, known as saccharides, and the systems that process them, are deeply involved in maintaining this protein equilibrium, especially as we age. 
+
+Using a fruit fly model of a neurodegenerative disorder characterized by abnormal protein clumps, scientists investigated the role of a key glucose transporter, called Glut1. They found that when Glut1 levels were reduced, there was an increase in the harmful protein aggregates. Conversely, boosting Glut1 levels helped to decrease these toxic clumps. This suggests that keeping our sugar metabolism in check is vital for preventing the protein misfolding often seen in these diseases. 
+
+The study also explored other cellular components that interact with sugars, called saccharide-binding receptors. Through a systematic screening process, several of these receptors were identified as either increasing or decreasing the levels of the problematic protein aggregates. Notably, reducing the activity of a specific receptor named Cirl, which has human counterparts, led to a reduction in these harmful protein clusters. This discovery points to new potential targets for developing treatments that could help regulate protein balance and combat neurodegeneration during the aging process.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/gerona/glag153)
