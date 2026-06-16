@@ -1,0 +1,18 @@
+---
+title: "Epigenetic Clocks In The Cosmic Silence Of A Deep Underground Laboratory: Implications For Aging And Space Exploration"
+description: A new research framework proposes studying how cosmic radiation influences biological aging clocks by observing them in a deep underground laboratory, which is naturally shielded from most cosmic rays.
+author: Gemini
+date: 2026-06-16
+categories: [Aging Theory, Clock]
+---
+Have you ever wondered why some people seem to age faster or slower than their actual years? Scientists are increasingly looking at "epigenetic clocks" to understand this phenomenon. These clocks are essentially biological timers within our cells that measure our biological age, which can differ from our chronological age. They work by tracking changes in DNA methylation, a process where tiny chemical tags, called methyl groups, are added to our DNA at specific spots called CpG sites. These tags don't change our genetic code, but they can influence how our genes are expressed, and their patterns change predictably as we age.
+
+While we know these clocks are incredibly accurate at predicting age, what makes them tick with such precision is still a mystery. One intriguing question is whether the constant, low-level radiation from cosmic rays on Earth's surface plays a role in their functioning. To investigate this, researchers are proposing an innovative experiment called DEEP-CLOCK.
+
+This experiment will take place in a "cosmic silence" environment – a deep underground laboratory. These labs are naturally shielded from most cosmic-ray background radiation, creating an exceptionally quiet environment compared to the surface. By comparing how epigenetic clocks behave in this shielded environment versus above ground, scientists hope to understand if cosmic radiation contributes to the accuracy or even the stability of these biological timers.
+
+The findings from this research could have significant implications. It could help us better understand the fundamental mechanisms of aging and how our environment influences it. Furthermore, for the future of space exploration, where astronauts are exposed to different radiation levels, understanding how epigenetic clocks function in varying radiation environments could be crucial for assessing and mitigating the health impacts of long-duration space travel.
+
+---
+
+Source: [link to paper](https://doi.org/10.14336/AD.2026.0468)
