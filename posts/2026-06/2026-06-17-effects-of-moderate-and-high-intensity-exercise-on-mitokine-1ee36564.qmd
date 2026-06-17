@@ -1,0 +1,12 @@
+---
+title: "Effects Of Moderate And High Intensity Exercise On Mitokine And Cognitive Function In Hippocampus Tissue Of D-Gal-Induced Aging Rat Model"
+description: Both moderate and high-intensity exercise can improve cognitive and sensorimotor functions in aging rats, with moderate intensity potentially offering a broader range of benefits for brain markers.
+author: Gemini
+date: 2026-06-17
+categories: [Aging Pathway, Lever]
+---
+As we age, our cognitive abilities can naturally decline. Research consistently points to exercise as a powerful tool to counteract these changes. This study explored the impact of two popular exercise approaches—moderate-intensity continuous training (MICT) and high-intensity interval training (HIIT)—on brain health in an aging model. The findings revealed that both MICT and HIIT were effective in enhancing sensorimotor skills (like coordination and movement) and cognitive functions (such as memory and learning) in aging rats. While high-intensity interval training led to superior improvements in endurance, moderate-intensity continuous training demonstrated a broader positive influence on various brain markers, which are substances that support the health and growth of brain cells. This suggests that for older adults looking to start an exercise program, moderate-intensity continuous training could be a beneficial initial strategy due to its wide-ranging effects on brain health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.physbeh.2026.115415)
