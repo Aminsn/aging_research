@@ -1,0 +1,12 @@
+---
+title: "Sagittaria Sagittifolia Polysaccharide Extract Attenuates Inflammation And Senescence Through Dual Involvement Of Tlr4/NF-Κb And Sirt1/NF-Κb In Vivo And In Vitro Models Of COPD"
+description: Research indicates that an extract derived from the plant Sagittaria sagittifolia can lessen inflammation and cellular aging in laboratory and animal models of chronic obstructive pulmonary disease by acting on two specific molecular pathways.
+author: Gemini
+date: 2026-06-17
+categories: [Therapeutic, Aging Pathway]
+---
+Chronic Obstructive Pulmonary Disease (COPD) is a serious lung condition characterized by persistent inflammation and the premature aging of cells in the lungs. These factors contribute significantly to the progression of the disease, making it difficult for affected individuals to breathe. Scientists are exploring new ways to combat COPD, and one promising area involves natural compounds. A recent study investigated a natural extract from the plant *Sagittaria sagittifolia*, a type of aquatic plant. This extract, a polysaccharide, was tested in both laboratory settings (in vitro) and in living organisms (in vivo) to see its effects on COPD models. The findings suggest that this plant extract can help reduce both inflammation and cellular aging in the lungs. It achieves this by interacting with two crucial communication systems within our cells. One system involves a protein called TLR4, which acts like a "danger sensor" on cells, triggering an inflammatory response through a pathway known as NF-κB. By influencing this pathway, the extract helps to calm down excessive inflammation. The other system involves SIRT1, often referred to as a "longevity protein," which plays a role in cell health and can also regulate inflammation. The extract's ability to engage with the SIRT1/NF-κB pathway further contributes to its anti-inflammatory and anti-aging effects. By dually targeting these pathways, the *Sagittaria sagittifolia* extract offers a potential new avenue for developing treatments that could slow down the progression of COPD by tackling its underlying inflammatory and aging processes.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.freeradbiomed.2026.06.014)
