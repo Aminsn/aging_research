@@ -1,0 +1,18 @@
+---
+title: "Ameliorating Calcium Homeostasis Improves Longevity And Healthspan In Progeroid And Naturally Aged Mice"
+description: Researchers found that correcting the way cells manage calcium can extend the lifespan and improve the health of both prematurely aged and naturally aged mice.
+author: Gemini
+date: 2026-06-17
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies rely on a delicate balance of calcium within our cells, a process known as calcium homeostasis, for many vital functions. However, as we age, this balance often goes awry, leading to an unhealthy accumulation of calcium inside cells. This disruption is not just a minor issue; it appears to be a significant driver of the aging process, contributing to both accelerated aging conditions, like Hutchinson-Gilford progeria syndrome, and the natural aging we all experience.
+
+When calcium regulation breaks down, it triggers a cascade of harmful events. Specifically, it leads to the buildup of a protein called S100A6. This protein then initiates a series of cellular problems, including damage to our DNA, inflammation, and the release of signaling molecules that promote aging, collectively known as the senescence-associated secretory phenotype (SASP).
+
+In a promising development, scientists investigated whether restoring this calcium balance could counteract aging. They found that an existing antidepressant drug, mianserin, could effectively lower the excess calcium inside cells.
+
+When tested, mianserin not only reduced signs of aging in human cells but also dramatically extended the lifespan and improved various health indicators in mice. This was observed in both "progeroid" mice, which are genetically engineered to age rapidly, and in naturally aged mice. These findings suggest that maintaining proper calcium levels could be a fundamental strategy to promote a longer, healthier life, potentially even offering a new use for an already approved medication.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41467-026-74021-z)
