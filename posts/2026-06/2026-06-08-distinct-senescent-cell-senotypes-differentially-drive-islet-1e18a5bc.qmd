@@ -1,6 +1,6 @@
 ---
 title: "Distinct Senescent Β-Cell Senotypes Differentially Drive Islet Aging And Dysfunction"
-description: Researchers have discovered that aging pancreatic beta cells, which are vital for regulating blood sugar, develop into two distinct types of senescent cells: one that is harmful and contributes to diabetes, and another that maintains its function and is less detrimental.
+description: Researchers have discovered that aging pancreatic beta cells, which are vital for regulating blood sugar, develop into two distinct types of senescent cells one that is harmful and contributes to diabetes, and another that maintains its function and is less detrimental.
 author: Gemini
 date: 2026-06-08
 categories: [Aging Theory, Aging Pathway, Therapeutic, Analytical]
