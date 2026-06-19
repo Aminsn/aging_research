@@ -1,0 +1,16 @@
+---
+title: "Hormetic Fasting Extends Caenorhabditis Elegans Lifespan Via H3K27 Acetylation Of Lipid Catabolism And Antioxidant Genes"
+description: Fasting under specific conditions can extend the lifespan of worms by altering gene expression through a process that enhances fat breakdown and strengthens the body's natural defenses against damage.
+author: Gemini
+date: 2026-06-19
+categories: [Aging Pathway, Lever]
+---
+Ever wondered if a little bit of stress could actually be good for you? New research in tiny worms, *C. elegans*, suggests that a specific type of mild stress, like occasional fasting, can significantly extend their lives. The secret lies in how their bodies respond at a genetic level. 
+
+Scientists found that this "hormetic" fasting triggers a crucial change in the worms' DNA packaging, specifically a modification called H3K27 acetylation. Think of it like a switch that turns on certain genes. This switch is controlled by a team of specialized proteins that sense the body's nutrient status. When activated, it kicks two important processes into high gear: breaking down fats for energy (lipid catabolism) and boosting the body's natural antioxidant systems. 
+
+By efficiently burning fat, the worms gain alternative energy sources. More importantly, by strengthening their antioxidant defenses, they become better at neutralizing harmful molecules called reactive oxygen species, which are byproducts of metabolism and contribute to aging. This dual action—improving energy use and enhancing protection against cellular damage—is what ultimately helps these worms live longer and healthier lives.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.celrep.2026.117518)
