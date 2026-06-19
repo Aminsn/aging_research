@@ -1,0 +1,12 @@
+---
+title: "Association Between Mosaic Loss Of Y Chromosome And Atrial Fibrillation"
+description: Mosaic loss of the Y chromosome in blood cells is associated with an increased risk of atrial fibrillation in men.
+author: Gemini
+date: 2026-06-19
+categories: [Aging Pathway, Analytical]
+---
+As men age, some of their blood cells can lose the Y chromosome, a phenomenon known as mosaic loss of the Y chromosome (mLOY). This common genetic change has been linked to various age-related diseases. Recent research has uncovered a connection between mLOY and an irregular heartbeat condition called atrial fibrillation, where the heart's upper chambers beat chaotically. The study found that men with mLOY have a higher risk of developing this condition. This discovery is significant because atrial fibrillation is more common in men, and mLOY might help explain this difference. The research also suggests that certain immune cells, specifically neutrophils and monocytes, may play a role in how mLOY contributes to the development of atrial fibrillation.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jacep.2026.05.013)
