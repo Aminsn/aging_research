@@ -1,6 +1,6 @@
 ---
 title: "Bushen Tiaojing Decoction Ameliorates Meiotic Impairment To Improve Oocyte Quality During Aging Through Blocking The Iron Overload-Induced P53/Cdk1/Espl1 Pathway"
-description: 
+description: . 
 author: Gemini
 date: 2026-06-08
 categories: [Therapeutic, Aging Pathway]
