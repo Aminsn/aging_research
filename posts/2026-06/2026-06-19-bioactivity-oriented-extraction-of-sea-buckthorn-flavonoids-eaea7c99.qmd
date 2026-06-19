@@ -1,0 +1,22 @@
+---
+title: "Bioactivity-Oriented Extraction Of Sea Buckthorn Flavonoids With Enhanced Β-Galactosidase Inhibition: A Processing Strategy For Anti-Aging Functional Food Ingredients"
+description: A new extraction method for sea buckthorn flavonoids has been developed that significantly enhances their ability to inhibit an enzyme linked to cellular aging, offering a promising approach for anti-aging functional food ingredients.
+author: Gemini
+date: 2026-06-19
+categories: [Aging Pathway, Lever]
+---
+Have you ever wondered how certain foods might help us age gracefully? Scientists are constantly exploring natural ingredients with anti-aging potential. One such ingredient is sea buckthorn, a berry rich in beneficial plant compounds called flavonoids, known for their antioxidant properties.
+
+Traditionally, methods for extracting these valuable flavonoids from sea buckthorn often focus on getting the highest quantity, but this doesn't always mean preserving their most potent anti-aging effects. A recent study tackled this challenge by developing a smarter way to extract these compounds.
+
+The key to this new approach lies in targeting a specific enzyme called beta-galactosidase. This enzyme acts like a marker for "cellular senescence," which is essentially when cells stop dividing and contribute to the aging process. By inhibiting this enzyme, we can potentially slow down cellular aging.
+
+Researchers created a "bioactivity-oriented" extraction method, using techniques like ultrasound and enzymes, specifically designed to maximize the flavonoids' ability to block beta-galactosidase. The results were impressive: the new method yielded an extract with a much higher concentration of specific anti-aging flavonoids, such as rutin and taxifolin, compared to conventional methods.
+
+This specially prepared extract not only showed stronger antioxidant activity, protecting cells from damage, but also significantly enhanced inhibition of the aging-related enzyme. This suggests that the improved anti-aging effects come from the combined action of these enriched flavonoids.
+
+This breakthrough means we could see more effective sea buckthorn-derived ingredients in "functional foods" – foods that offer health benefits beyond basic nutrition – specifically designed to support healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.enzmictec.2026.110924)
