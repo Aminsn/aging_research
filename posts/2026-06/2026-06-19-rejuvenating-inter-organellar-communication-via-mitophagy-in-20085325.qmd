@@ -1,0 +1,18 @@
+---
+title: "Rejuvenating Inter-Organellar Communication Via Mitophagy In Ageing And Neurodegeneration"
+description: The paper reveals that restoring the cellular process of mitophagy can re-establish vital communication between organelles like mitochondria, the endoplasmic reticulum, and lysosomes, which often breaks down during aging and in neurodegenerative conditions.
+author: Gemini
+date: 2026-06-19
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+As we age, and in conditions like Alzheimer's and Parkinson's, the intricate communication network within our cells can start to falter. Imagine your cell as a bustling city, with different departments like the power plants (mitochondria), the manufacturing factories (endoplasmic reticulum or ER), and the recycling centers (lysosomes) needing to talk to each other constantly to keep things running smoothly. When this communication breaks down, the city falls into disarray.
+
+Recent research highlights a crucial process called "mitophagy" as a central player in maintaining this cellular harmony. Mitophagy is essentially the cell's way of selectively cleaning out and recycling old or damaged mitochondria, ensuring that only healthy power plants are operational. When this cleanup process is impaired, it leads to a cascade of problems: the ER can become fragmented, lysosomes (the recycling centers) stop working efficiently, and the delicate balance of calcium within the cell is disrupted. These issues collectively undermine the entire cellular architecture.
+
+The exciting news is that by rejuvenating mitophagy, scientists have observed a restoration of this vital inter-organelle communication. One promising compound, Urolithin A, has been shown to achieve this through a clever calcium-dependent mechanism. It helps release calcium from the ER and facilitates its uptake into mitochondria, which then kickstarts the removal of damaged mitochondria. Furthermore, it improves the physical connections between the ER and mitochondria and boosts lysosomal activity, essentially bringing the cellular city back into coordinated function.
+
+These findings underscore the critical role of mitochondrial cleanup in maintaining overall cellular health and suggest that targeting mitophagy could be a powerful strategy to promote healthy aging and combat neurodegenerative diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.2174/011570159X473929260605103158)
