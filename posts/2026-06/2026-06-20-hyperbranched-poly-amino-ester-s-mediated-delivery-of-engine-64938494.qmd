@@ -1,0 +1,12 @@
+---
+title: "Hyperbranched Poly(Β-Amino Ester)S-Mediated Delivery Of Engineered Klotho Mrna Rescues Senescence And Restores Cellular Homeostasis In Aged And Klotho Deficient Imscs"
+description: Engineered Klotho messenger RNA delivered via a specialized polymer system successfully reverses multiple signs of cellular aging and restores normal cell function in aged and Klotho-deficient cells.
+author: Gemini
+date: 2026-06-20
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies naturally produce a protein called Klotho, which plays a crucial role in keeping our cells young and healthy. However, as we age, the levels of this important protein decline, leading to cellular aging, where cells stop dividing and start to accumulate damage. This process, known as senescence, contributes to various age-related problems, including issues with how our cells produce energy, manage stress, and maintain internal balance. To combat this, scientists have developed a novel approach using engineered messenger RNA (mRNA) that carries the instructions for making the Klotho protein. This mRNA is specially designed with modifications to ensure it works efficiently inside cells. To get this therapeutic mRNA into the target cells, a clever delivery system was employed: tiny nanoparticles made from a biodegradable material called hyperbranched poly(β-amino ester)s. These nanoparticles act like microscopic couriers, safely transporting the Klotho mRNA into cells. Once delivered, a single dose of this engineered mRNA rapidly restored Klotho protein levels and significantly reduced markers of cellular aging. It also revitalized the cells' powerhouses, called mitochondria, by improving their energy production, boosting the cells' natural defenses against harmful molecules, and re-establishing proper calcium regulation. Importantly, this treatment selectively rejuvenated older cells and those deficient in Klotho, while leaving healthy, young cells largely untouched. This groundbreaking work suggests that delivering engineered Klotho mRNA could be a powerful, non-permanent way to reverse cellular aging and restore the regenerative capacity of tissues, paving the way for new anti-aging and regenerative medicine strategies.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s13346-026-02166-x)
