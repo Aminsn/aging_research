@@ -1,0 +1,12 @@
+---
+title: "NF-Κb-Activated Fibroblasts Orchestrate Inflammaging And Emergence Of Pro-Inflammatory Granzyme K<Sup>+</Sup> T Cells"
+description: Age-dependent activation of a protein complex called NF-κB in connective tissue cells, known as fibroblasts, reshapes the immune system and promotes the emergence of pro-inflammatory granzyme K-positive T cells, contributing to chronic inflammation associated with aging and increased susceptibility to age-related diseases.
+author: Gemini
+date: 2026-06-20
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+As we age, our bodies often experience a state of chronic, low-grade inflammation, a phenomenon known as "inflammaging." This persistent inflammation is a major driver of many diseases common in older adults. Recent research sheds light on a surprising orchestrator of this process: fibroblasts. These cells, typically known for maintaining the structure of our tissues, become activated with age through a specific molecular pathway involving a protein complex called NF-κB. This activation fundamentally alters the local immune environment, leading to the formation of organized clusters of immune cells. Within this altered landscape, a unique population of immune cells, specifically a type of T cell that expresses a molecule called granzyme K (GZMK), emerges. These GZMK-positive T cells are distinct from other immune cells and contribute to inflammation, making tissues more susceptible to damage. For instance, they have been linked to increased vulnerability to severe lung conditions like acute respiratory distress syndrome and pneumonia, mirroring what is often observed in elderly patients. Understanding this intricate interplay between fibroblasts and these specialized T cells opens new avenues for treatment. Targeting these age-related T cells or their inflammatory molecules could potentially reduce tissue damage and improve outcomes in age-related inflammatory diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.immuni.2026.02.016)
