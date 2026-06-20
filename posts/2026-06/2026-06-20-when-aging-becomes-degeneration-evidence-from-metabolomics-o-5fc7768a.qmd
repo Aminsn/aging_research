@@ -1,0 +1,12 @@
+---
+title: "When Aging Becomes Degeneration: Evidence From Metabolomics Of Healthy Age-Stratified Organ-Donor And Degenerated Lumbar Discs"
+description: Metabolomic analysis reveals distinct biochemical signatures that differentiate healthy age-related changes in lumbar discs from those indicative of degeneration.
+author: Gemini
+date: 2026-06-20
+categories: [Aging Theory, Aging Pathway, Analytical]
+---
+Our bodies undergo many changes as we age, and our spinal discs are no exception. But how do we tell the difference between normal wear and tear and a disease process that causes pain and limits movement? This research explores this crucial question by looking at the tiny chemical fingerprints—metabolites—within our lumbar discs. Metabolites are the small molecules that are the byproducts of our body's metabolic processes, essentially reflecting what's happening at a cellular level. By comparing healthy discs from organ donors across different age groups with discs showing signs of degeneration, scientists can pinpoint unique metabolic signatures. This approach helps us understand the precise biological shifts that occur when aging transitions into a degenerative condition. Ultimately, identifying these distinct metabolic patterns could pave the way for earlier and more accurate diagnosis of spinal disc problems, and potentially lead to new treatments that target the specific pathways involved in degeneration, rather than just managing symptoms. This could mean a future where we can better predict, prevent, and treat debilitating back pain.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.spinee.2026.05.010)
