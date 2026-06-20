@@ -1,0 +1,12 @@
+---
+title: "P16<Sup>High</Sup> Immune Cells Control Disease Tolerance As A Defense And Health Span-Extending Strategy"
+description: Immune cells expressing high levels of the p16 protein are essential for an organism's ability to tolerate disease and contribute to extending a healthy lifespan.
+author: Gemini
+date: 2026-06-20
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+When we get sick, our bodies usually fight off invaders like bacteria and viruses. But there's another crucial defense mechanism called "disease tolerance," which means limiting the damage caused by an infection without necessarily eliminating the pathogen itself. Recent research has shed light on a key player in this process: specialized immune cells that have high levels of a protein called p16. These "p16-high immune cells" are not only vital for surviving severe conditions like bacterial sepsis, acute COVID-19 infection, and even radiation exposure, but they also play a role in maintaining overall health as we age. They achieve this protection by creating a specific cellular environment, partly by reducing levels of a molecule called adenosine, which can otherwise suppress beneficial immune responses. Interestingly, the FDA-approved BNT162b2 mRNA COVID-19 vaccine was found to rapidly increase these protective p16-high immune cells in both mice and humans. This discovery suggests new avenues for developing strategies to boost our natural defenses against various diseases and potentially extend our "healthspan," the period of life spent in good health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.immuni.2026.02.013)
