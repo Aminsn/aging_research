@@ -1,0 +1,20 @@
+---
+title: "Nfatc1 Dysfunction-Triggered MSC Senescence Induces Tooth Aging Amenable To Senolytic Therapy"
+description: Researchers have identified that the dysfunction of a protein called NFATC1 in dental pulp stem cells drives tooth aging, and that senolytic therapies can effectively reverse these age-related changes and restore the tooth's ability to repair itself.
+author: Gemini
+date: 2026-06-20
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our teeth can become more brittle and prone to damage, losing their natural ability to repair themselves. This is largely due to the declining function of specialized cells within the tooth pulp, known as dental pulp stem cells.
+
+A recent study has shed light on a key player in this process: a protein called NFATC1. It was discovered that NFATC1 is essential for these dental pulp stem cells to function correctly. However, in both aging human and mouse teeth, the levels of NFATC1 significantly decrease.
+
+When NFATC1 doesn't function properly, it triggers a process called senescence in the dental pulp stem cells. Senescence is a state where cells stop dividing and lose their regenerative capabilities, essentially undergoing a form of biological aging. This cellular aging leads to the degeneration of the tooth pulp and impairs the tooth's natural repair mechanisms.
+
+The exciting news is that anti-aging drugs known as senolytics, which work by selectively removing these senescent cells, showed promising results. In experiments with mice, senolytic therapy successfully improved the formation of dentin (the hard tissue beneath enamel), increased dental pulp density, and reduced tooth porosity. This suggests that these therapies can effectively counteract the effects of tooth aging and restore the tooth's capacity for repair.
+
+This breakthrough research not only deepens our understanding of how teeth age but also offers a potential new strategy for maintaining healthy teeth throughout our lives.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.stemcr.2026.102925)
