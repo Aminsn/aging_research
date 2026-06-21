@@ -1,0 +1,16 @@
+---
+title: "Mitochondrial Bioenergetic Signatures Differentiate Asymptomatic From Symptomatic Alzheimer'S Disease"
+description: Individuals with asymptomatic Alzheimer's disease maintain normal cognitive function despite having brain pathology similar to symptomatic Alzheimer's disease, primarily due to preserved mitochondrial energy production.
+author: Gemini
+date: 2026-06-21
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+Many people develop the brain changes associated with Alzheimer's disease, like amyloid plaques and tau tangles, but never experience memory loss or cognitive decline. These individuals are said to have "asymptomatic Alzheimer's disease." A recent study sheds light on why some people are resilient to the disease's effects. It turns out that the tiny powerhouses of our cells, called mitochondria, play a crucial role.
+
+The research found that in individuals with asymptomatic Alzheimer's, their mitochondria are still working efficiently, producing the energy needed for brain cells to function properly. This includes processes like oxidative phosphorylation, which is the primary way cells generate energy, and the efficient breakdown of fats and amino acids. In contrast, those with symptomatic Alzheimer's disease show a decline in these vital mitochondrial functions.
+
+This preserved energy production seems to be a key factor in maintaining cognitive health despite the presence of Alzheimer's-related brain changes. Specifically, important brain cells called excitatory neurons, which are essential for brain activity, showed the most robust mitochondrial function in these resilient individuals. These findings suggest that future treatments could focus on boosting mitochondrial energy production to help people maintain their cognitive abilities even if they develop the underlying pathology of Alzheimer's disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s42003-026-10474-8)
