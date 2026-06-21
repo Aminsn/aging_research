@@ -1,0 +1,16 @@
+---
+title: "Multi-Omic Analysis Reveals Wharton'S Jelly Mesenchymal Stem Cells Shift The Pro-Inflammatory Phenotype Of Fibroblast Subpopulation To Induce Skin Rejuvenation"
+description: Wharton's jelly mesenchymal stem cells effectively combat skin aging by restoring cellular functions, modulating immune responses, and altering the genetic activity of specific fibroblast cells.
+author: Gemini
+date: 2026-06-21
+categories: [Therapeutic, Analytical, Aging Pathway]
+---
+Aging skin is a common concern with limited effective treatments. Recent research highlights the potential of special cells found in Wharton's jelly, a substance in the umbilical cord, as a promising solution for skin rejuvenation. These cells, known as mesenchymal stem cells, have shown remarkable abilities to reverse the signs of aging. 
+
+Scientists used advanced techniques, including comprehensive genetic analysis, to understand how these stem cells work. They discovered that these cells can restore the normal functions of aging skin cells, boosting their ability to grow and move, and reducing harmful cellular stress. In studies, these stem cells were found to thicken thinning skin, increase collagen production (which gives skin its firmness), and reduce the number of senescent cells—cells that have stopped dividing and contribute to aging. 
+
+Furthermore, these stem cells help to rebalance the immune system in the skin and activate other beneficial stem cells. Crucially, they can specifically target and change the behavior of certain fibroblast cells (cells that produce collagen and other components of the skin) that contribute to inflammation and are key drivers of skin aging. This detailed understanding provides strong evidence for the anti-aging effects of these unique stem cells and opens new avenues for developing precise, cell-based therapies to rejuvenate skin.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13578-026-01594-z)
