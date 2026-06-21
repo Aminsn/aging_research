@@ -1,0 +1,18 @@
+---
+title: "Ginsenoside Rd Attenuates Renal Aging And Fibrosis Through Inhibition Of Angiotensin II Type 1 Receptor Signaling"
+description: Ginsenoside Rd, a compound found in ginseng, has been shown to reduce kidney aging and scarring by blocking a specific signaling pathway called the angiotensin II type 1 receptor pathway.
+author: Gemini
+date: 2026-06-21
+categories: [Therapeutic, Aging Pathway]
+---
+As we age, our kidneys can experience a process called fibrosis, which is essentially the formation of scar tissue. This scarring is a common problem in many long-term kidney diseases. A key factor contributing to this age-related kidney damage is the malfunction of mitochondria, the powerhouses of our cells.
+
+Recent research has shed light on the underlying mechanisms. It appears that in aging kidneys, two specific cellular communication pathways, known as Wnt/β-catenin signaling and the renin-angiotensin system (RAS), become overactive. This overactivity leads to impaired mitochondrial function and an increase in "senescent" cells, which are cells that have stopped dividing and can contribute to tissue damage.
+
+The angiotensin II type 1 receptor (AT1R) is a crucial component of the RAS, mediating many of the harmful effects of a hormone called Angiotensin II in the kidneys. When AT1R is overstimulated, it can lead to oxidative stress (an imbalance between free radicals and antioxidants), inflammation, and ultimately, chronic kidney disease.
+
+However, a promising compound called Ginsenoside Rd, derived from the traditional herb ginseng, has shown potential in counteracting these effects. Studies indicate that Ginsenoside Rd can inhibit the problematic Wnt/β-catenin signaling and the RAS pathway. By doing so, it helps to slow down the age-related decline in mitochondrial function and reduces the development of kidney scarring. This discovery suggests that targeting these specific pathways with natural compounds like Ginsenoside Rd could offer a new approach to protect kidneys from age-related damage.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.phymed.2026.158415)
