@@ -1,0 +1,16 @@
+---
+title: "Evolutionary Perspectives On Endometrial Cancer: Antagonistic Pleiotropy"
+description: Endometrial cancer can be understood as a maladaptive consequence of reproductive systems, shaped by evolution, responding to modern environmental factors.
+author: Gemini
+date: 2026-06-22
+categories: [Aging Theory, Aging Pathway]
+---
+The rising incidence of a specific type of cancer affecting the uterus, particularly in younger individuals, is often linked to contemporary lifestyle factors such as obesity, delayed childbirth, and chronic inflammation. Scientists are now looking at this disease through an evolutionary lens, using concepts like "evolutionary mismatch" and "antagonistic pleiotropy" to better understand its origins.
+
+Antagonistic pleiotropy describes how certain genes can have beneficial effects early in an organism's life, for instance, by supporting reproduction, but may lead to harmful outcomes later on, such as contributing to disease. In the context of this cancer, crucial biological pathways, like the PI3K-AKT-mTOR and p53 pathways, are essential for healthy reproductive function and the regeneration of the uterine lining.
+
+However, in today's environment, characterized by factors like excessive nutrition and widespread obesity, these very pathways can become overly active or dysregulated. This overactivity can then promote abnormal cell growth and the development of tumors. Essentially, traits that were advantageous for reproduction in ancestral environments might become detrimental in our current world, increasing the risk of this cancer. This evolutionary perspective offers a fresh framework for comprehending how this disease develops.
+
+---
+
+Source: [link to paper](https://doi.org/10.1080/23723556.2026.2681248)
