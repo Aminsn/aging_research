@@ -1,0 +1,16 @@
+---
+title: "Bardoxolone Methyl Modulates Nrf2/NF-𝜅b Signaling In Turkey Uterovaginal Junction Organoids With Potential Use For Improving Reproductive Longevity In Breeder Hens"
+description: A study found that a compound called bardoxolone methyl can improve cell health and reduce inflammation in turkey reproductive tissues, suggesting a potential way to extend the fertility of breeder hens.
+author: Gemini
+date: 2026-06-22
+categories: [Aging Pathway, Therapeutic]
+---
+Maintaining fertility in breeder hens is a big challenge for turkey production, as these birds often experience a decline in reproductive health due to inflammation and stress as they age. This can lead to fewer eggs and significant economic losses. Researchers have been looking for ways to combat this issue by boosting the birds' natural defenses.
+
+One promising approach involves targeting specific cellular pathways that control how cells respond to stress and inflammation. Scientists investigated a compound known to activate a protective pathway (Nrf2) and suppress an inflammatory one (NF-κB). They first tested this compound on lab-grown mini-organs, called organoids, derived from the turkey reproductive tract. The results were encouraging: the compound improved cell survival, reduced harmful reactive oxygen species (a type of cellular stress), and decreased inflammatory signals.
+
+Further studies in live breeder hens showed that short-term treatment with this compound had no negative effects on the hens' body weight or egg production. It also didn't harm sperm viability or movement. Instead, it helped reduce signs of stress and inflammation in the reproductive tissues. These findings suggest that by enhancing the turkey's natural antioxidant response, we might be able to safely extend the reproductive lifespan of breeder hens, ultimately improving efficiency and sustainability in turkey farming.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/biolre/ioag122)
