@@ -1,0 +1,18 @@
+---
+title: "Sencat: Cataloging Human Cell Senescence Through Multi-Omic Profiling Of Multiple Senescent Primary Cell Types"
+description: A new comprehensive catalog of senescent cell markers, called SenCat, was created using multi-omic profiling and machine learning across various human cell types, revealing shared metabolic and damage-response pathways despite the absence of a single universal marker.
+author: Gemini
+date: 2026-06-22
+categories: [Analytical, Aging Pathway]
+---
+Our bodies are made of cells, and as we age, some of these cells enter a state called senescence. These "senescent cells" stop dividing but remain active, often releasing a mix of inflammatory molecules known as the senescence-associated secretory phenotype (SASP). While this process can be beneficial in some situations, like wound healing, an accumulation of senescent cells can contribute to aging and age-related diseases like fibrosis and chronic inflammation. Accurately identifying these elusive cells in living tissues has been a major challenge for researchers. 
+
+To address this, a groundbreaking study developed a comprehensive resource called SenCat. Researchers profiled the "transcriptomes" (all the RNA molecules, indicating gene activity) and "proteomes" (all the proteins, indicating cellular functions) of 14 different primary human cell types subjected to over 30 different ways of inducing senescence. This "multi-omic profiling" approach allowed for a deep and broad understanding of how senescence manifests across diverse cell types. 
+
+One of the most significant findings was that there isn't a single, universal marker that identifies all senescent cells across every cell type. Instead, the study revealed that while individual genes and proteins might vary, senescent cells consistently activate shared metabolic and damage-response pathways, which are crucial for tissue repair. 
+
+Leveraging this extensive dataset, the researchers employed "machine learning" – a form of artificial intelligence – to develop robust "senescence scores." These scores can reliably distinguish senescent from non-senescent cells in laboratory settings and, importantly, can also identify senescent-like cells in living organisms, such as in mouse lung and kidney tissues. This new resource and the insights gained from it are vital for improving our understanding of cellular senescence and pave the way for developing more targeted therapies to combat age-related diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.molcel.2026.05.017)
