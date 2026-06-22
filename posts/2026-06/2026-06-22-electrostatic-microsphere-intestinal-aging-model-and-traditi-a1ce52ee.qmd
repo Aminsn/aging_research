@@ -1,0 +1,12 @@
+---
+title: "Electrostatic Microsphere Intestinal Aging Model And Traditional Chinese Medicine Antiaging Mechanism Study"
+description: Researchers developed a novel and controllable intestinal aging model using engineered microspheres and identified a traditional Chinese medicine compound, myricetin, that effectively slows down intestinal aging by reducing inflammation.
+author: Gemini
+date: 2026-06-22
+categories: [Therapeutic, Aging Pathway, Analytical]
+---
+Our bodies, including our intestines, naturally age, which can lead to various health problems. To better understand and combat this process, scientists need accurate ways to study aging in a lab setting. This new research introduces an innovative method to create "mini-guts," also known as organoids, from stem cells using a precise electrostatic spraying technique. This approach allows for better control over the size and growth of these mini-guts, making them more reliable for experiments. The researchers then successfully created an aging model within these mini-guts, mimicking how our intestines age naturally. Using this advanced model, they screened several natural compounds derived from traditional Chinese medicine. They discovered that a specific compound, myricetin, significantly reduced the signs of aging in the intestinal organoids. Myricetin appears to work by calming inflammation and influencing crucial cellular communication pathways involved in the aging process. This breakthrough offers a powerful new tool for discovering anti-aging treatments and provides valuable insights into how natural compounds can help maintain gut health as we age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1021/acsabm.6c00020)
