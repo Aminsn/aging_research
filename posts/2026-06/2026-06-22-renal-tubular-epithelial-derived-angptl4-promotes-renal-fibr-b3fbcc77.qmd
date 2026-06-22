@@ -1,0 +1,18 @@
+---
+title: "Renal Tubular Epithelial-Derived Angptl4 Promotes Renal Fibrosis By Inducing Tubular Cell Senescence"
+description: A protein called Angptl4, produced by kidney tubule cells, contributes to the development of kidney scarring by causing these cells to age prematurely.
+author: Gemini
+date: 2026-06-22
+categories: [Aging Pathway, Therapeutic]
+---
+Chronic kidney disease (CKD) is a significant global health concern, and a common progression of this disease is kidney fibrosis, characterized by excessive scar tissue formation within the kidney. Researchers have identified a protein, Angptl4, whose levels are elevated in the kidney cells of CKD patients and in animal models of kidney fibrosis.
+
+This protein, specifically when produced by renal tubular epithelial cells (RTECs), plays a crucial role in this process. It binds to another protein called integrin β1, which in turn activates a signaling pathway involving focal adhesion kinase (FAK). This activation triggers a process called senescence, essentially causing the RTECs to age prematurely.
+
+These senescent, or "aged," RTECs then release a cocktail of molecules known as the senescence-associated secretory phenotype (SASP). These molecules act as signals that activate other kidney cells called fibroblasts. Once activated, fibroblasts begin to produce excessive amounts of extracellular matrix protein, which is the main component of scar tissue, ultimately leading to the development of kidney fibrosis.
+
+Importantly, studies showed that reducing the amount of Angptl4 through genetic methods lessened both kidney fibrosis and the premature aging of RTECs. Conversely, increasing Angptl4 in these cells worsened both conditions. These findings suggest that targeting Angptl4 could offer a novel therapeutic strategy for intervening in CKD and kidney fibrosis.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bbrc.2026.154133)
