@@ -1,0 +1,22 @@
+---
+title: "Age-Related Dry Eye Disease: Redefining A Distinct Subtype Driven By Aging"
+description: The paper redefines age-related dry eye disease as a distinct subtype primarily caused by the biological processes of aging, rather than simply being a condition more common in older individuals.
+author: Gemini
+date: 2026-06-22
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+As we age, many changes occur in our bodies, and our eyes are no exception. A common and often uncomfortable condition, dry eye, is particularly prevalent in older adults. For a long time, age was considered a risk factor, but new research suggests that aging itself is an active driver of this disease, leading to a unique form of dry eye.
+
+This new understanding highlights how biological aging directly causes structural and functional decline in various parts of the eye responsible for tear production and eye surface health. This includes the glands that produce tears and oils, and the surface of the eye itself.
+
+These age-related changes involve issues like cells becoming exhausted and less effective at secreting necessary components for tears, problems with the oils that prevent tears from evaporating too quickly, and damage to the protective layers and nerves of the eye.
+
+These issues are deeply connected to fundamental aging processes such as cellular senescence, where cells stop dividing and can release harmful substances; oxidative stress, an imbalance between damaging molecules and the body's ability to neutralize them; and chronic low-grade inflammation, often referred to as "inflammaging."
+
+Together, these processes create a self-reinforcing cycle of unstable tear film, ongoing inflammation, and impaired tissue repair, which is distinct from dry eye caused by environmental factors or autoimmune conditions.
+
+This perspective suggests that treatments for dry eye in older adults should go beyond typical eye drops and anti-inflammatory medications. Instead, therapies could target the underlying aging mechanisms, such as reducing oxidative stress or addressing cellular senescence, to offer more effective and fundamental improvements for elderly patients.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jtos.2026.06.011)
