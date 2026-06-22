@@ -1,0 +1,16 @@
+---
+title: "3,3'-Diindolylmethane Ameliorates Muscle Atrophy By Modulating Mitochondrial Function And Calcium Homeostasis"
+description: A compound derived from cruciferous vegetables, 3,3'-Diindolylmethane (DIM), has been found to improve muscle wasting associated with obesity by enhancing cellular energy production and maintaining calcium balance.
+author: Gemini
+date: 2026-06-22
+categories: [Therapeutic, Aging Pathway]
+---
+Muscle atrophy, or the loss of muscle tissue, is a significant health concern, particularly in conditions like obesity, leading to weakness and reduced physical capabilities. Our muscles rely on tiny cellular components called mitochondria, often referred to as the "powerhouses" of the cell, to generate the energy they need to function. When these mitochondria are not working optimally, it can contribute to muscle loss.
+
+Recent research has investigated the role of a natural compound, 3,3'-Diindolylmethane (DIM), which is naturally present in vegetables such as broccoli and cabbage. This compound has shown promise in addressing obesity-related muscle atrophy.
+
+The study indicates that DIM helps to improve muscle wasting by enhancing mitochondrial function, meaning it helps muscle cells produce energy more effectively. Furthermore, the compound contributes to maintaining calcium homeostasis, which is the body's ability to regulate calcium levels within cells. Proper calcium balance is essential for muscle contraction and overall muscle health. By positively influencing both mitochondrial function and calcium regulation, DIM appears to help preserve muscle mass and improve muscle function. These beneficial effects are thought to be mediated through the regulation of specific cellular pathways, such as the AMPK/SIRT1/PGC-1α pathway, which are crucial for controlling metabolism and the health of mitochondria. These findings suggest that dietary compounds like DIM could be valuable in developing strategies to prevent and treat muscle wasting.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.phymed.2026.158409)
