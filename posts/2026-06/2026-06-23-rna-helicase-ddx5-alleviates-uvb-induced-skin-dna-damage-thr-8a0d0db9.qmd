@@ -1,0 +1,12 @@
+---
+title: "RNA Helicase Ddx5 Alleviates UVB-Induced Skin DNA Damage Through Rbm15/Mettl14-Mediated M<Sup>6</Sup>A Modification"
+description: The RNA helicase DDX5 helps reduce DNA damage in skin cells caused by ultraviolet B radiation through a specific chemical modification on RNA involving proteins RBM15 and METTL14.
+author: Gemini
+date: 2026-06-23
+categories: [Aging Pathway, Therapeutic]
+---
+Our skin faces daily challenges, and one significant threat comes from ultraviolet B (UVB) radiation from the sun, which can damage our DNA and contribute to skin aging and disease. Scientists are continually working to understand the intricate ways our cells defend against this harm. A recent study has uncovered a key player in this defense: a protein known as DDX5. This protein acts like a tiny molecular machine, unwinding strands of RNA, which are vital molecules that carry genetic instructions. It turns out that DDX5 plays a crucial role in protecting our skin from UVB-induced DNA damage. It achieves this by influencing a process called m6A modification. Imagine m6A modification as adding a special chemical tag to RNA molecules. This tagging process is carried out by a complex of proteins, including RBM15 and METTL14. By regulating these tags, DDX5 helps the cell repair the DNA damage caused by UVB, essentially acting as a protective shield against sun-induced harm. This discovery deepens our understanding of how our cells maintain skin health and could potentially lead to new approaches for preventing and treating sun-related skin damage.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jphotobiol.2026.113498)
