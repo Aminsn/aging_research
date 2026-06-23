@@ -1,0 +1,12 @@
+---
+title: "Social Determinants Of Health And Epigenetic Clocks: A Systematic Review And Meta-Analysis Of 140 Studies"
+description: Newer generations of biological aging measures, known as epigenetic clocks, are more sensitive to the impact of social factors like socioeconomic status and race/ethnicity on an individual's biological age.
+author: Gemini
+date: 2026-06-23
+categories: [Clock, Analytical]
+---
+It's well-known that social circumstances, such as a person's financial situation or ethnic background, significantly influence their health and lifespan. Individuals facing disadvantages often experience health problems earlier and live shorter lives. Scientists use tools called "epigenetic clocks" to measure biological aging, which is how old your body seems at a cellular level, rather than just your chronological age. These clocks analyze changes in your DNA that accumulate over time, providing insights into your body's wear and tear. Recent research has explored how these social factors are linked to biological aging as measured by these clocks. The findings reveal that not all biological clocks are equally good at detecting these connections. Older versions of these clocks showed only weak links between social inequality and biological aging. However, newer, more advanced generations of these clocks, especially those designed to measure the *pace* of aging, are much more effective at showing how social disadvantages can accelerate biological aging. This means that the latest tools in biological aging research are better equipped to understand how societal inequalities literally get under our skin and affect our health at a fundamental level.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41562-026-02477-6)
