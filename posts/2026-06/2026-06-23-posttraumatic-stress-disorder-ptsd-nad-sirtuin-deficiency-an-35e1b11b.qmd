@@ -1,0 +1,18 @@
+---
+title: "Posttraumatic Stress Disorder (PTSD) NAD/Sirtuin Deficiency And Sarm1-Mediated Synaptic Vulnerability: Evidence For Accelerated Brain Aging Subtypes"
+description: This research suggests that Posttraumatic Stress Disorder (PTSD) and anxiety disorders may be linked to specific biological pathways that contribute to accelerated brain aging.
+author: Gemini
+date: 2026-06-23
+categories: [Aging Theory, Aging Pathway, Analytical]
+---
+New research is shedding light on how conditions like post-traumatic stress disorder (PTSD) and anxiety might contribute to the brain aging faster than expected. Traditionally, these conditions are understood through the lens of fear and emotional regulation, but this study proposes a deeper biological connection to the aging process.
+
+The findings suggest that individuals with a genetic predisposition to PTSD and anxiety may have differences in how their brain cells manage stress, energy, repair, and communication. Specifically, PTSD appears to be associated with reduced activity in pathways involving NAD (nicotinamide adenine dinucleotide) and sirtuins, particularly a gene called SIRT3, which is crucial for the health of mitochondria, the "powerhouses" of our cells.
+
+Another key player highlighted is SARM1, a protein known to be involved in the damage of axons, which are the long, slender projections of nerve cells that transmit electrical impulses. The study suggests that metabolic stress could activate SARM1, leading to weakened connections between brain cells, known as synapses. In simpler terms, when NAD levels drop, SARM1 can become overactive, essentially triggering a self-destruction process in these vital communication lines.
+
+While anxiety disorders also show links to accelerated aging, their patterns differ slightly, with stronger signals in pathways related to mitochondrial cell death, inflammation, and how brain connections adapt. These insights don't definitively prove that PTSD or anxiety directly cause brain aging, but they offer a compelling hypothesis: some individuals with these conditions might have unique biological profiles that make them more susceptible to stress-related aging in the brain. This understanding could pave the way for new ways to identify at-risk individuals and develop more personalized treatments.
+
+---
+
+Source: [link to paper](https://doi.org/10.7759/cureus.110755)
