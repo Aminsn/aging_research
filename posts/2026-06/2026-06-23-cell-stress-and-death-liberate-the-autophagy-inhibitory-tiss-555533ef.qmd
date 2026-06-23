@@ -1,0 +1,16 @@
+---
+title: "Cell Stress And Death Liberate The Autophagy-Inhibitory Tissue Stress Hormone DBI/ACBP Into The Circulation"
+description: Cell death, regardless of its specific type, causes the release of an intracellular protein called DBI/ACBP into the bloodstream, where it acts as a signal of tissue damage and inhibits a cellular recycling process called autophagy.
+author: Gemini
+date: 2026-06-23
+categories: [Aging Theory, Aging Pathway]
+---
+Our bodies are constantly working to maintain health, and a crucial process for this is called autophagy, often thought of as the cell's internal recycling system. It helps clean up damaged parts and keeps cells functioning properly. While cells have ways to adapt to stress, they also communicate when things go wrong. 
+
+Scientists have discovered a protein, previously known to help manage fats inside cells, that plays a surprising new role. When cells experience different types of damage and ultimately die, this protein, known as DBI/ACBP, is released from inside the cell into the bloodstream. Once in circulation, it acts like a stress signal, telling other cells to slow down their recycling process.
+
+This finding suggests that the release of this protein is a universal way for damaged tissues to signal distress throughout the body. It could explain how different organs communicate during illness and aging, and why problems in one part of the body can affect others. Understanding this mechanism could open new avenues for detecting tissue damage early and potentially developing treatments that target this communication pathway to improve health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1080/15548627.2026.2685761)
