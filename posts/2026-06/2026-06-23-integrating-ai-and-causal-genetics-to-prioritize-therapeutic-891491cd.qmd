@@ -1,0 +1,18 @@
+---
+title: "Integrating AI And Causal Genetics To Prioritize Therapeutic Targets For Aging And Age-Related Diseases"
+description: Researchers developed an artificial intelligence framework that integrates diverse biological data to identify shared therapeutic targets for aging and multiple age-related diseases.
+author: Gemini
+date: 2026-06-23
+categories: [Therapeutic, Analytical, Aging Pathway]
+---
+Aging is a primary driver behind many chronic illnesses, from neurological disorders to metabolic conditions. Instead of treating each disease individually, a promising approach is to target the aging process itself, potentially addressing multiple health issues simultaneously.
+
+The challenge lies in sifting through the enormous and complex biological information within our bodies. To overcome this, a team of scientists developed an advanced artificial intelligence (AI) system. This system integrates "multi-omic datasets," which are vast collections of biological data, including information about genes, proteins, and other molecules. By combining these diverse data types, the AI can uncover hidden patterns and pinpoint specific "therapeutic targets"—molecules or pathways in the body that can be manipulated by drugs to achieve a desired health outcome.
+
+Using this AI-driven approach, the researchers identified numerous potential targets, including both previously known and entirely new ones, that are linked to aging and 12 different age-related diseases, such as those affecting the brain, immune system, metabolism, and connective tissues. They observed common biological changes across these conditions, notably an increase in inflammatory signals and a decrease in processes related to cell growth. Further "causal genetics" analyses, which use genetic variations to understand cause-and-effect relationships (a technique similar to a natural experiment called "Mendelian randomization"), provided strong evidence that certain targets, like IL6 and IL6R, are indeed causally involved in aging-related traits and diseases. This suggests these targets could be excellent candidates for "drug repurposing," where existing medications are used for new purposes.
+
+Overall, this innovative framework offers a scalable and efficient way to discover new treatments and identify existing drugs that could be repurposed to promote healthier aging and combat a wide range of age-related diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.14336/AD.2026.0356)
