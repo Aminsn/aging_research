@@ -1,0 +1,14 @@
+---
+title: "Neonatal Muscle-Derived Extracellular Vesicles Containing Mir-542-3P Rejuvenate Aged Skeletal Muscle Via A Functional Microneedle Patch"
+description: Researchers have developed a microneedle patch that delivers vesicles from neonatal muscle cells, which contain a specific microRNA, to rejuvenate aged skeletal muscle by improving mitochondrial function and reducing cellular aging and fat accumulation.
+author: Gemini
+date: 2026-06-24
+categories: [Aging Pathway, Therapeutic]
+---
+Our muscles naturally age, leading to a decline in strength and function, a condition often associated with cellular aging and issues with the energy-producing parts of our cells, called mitochondria. Exciting new research explores a novel approach to combat this. Scientists have discovered that tiny packages released by young, healthy muscle cells, known as extracellular vesicles, possess remarkable regenerative properties. These vesicles carry special genetic material, specifically a microRNA called miR-542-3p, which acts like a tiny instruction manual for cells.
+
+When these rejuvenating vesicles are delivered directly into aged muscle using a specially designed microneedle patch, they can significantly improve muscle health. The microRNA within these vesicles works by targeting specific pathways in aged muscle cells. It helps to reduce the accumulation of fats and improves the function of mitochondria, essentially boosting the cells' energy production. This process effectively lessens the signs of aging in muscle cells, leading to better overall muscle function and reduced tissue scarring. This innovative delivery system offers a promising new strategy for tackling age-related muscle decline and potentially improving quality of life as we age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bioactmat.2026.06.011)
