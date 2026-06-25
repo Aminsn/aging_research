@@ -1,0 +1,16 @@
+---
+title: "Role Of LDHA In Senescent Fibroblast Exosomes Promoting Ferroptosis Via Histone Lactylation-Mediated Acsl4 Regulation In Skin Photoaging"
+description: A study revealed that aged skin cells release tiny sacs containing an enzyme called LDHA, which promotes a specific chemical modification on DNA-packaging proteins, leading to increased production of a protein called ACSL4, ultimately triggering a type of cell death that accelerates skin photoaging.
+author: Gemini
+date: 2026-06-25
+categories: [Aging Pathway, Therapeutic]
+---
+Ever wondered why our skin ages faster with sun exposure? Recent research sheds light on a fascinating mechanism behind this process, known as skin photoaging. It turns out that "aged" skin cells, called senescent fibroblasts, play a crucial role by sending out tiny molecular messages. These messages are packaged in minuscule sacs called exosomes, which act like cellular postmen, delivering their cargo to other cells.
+
+The key player identified in these exosomes is an enzyme called LDHA. When these exosomes, carrying LDHA, are absorbed by other skin cells, they initiate a cascade of events. LDHA promotes a unique chemical tag on proteins that help package our DNA, a process known as histone lactylation. This tagging then boosts the production of another protein, ACSL4.
+
+ACSL4 is a critical component in a specific type of cell death called ferroptosis, which is characterized by iron-dependent damage to cell membranes. Essentially, the LDHA-driven changes lead to an increase in ACSL4, which in turn triggers this destructive form of cell death, accelerating the visible signs of sun-induced skin aging. Understanding this intricate pathway could pave the way for new strategies to protect our skin from the damaging effects of the sun and combat premature aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13072-026-00683-0)
