@@ -1,0 +1,16 @@
+---
+title: "Senescence-Associated Tertiary Lymphoid Structures In Sjögren'S Disease Model Nishiura Mice"
+description: In mouse models of Sjögren's disease, tertiary lymphoid structures, which are organized immune cell clusters, develop in affected glands with their progression influenced by age and sex, and senescent immune cells contribute to the inflammation.
+author: Gemini
+date: 2026-06-25
+categories: [Aging Pathway]
+---
+Sjögren's disease is a chronic autoimmune condition that primarily targets glands responsible for producing moisture, such as those in the eyes and mouth, leading to uncomfortable dryness. Recent research utilizing mouse models of this disease has provided valuable insights into the immune system's role in its development.
+
+Scientists have observed the formation of "tertiary lymphoid structures" within the affected glands. These structures are essentially organized clusters of immune cells, similar to miniature lymph nodes, that appear in tissues outside of the body's typical immune organs. They are known to contribute to ongoing inflammation and the production of harmful antibodies, which are hallmarks of autoimmune diseases. In these mouse models, these structures were found to emerge early in the disease and increase in prevalence with age. Interestingly, their timing and extent of development varied depending on the sex of the mice and the specific gland affected.
+
+Further findings highlight the involvement of "senescence-associated T cells." Cellular senescence is a process where cells stop dividing but remain metabolically active, often releasing inflammatory substances. These senescent T cells accumulate in the salivary glands of both older mice and those modeling Sjögren's disease. They are drawn to these glands by specific chemical signals released by the gland's own cells. The presence of these senescent T cells is thought to fuel the chronic inflammation and tissue damage characteristic of Sjögren's disease, suggesting they could be a promising target for future therapeutic interventions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.mad.2026.112213)
