@@ -1,0 +1,18 @@
+---
+title: "Stress Tested: Aging Rewires Tumors For Metastatic Spread Through Activation Of The Integrated Stress Response"
+description: Aging reprograms tumor cells to enhance their ability to spread throughout the body, even while potentially slowing primary tumor growth, by activating a cellular stress response pathway.
+author: Gemini
+date: 2026-06-27
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+As we age, our bodies undergo many changes, and it turns out these changes can significantly impact how cancer behaves. A recent study sheds light on a surprising aspect of this relationship: aging doesn't just increase the risk of getting cancer, it can also make existing tumors more prone to spreading, a process called metastasis. This happens even if the original tumor grows more slowly in older individuals.
+
+The research found that a specific cellular pathway, known as the Integrated Stress Response (ISR), plays a crucial role in this age-related change. The ISR is a natural defense mechanism that cells use to cope with various stresses, like a lack of nutrients or a buildup of damaged proteins. However, in older tumor cells, this stress response becomes overactive and is essentially "hijacked" by the cancer.
+
+At the heart of this hijacked system is a protein called ATF4. This protein acts like a master switch, turning on genes that allow cancer cells to become more adaptable and change their form, making it easier for them to break away from the original tumor and travel to other parts of the body. It also rewires the tumor cells' metabolism, making them more dependent on certain nutrients, like glutamine, to survive and spread.
+
+This discovery is important because it challenges the traditional view that a fast-growing primary tumor is always the most aggressive. Instead, it suggests that in older patients, tumors might prioritize spreading over rapid growth. The findings also open up new possibilities for treatment, particularly for older cancer patients, by targeting this specific stress response pathway and the metabolic changes it causes.
+
+---
+
+Source: [link to paper](https://doi.org/10.1158/0008-5472.CAN-26-1612)
