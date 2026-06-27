@@ -1,0 +1,12 @@
+---
+title: "From Vessels To Cognition: The Mediating Role Of Biological Aging In The Cognitive Trajectory Of Diabetic Patients"
+description: Increased stiffness of blood vessels, a measure of vascular health, is linked to worse cognitive function and a faster decline in mental abilities over time in individuals with diabetes, with biological aging playing a significant role in this connection.
+author: Gemini
+date: 2026-06-27
+categories: [Aging Pathway, Analytical]
+---
+Our bodies undergo changes as we age, and for individuals living with diabetes, these changes can have a profound impact on brain health. Recent research sheds light on a crucial link between the stiffness of our blood vessels and how our thinking abilities change over time. Think of blood vessels like flexible pipes; over time, they can become stiffer, a process known as vascular stiffness. This study found that when these "pipes" are stiffer, it’s associated with poorer cognitive function, which includes things like memory and problem-solving skills. More importantly, this vascular stiffness was a strong predictor of a continued decline in these mental abilities over nearly a decade. The fascinating part is that accelerated biological aging—meaning our bodies are aging faster than our chronological years—appears to be a major reason for this connection. It acts as a bridge between stiffening blood vessels and declining brain function. This suggests that maintaining vascular health and understanding how biological aging impacts individuals with diabetes could be key to preserving cognitive abilities.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.exger.2026.113135)
