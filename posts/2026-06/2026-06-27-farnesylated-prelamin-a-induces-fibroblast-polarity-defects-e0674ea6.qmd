@@ -1,0 +1,16 @@
+---
+title: "Farnesylated Prelamin A Induces Fibroblast Polarity Defects In Premature Aging Disorders By Inhibiting Nesprin-2-Sun2 LINC Complex Function"
+description: The retention of a farnesyl molecule on prelamin A, a protein precursor, disrupts the normal function of connections between the cell's internal skeleton and its nucleus, leading to defects in cell organization observed in premature aging disorders.
+author: Gemini
+date: 2026-06-27
+categories: [Aging Pathway]
+---
+Our cells are constantly moving and changing shape, a process called cell polarization, which is crucial for everything from wound healing to development. This movement relies on a delicate interplay between the cell's internal scaffolding, called the actin cytoskeleton, and its nucleus. These two components are linked by special protein complexes known as LINC complexes, which act like bridges, transmitting forces and signals.
+
+In premature aging disorders, such as Hutchinson-Gilford progeria syndrome, a protein called prelamin A accumulates in an abnormal form. This abnormal prelamin A retains a small fatty molecule called a farnesyl group. Our research shows that this farnesylated prelamin A interferes with the proper functioning of key LINC complex proteins, specifically nesprin-2 and SUN2. Essentially, the farnesyl group on prelamin A acts like a wrench in the gears, preventing these proteins from moving freely and performing their job of connecting the actin cytoskeleton to the nucleus.
+
+This disruption in the LINC complex leads to significant defects in how cells polarize and move. The good news is that when we block the attachment of this farnesyl group, these cellular defects can be reversed. This discovery highlights that the faulty connection between the cell's internal skeleton and its nucleus is a critical factor in premature aging and suggests new avenues for potential treatments.
+
+---
+
+Source: [link to paper](https://doi.org/10.1242/jcs.264488)
