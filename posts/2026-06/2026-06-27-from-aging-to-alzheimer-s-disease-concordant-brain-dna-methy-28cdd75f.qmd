@@ -1,0 +1,18 @@
+---
+title: "From Aging To Alzheimer'S Disease: Concordant Brain DNA Methylation Changes In Late Life"
+description: The study revealed that DNA methylation changes in the brain associated with normal aging largely overlap and occur in the same direction as those observed in Alzheimer's disease, indicating a shared molecular basis between the two processes.
+author: Gemini
+date: 2026-06-27
+categories: [Aging Pathway, Clock, Analytical]
+---
+Aging is the most significant risk factor for Alzheimer's disease, yet the precise molecular links between getting older and developing this condition have been unclear. Recent research has shed light on this connection by examining DNA methylation, a natural process that acts like a dimmer switch for our genes, turning them up or down.
+
+Scientists investigated these genetic "dimmer switches" in the brains of older individuals and discovered thousands of specific changes linked to aging. Many of these changes affect genes crucial for our immune system and how our bodies process energy.
+
+Remarkably, these age-related changes in DNA methylation were found to be strikingly similar to those seen in Alzheimer's disease, often shifting in the same direction. This strong overlap suggests that the molecular pathways involved in normal aging and the development of Alzheimer's are deeply intertwined.
+
+This discovery is significant because it implies that by understanding and potentially influencing these age-related genetic "dimmer switches," we might uncover new strategies to prevent or treat Alzheimer's disease. Furthermore, the study identified some of these DNA methylation changes in the blood that mirror what's happening in the brain, offering a promising avenue for developing new blood tests to detect Alzheimer's earlier or monitor its progression.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13073-026-01698-8)
