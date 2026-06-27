@@ -1,0 +1,12 @@
+---
+title: "Cross-Level Regulatory Interactions Underlying Human Immune Aging"
+description: The study reveals that aging immune cells exhibit widespread dysregulation of RNA splicing, particularly exon skipping, which is influenced by long non-coding RNAs and ultimately leads to altered protein profiles and a weakening of T-cell function.
+author: Gemini
+date: 2026-06-27
+categories: [Aging Theory, Aging Pathway, Analytical]
+---
+Our bodies undergo many changes as we age, and our immune system is no exception. A recent study sheds light on how the immune system deteriorates over time, a process known as immunosenescence. Researchers found that a crucial step in gene expression, called RNA splicing, becomes widely disrupted in aging immune cells. RNA splicing is like editing a movie reel, where non-essential segments are cut out and the important scenes are joined together to create the final film (a protein). In aging cells, this editing process often goes awry, with entire "scenes" (exons) being skipped, leading to faulty proteins. These errors in protein production contribute to the gradual weakening of immune cells, specifically T-cells, which are vital for fighting off infections and diseases. The study also uncovered that certain long non-coding RNAs, which are RNA molecules that don't make proteins but regulate other genes, play a key role in controlling these splicing errors. By integrating data from multiple biological layers (a "multi-omics" approach), this research provides a more complete picture of the complex molecular interactions that drive immune aging, offering new avenues for understanding and potentially delaying this decline.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/mco2.70817)
