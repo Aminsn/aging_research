@@ -1,0 +1,18 @@
+---
+title: "Regulation Of Neuronal Senescence By <I>Srebf2</I> And <I>Zmiz1</I> Reveals Mechanisms Of Aging-Related Neurodegeneration"
+description: Researchers have identified two genes, Srebf2 and Zmiz1, that play distinct but interconnected roles in regulating a cellular aging process in brain cells, which may contribute to age-related neurodegenerative diseases.
+author: Gemini
+date: 2026-06-27
+categories: [Aging Pathway, Analytical]
+---
+As we age, our brain cells can undergo changes that resemble cellular aging, a process called neuronal senescence. This phenomenon is increasingly linked to neurodegenerative diseases like Alzheimer's. However, the specific genes within neurons that control this aging process have been largely unknown. 
+
+A recent study sheds light on this mystery by identifying two key genes, *Srebf2* and *Zmiz1*, as important regulators of neuronal senescence. The researchers found that these two genes are linked in their activity: increasing one gene also increased the other. However, reducing one didn't necessarily reduce the other, suggesting a one-way influence in their regulation.
+
+Interestingly, these genes have different effects on cellular aging markers. *Srebf2* showed a dual role, as both increasing and decreasing its activity led to higher levels of aging markers (like p16 and p21 proteins, which indicate cell cycle arrest associated with senescence). In contrast, *Zmiz1* acted more directly: increasing its activity boosted aging markers, while reducing it decreased them.
+
+Further analysis revealed that *Zmiz1* was particularly associated with signatures related to Alzheimer's disease, while *Srebf2* was more connected to pathways involved in cholinergic synapses, which are crucial for learning and memory. These findings suggest that while both genes contribute to neuronal aging, they might do so through different mechanisms and pathways, offering new avenues for understanding and potentially targeting age-related neurodegeneration.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/biology15120938)
