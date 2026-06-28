@@ -1,0 +1,20 @@
+---
+title: "Genome-Wide Association Study Of Untargeted Plasma Metabolomic Profiles Identifies Host Genetic Regulation In People With HIV"
+description: A study identified 27 metabolites significantly associated with 12 genetic regions, revealing how an individual's genes influence their metabolic profiles in people with HIV.
+author: Gemini
+date: 2026-06-28
+categories: [Aging Pathway, Analytical]
+---
+Despite effective treatments, individuals living with HIV often experience accelerated aging and a higher risk of age-related health conditions. Understanding the biological reasons behind these issues is crucial for improving their health. Researchers recently explored the intricate relationship between a person's genetic makeup and their metabolic profiles—the unique collection of small molecules, or metabolites, found in their blood.
+
+Using a powerful technique called a "genome-wide association study" (GWAS), which involves scanning the entire set of a person's genes, scientists looked for genetic variations linked to the levels of nearly 2,000 different metabolites in the blood of over 1,200 individuals with HIV. This comprehensive approach allowed them to identify specific genetic "hotspots" that influence various chemical processes in the body.
+
+The study uncovered 27 metabolites whose levels were significantly tied to 12 distinct genetic regions. These regions included genes known to play roles in metabolism, such as NAT8 and FUT2. Interestingly, many of these genetic-metabolic connections had been previously observed in the general population, and a substantial number were confirmed in this specific group of people with HIV.
+
+Further analyses, including "expression quantitative trait loci (eQTL) colocalization analysis," helped to understand how these genetic variations might affect the activity of genes and, consequently, the levels of metabolites. Additionally, "Mendelian randomization" was employed to investigate potential cause-and-effect relationships between these metabolites and diseases associated with aging.
+
+These findings provide valuable insights into how an individual's genetics can shape their metabolic landscape when living with HIV. This deeper understanding could pave the way for more personalized strategies to manage and prevent health complications in this population, ultimately leading to better health outcomes.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.xhgg.2026.100635)
