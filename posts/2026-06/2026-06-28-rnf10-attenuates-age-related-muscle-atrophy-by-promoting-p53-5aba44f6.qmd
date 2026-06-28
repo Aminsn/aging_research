@@ -1,0 +1,16 @@
+---
+title: "Rnf10 Attenuates Age-Related Muscle Atrophy By Promoting P53 Degradation And Alleviating Oxidative Stress"
+description: A protein called RNF10 can reduce age-related muscle loss by promoting the breakdown of another protein, p53, and by decreasing cellular damage caused by oxidative stress.
+author: Gemini
+date: 2026-06-28
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, many of us experience a natural decline in muscle mass and strength, a condition often referred to as sarcopenia. This can significantly impact our quality of life and independence. Recent research has shed light on a potential new player in combating this age-related muscle wasting: a protein known as RNF10. This protein acts as an "E3 ubiquitin ligase," which is essentially a cellular tagger that marks other proteins for destruction and recycling within the cell. 
+
+The study found that in aged muscle, the levels of RNF10 were significantly reduced. By restoring RNF10, researchers observed improvements in muscle mass and function in aged mice. The key mechanism behind this beneficial effect appears to be RNF10's ability to directly interact with and promote the breakdown of a protein called p53. 
+
+p53 is a well-known protein involved in various cellular stress responses, and its accumulation can contribute to aging processes and cell damage. By helping to degrade p53, RNF10 effectively reduces "oxidative stress" – an imbalance in the body that can lead to cell damage – and improves the function of mitochondria, the powerhouses of our cells. This improved cellular environment then helps to protect muscle cells from atrophy. These findings suggest that enhancing RNF10 activity could be a promising new strategy for developing treatments to combat age-related muscle loss.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.freeradbiomed.2026.06.032)
