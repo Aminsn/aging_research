@@ -1,0 +1,16 @@
+---
+title: "Seaweed-Derived Extract Targets Porphyr'Ageing To Modulate The Visible Signs Of Aging In Human Skin"
+description: A seaweed-derived extract has been shown to reduce visible signs of aging in human skin by targeting porphyrins produced by skin bacteria, a process termed porphyr'aging.
+author: Gemini
+date: 2026-06-29
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+Did you know that the tiny organisms living on your skin might be contributing to how your skin ages? Recent research has shed light on a phenomenon called "porphyr'aging," where certain molecules, called porphyrins, produced by skin bacteria, can accelerate the aging process. These porphyrins are pro-inflammatory, meaning they can cause irritation, lead to increased pigmentation (like dark spots), and even reduce the production of collagen, a vital protein that keeps skin firm and youthful.
+
+Scientists have been exploring natural solutions to combat this, and a promising discovery comes from an extract derived from a type of seaweed. This extract works by specifically targeting these bacterial porphyrins. Studies have shown that it can significantly reduce the production of these aging-accelerating molecules on the skin's surface.
+
+Beyond just reducing porphyrins, this seaweed extract also helps to decrease melanin content, which is responsible for skin pigmentation, and stimulates the production of collagen and elastin, two key components for skin elasticity and firmness. In clinical trials, participants saw noticeable reductions in dark spots and wrinkles, suggesting a comprehensive approach to addressing the visible signs of aging. This innovative ingredient, sourced sustainably from marine environments, offers a natural and effective way to promote healthier, more youthful-looking skin.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/md24060220)
