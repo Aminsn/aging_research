@@ -1,0 +1,12 @@
+---
+title: "Redox Imbalance Dictates Dependence On Got1 Versus Got2 For Rod Photoreceptor Health During Aging And Stress"
+description: The study demonstrates that an imbalance in cellular reduction-oxidation (redox) state, specifically an overly reductive environment, is detrimental to rod photoreceptor survival, and identifies GOT2 as a potential therapeutic target for blinding eye diseases.
+author: Gemini
+date: 2026-06-29
+categories: [Aging Pathway, Therapeutic]
+---
+Our eyes rely on specialized cells called photoreceptors to detect light. When these cells, particularly rod photoreceptors, are damaged or die, it can lead to severe vision loss and blinding diseases. Scientists are constantly searching for new ways to protect these vital cells. A recent study sheds light on the critical role of cellular energy balance in maintaining the health of rod photoreceptors. Inside our cells, there's a delicate balance between molecules that carry energy, like NADH, and those that help process it, like NAD+. This balance, known as the "redox state," is crucial for proper cell function. The research focused on two proteins, GOT1 and GOT2, which act like metabolic traffic controllers, helping to manage this energy balance. The study found that when GOT1 is missing in rod photoreceptors, there's an unhealthy buildup of NADH, leading to a state called "reductive stress." This stress is a major driver of photoreceptor degeneration. Interestingly, by helping the cells process this excess NADH, the researchers could extend the life of these photoreceptors. In contrast, when GOT2 was missing, the photoreceptors showed minimal damage, and the cells actually seemed to counteract the harmful reductive stress. Even more exciting, the researchers observed that levels of GOT2 were reduced in several models of photoreceptor degeneration, including retinal detachment. Crucially, reducing GOT2 in photoreceptors actually protected them from damage after retinal detachment. These findings suggest that an overly reductive environment, where there's too much NADH, is harmful to photoreceptors. The study points to GOT2 as a promising new target for developing treatments to prevent photoreceptor loss in various blinding eye conditions. By understanding and potentially manipulating these metabolic pathways, we might be able to safeguard our vision.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.redox.2026.104266)
