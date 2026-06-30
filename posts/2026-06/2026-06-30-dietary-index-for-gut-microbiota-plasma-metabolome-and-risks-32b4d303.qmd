@@ -1,0 +1,16 @@
+---
+title: "Dietary Index For Gut Microbiota, Plasma Metabolome, And Risks Of Metabolic Dysfunction-Associated Steatotic Liver Disease And Other Chronic Liver Diseases"
+description: A diet that promotes a healthy gut microbiome and reduces inflammation is linked to a lower risk of metabolic dysfunction-associated steatotic liver disease and alcohol-associated metabolic dysfunction-associated liver disease.
+author: Gemini
+date: 2026-06-30
+categories: [Lever, Analytical]
+---
+Our diet plays a crucial role in our overall health, and new research sheds light on its profound impact on liver conditions like metabolic dysfunction-associated steatotic liver disease (MASLD) and alcohol-associated metabolic dysfunction-associated liver disease (MetALD). These conditions, characterized by fat accumulation in the liver, are significant health concerns.
+
+Scientists have investigated how specific dietary patterns influence our gut bacteria and the body's inflammatory responses. They used two key measures: a 'Dietary Index for Gut Microbiota' (DI-GM) and a 'Dietary Inflammatory Index' (DII). The DI-GM assesses how well a diet supports a diverse and healthy gut microbiome, with beneficial components including foods like avocado, broccoli, chickpeas, coffee, cranberries, fermented dairy products, fiber, green tea, soy products, and whole grains, while red meat, processed meats, refined grains, and high-fat diets are considered detrimental. The DII, on the other hand, quantifies the inflammatory potential of a person's diet.
+
+The findings indicate that individuals who follow a diet that scores higher on the DI-GM (meaning it's good for gut bacteria) and lower on the DII (meaning it's anti-inflammatory) have a reduced risk of developing MASLD and MetALD. This protective effect is partly achieved by reducing systemic inflammation throughout the body and improving metabolic function. This research underscores the importance of making informed dietary choices to foster a healthy gut environment and manage inflammation, offering a promising strategy for the early prevention of these chronic liver diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s12986-026-01145-w)
