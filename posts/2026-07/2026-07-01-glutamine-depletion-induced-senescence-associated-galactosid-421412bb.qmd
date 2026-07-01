@@ -1,0 +1,16 @@
+---
+title: "Glutamine Depletion Induced Senescence-Associated Β-Galactosidase Activity And Impaired Functional Properties Of Ea.Hy926 Endothelial Cells"
+description: Depleting glutamine, a vital nutrient, causes endothelial cells to show signs of aging and lose their normal functions, including reduced growth and impaired ability to form new structures.
+author: Gemini
+date: 2026-07-01
+categories: [Aging Pathway]
+---
+Our bodies rely on specialized cells lining our blood vessels, called endothelial cells, to keep everything running smoothly. These cells need a specific nutrient, an amino acid called glutamine, to stay healthy and function correctly. Recent research has shed light on what happens when these cells don't get enough glutamine. 
+
+It turns out that a lack of glutamine can lead to a noticeable decline in the health and performance of these crucial cells. When glutamine levels drop, the endothelial cells start to exhibit signs of aging, similar to how other cells in the body age. This "cellular aging" is marked by an increase in a specific enzyme activity, known as senescence-associated beta-galactosidase.
+
+Beyond just showing signs of aging, these cells also struggle to perform their essential duties. Their ability to multiply and grow is significantly reduced, and their normal shape and organization become disrupted. Furthermore, they become less effective at helping new blood vessels and tissues form, which is vital for healing and maintaining healthy organs. These findings highlight the critical role of glutamine in maintaining the integrity and proper functioning of our blood vessel lining, suggesting that its availability is key to preventing endothelial dysfunction.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/cells15121116)
