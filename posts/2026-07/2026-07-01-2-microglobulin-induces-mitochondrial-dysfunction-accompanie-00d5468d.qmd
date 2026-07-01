@@ -1,0 +1,18 @@
+---
+title: "Β2-Microglobulin Induces Mitochondrial Dysfunction Accompanied By Bronchial Epithelial Cell Senescence"
+description: β2-microglobulin induces mitochondrial dysfunction and cellular senescence in bronchial epithelial cells, contributing to lung aging and emphysema progression.
+author: Gemini
+date: 2026-07-01
+categories: [Aging Pathway]
+---
+Our bodies contain a protein called β2-microglobulin (β2m), which is a component of our immune system. Recent research has shed light on its unexpected role in lung health, particularly in conditions like emphysema.
+
+This study reveals that elevated levels of β2m can lead to significant problems within the cells lining our airways. Specifically, it causes "mitochondrial dysfunction," meaning the powerhouses of our cells, called mitochondria, stop working efficiently. When mitochondria falter, cells struggle to produce energy and can accumulate harmful byproducts.
+
+In addition to this energy crisis, β2m also triggers "cellular senescence," a process where cells essentially age prematurely and stop dividing. These senescent cells can then release substances that negatively impact neighboring healthy cells.
+
+These findings are crucial because they suggest a direct link between β2m and the accelerated aging of lung cells, a key characteristic of chronic obstructive pulmonary disease (COPD) and emphysema. By understanding how this protein contributes to lung damage, scientists may be able to develop new strategies to combat these debilitating respiratory diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.2147/COPD.S614376)
