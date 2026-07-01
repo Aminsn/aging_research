@@ -1,0 +1,18 @@
+---
+title: "A TAD-Informed Aging-Brain Xqtl Atlas Of Multi-Modal And Cell-Type-Resolved Regulatory Variation"
+description: Researchers have developed a comprehensive atlas that maps how genetic variations influence various molecular traits in the aging human brain across different regions and cell types, providing a crucial resource for understanding diseases like Alzheimer's.
+author: Gemini
+date: 2026-07-01
+categories: [Analytical]
+---
+Our brains are incredibly complex, and understanding how genetic differences contribute to aging and diseases like Alzheimer's has been a major challenge. A recent study has made significant strides by creating a vast "atlas" that acts like a detailed map of the aging human brain.
+
+This new resource, called the FunGen-AD xQTL Atlas, brings together a wealth of information from multiple brain studies. It looks at how variations in our DNA (our genetic code) are linked to changes in various molecular traits, such as how much a gene is expressed, patterns of DNA methylation (a chemical modification to DNA), and the abundance of proteins.
+
+What makes this atlas particularly powerful is its comprehensive nature. It integrates data from 14 different brain regions and 7 major cell types, allowing scientists to see how genetic influences differ across the brain and within specific cell populations. Furthermore, the researchers expanded their search beyond typical genetic regions, including areas known as Topologically Associating Domains (TADs). These TADs are like organizational units within our DNA that help regulate gene activity, and by including them, the team identified even more connections between genetic variations and molecular traits.
+
+Ultimately, this atlas provides a foundational tool for researchers to pinpoint the specific genetic variations that contribute to the aging process in the brain and the development of neurodegenerative diseases. This deeper understanding could pave the way for new diagnostic methods and targeted treatments in the future.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.05.21.26353713)
