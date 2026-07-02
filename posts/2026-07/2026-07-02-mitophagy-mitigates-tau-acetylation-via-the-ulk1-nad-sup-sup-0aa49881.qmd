@@ -1,0 +1,20 @@
+---
+title: "Mitophagy Mitigates Tau Acetylation Via The Ulk1-NAD<Sup>+</Sup>/Sirt1 Axis In Alzheimer'S Disease"
+description: A recent study reveals that a cellular process called mitophagy can reduce the harmful modification of tau protein, known as acetylation, in Alzheimer's disease by activating a specific molecular pathway.
+author: Gemini
+date: 2026-07-02
+categories: [Aging Pathway, Therapeutic]
+---
+Our cells have a remarkable way of keeping themselves clean and healthy, especially when it comes to their powerhouses, the mitochondria. When these tiny energy factories get old or damaged, a specialized recycling process called mitophagy steps in to clear them out. This cellular cleanup is crucial for brain health, and its decline is often seen in conditions like Alzheimer's disease.
+
+New research sheds light on how boosting this cleanup process could be a game-changer for Alzheimer's. Scientists have discovered a pathway where mitophagy actively reduces a harmful change in a protein called tau. In Alzheimer's, tau proteins can become tangled and modified, specifically through a process called acetylation, which contributes to the disease's progression and cognitive decline.
+
+The study found that a key protein, ULK1, initiates this beneficial mitophagy. When ULK1 is active, it not only removes damaged mitochondria but also helps restore the cell's energy balance and increases levels of a vital molecule called NAD+. This increase in NAD+ then activates another protein, SIRT1, which acts like a molecular eraser, directly removing the harmful acetyl groups from the tau protein. This effectively reduces the problematic tau modifications.
+
+Interestingly, the research also showed that levels of ULK1 naturally decrease with age, and this reduction is even more pronounced in individuals with Alzheimer's disease, correlating with the severity of tau pathology. By restoring ULK1 activity and, consequently, mitophagy, in animal models of Alzheimer's, researchers observed a significant reduction in tau pathology and an improvement in cognitive function.
+
+These findings suggest that enhancing this natural cellular cleaning mechanism could be a promising new strategy to combat Alzheimer's disease by targeting the early stages of tau pathology before widespread damage occurs.
+
+---
+
+Source: [link to paper](https://doi.org/10.1080/15548627.2026.2689031)
