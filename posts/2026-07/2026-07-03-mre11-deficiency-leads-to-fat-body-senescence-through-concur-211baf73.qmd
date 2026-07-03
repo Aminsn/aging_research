@@ -1,0 +1,12 @@
+---
+title: "Mre11 Deficiency Leads To Fat Body Senescence Through Concurrent Dysregulation Of Mitochondrial Function And Lipid Metabolism"
+description: A deficiency in the Mre11 gene in silkworms causes their fat bodies to age, which is linked to problems with both mitochondrial function and lipid metabolism.
+author: Gemini
+date: 2026-07-03
+categories: [Aging Theory, Aging Pathway, Analytical]
+---
+Aging is a complex process characterized by a gradual decline in the function of our cells and tissues. To better understand this, scientists often use model organisms. In a recent study, researchers investigated the role of a specific gene, Mre11, in the aging process of silkworms. They found that when this gene was not functioning correctly, the silkworms' fat bodies, an organ that plays roles similar to both fat and liver in mammals, showed clear signs of aging. This cellular aging was associated with significant disruptions in how the cells' energy-producing structures, called mitochondria, operated, and also how the cells processed and stored fats. This discovery provides a valuable new model for studying the intricate connections between genetics, energy production, fat handling, and the overall aging process in insects.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/1744-7917.70315)
