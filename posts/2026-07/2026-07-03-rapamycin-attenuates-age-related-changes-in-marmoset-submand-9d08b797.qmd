@@ -1,0 +1,18 @@
+---
+title: "Rapamycin Attenuates Age-Related Changes In Marmoset Submandibular Gland: A Non-Human Primate Model Of Human Oral Aging"
+description: Rapamycin treatment in marmosets reduced age-related degeneration in their salivary glands, making the tissue resemble that of younger animals.
+author: Gemini
+date: 2026-07-03
+categories: [Therapeutic, Aging Pathway]
+---
+Our mouths undergo significant changes as we age, often leading to issues like chronic dry mouth, known as xerostomia. This condition, which affects many older adults, can severely impact oral health and quality of life. The underlying reasons for the aging of our salivary glands, particularly the submandibular gland located under the jaw, have been difficult to study in humans.
+
+A recent study utilized common marmosets, a type of non-human primate whose salivary gland structure closely mimics our own, to investigate these age-related changes. Researchers observed that, similar to humans, aging marmosets experienced a decline in the cells responsible for producing saliva (called acinar cells), an increase in scar-like tissue (fibrosis), accumulation of fats, and a rise in cells that are either programmed to die (apoptotic cells) or have stopped dividing and contribute to aging (senescent cells).
+
+Crucially, the study explored whether a drug called rapamycin could counteract these effects. Rapamycin is a medication that works by inhibiting a pathway in cells known as mTOR, which plays a role in cell growth and aging. The findings showed that chronic treatment with rapamycin helped preserve the structure of the salivary glands, reducing the amount of scar tissue and fat accumulation, and decreasing the number of apoptotic and senescent cells. Essentially, the treated older marmosets had salivary gland tissue that looked more like that of younger animals.
+
+This research suggests that the marmoset is a valuable model for understanding and developing treatments for age-related oral health issues. It also highlights rapamycin's potential to slow down the aging process in salivary glands, adding oral health to the growing list of areas where this drug shows promise in combating the hallmarks of biological aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.14336/AD.2026.0057)
