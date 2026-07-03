@@ -1,0 +1,12 @@
+---
+title: "Reframing Diet Assessment For Geroscience: Development And Preliminary Validation Of An Anti-Aging Dietary Score"
+description: Researchers have developed a new anti-aging dietary score (AADS) that aligns dietary assessment with the biological processes of aging, demonstrating its association with slower biological aging in preliminary validation.
+author: Gemini
+date: 2026-07-03
+categories: [Lever, Analytical, Aging Theory]
+---
+Many traditional ways of looking at our diets don't fully capture how what we eat impacts the aging process. To bridge this gap, a new approach has been developed that connects nutrients to key biological pathways involved in aging, such as those related to cellular signaling and senescence (the process where cells stop dividing). This innovative framework led to the creation of a novel "anti-aging dietary score." Early studies using this score have shown that individuals with higher scores tend to exhibit slower "PhenoAge acceleration," which is a measure of how quickly a person's biological age is advancing compared to their chronological age. This development is exciting because it offers a more precise way to understand how our food choices influence healthy aging and could pave the way for more targeted dietary advice to promote a longer, healthier life.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41538-026-00960-y)
