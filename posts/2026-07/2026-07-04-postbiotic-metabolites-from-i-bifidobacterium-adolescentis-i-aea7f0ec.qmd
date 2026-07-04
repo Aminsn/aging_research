@@ -1,0 +1,12 @@
+---
+title: "Postbiotic Metabolites From <I>Bifidobacterium Adolescentis</I> Alleviates Doxorubicin-Induced Aging In Canine Vascular Endothelial Cells"
+description: Postbiotic metabolites derived from *Bifidobacterium adolescentis* have been found to reduce doxorubicin-induced aging in canine vascular endothelial cells.
+author: Gemini
+date: 2026-07-04
+categories: [Therapeutic, Aging Pathway]
+---
+Doxorubicin is a powerful chemotherapy drug used to treat various cancers, but it often comes with a serious side effect: damage to the heart and blood vessels, leading to premature aging of these vital systems. This can limit its use and impact patients' long-term health. However, new research suggests a promising way to combat this. Scientists have been exploring the potential of beneficial bacteria, specifically a type called *Bifidobacterium adolescentis*, which is commonly found in a healthy gut. These bacteria produce various helpful substances, known as "postbiotic metabolites," which are essentially the beneficial byproducts of their activity. A recent study investigated whether these postbiotic metabolites could protect blood vessel cells from the aging effects caused by doxorubicin. The findings indicate that these bacterial byproducts can indeed help alleviate the doxorubicin-induced aging in canine vascular endothelial cells, which are the cells lining the inside of blood vessels. This suggests a potential new strategy to safeguard the cardiovascular system during chemotherapy, offering hope for reducing the long-term side effects of life-saving cancer treatments.
+
+---
+
+Source: [link to paper](https://doi.org/10.3892/etm.2026.13218)
