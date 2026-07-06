@@ -1,0 +1,18 @@
+---
+title: "Somatic Mutations Impose An Entropic Upper Bound On Human Lifespan"
+description: Even if all other causes of aging were eliminated, the unavoidable accumulation of random DNA errors in non-dividing cells would limit human lifespan to approximately 134-194 years.
+author: Gemini
+date: 2026-07-06
+categories: [Aging Theory, Analytical]
+---
+Have you ever wondered what truly limits how long humans can live? While many factors contribute to aging, new research suggests a fundamental constraint: the slow and unavoidable accumulation of random errors in our DNA, known as somatic mutations. These are not the mutations passed down through generations, but rather tiny mistakes that occur in our body cells throughout life, reflecting a natural tendency towards increasing molecular disorder, an "entropic process."
+
+The study highlights a crucial difference in how these mutations affect various organs. Tissues with cells that can readily divide and replace themselves, like the liver, are remarkably resilient. Their ability to regenerate means they can effectively counteract the damage from these genetic errors, potentially maintaining function for thousands of years.
+
+However, the story is different for organs composed of "post-mitotic" cells—those that do not divide or regenerate, such as neurons in the brain and cardiomyocytes in the heart. In these vital tissues, somatic mutations accumulate without being cleared, acting as critical bottlenecks for longevity. The research indicates that even if all other aspects of aging were somehow overcome, the damage from these mutations in non-regenerating cells would still limit the median human lifespan to a range of about 134 to 194 years.
+
+This suggests that while these genetic errors are a significant driver of aging, they are not the sole determinant of our lifespan. Other hallmarks of aging likely contribute comparably to the limits we observe today.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41514-026-00421-6)
