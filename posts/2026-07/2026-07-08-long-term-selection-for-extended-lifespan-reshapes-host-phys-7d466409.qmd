@@ -1,0 +1,12 @@
+---
+title: "Long-Term Selection For Extended Lifespan Reshapes Host Physiology And Gut Microbiome Structure In An Insect Model"
+description: Long-term breeding for increased lifespan in an insect model leads to a longer life and larger body size, accompanied by distinct changes in the gut bacteria without reducing metabolism.
+author: Gemini
+date: 2026-07-08
+categories: [Aging Theory, Analytical]
+---
+Scientists have long been fascinated by the secrets of a long life. A recent study explored how extended lifespans evolve by examining house crickets that had been selectively bred for over 20 years to live longer. These "super-aged" crickets not only lived significantly longer but also grew larger than their regular counterparts. Interestingly, this extended lifespan wasn't due to a slower metabolism, as they showed no decrease in food intake, energy use, or signs of cellular damage typically associated with aging. Instead, the research revealed a fascinating shift in the community of microorganisms living in their guts, known as the gut microbiome. While the overall variety of gut microbes stayed the same, the specific types of bacteria present were different between the long-lived and regular crickets. The long-lived crickets had more of certain bacteria, like Gammaproteobacteria and lactic acid bacteria, while the regular crickets had more Firmicutes and Bacteroidota. These findings suggest that changes in the gut microbiome might be an important part of what allows some individuals to live longer, opening new avenues for understanding the complex factors that contribute to longevity.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41598-026-59408-8)
