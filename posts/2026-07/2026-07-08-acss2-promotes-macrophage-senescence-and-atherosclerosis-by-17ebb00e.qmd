@@ -1,0 +1,14 @@
+---
+title: "Acss2 Promotes Macrophage Senescence And Atherosclerosis By Upregulating Histone H3 Lysine 9 Crotonylation"
+description: A recent study reveals that the enzyme ACSS2 contributes to the aging of immune cells and the hardening of arteries by increasing a specific chemical modification on DNA-packaging proteins.
+author: Gemini
+date: 2026-07-08
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies are constantly working to stay healthy, but sometimes processes go awry, contributing to diseases like atherosclerosis, commonly known as hardening of the arteries. This condition involves the buildup of plaque inside our blood vessels, which can lead to serious heart problems. A key player in this process is a type of immune cell called a macrophage. When these macrophages become "senescent," meaning they stop dividing and start releasing inflammatory signals, they can contribute to the progression of atherosclerosis. 
+
+New research sheds light on how this happens, focusing on an enzyme called ACSS2. This enzyme plays a crucial role in adding a specific chemical tag, known as a crotonyl group, to proteins called histones. Histones are like spools around which our DNA is wound. When a crotonyl group is added to a particular spot on histone H3 (specifically, lysine 9), it can change how genes are expressed, essentially turning certain genes on or off. The study found that ACSS2 promotes the aging of macrophages and the development of atherosclerosis by increasing this specific histone modification. Understanding this mechanism could open new avenues for therapeutic interventions to combat atherosclerosis and age-related diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bbadis.2026.168336)
