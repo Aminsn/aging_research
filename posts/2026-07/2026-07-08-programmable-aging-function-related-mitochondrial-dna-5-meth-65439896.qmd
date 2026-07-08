@@ -1,0 +1,16 @@
+---
+title: "Programmable Aging Function-Related Mitochondrial DNA 5-Methylcytosine (M5C) Modification With A TALE-Directed Methyltransferase"
+description: Researchers have developed a new tool called MEE that can precisely modify mitochondrial DNA by adding a chemical tag, offering a way to study and potentially treat aging-related diseases.
+author: Gemini
+date: 2026-07-08
+categories: [Aging Pathway, Therapeutic]
+---
+Our cells contain tiny powerhouses called mitochondria, which have their own set of genetic instructions, known as mitochondrial DNA. Changes in this DNA are often linked to aging and various diseases. Scientists have now created a groundbreaking tool, a "mitochondrial epigenetic editor" (MEE), that can precisely modify these mitochondrial genetic instructions without altering the underlying DNA sequence itself. Think of it like adding a sticky note to a specific word in a book to change its meaning, rather than rewriting the word entirely.
+
+This innovative editor works by guiding special enzymes, called methyltransferases, to exact locations on the mitochondrial DNA to add a chemical tag called 5-methylcytosine (5mC). This tag can influence how genes are expressed. In experiments, this tool efficiently placed these tags with very few unintended changes. For example, in human cells, it successfully added a tag to a specific site, leading to a significant reduction in the production of a particular protein.
+
+Furthermore, when tested in mice, the editor increased the tagging at a site associated with aging, which in turn affected the expression of another protein and altered levels of certain markers in the blood linked to brain health. This development provides a powerful new way to investigate the role of these chemical tags on mitochondrial DNA in the aging process and in diseases like Alzheimer's and Parkinson's, opening doors for future therapeutic strategies.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s12964-026-03030-8)
