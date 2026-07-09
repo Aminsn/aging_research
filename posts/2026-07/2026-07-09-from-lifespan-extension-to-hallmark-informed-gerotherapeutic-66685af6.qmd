@@ -1,0 +1,12 @@
+---
+title: "From Lifespan Extension To Hallmark-Informed Gerotherapeutic Prioritization: A Bibliometric-Guided, Strategy-Oriented Review Of Anti-Aging Drug Research"
+description: The paper reviews and prioritizes anti-aging drug research by examining how different compounds target the fundamental biological processes of aging to potentially extend healthy lifespan.
+author: Gemini
+date: 2026-07-09
+categories: [Therapeutic, Aging Theory, Aging Pathway, Analytical]
+---
+Imagine if we could tackle the root cause of many age-related diseases, rather than treating each one individually. That's the exciting premise behind a field called geroscience, which focuses on understanding and intervening in the biological processes of aging itself. Our bodies undergo various changes as we age, often referred to as "hallmarks of aging," such as cells losing their ability to function properly (cellular senescence) or disruptions in how our bodies use energy (metabolic dysfunction). Instead of developing entirely new drugs, a promising strategy is to repurpose existing medications that are already approved for other conditions. These "gerotherapeutics" are drugs that have been found to target these fundamental aging processes. For example, some drugs originally used for diabetes, like metformin, have shown potential in influencing metabolism and other aging pathways. Other medications, such as SGLT2 inhibitors, initially for diabetes and heart failure, are being explored for their ability to clear out senescent cells. Even drugs like GLP-1 receptor agonists, used for obesity and diabetes, and bisphosphonates, for bone health, are being investigated for their broader anti-aging effects. By understanding how these existing drugs interact with the hallmarks of aging, researchers aim to identify and prioritize those with the greatest potential to not just extend lifespan, but more importantly, to extend "healthspan"—the period of life spent in good health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.arr.2026.103221)
