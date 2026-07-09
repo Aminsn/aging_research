@@ -1,0 +1,16 @@
+---
+title: "DXA-Measured Visceral Adipose Tissue And Accelerated Biological Aging In Middle-Aged Adults"
+description: Excess visceral fat, measured by DXA, is linked to accelerated biological aging in middle-aged adults, independent of other fat measures and lifestyle.
+author: Gemini
+date: 2026-07-09
+categories: [Clock, Analytical]
+---
+Many of us are familiar with the concept of chronological age, the number of years we've been alive. But what about "biological age"—how old our bodies actually are on a cellular level? Recent research sheds light on a significant factor that might be speeding up this biological clock: visceral fat. This isn't the fat you can pinch under your skin; it's the deeper, more dangerous kind that wraps around your internal organs in your abdomen.
+
+Scientists used a specialized X-ray scan called DXA (dual-energy X-ray absorptiometry) to accurately measure this visceral fat. They then looked at two key indicators of biological aging. One was "phenotypic age acceleration," which essentially tells us if someone's body is aging faster or slower than their actual years, based on a collection of health markers. The other was "leukocyte telomere length," referring to the protective caps on our DNA strands; shorter telomeres are often a sign of accelerated aging.
+
+The findings revealed a clear connection: individuals with higher amounts of visceral fat showed signs of accelerated biological aging. Specifically, more visceral fat was consistently associated with a faster phenotypic age acceleration in both men and women. Interestingly, in women, higher visceral fat was also linked to shorter telomere lengths. These associations remained strong even after accounting for other types of body fat and various lifestyle factors, suggesting that visceral fat plays a unique and independent role in how quickly our bodies age. This highlights visceral fat as a crucial marker for understanding and potentially mitigating accelerated biological aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/oby.70239)
