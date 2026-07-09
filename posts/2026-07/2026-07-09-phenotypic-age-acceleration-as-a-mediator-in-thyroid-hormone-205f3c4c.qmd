@@ -1,0 +1,16 @@
+---
+title: "Phenotypic Age Acceleration As A Mediator In Thyroid Hormone-Related Cardiovascular Risk Among The Elderly"
+description: The study found that accelerated biological aging partially explains the link between thyroid hormone levels and cardiovascular disease risk in older adults.
+author: Gemini
+date: 2026-07-09
+categories: [Clock, Aging Pathway, Analytical]
+---
+Many studies have explored the connection between thyroid hormones and heart disease, but the role of how our bodies biologically age in this relationship has been less clear. This research looked into "phenotypic age acceleration," which is essentially how much faster or slower your body is aging compared to your actual chronological age, based on a set of biological markers.
+
+Using data from a large health survey, the study found that in older adults, lower levels of specific thyroid hormones, free triiodothyronine (FT3) and total triiodothyronine (TT3), were associated with an increased risk of cardiovascular disease. Importantly, the findings revealed that phenotypic age acceleration partially explains this connection. This means that a faster biological aging process contributes to the higher cardiovascular risk observed in individuals with certain thyroid hormone levels. The research also suggests that this biological measure of aging is more effective at capturing age-related changes in thyroid function than simply using a person's chronological age.
+
+These insights suggest that future strategies for preventing and managing heart disease in older populations could benefit from interventions that address both thyroid function and the underlying processes of biological aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1155/crp/1206757)
