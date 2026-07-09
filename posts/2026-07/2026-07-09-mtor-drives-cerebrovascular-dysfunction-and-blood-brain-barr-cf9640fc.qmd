@@ -1,0 +1,12 @@
+---
+title: "Mtor Drives Cerebrovascular Dysfunction And Blood-Brain Barrier Breakdown In A Model Of Alzheimer'S Disease With Cerebral Amyloid Angiopathy"
+description: A study found that a protein called mTOR contributes to the buildup of harmful amyloid-beta plaques in brain blood vessels, leading to impaired brain blood vessel function and a compromised blood-brain barrier in a model of Alzheimer's disease.
+author: Gemini
+date: 2026-07-09
+categories: [Aging Pathway, Therapeutic]
+---
+Researchers have uncovered a crucial mechanism contributing to brain damage in a form of Alzheimer's disease characterized by amyloid deposits in blood vessels, known as cerebral amyloid angiopathy. They discovered that a specific protein, mTOR, plays a central role in driving the accumulation of these harmful amyloid plaques within the brain's blood vessels. This accumulation directly impairs the ability of blood vessels to function properly and leads to the breakdown of the blood-brain barrier, a protective shield that normally prevents harmful substances from entering the brain. When the blood-brain barrier is compromised, it can result in tiny bleeds within the brain. The study also showed that mTOR contributes to a disconnect between brain activity and blood flow, meaning the brain doesn't get the blood supply it needs when it's working hard. Importantly, the researchers found that by inhibiting mTOR with a drug called rapamycin, they could reverse many of these damaging effects. This led to a reduction in amyloid plaques in the blood vessels, improved blood vessel function, restored the integrity of the blood-brain barrier, and even improved memory in the animal model. These findings suggest that targeting mTOR could be a promising new strategy for treating Alzheimer's disease and related conditions where blood vessel health is compromised.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.06.23.733858)
