@@ -1,0 +1,12 @@
+---
+title: "Maintenance DNA Methylation Is Necessary For Age-Related Alterations In Regulatory T Cell Transcriptional And DNA Methylation Signatures"
+description: Maintenance DNA methylation, regulated by the protein UHRF1, is essential for the age-related changes observed in the gene activity and DNA methylation patterns of regulatory T cells.
+author: Gemini
+date: 2026-07-10
+categories: [Aging Pathway, Analytical]
+---
+Our immune system relies on specialized cells called regulatory T (Treg) cells to keep things in balance, preventing overreactions and maintaining overall health. These crucial cells depend on specific "DNA methylation" patterns—chemical tags on their DNA that control which genes are turned on or off—to maintain their identity and function. As we age, these vital DNA methylation patterns in Treg cells can become disrupted. This research explored whether the process of "maintenance DNA methylation," which ensures these patterns are accurately copied when cells divide, is necessary for these age-related changes. The study identified a key protein, UHRF1, as critical for maintaining these DNA methylation patterns. When UHRF1 was absent in Treg cells, it led to age-related alterations in how their genes were expressed and in their DNA methylation profiles. These findings highlight that maintaining proper DNA methylation is fundamental to understanding how Treg cells change as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.06.24.733005)
