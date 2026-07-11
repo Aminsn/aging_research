@@ -1,0 +1,16 @@
+---
+title: "An Epigenetic Clock For Chronological Age Estimation In East Asian Populations"
+description: A new epigenetic clock, specifically designed for East Asian populations, has been developed to accurately estimate an individual's chronological age based on DNA methylation patterns.
+author: Gemini
+date: 2026-07-11
+categories: [Clock, Analytical]
+---
+Our bodies keep track of time at a molecular level through a process called DNA methylation, where tiny chemical tags attach to our DNA and change as we age. Scientists can use these changes to create "epigenetic clocks" that estimate a person's age. However, many existing clocks were primarily developed using data from non-East Asian populations, which might not be as precise for individuals of East Asian descent due to unique genetic and environmental factors.
+
+To address this, researchers have developed a new, highly accurate molecular clock tailored specifically for East Asian populations. This involved analyzing DNA methylation patterns from East Asian individuals across Taiwan, Japan, and China. This new tool uses specific DNA methylation sites to predict chronological age with remarkable accuracy, demonstrating strong correlations between the predicted and actual ages. In fact, it showed improved accuracy compared to other existing clocks when applied to this population.
+
+This advancement has significant implications. The ability to precisely predict age at a molecular level could support earlier and more targeted interventions for anti-aging strategies and disease management, potentially lessening the impact of age-related health issues. Furthermore, the study revealed that the genes linked to these age-related methylation changes are involved in crucial biological pathways, including those related to neurodegeneration, musculoskeletal disorders, and immune system regulation, offering deeper insights into the fundamental processes of aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/nargab/lqag068)
