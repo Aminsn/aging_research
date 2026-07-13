@@ -1,0 +1,12 @@
+---
+title: "Vps13C/Park23 Initiates Lipid Transfer And Membrane Remodeling For Efficient Lysosomal Repair"
+description: A protein called VPS13C/PARK23 has been identified as crucial for initiating lipid transfer and membrane remodeling to efficiently repair damaged lysosomes, which are cellular waste disposal units.
+author: Gemini
+date: 2026-07-13
+categories: [Aging Pathway]
+---
+Our cells contain tiny compartments called lysosomes, often referred to as the cell's recycling centers, responsible for breaking down waste products. When these lysosomes get damaged, it can lead to serious problems, including neurological disorders like Parkinson's disease and issues related to aging. Scientists have now uncovered a key player in the cell's rapid response system to fix these damaged lysosomes. This crucial protein acts like a bridge, sensing when lysosomes are under stress or have been injured. It quickly moves to the damaged lysosome and helps create connections between the lysosome and another cellular compartment called the endoplasmic reticulum (ER), which is involved in making and transporting fats (lipids) and proteins. Through these connections, the protein facilitates the transfer of a large amount of lipids from the ER to the damaged lysosome. This influx of lipids is essential for rebuilding and repairing the lysosome's membrane, effectively patching it up. This discovery sheds new light on how our cells maintain their health and provides important insights into why defects in this protein might increase the risk of diseases like Parkinson's.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41467-026-75145-y)
