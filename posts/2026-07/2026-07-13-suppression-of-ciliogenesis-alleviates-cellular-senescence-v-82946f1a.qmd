@@ -1,0 +1,16 @@
+---
+title: "Suppression Of Ciliogenesis Alleviates Cellular Senescence Via AKT Signaling In Gingival Aging"
+description: Suppressing the formation of primary cilia in aged gum tissue reduces cellular aging and DNA damage by activating a cell survival pathway, offering a potential approach to treat age-related gum diseases.
+author: Gemini
+date: 2026-07-13
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+As we age, our gums can become more susceptible to inflammation and disease. A key factor in this process is cellular senescence, where cells stop dividing and can release substances that harm surrounding tissues. Recent research has shed light on a novel mechanism contributing to this aging in gum tissue.
+
+Scientists have discovered that aged gum tissues exhibit an increase in both senescent cells and tiny, hair-like structures on cells called primary cilia, which act like cellular antennas. The study found that by reducing the formation of these primary cilia, the signs of cellular aging, such as DNA damage, were significantly decreased in gum cells. This beneficial effect was linked to the activation of a crucial cellular pathway known as AKT signaling, which is important for cell survival and growth.
+
+Furthermore, experiments in aged mice showed that suppressing the formation of primary cilia in their gums not only reduced cellular aging but also lessened inflammation and tissue scarring. These findings suggest that targeting the dynamics of these primary cilia and the AKT signaling pathway could offer a promising new strategy to combat age-related gum diseases and improve oral health in older individuals.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/acel.70627)
