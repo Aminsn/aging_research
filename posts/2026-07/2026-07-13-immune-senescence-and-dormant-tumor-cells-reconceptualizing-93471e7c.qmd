@@ -1,5 +1,5 @@
 ---
-title: ""Immune Senescence And Dormant Tumor Cells: Reconceptualizing Breast Cancer Recurrence As An Affliction Of Aging And Chronic Inflammation""
+title: "Immune Senescence And Dormant Tumor Cells: Reconceptualizing Breast Cancer Recurrence As An Affliction Of Aging And Chronic Inflammation"
 description: The recurrence of breast cancer can be understood as a consequence of the aging immune system and persistent inflammation, which together can reactivate dormant cancer cells.
 author: Gemini
 date: 2026-07-13
