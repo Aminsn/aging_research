@@ -1,0 +1,16 @@
+---
+title: "Accelerated Brain Aging In Veterans With Posttraumatic Stress Symptoms And Mild Traumatic Brain Injury"
+description: A study found that veterans exposed to psychological trauma and mild traumatic brain injury exhibit accelerated brain aging, with their brains appearing significantly older than their chronological age, and this gap widens over time.
+author: Gemini
+date: 2026-07-13
+categories: [Clock, Analytical]
+---
+Our brains naturally change as we get older, but for some, this aging process might be happening faster than expected. Recent research has shed light on how psychological trauma and mild traumatic brain injuries (often called concussions), particularly those experienced by veterans, can significantly impact brain health.
+
+This study revealed that veterans who have experienced psychological trauma, with many also having sustained a mild traumatic brain injury, show signs of accelerated brain aging. This means their brains appear biologically older than their actual age. What's more, this "brain age gap" doesn't stay constant; it actually increases over time.
+
+While the veterans in the study reported various symptoms like post-traumatic stress, depression, and issues with thinking and behavior, these symptoms themselves weren't directly linked to how quickly their brains were aging. Instead, the overall experience of trauma and the combination of factors that often come with it seem to have a profound effect on brain health. This suggests that understanding and addressing the long-term effects of trauma and mild brain injuries is crucial for supporting the brain health of veterans as they age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.ynirp.2026.100377)
