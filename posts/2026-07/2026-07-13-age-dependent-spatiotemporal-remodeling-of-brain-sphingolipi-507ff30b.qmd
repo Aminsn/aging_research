@@ -1,0 +1,18 @@
+---
+title: "Age-Dependent Spatiotemporal Remodeling Of Brain Sphingolipids During LPS-Induced Neuroinflammation: MALDI-MSI Reveals Accelerated Sphingomyelin Depletion And Sulfatide Accumulation Linked To Mitochondrial Oxidative Stress"
+description: Older brains undergoing inflammation show accelerated depletion of a protective lipid called sphingomyelin and an accumulation of another lipid called sulfatide, which is linked to increased stress in brain cell powerhouses.
+author: Gemini
+date: 2026-07-13
+categories: [Aging Pathway, Analytical]
+---
+As we age, our brains become more susceptible to inflammation, a key factor in many neurodegenerative diseases. Scientists have been working to understand the specific changes that occur in the brain's chemistry during this process. A recent study sheds light on how certain fats, called sphingolipids, in the brain are affected by aging and inflammation.
+
+Using advanced imaging techniques, researchers observed significant differences in the brains of older animals compared to younger ones when exposed to inflammation. They found that in older brains, there was a dramatic decrease in a protective lipid called sphingomyelin, while another lipid, sulfatide, accumulated significantly. These changes were particularly pronounced in the brain's white matter, which is crucial for communication between different brain regions.
+
+The study also uncovered the underlying mechanism: an enzyme becomes overly active, leading to an excess of a molecule called ceramide. This excess ceramide then damages the mitochondria, the powerhouses of our cells, causing them to produce harmful reactive oxygen species and disrupting their energy production. This creates a vicious cycle, linking the altered fat metabolism directly to mitochondrial stress and making the white matter in older brains more vulnerable during inflammation.
+
+These findings offer a clearer picture of the molecular changes that contribute to brain vulnerability with age and inflammation, potentially opening new avenues for understanding and treating age-related neurological conditions.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.06.26.734865)
