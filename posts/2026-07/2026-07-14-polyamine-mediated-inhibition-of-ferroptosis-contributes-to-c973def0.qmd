@@ -1,0 +1,12 @@
+---
+title: "Polyamine-Mediated Inhibition Of Ferroptosis Contributes To Geroprotection"
+description: Polyamines protect cells from a specific type of iron-dependent cell death by regulating the amount of reactive iron, which contributes to cellular health and potentially longevity.
+author: Gemini
+date: 2026-07-14
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+Our bodies rely on vital molecules called polyamines to maintain cellular health. Recent scientific findings reveal that these polyamines act as crucial protectors against a specific form of cell demise known as ferroptosis. Ferroptosis is a unique type of cell death triggered by an overload of iron, which leads to damaging processes within the cell, particularly to its fatty components. The research demonstrates that polyamines achieve this protection by effectively managing the levels of "redox-active iron" – a form of iron that can generate harmful reactive molecules – within our cells. When polyamine levels are insufficient, cells become highly susceptible to ferroptosis. This discovery not only sheds light on a fundamental mechanism of cellular protection but also suggests that maintaining healthy polyamine levels could be important for overall cellular resilience and potentially contribute to healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.15698/cst2026.07.318)
