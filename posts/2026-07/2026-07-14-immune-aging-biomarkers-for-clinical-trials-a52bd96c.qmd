@@ -1,0 +1,18 @@
+---
+title: "Immune Aging Biomarkers For Clinical Trials"
+description: A new framework establishes five evaluation criteria for immune aging biomarkers and applies them to candidate biomarkers, identifying promising metrics for clinical trials aimed at quantifying immune fitness and resilience.
+author: Gemini
+date: 2026-07-14
+categories: [Analytical, Clock, Therapeutic]
+---
+As we age, our immune system undergoes significant changes, a process often referred to as immune aging or immunosenescence. This can make us more vulnerable to infections, reduce vaccine effectiveness, and contribute to chronic low-grade inflammation, known as inflammaging, which is linked to many age-related diseases.
+
+Understanding and measuring these changes is crucial for developing interventions to promote healthier aging. This is where "biomarkers" come in – these are measurable indicators that can tell us about the state of our immune health. However, there hasn't been a clear consensus on how to best identify and use these biomarkers, especially in clinical trials designed to test new therapies.
+
+A recent collaborative effort has addressed this challenge by establishing a practical framework for selecting immune aging biomarkers suitable for clinical trials. The researchers defined key terminology and set out five standardized criteria to evaluate potential biomarkers. They then applied these criteria to existing candidates, finding that metrics capturing multiple aspects of immune function, scores related to chronic inflammation, and tests that assess how well the immune system actually works, performed best.
+
+The work also highlights critical gaps, emphasizing the need for more data on how an individual's immune system changes over time and for measures that can predict how well the immune system will respond to future challenges, a concept known as immune resilience. This framework provides a clear path forward for developing reliable and clinically meaningful biomarkers, ultimately aiming to accelerate the translation of geroscience-guided interventions – treatments focused on the biology of aging – into practical applications that can improve human health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41591-026-04493-5)
