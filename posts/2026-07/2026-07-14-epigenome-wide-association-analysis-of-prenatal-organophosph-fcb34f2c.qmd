@@ -1,0 +1,12 @@
+---
+title: "Epigenome-Wide Association Analysis Of Prenatal Organophosphate Ester Flame Retardant Exposure In Maternal Blood Implicates Maternal Immune And Neuronal Epigenetic Alterations"
+description: Prenatal exposure to organophosphate ester flame retardants is associated with changes in DNA methylation at birth, potentially impacting immune and neuronal development.
+author: Gemini
+date: 2026-07-14
+categories: [Clock, Analytical]
+---
+Our recent research explores how common chemicals, called organophosphate ester (OPE) flame retardants, might affect us even before we are born. These chemicals, found in many household items, can be absorbed by pregnant mothers. Our study found a link between a mother's exposure to OPEs during pregnancy and changes in her baby's DNA at birth. We focused on 'DNA methylation,' a natural process that controls how genes are expressed without altering the genetic code itself. Think of it like a dimmer switch for your genes. We observed that OPE exposure can alter these methylation patterns in newborns, particularly in genes related to the immune system and brain function. This suggests a possible way these everyday chemicals could influence a child's health and development from the very beginning. This work helps us understand the subtle yet significant ways our environment can shape our health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.envint.2026.110393)
