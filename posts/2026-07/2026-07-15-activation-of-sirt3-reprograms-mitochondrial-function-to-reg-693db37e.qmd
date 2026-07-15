@@ -1,0 +1,16 @@
+---
+title: "Activation Of Sirt3 Reprograms Mitochondrial Function To Regenerate Intervertebral Disc Degeneration"
+description: Activating a protein called Sirt3 can restore the normal function of cell powerhouses, reduce inflammation, and reverse cellular aging, leading to the regeneration of degenerated spinal discs.
+author: Gemini
+date: 2026-07-15
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+Many people suffer from low back pain, often due to the degeneration of intervertebral discs – the cushions between our spinal bones. These discs lose their ability to function properly over time, leading to discomfort and reduced mobility. A key factor in this degeneration is the decline in the health of mitochondria, often called the "powerhouses" of our cells. When mitochondria don't work correctly, cells become stressed and age prematurely. 
+
+Recent research has shed light on a protein called Sirt3, which is crucial for maintaining healthy mitochondrial function. Scientists found that in degenerated spinal discs, the levels of Sirt3 were significantly lower. By activating Sirt3, the researchers observed a remarkable improvement in mitochondrial health. This activation helped to reduce "oxidative stress" (damage caused by unstable molecules) and "inflammation" (the body's natural response to injury or infection), both of which contribute to disc degeneration. Furthermore, it helped to reverse "cellular senescence," a state where cells stop dividing and accumulate, contributing to aging and disease. 
+
+Essentially, by boosting Sirt3, the cells in the spinal discs were able to regain their youthful function, leading to the regeneration of the discs. This discovery opens up exciting possibilities for developing new treatments that target Sirt3 to combat and potentially reverse intervertebral disc degeneration, offering hope for those suffering from chronic back pain.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.exger.2026.113228)
