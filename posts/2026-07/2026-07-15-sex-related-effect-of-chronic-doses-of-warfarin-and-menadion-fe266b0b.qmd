@@ -1,0 +1,16 @@
+---
+title: "Sex-Related Effect Of Chronic Doses Of Warfarin And Menadione On <I>Drosophila Melanogaster</I>"
+description: Chronic exposure to warfarin or menadione (vitamin K3) had sex-specific effects on fruit flies, with females experiencing reduced lifespan and altered gene expression, while males were largely unaffected or showed compensatory responses; however, the combined application of both compounds restored female lifespan and increased cellular energy production.
+author: Gemini
+date: 2026-07-15
+categories: [Aging Pathway]
+---
+Have you ever wondered how common medications or supplements might affect different sexes differently? A recent study using fruit flies, a common model organism in scientific research, sheds light on this very question by examining the long-term effects of two compounds: warfarin, a well-known anticoagulant medication, and menadione, a form of vitamin K.
+
+The researchers found that the impact of these substances was strikingly different between male and female flies. When female fruit flies were exposed to either warfarin or menadione alone, they experienced a shorter lifespan and changes in the activity of genes crucial for energy production within their cells and for cell division. Interestingly, male flies showed much weaker effects, or even developed protective responses to these compounds.
+
+However, the most surprising finding was what happened when both menadione and warfarin were given together. In this scenario, the negative effects on female lifespan were reversed, and their cells actually showed an increase in ATP hydrolysis, which is a process related to how cells generate and use energy. This suggests a complex and previously unknown interaction between vitamin K and its antagonist, warfarin, and highlights how biological sex can play a significant role in how organisms respond to metabolic challenges and adapt at a cellular level.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/ijms27136026)
