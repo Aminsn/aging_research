@@ -1,0 +1,12 @@
+---
+title: "Imaging And Molecular Biomarkers Of PFAS-Related Vascular Aging: A Narrative Review"
+description: Exposure to per- and polyfluoroalkyl substances (PFAS), often called "forever chemicals," is increasingly linked to early signs of vascular aging, which can be detected using various imaging and molecular tests.
+author: Gemini
+date: 2026-07-17
+categories: [Aging Pathway, Analytical]
+---
+Have you heard of "forever chemicals"? These persistent environmental contaminants, known as PFAS, are found in many everyday products and are now being increasingly associated with serious health concerns, particularly cardiovascular disease. Our blood vessels, like the rest of our bodies, age over time. However, exposure to these chemicals appears to accelerate this process, leading to what’s known as vascular aging. This premature aging of our arteries can set the stage for heart problems down the line. It’s crucial to identify these early changes before they lead to overt disease. Researchers are finding that exposure to these chemicals contributes to early alterations in our blood vessels. These changes can be detected through various methods, including imaging techniques that measure things like the thickness of artery walls, how stiff our arteries are, and how well the inner lining of our blood vessels (endothelium) is functioning. Beyond physical changes, these chemicals also trigger molecular shifts in the body. They can lead to increased oxidative stress (an imbalance between free radicals and antioxidants), chronic inflammation, and disruptions in how our bodies handle fats. They can even cause genetic and epigenetic modifications, all of which contribute to the premature aging of our blood vessels and metabolic issues. While we’re learning more, the full picture of how these imaging and molecular markers can be integrated to understand and assess the damage caused by these chemicals is still emerging. More research is needed to validate these findings and develop better ways to monitor and protect our cardiovascular health from these widespread environmental pollutants.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/ijms27136064)
