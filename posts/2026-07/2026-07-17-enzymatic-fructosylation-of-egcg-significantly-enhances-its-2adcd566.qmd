@@ -1,0 +1,20 @@
+---
+title: "Enzymatic Fructosylation Of EGCG Significantly Enhances Its Stability For Skin Barrier Repair And Anti-Aging Activities"
+description: A modified version of EGCG, a compound found in green tea, has been developed that is significantly more stable and soluble, making it more effective for improving skin barrier function and combating signs of aging.
+author: Gemini
+date: 2026-07-17
+categories: [Therapeutic, Aging Pathway]
+---
+Green tea is well-known for its health benefits, and one of its key active ingredients, called EGCG, is particularly praised for its antioxidant and anti-aging properties. However, using EGCG in skincare products has been challenging because it doesn't dissolve well in water and breaks down easily, losing its effectiveness.
+
+Scientists have found a clever way around this problem by creating a new version of EGCG through a process called "enzymatic fructosylation." This involves using a special enzyme to attach a sugar molecule (fructose) to EGCG, resulting in a new compound called EGCG-1F.
+
+This modification dramatically improves EGCG-1F's properties. It becomes nearly 100 times more soluble in water and much more stable, especially in acidic conditions and when exposed to heat, which are common challenges in cosmetic formulations.
+
+Beyond its improved stability, EGCG-1F also shows enhanced biological activity beneficial for skin. It significantly boosts the movement of skin cells, which is crucial for wound healing and repair. It also helps increase the production of important proteins like collagens (specifically types 4, 7, and 17) in skin cells damaged by UVB radiation, strengthening the skin's protective barrier. Furthermore, it helps to rebalance the levels of collagens (types 1 and 3) and enzymes that break down collagen (matrix metalloproteinase-1) in skin cells affected by UVA radiation, which contributes to reducing the visible signs of aging.
+
+This breakthrough means we could see more effective and stable green tea-derived ingredients in future skincare products aimed at repairing the skin barrier and fighting aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/molecules31132381)
