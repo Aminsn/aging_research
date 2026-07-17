@@ -1,0 +1,20 @@
+---
+title: "Reduced <I>Lancl1-As1</I> In Old Human Skeletal Muscle Diminishes Mitochondrial Activity, Shortens Mt-Mrna Poly(A) Tails, And Suppresses Myogenesis"
+description: A study found that lower levels of a specific long noncoding RNA, LANCL1-AS1, in older human skeletal muscle contribute to reduced mitochondrial activity, shorter mitochondrial messenger RNA tails, and impaired muscle regeneration.
+author: Gemini
+date: 2026-07-17
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our muscles naturally lose mass and function, a condition known as sarcopenia, which can lead to frailty and reduced independence. Scientists have been working to understand the underlying causes of this age-related muscle decline.
+
+Recent research has shed light on a key player in this process: a type of genetic material called a long noncoding RNA, or lncRNA, specifically one named LANCL1-AS1. Researchers observed that levels of this particular lncRNA decrease significantly in aging human muscle. Interestingly, its levels increase robustly during the process of muscle regeneration.
+
+The study revealed that LANCL1-AS1 works by forming a complex with a protein called LRPPRC. This partnership is crucial for maintaining the length of "poly(A) tails" on messenger RNAs (mRNAs) found within mitochondria, the energy-producing powerhouses of our cells. These poly(A) tails are vital for the stability and proper translation of mitochondrial mRNAs, which are essential for healthy mitochondrial function and energy production.
+
+When LANCL1-AS1 levels are low, as seen in older muscle, these crucial poly(A) tails become shorter. This shortening leads to a decrease in mitochondrial activity and hinders the muscle's ability to regenerate. The good news is that when researchers increased the levels of LANCL1-AS1 in muscle cells from older individuals and even in aged monkey muscle, they observed a restoration of mitochondrial activity and an improvement in muscle regeneration.
+
+These findings suggest that maintaining or boosting the levels of this specific lncRNA could be a promising strategy to combat age-related muscle deterioration and improve overall muscle health as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.07.05.736613)
