@@ -1,0 +1,12 @@
+---
+title: "Virtual Nature, Metaverse, And NAD⁺: A Narrative Review For Health Planning And Healthy Ageing"
+description: Digital experiences such as virtual reality nature and immersive exercise can positively influence stress and physical activity, potentially impacting cellular aging processes, while the metaverse offers social benefits but also risks of sedentary behavior.
+author: Gemini
+date: 2026-07-17
+categories: [Aging Theory, Aging Pathway, Lever]
+---
+Imagine a future where your digital interactions could actively contribute to your well-being and even influence how you age. Recent research explores how virtual environments, from serene digital nature scenes to interactive online worlds and exercise-focused video games, might play a role in our health. For instance, spending time in virtual nature can help reduce stress and anxiety, much like real-world nature experiences. Engaging in "exergaming," which are video games that get you moving, can provide a workout comparable to traditional exercise, potentially boosting a vital molecule in our bodies called NAD⁺. This molecule, nicotinamide adenine dinucleotide, is essential for many cellular functions and is thought to be important for healthy aging. While online social spaces can foster connections and positive feelings, it's also important to be mindful of potential downsides like increased sitting time. This emerging field suggests that by carefully designing our digital experiences, we could create new avenues for promoting physical activity, managing stress, and supporting healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/hsr2.72389)
