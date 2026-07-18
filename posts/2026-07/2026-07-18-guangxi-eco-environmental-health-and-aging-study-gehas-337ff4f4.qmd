@@ -1,0 +1,12 @@
+---
+title: "Guangxi Eco-Environmental Health And Aging Study (GEHAS)"
+description: The Guangxi Eco-Environmental Health and Aging Study (GEHAS) revealed that improved air quality can slow down frailty in older adults, and specific local dietary practices are associated with a reduced risk of age-related diseases.
+author: Gemini
+date: 2026-07-18
+categories: [Analytical, Lever, Clock]
+---
+This extensive research initiative explores the intricate connections between our environment, lifestyle, and the aging process in a diverse population. Scientists are investigating how the sum of an individual's environmental exposures over their lifetime, known as the exposome, interacts with their unique biological profiles, including their genes, proteins, and metabolites (multi-omics), to shape healthy aging. The findings indicate that better air quality can help mitigate the progression of frailty, a state of increased vulnerability to adverse health outcomes, in older individuals. This effect is partly observed through changes in DNA methylation, a process that can influence gene activity without altering the underlying genetic sequence. Additionally, the study suggests that traditional dietary habits and local foods, such as the consumption of oil tea, may contribute to a lower risk of age-related conditions like unhealthy blood fat levels (dyslipidemia) and type 2 diabetes. Diets rich in vegetables and mushrooms were also linked to enhanced cognitive performance, while antioxidant-rich eating patterns appeared to lessen the impact of certain aging-related health issues. The research also identified associations between exposure to high temperatures and mental health outcomes, and found that prolonged exposure to air pollution might increase the risk of lung cancer, especially for those with a higher inherited susceptibility.
+
+---
+
+Source: [link to paper](https://doi.org/10.1136/bmjopen-2025-112136)
