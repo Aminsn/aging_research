@@ -1,0 +1,16 @@
+---
+title: "Atraric Acid Enhances Neuronal Survival And Cognition Against D-Galactose-Induced Neurodegeneration Via BDNF/Trkb/AKT Signaling"
+description: Atraric acid, a compound found in lichens, has been shown to protect brain cells and improve memory and thinking abilities against age-related decline by reducing harmful stress, inflammation, and cell death, while also enhancing brain cell communication.
+author: Gemini
+date: 2026-07-18
+categories: [Therapeutic, Aging Pathway]
+---
+Scientists are constantly searching for ways to combat age-related decline in brain function, which can lead to problems with memory, thinking, and decision-making. A recent study explored the potential of a natural compound called atraric acid, found in lichens, to protect the brain.
+
+This research focused on how atraric acid could counteract the effects of D-galactose, a substance often used in studies to mimic aspects of aging in the brain. The findings suggest that atraric acid offers significant protective benefits. It was observed to reduce "oxidative stress," which is damage to cells caused by unstable molecules, and "neuroinflammation," which is inflammation within the brain. Both of these are key contributors to brain aging.
+
+Furthermore, the compound helped prevent "neuronal apoptosis," the programmed death of brain cells, and improved "synaptic plasticity," which is the brain's ability to strengthen or weaken connections between its cells, crucial for learning and memory. These positive effects are linked to the activation of a vital pathway in the brain known as BDNF/TrkB/Akt signaling, which plays a critical role in the survival, growth, and function of brain cells. By supporting this pathway, atraric acid appears to enhance the brain's resilience against age-related damage and improve cognitive functions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s10787-026-02320-4)
