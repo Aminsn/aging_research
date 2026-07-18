@@ -1,0 +1,18 @@
+---
+title: "Synergistic Effects Of Intense Pulsed Light And Glycolic Acid On Photoaging And The Involvement Of Cd26 In Photoprotection"
+description: Combined treatment with Intense Pulsed Light and glycolic acid accelerates the improvement of photoaged skin, with the protein CD26 playing a significant role in protecting against sun damage by influencing collagen production and cellular defense mechanisms.
+author: Gemini
+date: 2026-07-18
+categories: [Therapeutic, Aging Pathway]
+---
+Ever wonder how to best combat the signs of sun-damaged skin, often called photoaging? Photoaging refers to the changes in your skin, like wrinkles, spots, and uneven texture, that occur from years of sun exposure. Common treatments include Intense Pulsed Light (IPL), a light-based therapy, and glycolic acid peels, which use a mild acid to exfoliate the skin.
+
+A recent study explored whether combining these two popular treatments could offer better results and investigated the role of a specific protein called CD26 in this process. The findings revealed that using Intense Pulsed Light alongside glycolic acid led to a much faster improvement in skin appearance, specifically reducing spots and red areas, compared to using IPL alone.
+
+Beyond the clinical improvements, the research uncovered that CD26, a protein found on the surface of cells that is important for cell function and collagen production, plays a crucial role in how our skin responds to sun damage. The study observed that CD26 levels increased in photoaged skin and after IPL treatment. When CD26 was experimentally reduced in skin cells, it resulted in more DNA damage and signs of cellular aging. This suggests that CD26 acts as a protective agent, helping to regulate the production of collagen—the protein that gives skin its structure and firmness—and activating cellular pathways, like Nrf2-associated signaling, which are vital for protecting cells from stress and damage caused by UV radiation.
+
+Understanding the involvement of CD26 in these processes opens up exciting possibilities for developing new strategies to protect skin from sun damage and enhance treatments for photoaging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/lsm.70174)
