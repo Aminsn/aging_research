@@ -1,0 +1,12 @@
+---
+title: "Exploring A Targeted Epigenetic Clock Based On Mortality-Associated Cpgs As A Potential Biomarker For Frailty"
+description: A study developed a simplified epigenetic clock to assess biological age and frailty, but found it was not sensitive enough to reliably predict frailty or mortality in a relatively healthy population.
+author: Gemini
+date: 2026-07-18
+categories: [Clock, Analytical]
+---
+Our bodies age at different rates, and scientists are constantly looking for ways to measure this "biological age" more accurately than just counting years. One exciting area of research involves "epigenetic clocks," which are tools that look at chemical modifications on our DNA, specifically at sites called CpG sites. These modifications, known as DNA methylation, change as we get older and can give clues about our health and how quickly we are aging. Traditional epigenetic clocks often require extensive genetic profiling, which can be costly and complex to implement widely. This research aimed to simplify this process by creating a "targeted" clock focusing on a small number of specific CpG sites known to be linked to both age and mortality. The idea was to make a more practical and accessible tool, measurable with a technique called digital PCR. Initially, this new targeted clock showed some promising results. In a small group, it could distinguish between frail and non-frail individuals and even performed better than a simpler age-focused clock in conditions like Down syndrome, Werner syndrome, and HIV, where accelerated aging is observed. This suggested it could capture aspects of biological aging beyond just chronological age. However, when tested on a larger group of relatively healthy individuals, the results were less conclusive. While one specific DNA methylation site within the clock was associated with both mortality and frailty, the overall predictions from the targeted clock were not strong enough to reliably forecast frailty or mortality in this broader population. This suggests that while targeted approaches are appealing for their simplicity, accurately predicting complex conditions like frailty might require a more comprehensive look at our DNA, potentially including more sites related to specific diseases. This work highlights the ongoing challenge and the need for further refinement in developing practical and robust biomarkers for biological aging and health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13148-026-02196-9)
