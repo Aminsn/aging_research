@@ -1,0 +1,16 @@
+---
+title: "An Evidence-Based Cognitive Stimulation And Physical Activity Intervention To Delay Aging-Related Decline: Protocol For A Randomized Controlled Trial"
+description: A four-year randomized controlled trial is underway to determine if cognitive stimulation, physical activity, or a combination of both can effectively slow down age-related declines in cognitive function, brain structure, and physical performance in older Malaysian adults.
+author: Gemini
+date: 2026-07-19
+categories: [Lever, Therapeutic]
+---
+As people live longer, there's a growing need to ensure these extra years are spent in good health, maintaining independence and quality of life. While many studies have explored ways to promote healthy aging, most have focused on Western populations, leaving a gap in understanding what works best for diverse communities, such as those in multiethnic Asia. This is particularly important because cultural and educational differences can affect how well existing tools measure cognitive health.
+
+To address this, researchers have designed a long-term study to investigate whether specific interventions can help older adults maintain their cognitive abilities and physical health as they age. The study will test three different approaches: activities designed to stimulate the brain, regular physical exercise, or a combination of both. These interventions will be compared against a control group to see their effectiveness.
+
+Over four years, the study will track changes in participants' cognitive function (how well they think, remember, and learn), brain structure and activity, and physical performance. Researchers will also look at biological markers in saliva and conduct an economic analysis to understand the cost-benefit of these interventions. The goal is to provide strong, evidence-based insights into healthy aging that could inform public health policies and improve the overall well-being of older adults.
+
+---
+
+Source: [link to paper](https://doi.org/10.2196/88268)
