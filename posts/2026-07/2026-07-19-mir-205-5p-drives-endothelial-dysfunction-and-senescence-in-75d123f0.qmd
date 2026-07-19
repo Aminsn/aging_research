@@ -1,0 +1,16 @@
+---
+title: "Mir-205-5P Drives Endothelial Dysfunction And Senescence In Pulmonary Fibrosis"
+description: A specific microRNA, miR-205-5p, is found in elevated levels in the lung lining cells of individuals with pulmonary fibrosis and contributes to the aging and dysfunction of these cells, which in turn promotes the scarring process in the lungs.
+author: Gemini
+date: 2026-07-19
+categories: [Aging Pathway, Therapeutic]
+---
+Our lungs rely on a delicate network of blood vessels, lined by special cells called endothelial cells, to function properly. In a serious lung disease known as idiopathic pulmonary fibrosis (IPF), these endothelial cells can become dysfunctional and show signs of premature aging, a process called senescence. This cellular aging contributes to the progressive scarring that characterizes IPF.
+
+Recent research has shed light on a key player in this process: a tiny molecule called miR-205-5p. Scientists discovered that miR-205-5p is present in unusually high amounts in the lung endothelial cells of both animal models with lung fibrosis and human patients with IPF. When this molecule is overactive, it drives the endothelial cells to age prematurely and malfunction. These aged and dysfunctional endothelial cells then release signals that activate fibroblasts, the cells responsible for producing scar tissue, leading to further lung damage.
+
+Crucially, the study found that blocking the activity of miR-205-5p could reverse these harmful effects. Inhibiting this molecule in diseased lung cells reduced their premature aging and limited their ability to promote fibroblast activation. Furthermore, in animal models, blocking miR-205-5p helped protect the lung’s blood vessel network and slowed down the progression of fibrosis. These findings suggest that targeting miR-205-5p could be a promising new strategy for developing treatments to combat pulmonary fibrosis.
+
+---
+
+Source: [link to paper](https://doi.org/10.1172/jci.insight.201842)
