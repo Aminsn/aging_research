@@ -1,0 +1,18 @@
+---
+title: "Plant-Derived Mitochondria Mitigate Aging-Related Neurodegeneration By Reprogramming Microglial Mitochondrial Energy Metabolism"
+description: A recent study found that mitochondria from edible plants, specifically turmeric, can travel from the gut to the brain, integrate into brain immune cells, and improve cognitive function in aged mice by optimizing their energy production.
+author: Gemini
+date: 2026-07-19
+categories: [Therapeutic, Aging Pathway]
+---
+Our bodies are complex machines, and at the heart of every cell are tiny powerhouses called mitochondria, responsible for generating the energy (ATP) we need to function. In our brains, specialized immune cells called microglia play a crucial role in maintaining brain health. However, as we age, these microglia can become less efficient, leading to a decline in brain function and contributing to neurodegeneration, the progressive loss of brain cells.
+
+Exciting new research has uncovered a fascinating way to potentially combat this age-related decline. Scientists have discovered that mitochondria derived from edible plants, such as turmeric, can be absorbed into the bloodstream after consumption. Remarkably, these plant-derived mitochondria can then travel all the way to the brain, where they are taken up by microglia through a specific "eating" mechanism involving a receptor called TREM2. Once inside, these plant mitochondria don't just sit there; they actually fuse with the microglia's own mitochondria, a process facilitated by a protein called mitofusin 1.
+
+This fusion has a profound effect: it "reprograms" the energy metabolism of the microglia. In aged brains, microglia often suffer from an inefficient energy production process that generates harmful byproducts called reactive oxygen species (ROS). The plant mitochondria help to correct this by inhibiting a process called reverse electron transport (RET), which is a major source of these harmful ROS. By doing so, they reduce oxidative stress and boost the production of ATP, the vital energy currency of the cell.
+
+The result? In aged mice, this mitochondrial "reprogramming" led to a reversal of age-related cognitive decline. Interestingly, similar metabolic inefficiencies and high ROS levels were also observed in the microglia of elderly human subjects, suggesting the potential relevance of these findings for human health. This groundbreaking work opens up a new avenue for developing therapies that use plant-derived components to prevent or treat age-related neurodegenerative diseases by enhancing the energy efficiency of our brain's immune cells.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s40035-026-00565-1)
