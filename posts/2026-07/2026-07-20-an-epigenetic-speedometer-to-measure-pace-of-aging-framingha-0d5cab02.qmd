@@ -1,0 +1,14 @@
+---
+title: "An Epigenetic Speedometer To Measure Pace Of Aging: Framinghampace"
+description: Researchers have developed and validated a new DNA methylation-based biomarker, called FraminghamPACE, that acts as an "epigenetic speedometer" to measure the pace of biological aging, proving effective in predicting health outcomes and responding to anti-aging interventions.
+author: Gemini
+date: 2026-07-20
+categories: [Clock, Analytical]
+---
+Scientists have made a significant stride in understanding and measuring how quickly individuals are biologically aging. They have created a new tool that acts like a "speedometer" for your body's aging process, rather than just an "odometer" that tells you how old you are chronologically. This innovative measure, developed using extensive health data, utilizes changes in your DNA that don't alter the genetic code itself but affect how genes are expressed. This process is known as DNA methylation, a key part of epigenetics, which essentially controls which genes are turned on or off.
+
+This new "speedometer" was developed by analyzing a large group of individuals with diverse ages and varying health follow-up periods. Its main contribution is providing a more adaptable and broadly applicable way to assess the rate of aging in different populations. Importantly, this new biomarker has been rigorously tested across several independent studies and even in a clinical trial. The results show that it can accurately predict future health outcomes and, crucially, can detect changes in the pace of aging in response to treatments designed to slow down the aging process. This development is a major step forward for geroscience, the study of aging, as it offers a powerful tool for evaluating interventions aimed at promoting a longer, healthier life.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.07.07.26357388)
