@@ -1,0 +1,20 @@
+---
+title: "A Generator-Matrix Causal-Inference Framework Separates Measurable Aging Biomarkers From Mortality-Driving Latent Dynamics In Humans"
+description: A new computational framework reveals that approximately 92% of the age-related increase in mortality is driven by unmeasured factors, and commonly used blood biomarkers of aging primarily track mortality risk rather than causally influencing lifespan.
+author: Gemini
+date: 2026-07-20
+categories: [Aging Theory, Clock, Analytical]
+---
+Scientists have long sought to understand what truly drives aging and mortality. Many "aging clocks" and blood tests can predict how long someone might live, but it's been unclear whether these measurements are actually causing us to age and die, or simply reflecting the process. Think of it like a thermometer showing a fever—it measures the fever, but doesn't cause it. This new research introduces a powerful computational method to tell the difference between markers that predict mortality and those that are truly causal.
+
+The study used a dynamic model that treats death as an endpoint, analyzing data from large population studies. It found that a significant portion—around 92%—of the accelerated mortality we see with age isn't explained by the blood biomarkers we can currently measure. This suggests a "latent component" or hidden factors are largely at play.
+
+To further investigate, the researchers employed a genetic test, similar to a natural experiment, using inherited gene variations. They calibrated this test with proteins already known to affect lifespan. The results indicated that many popular measurable markers, including those related to inflammation, growth signaling, and epigenetic clocks (which measure changes in DNA), do not causally influence human lifespan. In contrast, proteins already known to be causal did show an effect.
+
+Finally, the team looked at cellular "rejuvenation" techniques. They observed that while these methods could reverse a chronological age measure, they did not reverse a "damage clock" that is enriched for causal effects. This implies that while some aspects of aging can be reset, the underlying damage driving mortality remains resistant.
+
+Collectively, these findings suggest that many widely used measures of aging are good at predicting mortality risk but don't necessarily pinpoint the root causes. The new computational framework developed in this study offers a valuable tool for future research to distinguish between what predicts aging and what actually drives it, paving the way for more effective interventions.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.07.05.26356402)
