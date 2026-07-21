@@ -1,0 +1,16 @@
+---
+title: "Circulating Extracellular Vesicles In Plasma Carry Accessible Molecular Signatures Of Aging In Mice"
+description: Researchers have identified specific protein changes within tiny circulating packages in the blood of mice that accurately reflect and predict their chronological age, revealing new insights into the aging process and potential markers for age-related diseases.
+author: Gemini
+date: 2026-07-21
+categories: [Clock, Analytical, Aging Pathway]
+---
+Our bodies are constantly changing as we age, and scientists are always looking for new ways to understand and track these changes. A recent study explored tiny bubbles released by cells into the bloodstream, called extracellular vesicles (EVs), which act like messengers carrying proteins and other molecules. Think of these EVs as miniature postal carriers, delivering information about the health and state of our cells throughout the body.
+
+Using advanced techniques, researchers analyzed the proteins carried within these circulating EVs in mice of different ages. They discovered that the types and amounts of proteins within these vesicles change significantly as the mice get older. For instance, some proteins linked to maintaining our genetic material increased with age, while others involved in tissue structure and fat metabolism decreased. Interestingly, some of the proteins that increased most dramatically with age are also implicated in diseases like Alzheimer's and Parkinson's.
+
+What's more, the study found that aging affects male and female mice differently at this molecular level. By looking at these protein patterns, the scientists were able to create a "proteomic clock" that could accurately predict a mouse's age. This research suggests that these circulating EVs hold valuable clues about the aging process and could potentially lead to new ways to monitor aging and detect age-related health issues earlier, not just in mice but potentially in humans too.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.07.10.737625)
