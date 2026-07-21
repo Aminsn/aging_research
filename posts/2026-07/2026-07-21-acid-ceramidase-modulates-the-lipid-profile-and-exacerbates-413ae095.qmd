@@ -1,0 +1,14 @@
+---
+title: "Acid Ceramidase Modulates The Lipid Profile And Exacerbates Sensitivity To Ferroptosis In WI-38 Replicative Senescent Cells"
+description: Acid ceramidase, an enzyme that breaks down lipids, increases the susceptibility of aging cells to a specific type of cell death called ferroptosis by changing the fatty acid composition of their cell membranes.
+author: Gemini
+date: 2026-07-21
+categories: [Aging Pathway, Therapeutic]
+---
+As our cells age, they can enter a state called senescence, where they stop dividing but remain active, contributing to various age-related conditions. This study uncovers a fascinating link between these aging cells and a specific form of cell death known as ferroptosis, which is characterized by iron-dependent lipid damage. Researchers found that an enzyme called acid ceramidase plays a crucial role in this process. This enzyme works by breaking down certain fats in the cell, which in turn alters the types of fatty acids found in the cell membranes. These changes make the aging cells more vulnerable to ferroptosis. 
+
+Interestingly, the study also revealed that these senescent cells don't just affect themselves; they can also make healthy, non-aging cells more susceptible to ferroptosis. They do this by releasing signaling molecules that increase the levels of acid ceramidase in neighboring cells. Understanding this mechanism could open new doors for developing treatments that target aging-related diseases and promote healthier aging by controlling how these cells die.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41419-026-09108-y)
