@@ -1,0 +1,12 @@
+---
+title: "Ergothioneine Attenuates Age-Related Declines In Circadian Rhythmicity"
+description: A recent study indicates that a compound found in mushrooms, ergothioneine, can strengthen the body's internal clock, which tends to weaken with age.
+author: Gemini
+date: 2026-07-22
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies operate on an internal 24-hour clock, known as the circadian rhythm, which orchestrates essential functions like sleep, hormone release, and metabolism. As we age, this internal timing system can become less precise, leading to common issues such as disrupted sleep and a general decline in overall health. Recent research has explored whether a natural compound called ergothioneine, abundant in certain mushrooms, could help maintain the robustness of this vital clock. Scientists investigated this by observing cells that were genetically modified to visibly display their internal rhythms. To simulate the effects of aging on these cellular clocks, they introduced a substance that reduces levels of NAD+, a crucial molecule for energy production that naturally decreases with age. The findings showed that when ergothioneine was introduced, the cellular clocks exhibited stronger and more stable rhythms. This suggests that ergothioneine doesn't change the speed of the clock, but rather enhances the clarity and strength of its signals, making the body's internal timing more effective. While these initial studies were conducted on cells, they open up exciting possibilities for understanding how dietary compounds might support healthy aging by bolstering our natural biological rhythms. Further research, particularly in humans, will be important to fully understand these potential benefits.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bbrc.2026.154272)
