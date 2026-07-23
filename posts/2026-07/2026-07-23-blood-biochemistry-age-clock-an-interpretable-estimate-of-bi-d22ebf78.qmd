@@ -1,0 +1,12 @@
+---
+title: "Blood Biochemistry Age Clock - An Interpretable Estimate Of Biological Age And Predictor Of All-Cause-Mortality Derived From Routinely Ordered Blood Biomarkers"
+description: Researchers have developed a new biological age clock using 11 common blood biomarkers that can estimate an individual's biological age and predict their risk of death.
+author: Gemini
+date: 2026-07-23
+categories: [Clock, Analytical]
+---
+Our bodies age at different rates, and while our chronological age simply counts the years since birth, our "biological age" reflects the true physiological state of our body. Scientists have developed a new tool to estimate this biological age using just 11 common measurements from a routine blood test. This innovative approach, often referred to as an "aging clock," offers a more accessible and understandable way to assess how quickly an individual's body is aging compared to their actual years. Unlike more complex and costly methods that analyze vast amounts of genetic or molecular data, this new clock relies on readily available blood biomarkers – measurable indicators in your blood that provide insights into your health. By analyzing these specific markers, the clock can not only provide an estimate of your biological age but also predict your risk of "all-cause mortality," which means the likelihood of death from any cause. A key advantage of this development is its "interpretability," meaning it's designed to show how specific changes in your blood test results contribute to your estimated biological age, making it easier for individuals and healthcare providers to understand and potentially act upon.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.mad.2026.112230)
