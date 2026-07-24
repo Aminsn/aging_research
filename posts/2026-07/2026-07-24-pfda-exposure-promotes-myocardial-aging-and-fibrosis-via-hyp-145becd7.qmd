@@ -1,0 +1,16 @@
+---
+title: "PFDA Exposure Promotes Myocardial Aging And Fibrosis Via Hyperactivation Of The Mtorc1 Signaling Axis"
+description: Exposure to PFDA, a type of "forever chemical," accelerates the aging and scarring of heart muscle by overactivating a crucial cellular pathway known as mTORC1.
+author: Gemini
+date: 2026-07-24
+categories: [Aging Theory, Aging Pathway]
+---
+Our hearts are constantly working, and like all organs, they are susceptible to the effects of aging and environmental factors. Recent research sheds light on how exposure to certain pervasive environmental contaminants, often called "forever chemicals" (Per- and Polyfluoroalkyl Substances or PFAS), can negatively impact heart health. Specifically, one such chemical, PFDA, has been found to contribute to the premature aging and scarring of heart tissue.
+
+This damage occurs through the overactivation of a vital cellular communication network known as the mTORC1 signaling pathway. Think of mTORC1 as a master regulator within our cells, controlling essential processes like growth, metabolism, and even how our cells age. While mTORC1 plays a crucial role in normal cell function, its excessive activation can lead to problems. In the context of heart health, an overactive mTORC1 pathway can disrupt the delicate balance of protein production and breakdown, impair the function of mitochondria (the powerhouses of our cells), and hinder the cell's natural "cleanup" process called autophagy. These disruptions collectively contribute to the accumulation of damaged components, leading to accelerated aging of heart muscle cells and the formation of fibrous, scar-like tissue (fibrosis), which can impair the heart's ability to function effectively.
+
+Understanding this specific mechanism—how PFDA exposure triggers mTORC1 overactivity to promote heart aging and scarring—is a significant step. It opens doors for developing new strategies to protect our hearts from these environmental toxins and potentially mitigate the long-term cardiovascular risks associated with "forever chemical" exposure.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.fct.2026.116268)
