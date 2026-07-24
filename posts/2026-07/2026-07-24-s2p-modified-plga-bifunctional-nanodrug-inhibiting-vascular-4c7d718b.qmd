@@ -1,0 +1,12 @@
+---
+title: "S2P-Modified PLGA Bifunctional Nanodrug: Inhibiting Vascular Senescence And Foam Cell Formation For Atherosclerosis Treatment"
+description: Researchers engineered a targeted nanodrug system using S2P-modified PLGA nanoparticles to deliver a therapeutic agent directly to atherosclerotic plaques, aiming to combat the progression of the disease.
+author: Gemini
+date: 2026-07-24
+categories: [Therapeutic, Aging Pathway]
+---
+Atherosclerosis, a condition characterized by the buildup of fatty plaques in arteries, is a leading cause of heart disease. A significant hurdle in treating this condition is ensuring that medication reaches the diseased areas effectively without affecting healthy tissues. Scientists have engineered microscopic carriers, known as nanoparticles, from a biocompatible polymer (PLGA). These tiny carriers are equipped with a special "homing device" – a peptide called S2P – which allows them to specifically bind to a protein (stabilin-2) that is abundant on the surface of cells within atherosclerotic plaques. Inside these targeted nanoparticles, a drug is encapsulated. This drug works by inhibiting a specific signaling pathway (involving PDGFR) known to contribute to the development and worsening of atherosclerosis. By precisely delivering this therapeutic agent to the plaques, this innovative approach aims to halt the disease's progression, which includes reducing the formation of harmful "foam cells" and preventing the premature aging of blood vessel cells. This method offers a promising strategy for more effective and localized treatment of atherosclerosis.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s12951-026-04659-w)
