@@ -1,0 +1,20 @@
+---
+title: "Reversal Of Protein Chemical Aging By Enzymatic Deglycation"
+description: Scientists have engineered an enzyme that can reverse a specific type of age-related protein damage, previously thought to be permanent, in human tissue samples.
+author: Gemini
+date: 2026-07-25
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+Our bodies are constantly working, and just like any complex machinery, their components can accumulate wear and tear over time. One significant form of this "chemical aging" happens to our proteins, the workhorses of our cells. Over decades, sugars in our body can react with proteins in a process similar to how food browns when cooked, leading to the formation of sticky, damaging molecules called advanced glycation end products, or AGEs. These AGEs can stiffen tissues and contribute to inflammation, playing a role in various age-related conditions.
+
+Among these AGEs, a particularly stubborn one known as Nε-carboxymethyl-lysine (CML) has long been considered irreversible, meaning once it formed on a protein, there was no known way for the body to remove it. This accumulation of CML has been a persistent challenge in understanding and combating the effects of aging.
+
+However, a recent scientific breakthrough offers a new perspective. Researchers have successfully engineered a novel enzyme, developed through a process called "directed evolution"—think of it as super-fast, targeted natural selection in the lab—to specifically target and remove CML from proteins. This enzyme acts like a molecular repair crew, capable of reversing this previously irreversible damage.
+
+In laboratory tests on donated human tissue samples, including skin and arterial tissue from elderly donors, this engineered enzyme dramatically reduced CML levels. For instance, it cleared over 70% of the damage in aged artery walls and reduced CML in elderly skin to levels typically found in a 31-year-old.
+
+This discovery is a significant step forward because it demonstrates that some forms of age-related molecular damage, once considered permanent, can indeed be repaired. While this research is currently in its early stages and was conducted on tissue outside the body, it opens exciting new avenues for developing therapies that could one day help repair tissues compromised by aging and disease, potentially restoring their function and elasticity.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41467-026-75141-2)
