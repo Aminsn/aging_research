@@ -1,0 +1,18 @@
+---
+title: "Engineered Senescence-Targeting Apoptotic Extracellular Vesicles-Laden Injectable Hydrogel Microspheres Mitigating Nucleus Pulposus Cell Ferroptosis Against Intervertebral Disc Degeneration"
+description: A new therapeutic strategy utilizes specially engineered tiny sacs released by stem cells, delivered via an injectable gel, to target and reduce cellular aging and a specific form of cell death in spinal disc cells, which helps to slow the progression of intervertebral disc degeneration.
+author: Gemini
+date: 2026-07-25
+categories: [Therapeutic, Aging Pathway, Analytical]
+---
+Intervertebral disc degeneration (IDD) is a common condition that causes chronic back pain by affecting the cushioning discs between our spinal bones. This degeneration is often linked to the aging of specific cells within these discs, called nucleus pulposus cells, and a particular type of cell death known as ferroptosis. Senescence, or cellular aging, means these cells stop dividing but remain active, potentially releasing harmful substances. Ferroptosis is a unique form of cell death driven by iron, leading to the accumulation of damaging fats within cells.
+
+Researchers have developed an innovative approach to combat this. They created "domesticated vesicles" (D-EVs) by treating mesenchymal stem cells (a type of adult stem cell) in a way that makes their released tiny sacs, known as extracellular vesicles, better at targeting and reversing cellular aging. These extracellular vesicles are like miniature packages that cells use to communicate, carrying proteins and other molecules.
+
+These specially prepared vesicles are rich in a protective protein called GPX4, which is crucial for preventing ferroptosis. They are designed to specifically find and attach to the aged nucleus pulposus cells in the degenerating disc. To ensure these therapeutic vesicles are delivered effectively and released over time where needed, they are embedded within an injectable hydrogel. This gel is "smart" because it responds to reactive oxygen species, which are often elevated in diseased tissues, allowing for a controlled release of the vesicles.
+
+Both laboratory and animal studies have shown that this system effectively reduces ferroptosis and cellular aging pathways, preventing the harmful changes associated with aging cells and ultimately slowing down the progression of intervertebral disc degeneration.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.biomaterials.2026.124454)
