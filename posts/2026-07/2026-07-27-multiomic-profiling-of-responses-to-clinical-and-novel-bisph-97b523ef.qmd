@@ -1,0 +1,14 @@
+---
+title: "Multiomic Profiling Of Responses To Clinical And Novel Bisphosphonates Reveals Extraskeletal Effects On Ageing Related Signatures"
+description: Bisphosphonates, commonly used for bone conditions, have been found to exert anti-aging effects on various non-skeletal tissues and cellular processes, suggesting broader health benefits beyond bone health.
+author: Gemini
+date: 2026-07-27
+categories: [Therapeutic, Aging Pathway, Analytical, Aging Theory]
+---
+For decades, a class of drugs has been a cornerstone in treating conditions involving bone loss. However, new research suggests these medications might offer surprising benefits beyond strengthening bones, potentially influencing the aging process itself. This study delves into how these drugs affect the body at a molecular level, not just in bones, but in other vital organs as well. 
+
+Using advanced techniques to analyze a vast array of biological molecules, researchers observed that in aged mice, treatment with one of these drugs led to a cellular rejuvenation in organs like the heart, liver, and intestines. This means cells in these tissues started to resemble those of younger animals, with improved functions related to detoxification, energy production, and protection against damage. In human studies, the same drug significantly altered hundreds of proteins in the blood, reducing those associated with cellular aging and dysfunction. Furthermore, low doses of these medications were shown to promote cell growth and protect various human cell types, particularly heart cells, from damage that typically leads to aging. The findings also pinpointed specific molecular targets and pathways through which these drugs exert their effects, opening doors for understanding their broader impact on health and potentially developing new strategies to combat age-related decline.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41392-026-02799-x)
