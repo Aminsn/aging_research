@@ -1,0 +1,16 @@
+---
+title: "Cell-Type-Specific Atf6Α Programs Regulate Epithelial Mitochondrial Homeostasis And Pericyte Remodeling During Physiological And Exposure-Accelerated Lung Aging"
+description: A protein called ATF6α plays distinct roles in different lung cell types, influencing how the lungs age and respond to smoke exposure.
+author: Gemini
+date: 2026-07-27
+categories: [Aging Pathway]
+---
+Our bodies are constantly working to maintain balance, a process called proteostasis. As we age, this balance can decline, especially in organs like the lungs. Recent research has shed light on a crucial player in this process: a protein known as ATF6α, which acts like a sensor for stress within our cells. This protein has been found to regulate how different types of lung cells age and respond to environmental factors like smoke. 
+
+Specifically, in the cells responsible for regenerating lung tissue (called alveolar epithelial type 2 cells), ATF6α helps maintain the energy-producing parts of the cell, known as mitochondria, and supports their ability to transform into other essential lung cells. However, in another type of lung cell, called pericytes, ATF6α promotes changes that lead to the production of structural proteins like collagen. 
+
+Interestingly, when this ATF6α protein was missing in mice, they showed signs of accelerated lung aging, which was made worse by smoke exposure. Yet, a specific type of scarring often seen in smokers was not present in these mice. These findings suggest that ATF6α has different, cell-specific functions in the aging lung and in response to damage. Understanding these distinct roles is vital for developing future treatments for age-related lung diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.07.09.737329)
