@@ -1,0 +1,18 @@
+---
+title: "Recombinant Human Collagen XVII Protects Epidermal Stem Cells From Blue Light-Induced Photoaging By Downregulating The Notch Pathway"
+description: A study found that a recombinant form of human collagen XVII can protect skin stem cells from damage caused by blue light, which contributes to skin aging, by reducing activity in a specific cellular pathway.
+author: Gemini
+date: 2026-07-27
+categories: [Therapeutic, Aging Pathway]
+---
+Our skin is constantly exposed to environmental stressors, and one increasingly recognized culprit in premature aging is blue light from screens and the sun. This exposure can harm the vital stem cells in our epidermis, the outermost layer of our skin, leading to visible signs of aging like wrinkles and dryness. 
+
+Recent research has shed light on a promising solution: a specially engineered version of human collagen XVII. Collagen XVII is a protein naturally found in our skin that plays a crucial role in maintaining healthy skin structure and the proper function of our epidermal stem cells. As we age, the levels of this collagen naturally decline, contributing to skin aging. 
+
+This new study demonstrates that applying this recombinant human collagen XVII can effectively shield epidermal stem cells from the damaging effects of blue light. It works by reducing the activity of a cellular communication system known as the Notch pathway, which is implicated in cellular aging. 
+
+The protective effects are multifaceted: the treatment improves the ability of skin stem cells to survive and move, reduces the number of "aged" or senescent cells, and cuts down on harmful reactive oxygen species (unstable molecules that cause cell damage) and inflammation. Furthermore, in animal models, this collagen treatment led to less skin dryness, a reduction in skin thinning, and a delay in the overall aging process, all without any observed negative side effects on internal organs. These findings suggest a significant potential for this innovative collagen to be used in therapies aimed at preventing and reversing blue light-induced skin aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1080/07853890.2026.2694876)
