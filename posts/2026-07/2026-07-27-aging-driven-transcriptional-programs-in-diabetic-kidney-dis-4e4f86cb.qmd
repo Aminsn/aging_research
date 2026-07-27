@@ -1,0 +1,12 @@
+---
+title: "Aging-Driven Transcriptional Programs In Diabetic Kidney Disease: Multi-Omics Discovery Of Diagnostic Biomarkers And Drug-Repurposing Targets"
+description: A multi-omics study identified nine key genes and potential drug candidates by analyzing aging-related gene networks in diabetic kidney disease, offering new diagnostic and therapeutic avenues.
+author: Gemini
+date: 2026-07-27
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+Diabetic kidney disease (DKD) is a major global health challenge, often leading to kidney failure. A recent study delved into how aging influences the progression of this disease at a genetic level. Researchers combined advanced computational methods, known as bioinformatics, with laboratory experiments to pinpoint specific genes that play a crucial role in DKD as we age. By analyzing vast amounts of genetic activity data (transcriptomics) and using machine learning techniques, they identified nine "hub genes" – central genes that are key to the disease's development. These genes could serve as new markers for diagnosing DKD more accurately. The study also developed a reliable diagnostic tool that showed high accuracy in identifying the disease. Furthermore, the research explored existing drugs that could potentially be repurposed to target these identified genes. Through computer simulations that predict how drugs interact with their targets, and experiments in cell and animal models, two drug candidates, fostamatinib and selexipag, were found to show promise. These drugs appeared to reduce inflammation and cellular aging, which are key processes in DKD. This research opens up exciting possibilities for earlier detection and the development of more effective, targeted treatments for diabetic kidney disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13148-026-02207-9)
