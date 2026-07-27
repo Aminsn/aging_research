@@ -1,0 +1,18 @@
+---
+title: "Trained Immunity Links Hematopoietic Stem Cell Aging To Aging-Associated Inflammation"
+description: Aging of blood-forming stem cells drives chronic inflammation associated with aging through a process called maladaptive trained immunity.
+author: Gemini
+date: 2026-07-27
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+Many age-related diseases are linked to a persistent, low-level inflammation in the body, but the exact source of this inflammation has been a mystery. New research points to our own blood-forming stem cells, called hematopoietic stem cells (HSCs), as a key player. These special cells, found in bone marrow, are responsible for producing all our blood and immune cells.
+
+Normally, HSCs can develop a kind of "memory" of past infections or inflammatory events, a process known as "trained immunity." This memory helps our immune system respond more effectively to future threats. However, as we age, this protective mechanism can go awry, becoming "maladaptive" and contributing to chronic inflammation instead of fighting it.
+
+The study found that a protein called SIRT3, which is usually abundant in HSCs, decreases with age. This decline in SIRT3 allows the HSCs to overreact, leading to the harmful, persistent inflammation seen in older individuals. Interestingly, when researchers boosted SIRT3 levels in the HSCs of older mice, it not only improved the function of these stem cells but also reduced inflammation throughout the body and even improved brain function and movement.
+
+These findings suggest that targeting these blood-forming stem cells could be a promising new strategy to combat age-related inflammation and improve overall health as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s43587-026-01175-2)
