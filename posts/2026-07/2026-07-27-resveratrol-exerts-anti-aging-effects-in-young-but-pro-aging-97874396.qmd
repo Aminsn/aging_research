@@ -1,0 +1,12 @@
+---
+title: "Resveratrol Exerts Anti-Aging Effects In Young But Pro-Aging Effects In Middle-Aged C. Elegans Via A Gerosuppressive Daf-16/Dod-6/Sod-3 Axis"
+description: Resveratrol demonstrates a dual effect on aging in the nematode C. elegans, promoting anti-aging benefits in younger worms while paradoxically accelerating aging in middle-aged worms.
+author: Gemini
+date: 2026-07-27
+categories: [Therapeutic, Aging Pathway]
+---
+A recent study sheds light on the complex effects of a natural compound, commonly found in red wine and grapes, on the aging process. Researchers investigated this compound in a tiny worm called C. elegans, a popular model organism for studying aging due to its short lifespan and well-understood genetics. The findings reveal that the compound’s impact on aging is not straightforward; it appears to offer anti-aging advantages when the worms are young, but surprisingly, it has the opposite effect, promoting aging, in worms that are already middle-aged. This age-dependent effect is mediated through a specific set of genetic pathways within the worm, involving genes known as daf-16, dod-6, and sod-3. These genes play crucial roles in the organism’s stress response and longevity. For instance, daf-16 is a key regulator of lifespan, and sod-3 is involved in protecting cells from damage. The study suggests that the compound influences these pathways differently depending on the worm’s life stage, leading to its varied effects on aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.freeradbiomed.2026.07.019)
