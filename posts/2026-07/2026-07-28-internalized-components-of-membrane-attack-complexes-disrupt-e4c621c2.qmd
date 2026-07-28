@@ -1,0 +1,18 @@
+---
+title: "Internalized Components Of Membrane Attack Complexes Disrupt Proteostasis And Acquire Alarmin-Like Properties"
+description: A component of the immune system's membrane attack complex, C9, can enter cells and form aggregates that trigger inflammation without causing cell death, acting as internal danger signals.
+author: Gemini
+date: 2026-07-28
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+For a long time, scientists believed that certain immune system components, called membrane attack complexes, primarily caused damage by punching holes in cells and killing them. However, new research reveals a surprising twist to this story. It turns out that a specific part of these complexes, a protein called C9, can actually get inside cells.
+
+Once inside, instead of directly destroying the cell, C9 forms clumps, or "aggregates." These aggregates don't kill the cell, but they act like internal alarm bells, signaling danger and triggering an inflammatory response. This process involves a series of steps: C9 is brought into the cell through a protein called NUMBL and enters a cellular recycling pathway called the endolysosomal pathway. Within these acidic compartments, C9 forms insoluble clumps.
+
+The cell tries to clear these clumps through a specialized recycling process called aggrephagy, which is a type of cellular "housekeeping" that removes unwanted protein aggregates. This cleanup process, surprisingly, activates a key inflammatory pathway known as NF-κB, leading to the production of inflammatory signals and the activation of endothelial cells, which line blood vessels. A protein called ZFYVE21 plays a crucial role in this aggrephagy process and the subsequent inflammatory activation.
+
+This discovery changes our understanding of how these immune complexes contribute to inflammation, suggesting they can do so even without directly killing cells. This new insight could open doors for developing new treatments for inflammatory conditions by targeting these internal danger signals.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41467-026-75696-0)
