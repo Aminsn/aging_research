@@ -1,0 +1,16 @@
+---
+title: "Foundation Model Reveals The Shared Organization Of Transcription And Topologically Associating Domains"
+description: A new foundation model reveals that the three-dimensional organization of DNA into structures called topologically associating domains (TADs) significantly influences how genes are regulated.
+author: Gemini
+date: 2026-07-28
+categories: [Analytical]
+---
+Our cells contain an incredibly long strand of DNA, which is meticulously folded and organized within the nucleus. This intricate 3D arrangement is not random; it plays a crucial role in controlling which genes are active and when. One key organizational unit is the "topologically associating domain" (TAD), a region of DNA that preferentially interacts with itself, essentially creating a local neighborhood for genes.
+
+Understanding how these TADs influence gene activity has been challenging due to difficulties in precisely defining their boundaries and measuring their effects. To overcome this, researchers developed a novel approach, creating detailed maps of these DNA neighborhoods for both humans and mice. They then used a powerful artificial intelligence model, trained on millions of gene activity profiles, to uncover hidden relationships between genes within these domains. This AI model helped define a new way to measure how similar genes are in their context, going beyond simple co-expression.
+
+The findings show that these DNA neighborhoods are indeed hotspots for genes that are regulated together. Interestingly, this enhanced co-regulation within TADs is most prominent during early development and gradually decreases as an organism ages. Furthermore, the study revealed unique patterns of TAD usage in cancer cells, which even change in response to chemotherapy. These insights suggest that the way our DNA is organized might operate through flexible, probabilistic mechanisms rather than strict, predetermined rules, offering new avenues for understanding cellular adaptability in health and disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.cels.2026.101675)
