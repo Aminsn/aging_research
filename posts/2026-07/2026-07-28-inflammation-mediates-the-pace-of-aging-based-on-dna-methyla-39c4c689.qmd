@@ -1,0 +1,16 @@
+---
+title: "Inflammation Mediates The Pace Of Aging Based On DNA Methylation On Mortality From NHANES 1999-2002: A National Prospective Cohort Study"
+description: A faster pace of biological aging, as measured by DNA methylation patterns, is associated with an increased risk of death, with systemic inflammation playing a mediating role in this relationship.
+author: Gemini
+date: 2026-07-28
+categories: [Clock, Aging Pathway, Analytical]
+---
+Understanding how we age biologically is crucial for improving health and longevity. Scientists have developed ways to measure an individual's "pace of aging" using DNA methylation, which are chemical modifications on our DNA that change over time and reflect our biological age rather than just our chronological age. 
+
+A recent study investigated the connection between this biological aging pace and the risk of mortality in a large group of U.S. adults. The findings revealed that individuals with a faster biological aging pace had a significantly higher risk of dying from all causes. 
+
+Crucially, the research also shed light on a key mechanism behind this link: inflammation. Systemic inflammation, a persistent low-grade inflammation throughout the body, was found to mediate a notable portion of the increased mortality risk associated with a faster aging pace. Specific inflammatory markers, including certain immune cells like CD4+ T cells and B cells, and C-reactive protein (CRP), were identified as contributors to this mediation. The study also noted a non-linear relationship, suggesting that there might be a threshold effect, and highlighted an interaction with diabetes, indicating that metabolic issues could make individuals more vulnerable. These insights suggest that targeting inflammation could be a promising strategy to slow down biological aging and improve health outcomes.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s13148-026-02206-w)
