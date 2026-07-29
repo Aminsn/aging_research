@@ -1,0 +1,16 @@
+---
+title: "DNA Methylation At Core N-Methyl-D-Aspartate (NMDA) Receptor Genes Reveals A Glutamatergic Signature Of Aging In Post-COVID Whole Blood With Implications For Long-COVID Neuropsychiatric Sequelae"
+description: The study identified age-related changes in DNA methylation patterns within the blood of individuals who had previously contracted COVID-19, specifically noting alterations around genes critical for brain function, such as those involved in glutamate and NMDA receptor signaling.
+author: Gemini
+date: 2026-07-29
+categories: [Aging Pathway, Clock, Analytical]
+---
+Many people who have recovered from COVID-19 report lingering cognitive issues, often described as "brain fog." Scientists are working to understand the biological underpinnings of these symptoms. One area of investigation involves looking at changes in our DNA, specifically a process called DNA methylation. Think of DNA methylation as tiny chemical tags on our genes that can turn them on or off, or adjust how active they are. These tags naturally change as we age. 
+
+A recent study examined blood samples from individuals several months after they had COVID-19. The researchers found age-related changes in these DNA methylation patterns. Interestingly, many of these changes were located near genes that are crucial for brain function, particularly those involved in what's called the glutamatergic system and NMDA receptors. These systems are vital for processes like learning, memory, and how our brain cells communicate with each other. 
+
+While this research doesn't definitively prove that COVID-19 directly caused these specific changes or that they are solely responsible for "brain fog," it does highlight a potential link between aging, these specific brain-related genes, and the lasting effects observed in some individuals after a COVID-19 infection. It suggests that these brain-related pathways could be important areas for future research into understanding and potentially treating the neuropsychiatric challenges, like "brain fog," experienced by those with long COVID. This is a hypothesis-generating study, meaning it points to promising avenues for further investigation with larger groups and more direct measures of cognitive function.
+
+---
+
+Source: [link to paper](https://doi.org/10.7759/cureus.112902)
