@@ -1,0 +1,12 @@
+---
+title: "Rethinking Frailty As A Disorder Of Mitochondrial Adaptability, From Energetic Congestion To Systemic Vulnerability"
+description: The paper proposes that frailty, a condition of increased vulnerability in older adults, is fundamentally a disorder of how mitochondria adapt, leading to energetic congestion and widespread bodily weakness.
+author: Gemini
+date: 2026-07-30
+categories: [Aging Theory, Aging Pathway, Therapeutic, Lever]
+---
+Frailty, a common condition in older age characterized by a reduced ability to bounce back from stress and illness, is increasingly understood to have its roots in the tiny powerhouses of our cells: the mitochondria. These essential cellular components are responsible for generating most of the energy our bodies need to function. Recent research suggests that in frail individuals, these cellular power plants struggle to adapt. This struggle manifests in several ways: the body's ability to create new mitochondria is impaired, their internal processes for movement and shape-shifting are disrupted, and the crucial process of removing damaged mitochondria is faulty. As a result, older adults experiencing frailty often have less mitochondrial DNA, a reduced capacity to produce energy, and an increase in harmful byproducts called reactive oxygen species. Essentially, when the body's energy demands exceed what these struggling mitochondria can provide, it leads to a state of "energetic congestion." This means that even if nutrients are available, the cells can't efficiently convert them into usable energy, leading to a decline in overall energy reserves and the body's ability to recover from challenges. This cellular energy crisis contributes not only to muscle loss, a hallmark of frailty, but also to problems with the immune system. Understanding this fundamental role of mitochondrial adaptability in frailty opens new avenues for intervention. Strategies that promote mitochondrial health, such as regular physical activity like resistance training, show promise in slowing down the progression of this condition. By focusing on improving the function of these vital cellular powerhouses, we may be able to enhance resilience and improve the quality of life for aging populations.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.phrs.2026.108345)
