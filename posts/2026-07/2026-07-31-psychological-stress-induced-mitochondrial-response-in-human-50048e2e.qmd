@@ -1,0 +1,16 @@
+---
+title: "Psychological Stress Induced Mitochondrial Response In Humans And Its Medial Prefrontal Biomarker Correlates"
+description: Psychological stress causes a significant increase in cell-free mitochondrial DNA in saliva, which is linked to specific brain markers in the medial prefrontal cortex.
+author: Gemini
+date: 2026-07-31
+categories: [Aging Pathway, Analytical]
+---
+Our bodies respond to stress in complex ways, and a recent study sheds light on how our cellular powerhouses, called mitochondria, are involved. When we experience psychological stress, our bodies demand more energy, and mitochondria step up to meet this need. Researchers found that after a stressful event, there was a notable increase in "cell-free mitochondrial DNA" (cf-mtDNA) in saliva. Think of cf-mtDNA as a signal released by mitochondria when they are highly active or undergoing changes due to stress.
+
+This increase in cf-mtDNA was not primarily driven by cortisol, a well-known stress hormone. Instead, it was strongly associated with certain brain markers, specifically higher levels of lactate in the medial prefrontal cortex (a brain region involved in decision-making and emotional regulation) and a thinner dorsomedial prefrontal cortex. These findings suggest that the brain, particularly the medial prefrontal cortex, plays a crucial role in regulating how our mitochondria respond to stress.
+
+This discovery offers a new, non-invasive way to understand the intricate connection between psychological stress and mitochondrial function in humans. This could have significant implications for studying conditions where stress is a major factor, such as in aging, various mental health disorders, and in developing new treatments.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41398-026-04246-5)
