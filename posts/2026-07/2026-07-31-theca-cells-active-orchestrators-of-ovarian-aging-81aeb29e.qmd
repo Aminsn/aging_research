@@ -1,0 +1,12 @@
+---
+title: "Theca Cells: Active Orchestrators Of Ovarian Aging"
+description: Theca cells, which are crucial for hormone production in the ovaries, experience a decline and dysfunction with age, significantly contributing to the overall process of ovarian aging.
+author: Gemini
+date: 2026-07-31
+categories: [Aging Pathway, Therapeutic]
+---
+For a long time, the focus on ovarian aging primarily centered on the decline of egg cells (oocytes) and their immediate support cells, called granulosa cells. However, recent research highlights the critical role of another often-overlooked cell type: theca cells. These cells form a protective layer around the developing egg follicles within the ovary and are essential for producing androgens, which are precursor hormones. These androgens are then converted into estrogen by the granulosa cells. When theca cells begin to decline or malfunction as a woman ages, their ability to produce these vital androgen precursors is compromised. This directly impacts the overall production of estrogen, a key hormone for reproductive health, even if the granulosa cells are still functioning adequately. Studies show that aging theca cells undergo changes, including a process called "cellular senescence," where cells stop dividing and can release substances that contribute to inflammation and tissue damage. This cellular senescence in theca cells, alongside changes in other ovarian cell types, is now understood to be a significant driver of the progressive decline in fertility and hormone function that characterizes ovarian aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s12958-026-01593-2)
