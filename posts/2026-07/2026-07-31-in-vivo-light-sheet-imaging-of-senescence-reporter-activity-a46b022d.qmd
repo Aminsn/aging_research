@@ -1,0 +1,16 @@
+---
+title: "In Vivo Light-Sheet Imaging Of Senescence Reporter Activity In A Transparent Killifish"
+description: Researchers developed a transparent killifish line and a fluorescent reporter to visualize aging-related senescent cells in living organisms with single-cell resolution using light-sheet microscopy.
+author: Gemini
+date: 2026-07-31
+categories: [Aging Pathway, Analytical]
+---
+Studying the aging process in living organisms has always been a challenge, especially when it comes to observing individual cells deep within tissues. Traditional model organisms like the turquoise killifish, which ages rapidly and shares many aging characteristics with humans, are often pigmented, making it difficult to see internal cellular changes without invasive procedures. 
+
+To overcome this hurdle, scientists have engineered a remarkable new tool: a transparent killifish. By precisely editing the genes responsible for pigmentation, they created a "clear" fish line, allowing an unobstructed view into its body. Building on this, they further modified these transparent fish to include a special fluorescent tag. This tag glows green in cells that are undergoing senescence—a state where cells stop dividing and can contribute to aging and age-related diseases. 
+
+This innovative combination enables researchers to use a technique called light-sheet microscopy, which can image living organisms with minimal damage, to observe these glowing senescent cells in real-time and with incredible detail, down to a single cell. This breakthrough provides an unprecedented opportunity to understand how senescent cells accumulate and behave throughout an animal's life, offering new insights into the fundamental mechanisms of aging and potentially paving the way for new strategies to promote healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.21769/BioProtoc.5762)
