@@ -1,0 +1,18 @@
+---
+title: "Neighborhood Poverty Duration, Timing, And Severity From Adolescence To Early Midlife And Biological Aging"
+description: Exposure to neighborhood poverty, particularly for longer durations and during mid-adulthood, is associated with an accelerated rate of biological aging.
+author: Gemini
+date: 2026-07-31
+categories: [Lever, Analytical]
+---
+Have you ever wondered if where you live can affect how quickly your body ages? New research suggests that the answer is yes, especially when it comes to neighborhood poverty. This study explored how living in disadvantaged neighborhoods from adolescence through early midlife impacts our biological age, which can be different from our chronological age.
+
+Researchers followed over 3,600 individuals for 25 years, examining how different aspects of neighborhood poverty—like how long someone was exposed to it, when in their life it occurred, and its severity—related to their biological aging. They used advanced "epigenetic clocks," which are like sophisticated biological markers that can estimate a person's true biological age based on changes at a cellular level.
+
+The findings revealed a clear connection: each additional period of life spent in a high-poverty neighborhood was linked to a faster biological aging process. Experiencing neighborhood poverty during mid-adulthood, in particular, showed a consistent association with accelerated biological aging. The study also highlighted significant racial inequalities in exposure to neighborhood poverty, suggesting that these environmental factors could contribute to health disparities observed across different groups.
+
+This work underscores that our residential environment has profound and lasting effects on our health, potentially influencing how our bodies age at a cellular level. It suggests that addressing neighborhood poverty could be a crucial step in promoting healthier aging for everyone.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/aje/kwag176)
