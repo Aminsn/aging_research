@@ -1,0 +1,18 @@
+---
+title: "A Metabolomic Clock Of Population Ageing: Cross-Cohort Validation And Associations With Frailty And Cognitive Function"
+description: Researchers developed a "metabolomic clock" that accurately predicts a person's biological age based on their metabolic profile, and found that an accelerated biological age is linked to increased risks of mortality, cognitive decline, and frailty.
+author: Gemini
+date: 2026-08-01
+categories: [Clock, Analytical, Aging Pathway]
+---
+Imagine a clock that doesn't just tell your chronological age, but your "biological age" – how old your body truly is at a cellular level. Recent research has made strides in developing such a tool, using a comprehensive analysis of metabolites, which are the small molecules involved in your body's chemical processes.
+
+Scientists examined thousands of blood samples from a diverse group of individuals, ranging from 20 to 89 years old. By looking at a wide array of these metabolic markers, they identified specific molecules that are strongly associated with how old a person is. For instance, certain nucleosides, tryptophan derivatives, bile acids, and antioxidants were found to be key indicators.
+
+Based on these findings, they constructed a "metabolomic clock" that proved highly effective at predicting an individual's actual age. More importantly, this clock revealed something called "metabolomic age acceleration." This is when your biological age, as determined by your metabolites, is older than your chronological age. The study found that for every five years your biological age is "accelerated," there's a significantly higher risk of mortality, a greater chance of experiencing mild cognitive impairment (problems with memory or thinking), and an increased likelihood of being frail. Frailty refers to a state of increased vulnerability to adverse health outcomes.
+
+This breakthrough offers exciting possibilities. By understanding these metabolic signatures of aging, we could potentially identify individuals at higher risk for age-related diseases earlier. This "metabolomic clock" could serve as a valuable tool for predicting overall health risks and monitoring the effectiveness of interventions aimed at promoting healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s11357-026-02412-7)
