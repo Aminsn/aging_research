@@ -1,0 +1,16 @@
+---
+title: "Fat Body CLOCK Restrains Innate Immunity And Maintains Survival Under Dietary Stress In <I>Drosophila</I>"
+description: The CLOCK protein in the fat body of fruit flies independently suppresses inflammation, which is essential for their survival when consuming a high-fat diet.
+author: Gemini
+date: 2026-08-01
+categories: [Aging Pathway]
+---
+Our bodies, and even those of fruit flies, have internal clocks that regulate daily cycles, influencing everything from sleep to metabolism. These internal clocks can be disrupted by factors like aging and unhealthy diets, such as those high in fat, leading to chronic inflammation and other health issues. Researchers studying fruit flies, a common model for human biology, have uncovered a fascinating new role for a key component of these internal clocks, a protein called CLOCK.
+
+They found that in the fly's "fat body" – a tissue similar to our liver and fat – the CLOCK protein does more than just keep time. It actively works to keep the immune system in check, preventing it from overreacting and causing harmful inflammation. This anti-inflammatory role is crucial for the flies to survive when they are under dietary stress, like eating a high-fat diet. Interestingly, this specific function of CLOCK is separate from its usual partnership with another protein that helps regulate the daily rhythm. When CLOCK was disrupted in the fat body, flies on a high-fat diet experienced increased immune activity and a shorter lifespan.
+
+This discovery sheds light on how our internal clocks in specific tissues can be uniquely affected by diet and aging, and how individual clock components might have specialized jobs beyond just telling time. Understanding these distinct roles could open new avenues for addressing age-related inflammation and metabolic diseases in humans.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.07.20.739608)
