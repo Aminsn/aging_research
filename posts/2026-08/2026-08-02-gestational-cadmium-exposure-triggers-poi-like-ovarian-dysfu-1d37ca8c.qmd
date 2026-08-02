@@ -1,0 +1,12 @@
+---
+title: "Gestational Cadmium Exposure Triggers POI-Like Ovarian Dysfunction And Accelerated Ovarian Aging Through Epigenetic Repression Of Kl In Mice"
+description: Exposure to cadmium during pregnancy can lead to ovarian problems resembling early menopause and accelerated ovarian aging in offspring, driven by specific changes in gene regulation.
+author: Gemini
+date: 2026-08-02
+categories: [Aging Pathway, Therapeutic]
+---
+Environmental pollutants are a growing concern for human health, and a recent study sheds light on how one such pollutant, cadmium, can impact reproductive health across generations. This research reveals that when pregnant individuals are exposed to cadmium, their offspring may experience significant ovarian issues. These issues include a condition similar to premature ovarian insufficiency, where the ovaries stop functioning normally at an unusually early age, and a faster rate of ovarian aging. The study points to a fascinating mechanism behind these effects: "epigenetic repression" of a gene called Kl. Epigenetics refers to changes in gene activity that do not involve altering the underlying DNA sequence itself, but rather how genes are "read" or expressed. In this case, the activity of the Kl gene, which is known to play a role in aging processes, is suppressed. This suppression contributes to the observed accelerated aging and dysfunction of the ovaries. Understanding these intricate molecular pathways is crucial for developing strategies to mitigate the harmful effects of environmental toxins on reproductive health and potentially prevent early onset of ovarian aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.envint.2026.110431)
