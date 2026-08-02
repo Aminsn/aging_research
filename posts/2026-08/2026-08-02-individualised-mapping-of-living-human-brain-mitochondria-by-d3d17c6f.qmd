@@ -1,0 +1,18 @@
+---
+title: "Individualised Mapping Of Living Human Brain Mitochondria By MRI Reveals Signatures Of Bioenergetic Defects"
+description: A new MRI-based method allows for the non-invasive mapping of mitochondria in the living human brain, revealing insights into their role in aging, disease, and cognitive function.
+author: Gemini
+date: 2026-08-02
+categories: [Analytical, Aging Pathway]
+---
+For a long time, understanding the intricate energy factories within our living brains – the mitochondria – has been a challenge. We haven't had a way to non-invasively observe how these vital components are linked to aging, various diseases, and our cognitive abilities. Now, a groundbreaking neuroimaging technique called MitoBrainMap is changing that.
+
+This innovative framework uses standard magnetic resonance imaging (MRI) data to predict and map specific characteristics of mitochondria in individual human brains without needing any special labels or invasive procedures. The findings from this research are shedding light on how our brain's energy systems change over time and in different conditions. For instance, the maps show that the number of mitochondria and their overall energy-producing capacity in brain tissue tend to decrease with age, while the quality of individual mitochondria remains relatively stable.
+
+In individuals with rare mitochondrial diseases, the maps revealed specific changes in mitochondrial numbers and the components responsible for energy production in different brain regions. Furthermore, the mitochondrial features identified through this MRI method were connected to a blood marker of energetic stress and even to how well people performed on cognitive tests. Interestingly, the research also highlighted that the brain's gray matter, which is crucial for processing information, contains more mitochondria that are specifically optimized for energy transformation, especially in the more recently evolved parts of the brain.
+
+This new non-invasive window into the brain's energetic landscape offers a powerful tool for future research, potentially leading to a deeper understanding of brain health, the aging process, and various neurological conditions.
+
+---
+
+Source: [link to paper](https://doi.org/10.21203/rs.3.rs-10117408/v1)
