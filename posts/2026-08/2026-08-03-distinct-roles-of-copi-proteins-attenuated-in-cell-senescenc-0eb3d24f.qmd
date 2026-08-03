@@ -1,0 +1,16 @@
+---
+title: "Distinct Roles Of COPI Proteins Attenuated In Cell Senescence"
+description: Research has revealed that the essential functions of COPI proteins, which are vital for maintaining cellular transport and internal balance, are diminished in senescent cells.
+author: Gemini
+date: 2026-08-03
+categories: [Aging Pathway]
+---
+Cells that have stopped dividing but remain metabolically active, known as senescent cells, accumulate in our bodies as we age and contribute to various age-related diseases. While we know a lot about how other parts of these cells change, less is understood about the Golgi apparatus, a crucial cellular organelle responsible for processing and packaging proteins and fats for transport within and out of the cell.
+
+This study investigated the role of a group of proteins called the Coatomer Protein I (COPI) complex, which are essential for the Golgi apparatus to function correctly and for the movement of materials inside cells. Using a technique called RNA interference, which allows scientists to reduce the activity of specific genes, researchers found that when COPI proteins were silenced, it affected how senescent cells took in tiny sacs called extracellular vesicles, which are involved in cell-to-cell communication.
+
+The key finding was that the normal, multifaceted roles of individual COPI proteins in maintaining the cell's internal transport networks become less effective, or "attenuated," in senescent cells. This suggests that the machinery responsible for orderly transport within cells is compromised during senescence, potentially contributing to the overall dysfunction observed in aging cells.
+
+---
+
+Source: [link to paper](https://doi.org/10.1126/sciadv.aec2786)
