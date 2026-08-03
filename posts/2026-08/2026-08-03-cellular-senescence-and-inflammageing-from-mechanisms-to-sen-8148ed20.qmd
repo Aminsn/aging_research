@@ -1,0 +1,12 @@
+---
+title: "Cellular Senescence And Inflammageing: From Mechanisms To Senotherapeutic Interventions"
+description: The accumulation of senescent cells, which are cells that have stopped dividing but remain active, contributes to chronic inflammation and various age-related diseases, leading to the development of therapies aimed at removing or modifying these cells.
+author: Gemini
+date: 2026-08-03
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+As we age, our bodies undergo many changes, and one fascinating area of research focuses on "senescent cells." Imagine cells that have decided to retire: they stop dividing, but they don't just disappear. Instead, they stick around and can even release a cocktail of inflammatory molecules, a process often called the "senescence-associated secretory phenotype" or SASP. This persistent release of inflammatory signals contributes to a state known as "inflammageing," which is essentially chronic, low-grade inflammation that drives many age-related conditions, from heart disease to neurodegenerative disorders. Scientists are now exploring ways to combat this. One approach involves "senolytics," which are compounds designed to selectively eliminate these problematic senescent cells. Another strategy uses "senomorphics," which don't kill the cells but instead modify their harmful secretions, making them less damaging to surrounding tissues. These emerging therapies, collectively known as "senotherapeutics," hold promise for promoting healthier aging and addressing a range of age-related diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s10522-026-10477-2)
