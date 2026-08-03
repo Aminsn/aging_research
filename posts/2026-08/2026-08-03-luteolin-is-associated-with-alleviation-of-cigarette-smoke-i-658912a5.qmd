@@ -1,0 +1,12 @@
+---
+title: "Luteolin Is Associated With Alleviation Of Cigarette Smoke-Induced Cellular Senescence And Inflammation In Mice Involving The CREB/C-Fos/Nqo1 Pathway"
+description: Luteolin, a natural compound, was found to reduce inflammation and oxidative stress caused by cigarette smoke in mice and lung cells, suggesting a protective effect against smoking-related lung damage.
+author: Gemini
+date: 2026-08-03
+categories: [Therapeutic, Aging Pathway, Analytical]
+---
+Cigarette smoke can cause significant damage to the lungs, leading to chronic inflammation and an imbalance of harmful molecules called oxidative stress. These processes contribute to serious lung conditions like chronic obstructive pulmonary disease (COPD). Recent research explored how a natural compound called luteolin, found in many plants, might help combat these harmful effects. The study found that luteolin effectively reduced the levels of inflammatory factors and decreased oxidative stress in lung cells and mice exposed to cigarette smoke. This protective action appears to involve specific cellular mechanisms. Luteolin was observed to inhibit a pathway known as NOX4-mediated NF-κB, which is a key player in promoting inflammation and oxidative stress. Additionally, it increased the expression of NQO1, an enzyme that helps protect cells from oxidative damage. These findings suggest that this natural compound could offer a new approach for developing treatments to protect the lungs from the damaging effects of cigarette smoke.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.intimp.2026.117177)
