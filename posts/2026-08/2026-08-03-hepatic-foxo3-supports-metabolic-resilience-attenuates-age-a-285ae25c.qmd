@@ -1,0 +1,18 @@
+---
+title: "Hepatic Foxo3 Supports Metabolic Resilience, Attenuates Age-Associated Obesity And Metabolic Dysfunction, And Mitigates Diet-Induced Steatohepatitis"
+description: Hepatic FoxO3 plays a critical role in maintaining the body's ability to adapt to metabolic stress, reducing obesity and metabolic problems associated with aging, and mitigating liver inflammation and damage caused by diet.
+author: Gemini
+date: 2026-08-03
+categories: [Aging Pathway]
+---
+As we age, our bodies often become less efficient at managing metabolism, leading to issues like obesity and liver conditions such as metabolic dysfunction-associated steatohepatitis (MASH), a severe form of fatty liver disease. Scientists have been investigating the role of a protein called FoxO3, which is known to be involved in both aging and metabolic regulation, particularly in the liver.
+
+A recent study explored what happens when this protein is specifically removed from liver cells in mice. The findings were quite revealing: mice lacking FoxO3 in their livers developed moderate obesity and higher insulin levels as they got older, even though they ate the same amount of food as their counterparts with normal FoxO3. These mice also showed a reduced ability to burn fat for energy, instead relying more on carbohydrates.
+
+Furthermore, their livers accumulated more fat, a condition known as hepatic steatosis, and developed more severe scarring (fibrosis) when fed a diet designed to induce MASH. This suggests that the presence of FoxO3 in the liver is crucial for coordinating how the liver processes fats, handles toxins, and maintains overall metabolic balance throughout the body.
+
+Ultimately, this research underscores the importance of this liver protein in protecting against age-related metabolic decline and liver disease, potentially opening new avenues for therapeutic strategies.
+
+---
+
+Source: [link to paper](https://doi.org/10.14336/AD.2026.0477)
