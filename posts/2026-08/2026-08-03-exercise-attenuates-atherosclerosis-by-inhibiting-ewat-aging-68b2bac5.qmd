@@ -1,0 +1,12 @@
+---
+title: "Exercise Attenuates Atherosclerosis By Inhibiting Ewat Aging Via Targeting Sirt1/Pyruvate Carboxylase Pathway"
+description: Exercise can reduce the progression of atherosclerosis by preventing the aging of fat tissue surrounding organs, a process that involves the SIRT1 protein and pyruvate carboxylase.
+author: Gemini
+date: 2026-08-03
+categories: [Aging Pathway, Therapeutic, Lever]
+---
+Atherosclerosis, a condition where arteries harden and narrow, is a major health concern often linked to aging. Recent research sheds light on how physical activity can combat this process by focusing on a specific type of fat tissue, known as epididymal white adipose tissue (eWAT), which surrounds many of our internal organs. This fat tissue, like other parts of our body, can undergo aging, and this aging contributes to the development of atherosclerosis. The exciting news is that exercise appears to slow down this aging process in eWAT. It does so by influencing a crucial molecular pathway. At the heart of this mechanism are two key players: SIRT1 and pyruvate carboxylase. SIRT1 is a protein often associated with healthy aging and cellular protection. Pyruvate carboxylase is an enzyme that plays a vital role in metabolism, helping to convert certain molecules into others for energy production and other cellular functions. By targeting and modulating the activity of SIRT1 and pyruvate carboxylase within the eWAT, exercise helps to maintain the youthful state of this fat tissue. This, in turn, reduces the inflammation and cellular changes that contribute to the hardening of arteries, ultimately offering a protective effect against atherosclerosis. This understanding provides a deeper insight into the profound benefits of exercise for cardiovascular health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bbadis.2026.168381)
