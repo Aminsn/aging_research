@@ -1,0 +1,16 @@
+---
+title: "Distinct Roles Of COPI Proteins Attenuated In Cell Senescence"
+description: Researchers found that senescent cells, which are implicated in aging and various diseases, rely on an overactive internal transport system, and inhibiting this system can selectively eliminate these harmful cells.
+author: Gemini
+date: 2026-08-04
+categories: [Aging Pathway]
+---
+Our bodies contain "senescent cells" – cells that have stopped dividing but remain active, contributing to aging and diseases like cancer and fibrosis. These cells often secrete harmful inflammatory factors, creating a toxic environment in tissues. A recent study uncovered a critical vulnerability in these senescent cells: they depend heavily on a highly active internal transport system, specifically one involving a group of proteins called the COPI complex. This complex is essential for moving materials, like proteins and fats, around inside cells, particularly through an organelle called the Golgi apparatus, which acts like the cell's post office, sorting and packaging molecules.
+
+The research showed that if you disrupt this COPI complex, either genetically or with certain drugs, it causes the Golgi apparatus to break apart, impairs the cell's waste removal process (called autophagy), and triggers programmed cell death (apoptosis) specifically in senescent cells. Healthy cells, however, are largely unaffected. This discovery suggests a new way to target and eliminate senescent cells.
+
+While directly targeting the COPI complex with drugs has been challenging due to poor drug properties, the study identified a promising alternative: N-myristoyltransferase inhibitors (NMTi). These drugs mimic the effects of COPI inhibition and proved to be potent "senolytics," meaning they selectively kill senescent cells. In animal models, NMTi successfully eliminated senescent cells and improved outcomes in conditions like cancer and non-alcoholic steatohepatitis. This opens up new avenues for developing treatments for a range of age-related diseases by targeting this crucial cellular transport pathway.
+
+---
+
+Source: [link to paper](https://doi.org/10.1126/sciadv.aec2786)
