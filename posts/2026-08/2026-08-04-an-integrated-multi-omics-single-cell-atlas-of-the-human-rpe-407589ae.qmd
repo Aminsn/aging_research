@@ -1,0 +1,16 @@
+---
+title: "An Integrated Multi-Omics Single Cell Atlas Of The Human RPE And Choroid"
+description: Researchers have created a detailed map of the human retinal pigment epithelium and choroid at a single-cell level, revealing new cell types and linking genetic risk factors to specific cells involved in age-related macular degeneration.
+author: Gemini
+date: 2026-08-04
+categories: [Aging Pathway, Analytical]
+---
+Our eyes rely on two crucial tissues, the retinal pigment epithelium (RPE) and the choroid, to maintain healthy vision. When these tissues don't function correctly, it can lead to various eye diseases, including common conditions like age-related macular degeneration (AMD).
+
+Scientists have now developed an incredibly detailed map of these vital eye tissues, examining individual cells to understand their unique characteristics and functions. This comprehensive resource, built using advanced techniques like single-cell RNA sequencing (which looks at gene activity in individual cells) and single-nucleus ATAC sequencing (which reveals how DNA is packaged and accessible in cell nuclei), has identified a remarkable 48 distinct types or states of cells within the RPE and choroid. This includes previously unknown subtypes of RPE cells and various kinds of connective tissue cells in the choroid.
+
+The research also sheds light on how these tissues change as we age, pinpointing specific cell populations that decrease with time and identifying common inflammatory responses that occur during aging. Crucially, by combining this cellular map with genetic information from individuals with AMD, the team was able to connect specific genetic risk factors for the disease to particular cell types and biological processes. This breakthrough provides a powerful tool for understanding the root causes of eye diseases and could pave the way for developing new, targeted treatments.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.07.23.740352)
