@@ -1,0 +1,12 @@
+---
+title: "Impaired Mitochondrial Quality Control And Stress Signalling Machinery Modulate Senescence Induction By Genotoxic Challenge"
+description: Impaired mitochondrial quality control and stress response mechanisms can make cells more vulnerable to DNA damage and trigger innate immune responses, impacting how cells communicate about stress.
+author: Gemini
+date: 2026-08-04
+categories: [Aging Theory, Aging Pathway]
+---
+Our cells rely on tiny powerhouses called mitochondria to function correctly. These mitochondria also communicate with the cell's control center, the nucleus, to ensure everything runs smoothly. When this communication or the "quality control" system for mitochondria—processes that ensure damaged mitochondria are removed—is compromised, it can have significant consequences. This research explored what happens when these systems are faulty and cells are exposed to agents that damage DNA, such as those used in cancer therapies like radiation. The findings show that when the cell's ability to manage mitochondrial health or its general stress response is impaired, cells become more susceptible to DNA damage. Specifically, the study identified that a breakdown in mitochondrial quality control (due to issues with a protein called HtrA2) and the integrated stress response (involving a protein called CHOP) lowers the threshold for activating immune responses. This means cells are more prone to triggering an alarm system (known as the cGAS-STING pathway) that detects misplaced DNA and signals an immune reaction. These impairments also affect how cells signal DNA damage to each other. Understanding these mechanisms is crucial for developing better treatments for age-related diseases and for optimizing therapies that involve DNA-damaging agents.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.cellsig.2026.112763)
