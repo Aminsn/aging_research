@@ -1,0 +1,20 @@
+---
+title: "Sirt3 Inhibition Promotes Age-Associated Vascular Impairment By Mediating Mitochondrial Dysfunction And Endothelial-To-Mesenchymal Transition"
+description: The study reveals that reduced levels of SIRT3, a protein crucial for mitochondrial health, contribute to age-related blood vessel damage by disrupting mitochondrial function and promoting a cellular transformation process.
+author: Gemini
+date: 2026-08-05
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our blood vessels also undergo changes, a process known as vascular aging, which significantly increases the risk of heart and blood vessel diseases. A key player in maintaining our metabolic health is a protein called Sirtuin 3, or SIRT3, which is found in the mitochondria—the powerhouses of our cells. Interestingly, the levels of SIRT3 naturally decline as we get older.
+
+Researchers have been investigating how this decrease in SIRT3 contributes to the age-related problems seen in our blood vessels. They found that as blood vessels age, they experience issues like endothelial dysfunction (where the inner lining of blood vessels doesn't work properly), calcification (hardening), and fibrosis (scarring). These problems are closely linked to two major cellular events: mitochondrial dysfunction and a process called endothelial-to-mesenchymal transition (EndMT).
+
+Mitochondrial dysfunction means that the mitochondria, which are responsible for generating energy for our cells, are not functioning efficiently. This can lead to a buildup of harmful byproducts and a lack of energy. Endothelial-to-mesenchymal transition (EndMT) is a process where the specialized cells lining our blood vessels (endothelial cells) transform into a different type of cell, which can then contribute to the scarring and stiffening of the blood vessels.
+
+The study specifically observed that SIRT3 levels were lower in aging blood vessel cells. Furthermore, in mice that were genetically engineered to lack SIRT3, the age-related calcification and scarring of blood vessels were much worse, accompanied by increased EndMT and more severe mitochondrial dysfunction. Even in human cells grown in the lab, reducing SIRT3 levels was shown to drive these detrimental processes.
+
+These findings suggest that maintaining healthy SIRT3 levels could be a promising strategy to combat vascular aging and prevent associated cardiovascular diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.exger.2026.113250)
