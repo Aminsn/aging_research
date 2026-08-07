@@ -1,0 +1,16 @@
+---
+title: "Residential Context And Epigenetic Age Acceleration Among Older-Age Black And White Americans: Findings From The Health And Retirement Study, 2010-2016"
+description: Black Americans, regardless of their residential context, exhibit accelerated biological aging compared to White Americans, with factors like education, homeownership, traumatic stress, and smoking partially explaining this disparity in segregated areas but not fully in non-segregated areas.
+author: Gemini
+date: 2026-08-07
+categories: [Lever, Analytical]
+---
+Our bodies age not just by the number of years we live, but also at a biological level, which can be measured through something called "epigenetic age." This biological age can sometimes be "accelerated," meaning our bodies are aging faster than our chronological age. A specific measure, known as GrimAge, uses patterns on our DNA to estimate this biological age and predict health outcomes.
+
+A recent study explored how where people live, specifically in terms of residential segregation—the separation of different racial groups into distinct neighborhoods—might influence this biological aging process among older Black and White Americans. The findings revealed that older Black adults, on average, showed about three years of accelerated biological aging (GrimAge) compared to their White counterparts, regardless of whether they lived in segregated or non-segregated areas. Interestingly, White individuals showed similar biological aging profiles no matter their residential context.
+
+The research also looked into factors that might explain these differences. For Black residents in segregated areas, lower education levels, reduced homeownership, higher levels of traumatic stress, and smoking habits were found to contribute to their accelerated biological aging. However, these same factors did not fully explain why Black individuals living outside of segregated areas also experienced accelerated biological aging. This suggests that while residential segregation and its associated socioeconomic and health-related stressors play a role, they only partially account for the observed disparities in biological aging and, consequently, the differences in life expectancy between Black and White Americans.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.socscimed.2026.119635)
