@@ -1,0 +1,12 @@
+---
+title: "Serum 25(OH) Vitamin D And Sirt1- VDR- Mir-124 Expression: A Controlled Interventional Study In A Vitamin D-Deficient Male Rat Model"
+description: The study revealed a connection between vitamin D levels and the expression of specific molecules, SIRT1, VDR, and miR-124, which are implicated in the aging process in male rats with vitamin D deficiency.
+author: Gemini
+date: 2026-08-07
+categories: [Aging Pathway, Analytical]
+---
+Scientists are increasingly exploring "epigenetic aging," which refers to changes in how our genes are expressed, rather than changes to the genes themselves, that contribute to aging. One key player in this process is a type of non-coding RNA called microRNA (miRNA). A particular miRNA, miR-124, has recently been linked to aging and is found in higher levels in aged skin and certain disease states. Another important molecule is SIRT1, a protein known for its protective, anti-aging effects in the body. Vitamin D also plays a crucial role as an "epigenetic factor," meaning it can influence gene expression and pathways related to aging. This research investigated how vitamin D deficiency might affect the interplay between miR-124, SIRT1, and the Vitamin D Receptor (VDR), which is the protein that vitamin D binds to in cells. Using a model of middle-aged male rats with low vitamin D, the study found an epigenetic relationship where levels of miR-124 were associated with SIRT1. The findings suggest that the levels of these aging-related biomarkers are connected to the amount of vitamin D in the blood. Specifically, an increase in miR-124 might lead to a decrease in the expression of both VDR and SIRT1, potentially speeding up the aging process.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.exger.2026.113254)
