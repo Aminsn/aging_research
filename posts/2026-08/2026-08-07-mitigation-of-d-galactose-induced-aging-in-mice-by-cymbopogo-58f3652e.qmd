@@ -1,0 +1,12 @@
+---
+title: "Mitigation Of D-Galactose-Induced Aging In Mice By Cymbopogon Citratus And Its Major Bioactive Compound"
+description: Research indicates that compounds found in lemongrass, particularly its silver nanoparticles, can help mitigate signs of aging in mice by reducing oxidative stress and inflammation.
+author: Gemini
+date: 2026-08-07
+categories: [Therapeutic, Aging Pathway]
+---
+As we age, our bodies experience a natural decline in function, often accompanied by increased oxidative stress and inflammation. Oxidative stress is like rust forming in our cells due to an imbalance of harmful molecules, while inflammation is the body's response to injury or infection, which can become chronic and damaging over time. Scientists are exploring natural compounds that might help slow down these aging processes. A recent study investigated the potential of a common herb, lemongrass, and its key components to combat aging in a mouse model. The researchers found that extracts from lemongrass, especially when formulated as tiny silver nanoparticles, showed promising anti-aging effects. These compounds appeared to work by boosting the body's natural defenses against oxidative stress, increasing the activity of protective enzymes that neutralize harmful molecules. They also helped reduce inflammation and improved the health of vital organs like the liver, brain, and kidneys, which often show signs of damage during aging. This research suggests that compounds from lemongrass could be a valuable area for future studies into healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s12013-026-02114-z)
