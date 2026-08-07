@@ -1,0 +1,18 @@
+---
+title: "Exploring The Exposome And Unexplained Variance In Epigenetic Ageing - Insights From A Longitudinal Twin Study In Adolescence And Early Adulthood"
+description: Individual life experiences and unique environmental factors account for a significant portion of the differences in how quickly people biologically age, with both genetic and environmental influences contributing to the increasing variability in biological aging during the transition to adulthood.
+author: Gemini
+date: 2026-08-07
+categories: [Lever, Analytical]
+---
+Have you ever wondered why some people seem to age faster or slower than others, even at the same chronological age? Scientists are exploring "epigenetic aging," which is like a biological clock that reflects how quickly our bodies are aging at a cellular level. This clock is influenced by a complex interplay of our genes and everything we encounter in our lives, collectively known as the "exposome."
+
+A recent study delved into these influences by examining a large group of twins over time, from adolescence into early adulthood. Twin studies are incredibly valuable because they allow researchers to disentangle the effects of genetics (since identical twins share nearly all their genes) from environmental factors (both shared experiences and unique individual ones).
+
+The findings revealed that a substantial portion of the differences in how quickly individuals biologically age is due to unique environmental factors. This means that your individual life experiences and the specific environments you encounter play a significant role in shaping your biological aging process. The study also highlighted that both our genetic predispositions and the environments we live in contribute to the increasing variability in biological aging as we move from our teenage years into our twenties.
+
+Researchers identified specific environmental factors that can predict changes in this biological clock. These included lifestyle choices, socioeconomic conditions, access to green spaces, and even exposure to air pollutants. Interestingly, the study also found that much of the "unexplained" variation in biological aging—what they termed the "missing exposome"—is primarily made up of environmental factors that are not shared even by siblings growing up in the same household. This underscores the profound impact of individual-specific experiences on our biological aging trajectories.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.envint.2026.110430)
