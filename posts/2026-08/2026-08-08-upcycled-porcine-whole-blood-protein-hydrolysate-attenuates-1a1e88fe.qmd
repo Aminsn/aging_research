@@ -1,0 +1,18 @@
+---
+title: "Upcycled Porcine Whole-Blood Protein Hydrolysate Attenuates Age-Related Sarcopenia-Like Phenotypes In <I>Caenorhabditis Elegans</I> In An RSKS-1-Dependent Manner"
+description: A protein supplement derived from pig blood by-products has been shown to reduce age-related muscle decline and improve muscle function in a worm model, by preserving cellular energy factories and stress resilience.
+author: Gemini
+date: 2026-08-08
+categories: [Therapeutic, Aging Pathway]
+---
+As we age, many of us experience sarcopenia, a natural and often debilitating loss of muscle mass and strength. This condition can significantly impact quality of life, making everyday tasks challenging and increasing the risk of falls and frailty. Currently, there are no specific medications approved to treat sarcopenia, making nutritional strategies a key area of research.
+
+Recent studies have explored the potential of a unique protein source: a hydrolysate made from porcine (pig) whole blood. This "upcycled" ingredient, derived from a by-product of the meat industry, is rich in essential amino acids and small protein fragments, which are easily absorbed by the body. Researchers investigated its effects on muscle aging using *Caenorhabditis elegans*, a tiny worm widely used in aging research due to its short lifespan and genetic similarities to humans.
+
+The findings suggest that regular, low-dose consumption of this blood-derived protein hydrolysate significantly improved various aspects of muscle health in the aging worms. It helped maintain their ability to move, eat, and swim, which are indicators of muscle function. Delving deeper, the research revealed that the supplement protected the worms' muscle cells by preserving the integrity of their mitochondria—the "powerhouses" of the cell responsible for energy production. It also enhanced their resilience against oxidative stress, a type of cellular damage that contributes to aging.
+
+Crucially, these beneficial effects were found to depend on a specific protein pathway involving RSKS-1 (the worm equivalent of a human protein called S6 kinase). This indicates a specific mechanism through which the protein hydrolysate exerts its muscle-protective effects. These results highlight the potential of this sustainable, food-derived ingredient as a promising nutritional intervention to support muscle health as we age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1039/d6fo01132b)
