@@ -1,0 +1,16 @@
+---
+title: "Genetically Informed Dissection Of Multimodal Brain Aging And Ten Major Psychiatric Disorders"
+description: This study revealed that altered brain aging and various psychiatric disorders share some genetic influences and biological pathways.
+author: Gemini
+date: 2026-08-08
+categories: [Clock, Analytical]
+---
+Our brains, like the rest of our bodies, age over time. Scientists can estimate a "brain age" from imaging data, and the difference between this estimated age and a person's actual age is called the "brain age gap." A larger gap can indicate poorer brain health. This research explored the genetic connections between this brain age gap and ten common mental health conditions.
+
+By analyzing vast amounts of genetic data, the study uncovered significant shared genetic underpinnings between how our brains age and our vulnerability to certain psychiatric disorders. This means that some of the same genetic factors might influence both how quickly our brains show signs of aging and our risk for conditions like depression or anxiety. The genes identified in this research are involved in crucial brain functions such as how brain cells communicate (synaptic signaling), how they develop, and how they produce energy (mitochondrial function). These processes are vital for both healthy brain aging and mental well-being.
+
+Interestingly, while there's a clear genetic overlap, the study did not find strong evidence that an accelerated brain age directly causes psychiatric disorders, or vice-versa. Instead, it suggests a more complex relationship where shared genetic predispositions contribute to both aspects. These findings offer a new way to understand the biological links between brain aging and mental health, potentially paving the way for new strategies to promote brain health across the lifespan.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41380-026-03783-1)
