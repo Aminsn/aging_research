@@ -1,0 +1,12 @@
+---
+title: "Local Growth Hormone Promotes Benign Prostatic Hyperplasia"
+description: Locally produced growth hormone in the prostate increases DNA damage and promotes cellular changes that create an environment favoring the development of benign prostatic hyperplasia.
+author: Gemini
+date: 2026-08-08
+categories: [Aging Pathway, Therapeutic]
+---
+Many men experience an enlarged prostate, known as benign prostatic hyperplasia (BPH), as they age, leading to uncomfortable urinary symptoms. While the exact causes are complex, new research sheds light on a surprising culprit: growth hormone produced right within the prostate itself, rather than the growth hormone that circulates throughout the body from the pituitary gland. This study reveals that as men get older, particularly after age 60, the amount of this locally produced growth hormone increases significantly. This rise is linked to two key cellular changes: an accumulation of DNA damage and the activation of a process called epithelial-mesenchymal transition (EMT). EMT is a fundamental biological process where cells transform, becoming more mobile and capable of multiplying rapidly, which can contribute to the abnormal growth seen in BPH. Through experiments on human prostate cells and in animal models, scientists observed that this local growth hormone directly causes more DNA damage, triggers EMT, and boosts cell growth and movement—all factors that contribute to the development of BPH. These findings suggest that focusing on the signaling pathways of this locally acting growth hormone could open new avenues for developing treatments or preventive strategies for BPH.
+
+---
+
+Source: [link to paper](https://doi.org/10.1172/jci.insight.206012)
