@@ -1,0 +1,16 @@
+---
+title: "Genetic Association Of Immunosenescence To Immune Decline"
+description: Genetic factors significantly influence the aging of the immune system, contributing to increased susceptibility to diseases and reduced vaccine effectiveness in older individuals.
+author: Gemini
+date: 2026-08-08
+categories: [Aging Theory, Aging Pathway]
+---
+As we age, our immune system naturally undergoes changes, a process known as immunosenescence, which makes us more vulnerable to infections, chronic diseases, and can reduce how well vaccines work. While factors like past infections, lifestyle, and environmental exposures are known to play a role in this decline, new research highlights the crucial part our genes play.
+
+This work explores how inherited differences in our genetic makeup can shape the way our immune system ages. It delves into how variations in the body's communication networks, specifically those involving small proteins called cytokines (which act as messengers between immune cells), can influence a state of chronic, low-grade inflammation known as "inflammaging." Inflammaging is like a persistent, mild alarm in the body that can interfere with normal immune function.
+
+Furthermore, the research examines how inherited differences in the signaling pathways of both our immediate, general immune defenses (innate immunity) and our more specific, memory-based defenses (adaptive immunity) contribute to immune aging. This includes looking at interactions between certain immune cell receptors (KIRs) and cell surface proteins (HLAs), as well as key molecular switches within cells (like JAK-STAT and NF-κB pathways) that control immune responses and inflammation. Understanding these genetic influences could pave the way for new strategies to maintain a healthier immune system as we get older.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s00251-026-01409-y)
