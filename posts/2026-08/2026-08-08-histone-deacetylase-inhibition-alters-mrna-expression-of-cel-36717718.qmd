@@ -1,0 +1,14 @@
+---
+title: "Histone Deacetylase Inhibition Alters Mrna Expression Of Cell Cycle- And Senescence-Associated Genes In Primary Equine Chondrocytes"
+description: Histone deacetylase inhibitors alter gene expression in equine cartilage cells by modifying epigenetic marks, affecting processes like cartilage development, cell proliferation, and chromatin organization.
+author: Gemini
+date: 2026-08-08
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+Researchers have investigated how a specific type of drug, known as a histone deacetylase inhibitor (HDACi), influences the genetic activity within equine cartilage cells. They discovered that this inhibitor, Trichostatin A (TSA), changes the chemical tags on DNA, called methylation, which then alters how genes are expressed. 
+
+Specifically, the study found that when methylation increased on certain genes, their activity decreased, and vice versa. These affected genes are important for cartilage development, cell growth, and how DNA is packaged within the cell. While the inhibitor was observed to reduce the activity of some genes essential for cartilage cell function, it also boosted the activity of other genes involved in forming cartilage and bone. These findings suggest that such inhibitors can selectively modify these genetic tags, potentially offering new ways to encourage cartilage repair and regeneration, although their full therapeutic application may have some limitations.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.rvsc.2026.106348)
