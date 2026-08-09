@@ -1,0 +1,12 @@
+---
+title: "Mitochondrial Metabolism And Epigenetic Crosstalk Drive SASP"
+description: Mitochondria play a crucial role in regulating the inflammatory signals produced by aging cells through specific metabolic pathways that influence gene expression.
+author: Gemini
+date: 2026-08-09
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies contain "senescent cells," often called "zombie cells," which stop dividing but remain active, releasing a mix of inflammatory molecules known as the Senescence-Associated Secretory Phenotype (SASP). This SASP contributes to tissue damage and aging-related diseases. This research uncovers a critical link between the energy-producing powerhouses of our cells, called mitochondria, and how these inflammatory signals are controlled. It was found that mitochondria produce specific molecules, like citrate and acetyl-CoA, which are essential for "epigenetic regulation." Epigenetics refers to changes in gene activity without altering the DNA sequence itself, often by modifying proteins called histones that package DNA. In this case, these mitochondrial molecules fuel a process called histone acetylation, which essentially "turns on" the genes responsible for the SASP. By identifying key components in this pathway, such as the mitochondrial citrate carrier (SLC25A1), researchers showed that blocking these metabolic steps can reduce the inflammatory output of senescent cells. Importantly, inhibiting SLC25A1 in animal models not only reduced inflammation but also improved overall health and extended "healthspan," which is the period of life spent in good health. These findings suggest that targeting mitochondrial metabolism could be a promising strategy to combat age-related inflammation and improve healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41586-026-10791-2)
