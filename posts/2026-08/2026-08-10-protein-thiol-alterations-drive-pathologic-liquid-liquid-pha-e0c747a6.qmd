@@ -1,0 +1,18 @@
+---
+title: "Protein Thiol Alterations Drive Pathologic Liquid-Liquid Phase Separation In The Aging Brain"
+description: Aging brains experience changes in protein chemistry, specifically in sulfur-containing groups called thiols, which leads to the formation of abnormal protein clumps and contributes to age-related brain diseases.
+author: Gemini
+date: 2026-08-10
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies are incredibly complex, and even at the cellular level, there are intricate processes keeping everything in balance. One such process involves how proteins behave within our cells. Proteins, the workhorses of our cells, can sometimes gather together to form tiny, dense droplets called "biomolecular condensates." Think of it like oil and vinegar separating in salad dressing – these droplets form distinct compartments within the cell without being enclosed by a membrane. This process, known as liquid-liquid phase separation, is crucial for many normal cellular functions, from organizing cellular components to responding to stress.
+
+However, as we age, this delicate balance can be disrupted. Recent research has shed light on how changes to specific parts of proteins, called "thiols" (which contain sulfur), play a significant role in this disruption. Specifically, an increase in "thiol oxidation" – a chemical change to these thiol groups – promotes the formation of these biomolecular condensates. While some condensation is normal, excessive or uncontrolled condensation can be problematic, leading to the formation of abnormal protein clumps.
+
+On the flip side, another protective modification called "protein persulfidation," which involves adding an extra sulfur atom to a thiol group and is regulated by a molecule called hydrogen sulfide, actually helps to prevent this excessive clumping and keeps proteins functioning correctly. When this protective mechanism falters with age, it can have serious consequences.
+
+The study found that these age-related changes in protein thiols affect important proteins like synapsin 1, which is vital for "neurotransmitter release" (how nerve cells communicate), and G3BP2, involved in forming "stress granules" (temporary cellular compartments that protect cells during stress). These disruptions can lead to impaired nerve cell communication and problems with how cells handle stress, both of which are hallmarks of aging and neurodegenerative diseases. The exciting news is that boosting protein persulfidation, perhaps through compounds that donate hydrogen sulfide, could offer a promising new strategy to combat these age-related brain disorders.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41594-026-01857-w)
