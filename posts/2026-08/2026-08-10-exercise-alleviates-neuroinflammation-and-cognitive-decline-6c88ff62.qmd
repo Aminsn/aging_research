@@ -1,0 +1,18 @@
+---
+title: "Exercise Alleviates Neuroinflammation And Cognitive Decline In Aged Mice Via Hepatic Fgf21-Driven Microglial Mitophagy"
+description: Exercise can reduce brain inflammation and improve memory in older mice by stimulating a liver hormone called FGF21, which then helps brain immune cells clear out damaged components.
+author: Gemini
+date: 2026-08-10
+categories: [Aging Pathway, Therapeutic, Lever, Analytical]
+---
+As we age, our brains can experience inflammation, a process called neuroinflammation, which contributes to a decline in our thinking and memory abilities. While the exact mechanisms linking aging to brain degeneration are still being uncovered, new research sheds light on a promising intervention: exercise.
+
+This study reveals that regular physical activity can significantly reduce brain inflammation and improve cognitive function in older mice. The key player in this beneficial effect appears to be a hormone produced by the liver, called FGF21. When we exercise, the liver releases more FGF21, and this hormone travels to the brain.
+
+Once in the brain, FGF21 acts on specialized immune cells called microglia. Microglia are like the brain's clean-up crew, and FGF21 helps them become more efficient at a process called mitophagy. Mitophagy is essentially the selective removal of damaged mitochondria—the powerhouses of our cells—which is crucial for maintaining healthy brain cell function. By clearing out these damaged components, microglia can better support brain health.
+
+Furthermore, FGF21 influences microglia to switch from a "pro-inflammatory" state, which contributes to damage, to an "anti-inflammatory" state, which helps protect and repair the brain. This shift reduces overall brain inflammation. The research also points to specific cellular pathways, like the AMPK/mTOR pathway and the interaction between FGFR1 and Sirt1, as being crucial for FGF21's effects on cellular cleanup and inflammation control. These findings suggest that exercise, through the action of FGF21, offers a multifaceted protective effect against age-related brain decline.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bbi.2026.106935)
