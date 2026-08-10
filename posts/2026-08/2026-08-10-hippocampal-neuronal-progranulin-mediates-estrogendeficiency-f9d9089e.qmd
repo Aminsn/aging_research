@@ -1,0 +1,16 @@
+---
+title: "Hippocampal Neuronal Progranulin Mediates Estrogen‑Deficiency‑Induced Affective Vulnerability And Lysosomal-Autophagic Dysfunction"
+description: Researchers have identified a protein called hippocampal neuronal progranulin (PGRN) as a key factor in protecting against anxiety and depression-like behaviors caused by low estrogen levels, suggesting it could be a target for new treatments.
+author: Gemini
+date: 2026-08-10
+categories: [Aging Pathway, Therapeutic]
+---
+Many women going through perimenopause experience increased anxiety and depression due to declining estrogen levels. The exact reasons for this vulnerability to mood disorders have been unclear. New research sheds light on a crucial protein in the brain called progranulin (PGRN), found in the hippocampus, a brain region vital for mood and memory.
+
+This study found that when estrogen levels drop, the amount of PGRN in hippocampal neurons also decreases, leading to behaviors resembling anxiety and depression. However, when PGRN levels were restored, either by supplementing estrogen or directly increasing PGRN, these mood-related issues improved. The research revealed that PGRN plays a vital role in maintaining the health of brain cells by ensuring their waste disposal and recycling systems, known as lysosomes and autophagy, function correctly. It also helps preserve the connections between brain cells, which are essential for proper brain function.
+
+These findings suggest that PGRN, or smaller active parts of it that can reach the brain, could be promising new therapeutic targets for treating depression and anxiety associated with perimenopause. By understanding how this protein links estrogen signaling to cellular health and brain plasticity, we move closer to developing effective interventions for these common emotional disturbances.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41380-026-03790-2)
