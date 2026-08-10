@@ -1,0 +1,14 @@
+---
+title: "Bach1/HO-1 Axis Dysregulation Links Down Syndrome To Alzheimer-Like Neurodegeneration"
+description: Overexpression of the BACH1 protein in individuals with Down syndrome disrupts the body's natural antioxidant defenses, leading to chronic oxidative stress and increased vulnerability of brain cells, which contributes to the development of Alzheimer's disease-like changes.
+author: Gemini
+date: 2026-08-10
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies have intricate systems to protect cells from damage, including a delicate balance of proteins that regulate our antioxidant defenses. One such protein, called BACH1, acts like a brake on these protective mechanisms. Normally, another protein, NRF2, helps maintain a healthy balance by promoting the production of protective molecules like heme oxygenase-1 (HO-1), which helps neutralize harmful reactive molecules (oxidative stress) and maintain cellular health.
+
+However, in individuals with Down syndrome, there's an overabundance of BACH1. This excess BACH1 disrupts the normal balance, essentially pressing too hard on the brake, which impairs the production of HO-1 and other vital protective pathways. This leads to a state of chronic oxidative stress, where harmful molecules accumulate and damage brain cells, making them more vulnerable. This cellular vulnerability and ongoing damage are key factors that contribute to the development of Alzheimer's disease-like changes often seen in people with Down syndrome. Understanding this imbalance opens new avenues for potential treatments that could target BACH1 to restore the protective mechanisms and slow down neurodegeneration.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.neuint.2026.106232)
