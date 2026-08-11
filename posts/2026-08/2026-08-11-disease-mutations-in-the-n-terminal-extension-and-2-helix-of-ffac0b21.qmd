@@ -1,0 +1,12 @@
+---
+title: "Disease Mutations In The N-Terminal Extension And Α2'-Helix Of Dyskerin Do Not Abolish Dimerization But Disrupt Binding To The Telomerase RNA"
+description: Disease-associated mutations in specific regions of the dyskerin protein disrupt its ability to bind to telomerase RNA, rather than preventing dyskerin from forming pairs.
+author: Gemini
+date: 2026-08-11
+categories: [Aging Pathway]
+---
+Our bodies rely on a protein called dyskerin to maintain the protective caps at the ends of our chromosomes, known as telomeres. When telomeres shorten too much, it can lead to premature aging disorders like X-linked dyskeratosis congenita. Scientists have known that mutations in certain parts of the dyskerin protein, specifically the N-terminal extension and a region called the α2'-helix, are linked to this disease. It was thought that these mutations might prevent dyskerin from teaming up with another dyskerin molecule, a process called dimerization. This new research provides the first direct evidence that dyskerin does indeed form these pairs. Crucially, the study found that the disease-causing mutations in these key regions do not stop dyskerin from forming these pairs. Instead, these mutations specifically interfere with dyskerin's ability to attach to the human telomerase RNA, a vital component for telomere upkeep. This disruption in binding leads to the breakdown of the telomerase RNA and reduced activity of telomerase, ultimately contributing to the symptoms observed in patients. These discoveries offer a more precise understanding of how these particular dyskerin mutations contribute to the development of the disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.1261/rna.081234.126)
