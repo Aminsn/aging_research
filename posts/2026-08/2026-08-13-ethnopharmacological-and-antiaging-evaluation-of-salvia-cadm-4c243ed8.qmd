@@ -1,0 +1,18 @@
+---
+title: "Ethnopharmacological And Antiaging Evaluation Of Salvia Cadmica: Modulation Of Mmp1/Mmp3 And Collagen In Oxidative Stress-Induced Senescence"
+description: An extract from the plant *Salvia cadmica* demonstrated significant antioxidant and anti-aging effects by reducing cellular aging markers and promoting collagen production in skin cells.
+author: Gemini
+date: 2026-08-13
+categories: [Therapeutic, Aging Pathway, Analytical]
+---
+Ever wondered if nature holds secrets to youthful skin? Recent research has explored an extract from *Salvia cadmica*, a plant traditionally used for healing, and found promising anti-aging properties. This study investigated how the plant extract could combat the signs of aging at a cellular level.
+
+The researchers discovered that the extract is rich in beneficial compounds like rosmarinic acid and luteolin 7-glucoside, which are known for their protective qualities. When tested on human skin cells that were prematurely aged due to stress, the extract significantly reduced markers of cellular aging and improved cell health.
+
+One of the key findings was the extract's ability to influence genes responsible for skin health. It decreased the activity of enzymes called MMP1 and MMP3, which are known to break down collagen, the protein that gives skin its firmness and elasticity. Simultaneously, it boosted the production of new collagen. This dual action suggests a powerful approach to maintaining skin structure and preventing wrinkles.
+
+Further computational analysis indicated that a specific compound, luteolin 7-glucoside, strongly binds to these collagen-degrading enzymes, explaining how the extract might work. The study also predicted a good safety profile for skin application. These findings suggest that this natural extract could be a valuable ingredient in future anti-aging skincare solutions, helping to protect against oxidative stress and support healthy, youthful-looking skin.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/cbdv.71559)
