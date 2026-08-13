@@ -1,0 +1,12 @@
+---
+title: "A Systems Pharmacology Model Of Aging Identifies Optimal Combination Therapies With Secondary Benefits On Weight Loss And Metabolic Health"
+description: A systems pharmacology model identified distinct optimal drug combinations for improving metabolic health versus directly targeting aging-related benefits.
+author: Gemini
+date: 2026-08-13
+categories: [Therapeutic, Analytical]
+---
+Aging is a complex biological process that affects many systems in our body, leading to various health issues. While many existing treatments focus on specific conditions like weight loss or blood sugar control, scientists are now looking at how to tackle aging itself. Researchers have developed a sophisticated computer model, known as a quantitative systems pharmacology (QSP) model, to understand how different medications interact with the aging process. This model incorporated how drugs like GLP-1 receptor agonists, SGLT2 inhibitors, metformin, and rapamycin influence metabolism, potential side effects, and key indicators of aging, such as cellular damage and the body's ability to repair itself. After validating the model against real-world clinical data, the team made a significant discovery: the most effective drug combinations for improving metabolic health were different from those that offered the greatest benefits for slowing down aging. For instance, a combination of a GLP-1 receptor agonist, an SGLT2 inhibitor, and metformin was found to be ideal for metabolic improvements. However, for optimizing aging-related benefits, the model suggested a combination of a GLP-1 receptor agonist, an SGLT2 inhibitor, and rapamycin. This highlights that simply improving metabolic markers might not be sufficient for achieving the best outcomes in healthy aging, suggesting that more targeted approaches are needed. These findings provide a valuable roadmap for future research into combination therapies to promote healthier aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/psp4.70322)
