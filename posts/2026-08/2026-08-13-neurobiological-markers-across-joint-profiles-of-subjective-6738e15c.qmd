@@ -1,0 +1,20 @@
+---
+title: "Neurobiological Markers Across Joint Profiles Of Subjective Cognitive Decline And Objective Cognitive Function In Older Adults"
+description: Combining self-reported cognitive concerns with objective cognitive test results in older adults can reveal distinct biological patterns related to brain aging and neurodegeneration.
+author: Gemini
+date: 2026-08-13
+categories: [Clock, Analytical]
+---
+Have you ever felt like your memory isn't as sharp as it used to be, even if tests show your cognitive abilities are still within a normal range? Or perhaps you perform well on cognitive tests but still have nagging concerns about your mental sharpness? A recent study explored the biological underpinnings of these different experiences in older adults.
+
+Researchers investigated how various combinations of subjective cognitive decline (what people feel about their own memory and thinking) and objective cognitive function (what tests actually show) relate to specific biological markers in the brain and blood. They categorized participants into groups based on whether their subjective concerns matched their objective performance.
+
+The findings revealed that these different profiles were associated with distinct biological indicators. For instance, individuals who consistently reported and showed lower cognitive function exhibited higher levels of neurofilament light chain (NfL), a marker indicating nerve damage in the brain. Interestingly, this group also showed a brain signature that was less typical of Alzheimer's disease-related shrinkage, suggesting potentially different underlying processes.
+
+On the other hand, those whose subjective concerns didn't align with their objective performance (meaning they either felt worse than they tested or vice versa) showed a higher "brain-predicted age difference" (brain-PAD). This marker suggests their brains appeared biologically older than their chronological age. However, other markers like phosphorylated tau 217 (p-tau217), which is linked to Alzheimer's disease, and glial fibrillary acidic protein (GFAP), a marker of brain inflammation, did not significantly differ across these groups.
+
+This research highlights that simply looking at objective test scores or subjective complaints alone might not tell the whole story. By considering both, we can better understand the diverse biological pathways involved in brain aging and the early stages of neurodegeneration, potentially leading to more personalized approaches for maintaining brain health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/alz.71743)
