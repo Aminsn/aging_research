@@ -1,0 +1,18 @@
+---
+title: "Social Media Use Duration And Epigenetic Aging Among U.S. Adults In The MIDUS Refresher Study"
+description: A study found that spending more time on social media was linked to a faster rate of biological aging in adults, though this connection was less clear after considering body mass index.
+author: Gemini
+date: 2026-08-13
+categories: [Clock, Lever, Analytical]
+---
+Have you ever wondered if your daily scroll through social media might be doing more than just passing the time? New research suggests there could be a connection between how much time adults spend on social media and their biological age.
+
+Scientists looked at data from a group of U.S. adults, examining their daily social media use and measuring their biological aging using a special indicator called DunedinPACE. They discovered that individuals who spent more hours on social media each day tended to show signs of aging at a faster pace.
+
+However, the picture became a bit more complex when body mass index (BMI) was taken into account. The link between social media use and accelerated aging became less pronounced after adjusting for BMI, suggesting that factors related to weight, lifestyle, or other health processes might play a role in this relationship.
+
+It's important to note that this was a preliminary study, meaning it provides an initial look at a potential connection. More research, especially studies that follow people over time, is needed to fully understand how our digital habits might influence our biological aging and overall health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1371/journal.pdig.0001570)
