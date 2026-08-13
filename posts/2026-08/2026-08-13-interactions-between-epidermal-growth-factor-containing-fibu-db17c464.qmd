@@ -1,0 +1,18 @@
+---
+title: "Interactions Between Epidermal Growth Factor-Containing Fibulin-Like Extracellular Matrix Protein 1 And Tissue Inhibitor Of Metalloproteinases-3 And Relevance To Age-Related Macular Degeneration"
+description: A study revealed that two proteins, EFEMP1 and TIMP-3, interact within the eye, and this interaction is implicated in the development of age-related macular degeneration and related hereditary vision disorders.
+author: Gemini
+date: 2026-08-13
+categories: [Aging Pathway, Therapeutic]
+---
+Our eyes rely on a delicate balance of components to maintain healthy vision. Recent research has shed light on a crucial interaction between two proteins, EFEMP1 (also known as fibulin-3) and TIMP-3, and its significant role in certain eye conditions, particularly those affecting the macula.
+
+Think of the eye as having a supportive scaffolding called the extracellular matrix (ECM), which provides structure and helps cells communicate. This scaffolding is constantly being remodeled by enzymes called metalloproteinases (MMPs), which break down old components, and their counterparts, tissue inhibitors of metalloproteinases (TIMPs), which keep the MMPs in check. This balance is vital for eye health.
+
+This study found that EFEMP1 and TIMP-3 directly interact. Why is this important? Mutations in the gene for TIMP-3 are known to cause Sorsby fundus dystrophy, a hereditary disease that leads to vision loss. Similarly, a specific mutation in the EFEMP1 gene is responsible for another inherited macular disease called Malattia Leventinese. Both of these conditions share striking similarities with age-related macular degeneration (AMD), a leading cause of blindness in older adults.
+
+The researchers observed that both TIMP-3 and EFEMP1 accumulate and are expressed in similar areas—specifically, between the retinal pigment epithelium (a layer of cells supporting light-sensing cells) and Bruch's membrane (another supportive layer in the eye)—in patients with Malattia Leventinese and AMD. This overlap suggests that the interaction between these two proteins, and disruptions to it, could be a common underlying factor in different forms of macular degeneration. Understanding this connection opens new avenues for exploring potential treatments for these debilitating eye diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.xops.2026.101287)
