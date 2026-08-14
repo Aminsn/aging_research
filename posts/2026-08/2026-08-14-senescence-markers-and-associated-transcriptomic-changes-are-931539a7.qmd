@@ -1,0 +1,16 @@
+---
+title: "Senescence Markers And Associated Transcriptomic Changes Are Expressed At Early Stages Of Alzheimer'S Neuropathology But Are Not Independently Related To Dementia"
+description: Markers of cellular aging and related gene activity changes are present in the early stages of Alzheimer's brain pathology, but their presence does not independently predict dementia.
+author: Gemini
+date: 2026-08-14
+categories: [Aging Theory, Aging Pathway, Therapeutic, Analytical]
+---
+Our brains, like the rest of our bodies, undergo changes as we age. One such change involves "cellular senescence," where cells stop dividing and accumulate, potentially contributing to age-related diseases like Alzheimer's. This research explored specific markers of cellular senescence in human brain tissue, looking at their presence in both nerve cells (neurons) and supporting cells (glia).
+
+Interestingly, these markers were found to be more abundant in the very early stages of Alzheimer's disease pathology, rather than increasing as the disease progressed. When a particular senescence marker called p21 was highly expressed in neurons, it was associated with disruptions in crucial pathways related to how neurons function, how proteins are managed, the health of cellular powerhouses (mitochondria), and how brain cells communicate.
+
+However, a key finding was that the presence of these cellular aging markers did not independently correlate with whether an individual had dementia. This suggests that while cellular senescence might be an important factor in the initial development of Alzheimer's disease and its impact on brain cell function, its direct role in causing the symptoms of dementia requires more investigation. Therefore, further research is essential to understand if therapies targeting these senescent cells could be effective in treating dementia.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/ijms27156964)
