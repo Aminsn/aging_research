@@ -1,0 +1,16 @@
+---
+title: "Wealth, Epigenetic Age Acceleration, And Intrinsic Capacity: A Multidomain Mediation Analysis"
+description: An individual's wealth influences their biological aging rate, which in turn affects their overall physical and mental health capabilities.
+author: Gemini
+date: 2026-08-15
+categories: [Clock, Analytical]
+---
+It's well-known that a person's financial situation can impact their health, but the exact reasons are often complex. Recent research sheds light on one such connection, exploring how wealth influences our biological aging process, and how this, in turn, affects our overall physical and mental abilities.
+
+Our bodies have a "biological clock" that can tick faster or slower than our chronological age. This phenomenon, known as epigenetic age acceleration, is essentially a measure of how quickly our cells are aging at a molecular level. The study investigated whether this biological aging process acts as a bridge between an individual's wealth and their "intrinsic capacity."
+
+Intrinsic capacity refers to the combined physical and mental resources an individual can mobilize, encompassing aspects like mobility, cognition, and vitality. The findings suggest that socioeconomic factors, particularly wealth, can influence how quickly our biological clock advances. This accelerated biological aging then plays a significant role in determining an individual's intrinsic capacity, highlighting a crucial pathway through which financial well-being can impact our fundamental health and functional abilities as we age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1177/00914150261474061)
