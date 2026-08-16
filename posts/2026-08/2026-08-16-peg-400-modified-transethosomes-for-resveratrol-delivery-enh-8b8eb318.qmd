@@ -1,0 +1,18 @@
+---
+title: "PEG-400-Modified Transethosomes For Resveratrol Delivery: Enhanced Dermal Penetration And Collagen Remodeling Over Dermarolling Strategies"
+description: A new delivery system using PEG-modified vesicles significantly improved the skin penetration of resveratrol, leading to enhanced collagen production and anti-aging effects that surpassed traditional dermarolling methods and other commercial products.
+author: Gemini
+date: 2026-08-16
+categories: [Therapeutic]
+---
+Our skin faces a constant battle against aging, primarily due to the breakdown of collagen, which keeps our skin firm, and damage from harmful molecules called free radicals. Resveratrol, a powerful antioxidant found in plants, holds great promise for fighting these signs of aging. However, simply applying resveratrol to the skin hasn't been very effective because it struggles to penetrate deeply enough to where it can do the most good.
+
+To overcome this challenge, scientists have developed a clever new way to deliver resveratrol. They created tiny, flexible spheres, often called vesicles or "transethosomes," which are specially designed to carry active ingredients through the skin's protective layers. In this innovative approach, these vesicles were modified with a substance called PEG (polyethylene glycol) and then coated with hyaluronic acid, a natural compound known for its hydrating properties. This coating not only made the vesicles more stable but also helped them interact better with the skin.
+
+The researchers found that by applying these modified vesicles in a specific sequence, they could temporarily loosen the skin's natural barriers, allowing the resveratrol to reach the deeper layers of the skin where collagen is produced. What's even more exciting is that when this advanced delivery system was combined with microneedling (a technique using tiny needles to create micro-channels in the skin), it dramatically boosted collagen production and increased the skin's natural antioxidant defenses. This combination also reduced markers of oxidative stress, which are indicators of cellular damage.
+
+Ultimately, this new method proved to be far more effective than current commercial resveratrol products and even outperformed traditional dermarolling strategies in promoting skin rejuvenation and restoring the skin's youthful structure. This represents a significant step forward in developing more potent anti-aging treatments.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.ejpb.2026.115206)
