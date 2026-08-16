@@ -1,0 +1,18 @@
+---
+title: "Substance Use And Epigenetic Age Acceleration: Associations With Alcohol, Tobacco, Illicit Drugs, And SUD Severity"
+description: Research indicates that the use of substances like alcohol and tobacco is associated with an accelerated biological age, suggesting that these substances can make a person's body age faster at a cellular level than their actual years.
+author: Gemini
+date: 2026-08-16
+categories: [Clock, Lever, Analytical]
+---
+Have you ever heard someone say that stress or unhealthy habits can make you "age faster"? It turns out there's a scientific basis for this idea, particularly when it comes to substance use. Our bodies have a chronological age, which is simply how many years we've been alive. But we also have a biological age, which reflects the true health and aging of our cells and tissues. Sometimes, these two ages don't match up.
+
+Scientists can estimate biological age using something called "epigenetic clocks." These are like sophisticated timers that look at chemical changes on our DNA, specifically patterns of DNA methylation, which can indicate how quickly our bodies are aging.
+
+Recent findings show a clear link between substance use and an accelerated biological age. For instance, long-term alcohol consumption, especially liquor and frequent binge drinking, appears to speed up this cellular aging process. This effect is particularly noticeable in middle-aged and older adults. Similarly, both current and past tobacco smoking are associated with a faster biological clock. This means that individuals who use these substances might have bodies that are biologically older than their actual age.
+
+Why does this matter? An accelerated biological age is not just a number; it's often linked to a higher risk of developing age-related diseases and even a shorter lifespan. Understanding this connection provides another compelling reason to consider reducing or avoiding substance use, as it can have a profound impact on how quickly our bodies age at a fundamental level.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.drugalcdep.2026.113269)
