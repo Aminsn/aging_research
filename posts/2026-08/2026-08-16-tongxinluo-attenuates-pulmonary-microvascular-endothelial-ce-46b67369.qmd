@@ -1,0 +1,12 @@
+---
+title: "Tongxinluo Attenuates Pulmonary Microvascular Endothelial Cell Senescence In COPD By Targeting The Gadd45B-MAPK Axis"
+description: Tongxinluo reduces the aging of small blood vessel lining cells in the lungs of individuals with chronic obstructive pulmonary disease by acting on a specific cellular pathway.
+author: Gemini
+date: 2026-08-16
+categories: [Therapeutic, Aging Pathway, Analytical]
+---
+Researchers have uncovered a promising approach to combat a key factor in chronic obstructive pulmonary disease (COPD), a serious lung condition. The study investigates how a traditional Chinese medicine, Tongxinluo, can help prevent the premature aging and dysfunction of cells that line the tiny blood vessels in the lungs. This cellular aging, known as senescence, contributes significantly to the progression of COPD. The findings suggest that Tongxinluo achieves its protective effects by specifically targeting a molecular communication route within these cells, referred to as the GADD45B-MAPK axis. This axis involves proteins (GADD45B) that respond to cellular stress and enzymes (MAPK) that regulate various cell functions, including growth and survival. By modulating this pathway, Tongxinluo helps maintain the health and function of these crucial lung cells, potentially offering a new therapeutic strategy for managing COPD.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.phymed.2026.158685)
