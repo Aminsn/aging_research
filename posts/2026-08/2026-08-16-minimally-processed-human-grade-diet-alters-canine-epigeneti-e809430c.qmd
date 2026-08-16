@@ -1,0 +1,18 @@
+---
+title: "Minimally Processed, Human-Grade Diet Alters Canine Epigenetic Ageing: Results From A Pilot Study"
+description: A pilot study revealed that dogs consuming a minimally processed, human-grade diet experienced a reduction in their biological age over six months, whereas dogs fed a processed kibble diet did not show significant changes.
+author: Gemini
+date: 2026-08-16
+categories: [Clock, Lever]
+---
+Have you ever wondered if your dog's diet could influence how quickly they age? New research suggests that what goes into your dog's bowl might have a significant impact on their biological clock. Our bodies, and those of our canine companions, have a "biological age" that can be different from our actual chronological age. This biological age is influenced by various factors, including our lifestyle and diet, and can be measured through changes in our DNA, specifically a process called DNA methylation, which acts like a dimmer switch for our genes.
+
+Scientists recently conducted a study to explore whether diet could affect this biological aging process in dogs. They developed a special "aging clock" specifically for dogs, using simple cheek swab samples. This allowed them to accurately assess a dog's biological age. They then observed two groups of dogs over six months: one group was fed a minimally processed, human-grade diet, while the other received a conventional processed kibble diet.
+
+The findings were quite compelling. Dogs that ate the minimally processed, human-grade food showed a notable decrease in their biological age over the six-month period. In contrast, the dogs on the processed kibble diet did not experience any significant changes in their biological age. This suggests that a less processed, higher-quality diet could potentially slow down the biological aging process in dogs.
+
+This research opens up exciting possibilities for promoting healthier and longer lives for our beloved pets. It provides a practical way to measure the impact of dietary choices on canine aging and highlights the potential for nutrition to play a crucial role in their overall wellness and longevity.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/vro2.70047)
