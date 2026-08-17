@@ -1,0 +1,18 @@
+---
+title: "Phycocyanobilin Attenuates Oligomerized Amyloid Β-Induced Neuronal Senescence Through Sirt1-Associated Mechanisms"
+description: Phycocyanobilin, a compound derived from algae, was found to reduce the aging-like changes in brain cells induced by amyloid-beta, a protein associated with Alzheimer's disease, by influencing a protein called SIRT1.
+author: Gemini
+date: 2026-08-17
+categories: [Aging Pathway, Therapeutic]
+---
+Our brain cells can undergo a process called "senescence," where they essentially get old and stop functioning properly, contributing to diseases like Alzheimer's. This cellular aging is often triggered by harmful proteins, such as amyloid-beta, which accumulate in the brain. Researchers have been exploring natural compounds that might protect our brain cells from this detrimental process.
+
+A recent study investigated a promising compound called phycocyanobilin (PCB), which is found in certain types of algae. The findings suggest that PCB can significantly counteract the aging-like effects that amyloid-beta has on brain cells.
+
+How does it work? The research indicates that PCB exerts its protective effects, at least in part, by interacting with a key protein known as sirtuin 1 (SIRT1). SIRT1 is often referred to as a "longevity protein" because it plays a crucial role in maintaining cell health and function, and its activity tends to decline with age and in diseases like Alzheimer's.
+
+By restoring the levels and activity of SIRT1, PCB helps to reduce cell damage, lower inflammation, and decrease other markers associated with cellular senescence in brain cells exposed to amyloid-beta. This suggests that this natural compound could offer a novel approach to protecting our brains from the aging processes linked to Alzheimer's disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/nu18152579)
