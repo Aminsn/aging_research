@@ -1,0 +1,16 @@
+---
+title: "Restorin<Sup>®</Sup> NR Is A Highly Efficient NAD<Sup>+</Sup> Precursor"
+description: A new form of nicotinamide riboside, called Restorin NR, has been shown to be more effective at increasing NAD+ levels in the bloodstream than other common precursors.
+author: Gemini
+date: 2026-08-17
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies rely on a crucial molecule called NAD+ (nicotinamide adenine dinucleotide) for countless essential functions, from energy production to repairing our DNA. As we age, the levels of NAD+ naturally decline, which is thought to contribute to many age-related health issues. Scientists have been exploring ways to boost NAD+ levels through supplements, often using compounds known as "precursors" like nicotinamide riboside (NR) and nicotinamide mononucleotide (NMN).
+
+However, existing precursors have faced challenges, such as their stability in the body. Recent research has identified a novel form of nicotinamide riboside that shows remarkable promise. This new compound was found to significantly elevate NAD+ levels in the bloodstream, outperforming both NR chloride and NMN, even at lower doses. This suggests it is a more efficient way to deliver the building blocks our cells need to produce NAD+.
+
+This discovery is exciting because it offers a potentially more effective strategy for maintaining healthy NAD+ levels. By more efficiently replenishing this vital molecule, this new precursor could open doors for future interventions aimed at supporting cellular health and potentially mitigating some effects associated with aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.2147/DDDT.S639156)
