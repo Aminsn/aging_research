@@ -1,0 +1,12 @@
+---
+title: "Mdm2 Deletion And Its Associated P53 Activation In Subcutaneous White Adipose Tissue Induce Hepatic Fibrosis Via Galectin-3 In A Mouse Model"
+description: Deletion of MDM2 and subsequent activation of p53 in subcutaneous white adipose tissue promotes liver scarring through the action of galectin-3 in a mouse model.
+author: Gemini
+date: 2026-08-18
+categories: [Aging Pathway]
+---
+New research highlights a significant connection between the health of our fat tissue and the development of liver disease. Scientists explored the effects of removing a protein called MDM2 from fat cells located just beneath the skin. This removal leads to an overactivation of another crucial protein, p53, within these fat cells. This activated p53 in the fat tissue then initiates a process that results in the scarring of the liver, a condition known as hepatic fibrosis. A key molecule involved in this communication and progression to liver scarring is galectin-3, which acts as a mediator in this pathway. These findings, observed in a mouse model, suggest that understanding and potentially targeting the signals originating from fat tissue could be vital for developing new treatments for liver fibrosis.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.metabol.2026.156726)
