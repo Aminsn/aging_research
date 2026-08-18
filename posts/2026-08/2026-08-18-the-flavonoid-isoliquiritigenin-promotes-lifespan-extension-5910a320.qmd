@@ -1,0 +1,20 @@
+---
+title: "The Flavonoid Isoliquiritigenin Promotes Lifespan Extension Of Caenorhabditis Elegans Through The Transcription Factor DAF-16 And Aquaporin-2"
+description: The natural compound isoliquiritigenin extends the lifespan of the roundworm *Caenorhabditis elegans* by activating the DAF-16 protein and the aquaporin-2 water channel, enhancing the organism's antioxidant defenses and stress resistance.
+author: Gemini
+date: 2026-08-18
+categories: [Therapeutic, Aging Pathway]
+---
+Aging is a complex process often linked to the accumulation of damage from unstable molecules called reactive oxygen species. Scientists are constantly searching for natural compounds that might help slow down this process and promote healthier aging. One such compound, a natural plant-derived substance, has shown promising results in a recent study using the tiny roundworm, *Caenorhabditis elegans*.
+
+This research revealed that the compound significantly extended the average lifespan of these worms. Beyond just living longer, the treated worms also displayed enhanced resilience against various stressors, such as extreme heat and oxidative stress, which are conditions that typically accelerate aging.
+
+The mechanism behind these beneficial effects involves two key players within the cells. First, the compound activates a crucial protein known as DAF-16. When activated, DAF-16 moves into the cell's control center, the nucleus, where it switches on a network of genes responsible for protecting the cell from damage and promoting longevity.
+
+Secondly, the study highlighted the importance of a water channel protein called AQP-2. This protein plays a vital role in maintaining proper water balance within cells. The compound was found to increase the activity of AQP-2, and interestingly, the effects on lifespan and stress resistance were diminished when AQP-2 was not functioning correctly.
+
+Crucially, the researchers discovered that DAF-16 and AQP-2 work together in a feedback loop, where the activation of one influences the other, ultimately leading to improved antioxidant defenses and better cellular water management. This interconnected pathway suggests a novel way that natural compounds could influence the aging process, offering exciting possibilities for future research into healthy aging strategies.
+
+---
+
+Source: [link to paper](https://doi.org/10.1590/1414-431X2025e14996)
