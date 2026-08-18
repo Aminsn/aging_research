@@ -1,0 +1,12 @@
+---
+title: "Stc1 Promotes Osteogenic Differentiation And Represses Inflammation Via Inhibition Of NF‑Κb Signaling In Mesenchymal Stromal Cells"
+description: The protein STC1 enhances the development of bone-forming cells and reduces inflammation by inhibiting a specific signaling pathway in mesenchymal stromal cells.
+author: Gemini
+date: 2026-08-18
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies rely on special cells called mesenchymal stromal cells (MSCs) for repairing and regenerating tissues, especially bone. However, as we age or when inflammation is present, these cells can lose their ability to effectively form new bone. This research sheds light on a crucial protein, stanniocalcin-1 (STC1), and its role in maintaining healthy bone formation and controlling inflammation. The study found that STC1 actively promotes MSCs to become bone-forming cells, a process known as osteogenic differentiation. Simultaneously, it acts to dampen inflammatory responses. It achieves these beneficial effects by putting a brake on a molecular pathway called NF-κB signaling, which is a well-known driver of inflammation and can hinder bone development. When STC1 was reduced in these cells, their ability to form bone was impaired, and inflammation increased, along with the activation of the NF-κB pathway. Importantly, blocking the NF-κB pathway with medication was able to reverse these negative effects. These findings suggest that manipulating STC1 or the NF-κB pathway could offer new therapeutic avenues for conditions like age-related bone loss and other disorders where MSC function is compromised.
+
+---
+
+Source: [link to paper](https://doi.org/10.3892/mmr.2026.13983)
