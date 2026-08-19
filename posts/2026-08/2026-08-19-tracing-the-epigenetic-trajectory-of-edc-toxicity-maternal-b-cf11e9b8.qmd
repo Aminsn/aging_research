@@ -1,0 +1,12 @@
+---
+title: "Tracing The Epigenetic Trajectory Of EDC Toxicity: Maternal BPAF Drives Uterine Injuries Via DNA Methylation Reprogramming"
+description: Maternal exposure to BPAF, an endocrine-disrupting chemical, causes lasting uterine damage in offspring by altering DNA methylation patterns during development.
+author: Gemini
+date: 2026-08-19
+categories: [Aging Pathway, Clock, Analytical]
+---
+Our bodies are constantly exposed to various chemicals in the environment, some of which are known as endocrine-disrupting chemicals (EDCs). These EDCs can interfere with our hormone systems, leading to a range of health issues. A recent study sheds light on how one such EDC, called BPAF, can have a profound and lasting impact on the reproductive health of offspring when mothers are exposed to it. The research focused on understanding the long-term changes that occur in the uterus, an organ crucial for female reproduction. It was found that maternal exposure to BPAF during critical developmental stages leads to injuries in the uterus of the offspring. The key mechanism behind these lasting effects appears to be "epigenetic reprogramming," specifically changes in DNA methylation. DNA methylation is like a set of instructions that tells our genes when to turn on or off, without changing the underlying genetic code itself. By altering these epigenetic marks, BPAF essentially rewrites the developmental trajectory of the uterus, predisposing it to problems later in life. This work highlights the importance of understanding how environmental chemicals can leave a lasting imprint on our health, even across generations, by subtly changing how our genes are regulated.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.envint.2026.110456)
