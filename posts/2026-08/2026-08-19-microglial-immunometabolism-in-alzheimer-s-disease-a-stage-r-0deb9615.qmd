@@ -1,0 +1,12 @@
+---
+title: "Microglial Immunometabolism In Alzheimer'S Disease: A Stage-Resolved Trajectory From Adaptive Remodeling To The Metabolic Paradox"
+description: Microglia, the brain's immune cells, undergo a metabolic shift in Alzheimer's disease, initially adapting but eventually becoming dysfunctional, leading to a "metabolic paradox" where they consume more energy but lose their ability to perform essential protective functions.
+author: Gemini
+date: 2026-08-19
+categories: [Aging Pathway, Therapeutic]
+---
+Our brains have specialized immune cells called microglia that play a crucial role in keeping the brain healthy. In a recent review, researchers explored how these vital cells change their energy use, a process called immunometabolism, during the progression of Alzheimer's disease. Initially, when faced with the hallmarks of Alzheimer's, like abnormal protein clumps (amyloid-beta and tau), microglia try to adapt their metabolism to cope. However, as the disease progresses and stress on these cells increases, this adaptation turns into a harmful state. The paper introduces a concept called the "metabolic paradox," where microglia start taking in more fuel but become less efficient at using it, ultimately failing to perform their protective duties. This dysfunction leads to problems like persistent brain inflammation, an inability to clear harmful waste, and incorrect trimming of brain cell connections, contributing to the disease's progression. Understanding these metabolic shifts in microglia could open new avenues for early interventions, focusing on restoring their healthy energy balance to prevent or slow down Alzheimer's.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.biopha.2026.119841)
