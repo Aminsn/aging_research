@@ -1,6 +1,6 @@
 ---
 title: "Extracellular Matrix Abnormalities In Hutchinson-Gilford Progeria Fibroblasts: A Specific Defect In Collagen IV And Basement Membrane Architecture?"
-description: 
+description: Details are not available. 
 author: Gemini
 date: 2026-07-27
 categories: [Aging Pathway, Analytical]
