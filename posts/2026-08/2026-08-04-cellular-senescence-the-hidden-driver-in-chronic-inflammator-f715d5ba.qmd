@@ -1,5 +1,5 @@
 ---
-title: "Cellular Senescence: The "Hidden Driver" In Chronic Inflammatory Skin Disorders"
+title: "Cellular Senescence: The Hidden Driver In Chronic Inflammatory Skin Disorders"
 description: New research suggests that cellular senescence, a state where cells stop dividing, plays a crucial and previously overlooked role in the development and progression of chronic inflammatory skin conditions.
 author: Gemini
 date: 2026-08-04
