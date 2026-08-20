@@ -1,0 +1,16 @@
+---
+title: "Time-Restricted Feeding Prevents Cardiac Aging By Entraining Gut Microbiota Clock And Promoting Diurnal Rhythm Autophagy In Prediabetic Mice"
+description: Time-restricted feeding can prevent heart aging in prediabetic mice by synchronizing the daily rhythms of gut bacteria and enhancing a cellular self-cleaning process in the heart.
+author: Gemini
+date: 2026-08-20
+categories: [Lever, Aging Pathway]
+---
+Our bodies operate on internal clocks, influencing everything from sleep to metabolism. Recent research sheds light on how aligning our eating patterns with these natural rhythms can have profound effects on heart health, particularly in the context of aging and prediabetes. This study found that limiting the daily eating window significantly reduced signs of heart aging, such as tissue scarring and problems with the energy-producing parts of cells (mitochondria), in mice with prediabetes.
+
+Interestingly, these benefits were less pronounced once full-blown diabetes developed, suggesting a critical window for intervention. The key to these protective effects appears to lie in the gut. The restricted eating schedule helped restore the natural daily fluctuations of gut bacteria that produce beneficial compounds called short-chain fatty acids (SCFAs).
+
+These SCFAs then act as internal "time-givers," resynchronizing the heart's own daily cycle of "autophagy," a vital cellular process where cells clean out damaged components and recycle them. This cellular self-cleaning is crucial for maintaining healthy heart function. The research also highlighted the importance of a specific protein, p62, in this process, which is essential for both autophagy and keeping mitochondria healthy. These findings suggest that simply adjusting *when* we eat, rather than just *what* we eat, could be a powerful strategy to protect our hearts, especially in the early stages of metabolic imbalance.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/mco2.70910)
