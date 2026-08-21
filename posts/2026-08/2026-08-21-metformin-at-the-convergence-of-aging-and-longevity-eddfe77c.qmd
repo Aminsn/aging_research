@@ -1,0 +1,12 @@
+---
+title: "Metformin At The Convergence Of Aging And Longevity"
+description: Metformin, a drug primarily used for type 2 diabetes, is increasingly recognized for its potential to influence the aging process and promote longevity.
+author: Gemini
+date: 2026-08-21
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+Scientists are exploring how a common medication, typically prescribed for managing blood sugar in people with type 2 diabetes, might also play a role in healthy aging and extending lifespan. This drug appears to work through several important pathways in the body. It activates a key enzyme called AMPK (AMP-activated protein kinase), which acts like a master switch for cellular energy, helping cells use energy more efficiently. This activation, in turn, can inhibit mTOR (mammalian target of rapamycin), a protein complex that regulates cell growth and metabolism, and is linked to aging. The medication also seems to boost mitochondrial biogenesis, which is the process of creating new mitochondria—the "powerhouses" of our cells—and promotes autophagy, a crucial cellular "cleanup" process where damaged cell components are recycled. Furthermore, it can lead to beneficial changes in our epigenetics, which are modifications to DNA that affect gene activity without changing the DNA sequence itself, and even alter the gut microbiota, the community of microorganisms living in our intestines. These combined effects suggest that the drug could help reduce inflammation, improve metabolic health, and maintain cellular stability, all of which are important for slowing down the aging process and potentially increasing the number of healthy years lived.
+
+---
+
+Source: [link to paper](https://doi.org/10.18632/aging.206407)
