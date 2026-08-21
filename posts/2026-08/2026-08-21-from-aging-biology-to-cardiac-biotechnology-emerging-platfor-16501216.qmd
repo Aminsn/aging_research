@@ -1,0 +1,18 @@
+---
+title: "From Aging Biology To Cardiac Biotechnology: Emerging Platforms For Modeling Cardiac Aging"
+description: New research proposes integrating aging biology with advanced biotechnology to create better models for studying how aging affects the heart, aiming to develop personalized treatments for age-related heart conditions.
+author: Gemini
+date: 2026-08-21
+categories: [Aging Theory, Therapeutic, Analytical]
+---
+Our hearts change as we get older, and these changes significantly contribute to heart diseases in older adults. Surprisingly, many studies on heart conditions don't fully consider age as a key factor, leaving a big gap in our understanding of how aging impacts heart disease progression.
+
+To address this, a new perspective suggests combining what we know about the biology of aging with advanced heart science and cutting-edge biotechnology. The goal is to create more accurate ways to study how our hearts age and develop problems.
+
+Researchers are proposing a new framework, called A×G×E×D, which stands for Age, Genetics, Environment, and Drug exposure. This framework helps us look at how all these different factors work together to make the heart vulnerable as we age. A key part of this approach involves using advanced bioengineered platforms, such as long-term cardiac microtissues (tiny, lab-grown heart tissues), to mimic the human aging process in the heart.
+
+By developing these sophisticated models, scientists hope to gain a deeper understanding of the molecular, cellular, and electrical changes that occur in the aging heart. This knowledge could pave the way for "precision geromedicine," allowing for more personalized and effective treatments that are tailored to an individual's unique aging physiology and cardiovascular health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1172/jci.insight.203447)
