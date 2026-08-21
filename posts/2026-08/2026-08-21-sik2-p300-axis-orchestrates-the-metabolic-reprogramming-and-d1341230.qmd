@@ -1,0 +1,18 @@
+---
+title: "Sik2-P300 Axis Orchestrates The Metabolic Reprogramming And Immunological Functions In Microglia Of Alzheimer'S Disease Mice Via A Dual Modulation Of Lactylation And Acetylation: An Epigenetic Perspective"
+description: The SIK2-P300 axis orchestrates changes in how brain immune cells, called microglia, process energy and perform their immune functions in Alzheimer's disease by controlling two types of chemical modifications on proteins: lactylation and acetylation.
+author: Gemini
+date: 2026-08-21
+categories: [Aging Pathway, Therapeutic]
+---
+Our brains have specialized immune cells, called microglia, that act as the first line of defense against disease and injury. In conditions like Alzheimer's disease, these microglia can become dysfunctional, contributing to the progression of the illness. Recent research sheds light on a fascinating mechanism by which these crucial cells go awry.
+
+It turns out that in Alzheimer's, microglia undergo a significant shift in how they produce energy, a process known as metabolic reprogramming. Instead of their usual energy pathways, they start relying more on a process that leads to the buildup of a molecule called lactate. This lactate isn't just a waste product; it plays a surprising role in changing how genes are expressed in these cells.
+
+Lactate can attach to proteins, including those that package our DNA, in a process called lactylation. This is a newly recognized type of "epigenetic" modification, meaning it alters gene activity without changing the underlying DNA sequence. Alongside lactylation, another well-known modification called acetylation also plays a role. These chemical tags act like switches, turning genes on or off, and thereby influencing the microglia's behavior and immune responses.
+
+A key discovery is the identification of a specific regulatory pathway, involving proteins known as SIK2 and P300, that acts as a central conductor for these changes. This pathway essentially controls both lactylation and acetylation, thereby orchestrating the metabolic and immune functions of microglia. Understanding this intricate control system offers new avenues for developing strategies to correct microglial dysfunction and potentially combat Alzheimer's disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bbi.2026.106953)
