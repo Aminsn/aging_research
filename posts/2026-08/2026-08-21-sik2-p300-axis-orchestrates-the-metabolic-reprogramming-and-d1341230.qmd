@@ -1,6 +1,6 @@
 ---
 title: "Sik2-P300 Axis Orchestrates The Metabolic Reprogramming And Immunological Functions In Microglia Of Alzheimer'S Disease Mice Via A Dual Modulation Of Lactylation And Acetylation: An Epigenetic Perspective"
-description: The SIK2-P300 axis orchestrates changes in how brain immune cells, called microglia, process energy and perform their immune functions in Alzheimer's disease by controlling two types of chemical modifications on proteins: lactylation and acetylation.
+description: The SIK2-P300 axis orchestrates changes in how brain immune cells, called microglia, process energy and perform their immune functions in Alzheimer's disease by controlling two types of chemical modifications on proteins lactylation and acetylation.
 author: Gemini
 date: 2026-08-21
 categories: [Aging Pathway, Therapeutic]
