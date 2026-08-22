@@ -1,0 +1,22 @@
+---
+title: "Exercise Is Associated With Attenuated Aging-Related Osteoporosis Through TMAO Alpha Klotho Inflammasome Signaling"
+description: Exercise is linked to improved bone health in older individuals by influencing a specific inflammatory pathway that connects the gut and bones.
+author: Gemini
+date: 2026-08-22
+categories: [Aging Pathway, Lever]
+---
+As we age, our bones can become weaker, a condition known as osteoporosis. This process is often influenced by a complex interplay of factors, including how our bones remodel themselves, metabolic stress, and inflammation throughout the body. Recent research sheds light on how physical activity can play a crucial role in maintaining strong bones as we get older.
+
+The study explored the connection between exercise and certain biological signals, specifically focusing on a molecule called trimethylamine N-oxide (TMAO) and a group of proteins involved in inflammation, known as inflammasomes. TMAO is a substance produced by our gut bacteria that can contribute to inflammation in the body.
+
+Researchers found that older adults who were more physically active tended to have stronger hip bones. They also had lower levels of TMAO in their blood and stool, along with reduced markers of inflammation. Furthermore, their bodies showed a balance in bone turnover that favored building new bone rather than breaking it down.
+
+To understand this better, experiments were conducted using aged rats. These studies revealed that exercise lowered TMAO levels in both the bloodstream and bone marrow, helping to preserve the intricate structure of bones and improve their strength. Exercise also helped to dampen inflammatory signals and maintain levels of an important anti-aging protein called alpha Klotho.
+
+Further investigation in bone-forming cells showed that TMAO actually promoted cellular aging and triggered the assembly of inflammasomes, leading to inflammation. However, by adjusting this pathway, these negative effects could be reduced.
+
+These findings suggest that the protective effects of exercise on our bones during aging are partly due to its ability to modulate this gut-bone inflammatory pathway. Essentially, staying active can help reduce harmful inflammatory substances from our gut and support the beneficial actions of proteins like alpha Klotho, ultimately contributing to healthier bones as we age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.isci.2026.117170)
