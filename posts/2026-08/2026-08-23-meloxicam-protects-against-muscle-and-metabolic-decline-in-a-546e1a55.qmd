@@ -1,0 +1,20 @@
+---
+title: "Meloxicam Protects Against Muscle And Metabolic Decline In Ageing Through Cdon Restoration And Oxidative Stress Modulation"
+description: A common anti-inflammatory drug, meloxicam, has been shown to protect against age-related muscle and metabolic decline by restoring a key molecule and modulating cellular stress.
+author: Gemini
+date: 2026-08-23
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our bodies undergo various changes, including a gradual decline in muscle mass and strength, a condition known as sarcopenia. This decline is often accompanied by metabolic issues, where the body struggles to efficiently use and store energy. Scientists have been working to understand the underlying causes of these age-related changes, pointing to factors like impaired mitochondrial homeostasis (the balance and function of the cell's powerhouses) and an imbalance of reactive molecules, often referred to as oxidative stress, which can damage cells.
+
+A recent study has shed light on a potential new approach to combat these effects. Researchers identified that a crucial molecule called Cdon, which plays a significant role in maintaining healthy adult muscle, tends to decrease with age. This reduction in Cdon was linked to muscle wasting and metabolic problems.
+
+Intriguingly, the study found that meloxicam, a widely used anti-inflammatory medication, could reverse this trend. When aged mice were treated with meloxicam, their Cdon levels were restored, and the damaging effects of oxidative stress were reduced. Oxidative stress occurs when there's an overload of harmful free radicals in the body, leading to cellular damage. Meloxicam appeared to help the body better manage these reactive molecules and improve the overall balance of cellular processes (redox balance).
+
+The drug achieved these protective effects by activating a specific signaling pathway (Ampk) that helps maintain Cdon expression, supports the body's natural antioxidant defenses, and improves the function of mitochondria. This led to better muscle mass and function, improved nerve-muscle communication, and healthier metabolic indicators, such as better blood sugar control and reduced fat accumulation in the liver.
+
+These findings suggest that an existing medication, meloxicam, might have an unexpected role in protecting against age-related muscle and metabolic decline. While promising, further research and clinical trials in humans are necessary to determine if this drug can be safely and effectively repurposed for such applications.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s12276-026-01804-1)
