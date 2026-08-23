@@ -1,0 +1,18 @@
+---
+title: "Klotho Protein As A Topical Therapy For Facial Photoaging Using Combined Delivery Technologies"
+description: A 16-week study demonstrated that a three-product regimen containing Klotho protein significantly improved visible signs of facial photodamage, including uneven skin tone, wrinkles, dryness, and peeling.
+author: Gemini
+date: 2026-08-23
+categories: [Aging Pathway, Therapeutic]
+---
+Exciting new research explores a promising approach to combating the visible signs of skin aging caused by sun exposure. This innovative strategy focuses on a protein called Klotho, which is naturally associated with longevity and plays a crucial role in maintaining cellular balance and fighting off damage from harmful molecules called free radicals.
+
+In laboratory settings, Klotho has been shown to reduce DNA damage caused by ultraviolet A (UVA) radiation and boost the activity of other proteins involved in cell repair and anti-aging. Building on this, a recent study investigated the effects of applying Klotho topically to the skin. Participants used a regimen of three products—a face serum, an eye serum, and a night cream—over 16 weeks.
+
+The results were remarkable: participants experienced a significant reduction in overall facial photodamage, with improvements becoming noticeable as early as four weeks into the study and continuing throughout the 16-week period. Specifically, there were substantial improvements in issues like uneven skin pigmentation (dyschromia), fine lines and wrinkles, skin dryness and scaling, and peeling. The treatment was also well-tolerated, with no significant adverse reactions.
+
+These findings suggest that incorporating this special protein into skincare could offer a new way to protect and rejuvenate skin, addressing multiple aspects of aging caused by environmental factors.
+
+---
+
+Source: [link to paper](https://doi.org/10.1097/GOX.0000000000008031)
