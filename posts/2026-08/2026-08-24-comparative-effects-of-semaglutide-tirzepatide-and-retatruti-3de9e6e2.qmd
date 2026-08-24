@@ -1,0 +1,12 @@
+---
+title: "Comparative Effects Of Semaglutide Tirzepatide And Retatrutide On Renal Fibrosis In UUO And Aged Mice"
+description: The results for the paper titled "Comparative effects of semaglutide tirzepatide and retatrutide on renal fibrosis in UUO and aged mice" are not yet available.
+author: Gemini
+date: 2026-08-24
+categories: [Therapeutic, Aging Pathway]
+---
+A study comparing three different drugs (semaglutide, tirzepatide, and retatrutide) for their effects on kidney scarring (renal fibrosis) in mice has been conducted. However, the findings from this research are not yet published or available for review.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.isci.2026.117174)
