@@ -1,0 +1,16 @@
+---
+title: "Sleep-Wake Control With Age And Neurodegenerative Diseases"
+description: Aging and neurodegenerative diseases significantly alter sleep-wake patterns, often due to changes in neuronal activity and protein accumulation in the brain.
+author: Gemini
+date: 2026-08-25
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, many of us experience changes in our sleep patterns, often finding it harder to fall asleep or stay asleep. These sleep disturbances become even more pronounced and problematic in individuals with neurodegenerative conditions such as Alzheimer's and Parkinson's disease. Research indicates that these conditions, despite their diverse causes, share common sleep-related symptoms like difficulty initiating sleep, fragmented sleep (waking up frequently), and disruptions to our natural body clock, known as the circadian rhythm.
+
+The reasons behind these sleep issues are complex and involve fundamental changes in how our brain controls sleep and wakefulness. One key factor is alterations in what scientists call 'sleep-wake architecture,' which refers to the organized pattern of different sleep stages and wakefulness throughout a 24-hour period. Additionally, brain cells, or neurons, can become 'hyperexcitable,' meaning they are overly active, particularly in the early stages of these diseases. This increased activity can disrupt the delicate balance needed for proper sleep. Another significant contributor is the 'abnormal protein accumulation'—the buildup of harmful proteins in the brain—which can further exacerbate the hyperactivity of neural circuits responsible for regulating our sleep-wake cycles.
+
+Interestingly, these sleep disturbances can sometimes appear years, even decades, before other more recognizable symptoms of neurodegenerative diseases, such as memory loss or motor problems. A deeper understanding of these underlying mechanisms could pave the way for new preventative and therapeutic strategies, ultimately improving the quality of life for older adults and those affected by neurodegenerative diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.smrv.2026.102352)
