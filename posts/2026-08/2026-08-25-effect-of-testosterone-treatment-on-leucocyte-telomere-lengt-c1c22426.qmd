@@ -1,0 +1,18 @@
+---
+title: "Effect Of Testosterone Treatment On Leucocyte Telomere Length In Men: Results From A Randomised Placebo-Controlled Trial"
+description: Testosterone treatment did not alter the length of telomeres in white blood cells of overweight men with impaired glucose tolerance or newly diagnosed type 2 diabetes.
+author: Gemini
+date: 2026-08-25
+categories: [Therapeutic, Aging Pathway]
+---
+Our bodies have tiny protective caps on the ends of our chromosomes, called telomeres. Think of them like the plastic tips on shoelaces, preventing fraying. As we age, these telomeres naturally get shorter, and their length is often seen as a marker of our biological age.
+
+A recent study explored whether giving testosterone to men could influence the length of these telomeres. Researchers focused on overweight men between 50 and 74 years old who had issues with their blood sugar, such as impaired glucose tolerance or newly diagnosed type 2 diabetes.
+
+In a carefully designed "randomized placebo-controlled trial" – meaning some men received the actual testosterone treatment while others received an inactive substance (placebo), and who got what was decided by chance – participants were given either testosterone or a placebo for two years. All men also followed a lifestyle program.
+
+The main finding was clear: after two years, there was no significant difference in the length of telomeres in the white blood cells (leucocytes) between the men who received testosterone and those who received the placebo. This suggests that, for this specific group of men, testosterone treatment does not appear to affect this particular indicator of biological aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/andr.70348)
