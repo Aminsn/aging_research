@@ -1,0 +1,16 @@
+---
+title: "Does Human Transthyretin Aggregate In Blood Plasma Or In Cardiac Tissue? A Mathematical Modeling Study"
+description: A mathematical modeling study suggests that transthyretin protein aggregation, which causes a debilitating disease, primarily occurs within cardiac tissue rather than extensively in the bloodstream.
+author: Gemini
+date: 2026-08-25
+categories: [Aging Pathway, Clock, Therapeutic, Analytical]
+---
+Our bodies rely on many proteins to function correctly. One such protein, called transthyretin (TTR), normally helps transport important substances in the blood. However, sometimes TTR can misfold and clump together, forming abnormal deposits called amyloid fibrils. This process leads to a serious condition known as ATTR amyloidosis, which can severely affect organs like the heart and nerves.
+
+Scientists have long debated where these harmful protein clumps primarily form. Do they aggregate extensively in the blood plasma (the liquid part of blood) and then travel to tissues, or does the aggregation mainly happen once the individual TTR units (monomers) reach a specific tissue, like the heart?
+
+Recent research using advanced mathematical modeling sheds light on this crucial question. The study explored two main scenarios: one where TTR proteins aggregate into small clumps (proto-fibrils) in the blood before depositing in tissues, and another where individual TTR proteins travel through the blood and then aggregate directly within the tissue itself. The findings strongly suggest that the latter scenario is more likely. This means that the harmful aggregation of TTR predominantly takes place within the cardiac tissue, rather than forming large aggregates in the bloodstream beforehand. This understanding is vital because it could help researchers develop more effective treatments that target the aggregation process directly at the site of tissue deposition.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jtbi.2026.112574)
