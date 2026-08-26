@@ -1,0 +1,16 @@
+---
+title: "Dysregulated Lncrnas Are Associated With The Progressive Arterial Phenotype In Hutchinson-Gilford Progeria Syndrome"
+description: Research has identified specific long non-coding RNAs (lncRNAs) that are abnormally regulated in Hutchinson-Gilford Progeria Syndrome, contributing to the progressive damage observed in arteries and suggesting new avenues for treatment.
+author: Gemini
+date: 2026-08-26
+categories: [Aging Pathway, Analytical]
+---
+Hutchinson-Gilford Progeria Syndrome (HGPS) is a rare genetic condition that causes children to age rapidly, often leading to serious heart and blood vessel problems and early death. Scientists have been working to understand the underlying mechanisms of this accelerated aging to find better treatments. A recent study sheds light on the role of certain molecules called long non-coding RNAs, or lncRNAs, in this process. 
+
+LncRNAs are a type of RNA molecule that, unlike some other RNAs, do not carry instructions for making proteins. Instead, they play crucial roles in controlling which genes are turned on or off in our cells. This research found that several lncRNAs, which are already known to be involved in heart and blood vessel diseases, were not functioning correctly in the vascular smooth muscle cells of individuals with HGPS. These are the cells that make up the walls of our arteries. 
+
+The study revealed that this abnormal regulation of lncRNAs became more pronounced as the disease progressed and was specific to certain cell types in the blood vessels. This discovery is significant because it points to lncRNAs as potential new targets for developing therapies to combat the severe arterial damage seen in HGPS. Understanding these molecular changes could also offer insights into the broader process of cardiovascular aging, as HGPS often mirrors aspects of normal aging in an accelerated fashion.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s11357-026-02469-4)
