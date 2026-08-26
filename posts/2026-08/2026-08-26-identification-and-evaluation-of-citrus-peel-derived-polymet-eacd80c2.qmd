@@ -1,0 +1,20 @@
+---
+title: "Identification And Evaluation Of Citrus Peel-Derived Polymethoxyflavonoids As Natural Sirt1 Activators"
+description: Researchers have discovered that natural compounds called polymethoxyflavonoids, found in citrus peels, can activate Sirtuin 1 (SIRT1), an enzyme linked to healthy aging and protection against various diseases, with one specific compound, heptamethoxyflavone (HMF), showing a stronger effect than resveratrol.
+author: Gemini
+date: 2026-08-26
+categories: [Aging Pathway, Therapeutic, Lever]
+---
+Ever wondered if the peel of your orange or mandarin holds hidden health benefits? Recent research suggests it might! Scientists have been exploring natural compounds found in citrus peels, called polymethoxyflavonoids (PMFs), for their potential to activate a crucial enzyme in our bodies known as Sirtuin 1, or SIRT1.
+
+SIRT1 is often called a "longevity gene" because it plays a vital role in regulating many processes related to aging and protecting against conditions like metabolic and degenerative diseases. Activating SIRT1 could therefore offer significant health advantages.
+
+In this study, researchers screened extracts from the peels of 28 different citrus varieties. They found that extracts from certain types, like kara mandarin, shiikuwasha, and dekopon, significantly boosted SIRT1 activity. Further investigation pinpointed five specific PMFs as potent activators, with one in particular, heptamethoxyflavone (HMF), standing out. Remarkably, HMF was even more effective at activating SIRT1 than resveratrol, a well-known compound often associated with anti-aging benefits.
+
+To understand how HMF works, the scientists performed detailed analyses and computer simulations. They discovered that HMF enhances SIRT1 activity by making the enzyme more efficient at its job, essentially helping it process its targets better. The simulations also showed that HMF fits precisely into a specific pocket on the SIRT1 enzyme, suggesting a direct interaction that triggers its activation.
+
+These findings are exciting because they highlight citrus peels, often discarded, as a valuable natural source of compounds that could promote health. This opens up possibilities for developing new health-promoting functional foods or supplements derived from citrus, potentially offering a natural way to support healthy aging and combat disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.foodchem.2026.149800)
