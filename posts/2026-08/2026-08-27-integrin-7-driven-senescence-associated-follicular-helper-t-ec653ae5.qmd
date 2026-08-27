@@ -1,0 +1,20 @@
+---
+title: "Integrin Α7-Driven Senescence-Associated Follicular Helper T Cell Adhesion Induces Tertiary Lymphoid Structures In Nishiura Mice"
+description: The study reveals that a molecule called integrin α7 on aging-related immune cells helps them stick to specific areas in glands, which then promotes the formation of abnormal immune cell clusters in a mouse model of Sjögren's disease.
+author: Gemini
+date: 2026-08-27
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies have specialized immune structures called lymph nodes that help fight infections. However, in certain autoimmune diseases like Sjögren's disease, similar structures, known as tertiary lymphoid structures (TLS), can form in organs where they don't belong, such as the salivary glands. These misplaced structures contribute to the disease by sustaining inflammation and producing autoantibodies.
+
+Researchers have been trying to understand what drives the formation of these harmful TLS. A recent study sheds light on this by focusing on a specific type of immune cell called senescence-associated follicular helper T (SA-Tfh) cells, which are known to contribute to TLS formation.
+
+The key discovery is the role of a molecule called integrin α7, found on the surface of these SA-Tfh cells. The study found that integrin α7 acts like a "sticky" tag, enabling these SA-Tfh cells to adhere to particular spots within the glandular tissue, specifically by interacting with another molecule called laminin α4. This adhesion is a critical step that promotes the development of TLS.
+
+To further confirm this, the researchers showed that blocking integrin α7 in a mouse model of Sjögren's disease significantly reduced the formation of these abnormal immune structures and lessened disease indicators. Importantly, similar patterns were observed in human patients with Sjögren's disease, where integrin α7 expression correlated with other disease markers, suggesting that this mechanism might also be at play in humans.
+
+These findings are a significant step forward in understanding how autoimmune diseases progress and could pave the way for new therapeutic strategies targeting integrin α7 to prevent or reduce the formation of these damaging tertiary lymphoid structures.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/ijms27167307)
