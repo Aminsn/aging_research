@@ -1,0 +1,12 @@
+---
+title: "Two Birds With One Stone: Targeting Mettl3 Ameliorates Doxorubicin-Induced Endothelial Premature Senescence And Atherosclerosis While Potentiating Its Antitumor Efficacy"
+description: Targeting the protein METTL3 can simultaneously reduce doxorubicin-induced premature aging of blood vessel cells and atherosclerosis, while also increasing the chemotherapy drug's effectiveness against tumors.
+author: Gemini
+date: 2026-08-27
+categories: [Aging Pathway, Therapeutic]
+---
+Doxorubicin is a powerful chemotherapy drug widely used to treat various cancers. However, a significant challenge with doxorubicin is its potential to cause damage to blood vessels, leading to premature aging of the cells lining these vessels, a condition known as endothelial premature senescence, and contributing to the hardening and narrowing of arteries, or atherosclerosis. These side effects can have serious long-term health implications for cancer survivors. This research explores a novel strategy that focuses on a specific protein called METTL3. Think of METTL3 as a crucial regulator within our cells, particularly involved in modifying RNA, which carries vital genetic instructions. By precisely targeting and modulating the activity of METTL3, scientists have identified a way to achieve a remarkable dual benefit. Firstly, this approach helps to protect the cardiovascular system from the harmful effects of doxorubicin, reducing both the premature aging of blood vessel cells and the development of atherosclerosis. Secondly, and equally important, this same intervention also enhances the ability of doxorubicin to combat cancer cells, making the chemotherapy more potent against tumors. This innovative strategy offers a promising path to improve the safety and efficacy of doxorubicin chemotherapy, potentially leading to better outcomes and an enhanced quality of life for cancer patients.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.freeradbiomed.2026.05.290)
