@@ -1,0 +1,16 @@
+---
+title: "Associations Of Proteomic And Epigenetic Aging Clocks With Alzheimer'S Disease Phenotypes: An Exploratory Analysis"
+description: Proteomic aging clocks, which measure changes in proteins in the blood, are more strongly associated with early signs of Alzheimer's disease and cognitive decline than epigenetic clocks, which measure changes in DNA.
+author: Gemini
+date: 2026-08-28
+categories: [Clock, Analytical]
+---
+Our bodies undergo various changes as we age, and scientists are constantly looking for ways to measure these changes to better understand and predict age-related diseases like Alzheimer's. Two promising tools in this area are "aging clocks," which estimate biological age based on molecular markers. This research explored two types: proteomic clocks, which look at the proteins in our blood, and epigenetic clocks, which examine modifications to our DNA.
+
+In a study involving individuals without cognitive impairment, researchers found that proteomic clocks were more effective at identifying early indicators of Alzheimer's disease and predicting future cognitive performance compared to epigenetic clocks. Specifically, accelerated aging as measured by these protein-based clocks, particularly those reflecting systemic and brain-specific changes, was linked to poorer cognitive function and higher levels of a blood marker associated with nerve damage, called neurofilament light chain. This suggests that changes in proteins circulating in our blood could offer a valuable early warning system for Alzheimer's-related changes in the brain.
+
+The study also hinted that other health conditions, such as diabetes, might influence how strongly these protein-based aging measures relate to cognitive health. While more research is needed, these findings highlight the potential of using proteomic clocks as a complementary tool to existing methods for detecting early signs of Alzheimer's disease and understanding its progression.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/dad2.70456)
