@@ -1,0 +1,16 @@
+---
+title: "The Hallmarks Of Protein And Amino Acid Restriction In Aging And Longevity"
+description: Restricting dietary protein or specific amino acids can significantly extend healthspan and lifespan across various organisms by influencing metabolic health and cellular aging processes.
+author: Gemini
+date: 2026-08-28
+categories: [Aging Theory, Aging Pathway, Lever]
+---
+Despite common advice to increase protein intake as we age, emerging research suggests that reducing overall protein or certain building blocks of protein, called amino acids, may actually promote better health and a longer life. This approach, known as protein or amino acid restriction, has been shown to improve how our bodies process energy (metabolic health) and extend the period of life spent in good health (healthspan) and overall life duration (lifespan) in many different organisms.
+
+Scientists have found that limiting specific amino acids, particularly methionine, isoleucine, and valine, can replicate many of these beneficial effects. These dietary changes influence key cellular pathways that sense nutrient availability, such as the mTOR pathway, which plays a crucial role in regulating cell growth and aging. By modulating these pathways, protein and amino acid restriction can impact processes like cellular aging (senescence), the efficiency of our cells' energy factories (mitochondrial function), and even how our genes are expressed without changing the DNA itself (the epigenome).
+
+The findings suggest that the specific composition of amino acids in our diet is a critical factor in aging. This research highlights the potential for dietary interventions, possibly through diets rich in plant-based proteins which naturally have lower levels of certain amino acids, to promote healthier aging and longevity.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.cpblue.2026.100079)
