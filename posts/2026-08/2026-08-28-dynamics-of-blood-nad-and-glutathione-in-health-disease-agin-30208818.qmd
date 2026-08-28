@@ -1,0 +1,18 @@
+---
+title: "Dynamics Of Blood NAD And Glutathione In Health, Disease, Aging, And Under NAD<Sup>+</Sup>-Booster Treatment"
+description: A recent study found that levels of key cellular molecules, NAD and glutathione, remain stable in healthy individuals across different ages, but show distinct patterns in various diseases and can be significantly increased by NAD+ booster treatments.
+author: Gemini
+date: 2026-08-28
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+Our bodies rely on tiny but mighty molecules like NAD (nicotinamide adenine dinucleotide) and glutathione to keep everything running smoothly. Think of NAD as the energy currency for your cells, crucial for everything from repairing DNA to generating power. Glutathione, on the other hand, is your body's master antioxidant, protecting cells from damage and helping with detoxification. 
+
+For a long time, it was thought that levels of these vital molecules naturally decline as we age. However, new research suggests that in healthy individuals, the amounts of NAD and glutathione in the blood actually stay quite stable from young adulthood into older age. This challenges previous assumptions about age-related drops in these compounds. 
+
+The study also looked at what happens when people take "NAD+ boosters," like high doses of a B3 vitamin called nicotinic acid. It found that these boosters can dramatically increase blood NAD+ levels, sometimes by 4 to 6 times. This highlights the importance of personalized dosing, as the effect can vary greatly from person to person. 
+
+Perhaps one of the most exciting findings is the discovery of "redox fingerprints" in various diseases. This means that conditions like cancer, diabetes, and neurodegenerative diseases (affecting the brain and nerves) each show unique patterns in their NAD and glutathione levels. This distinct metabolic signature could potentially be used as a new way to detect diseases early or to monitor how well treatments are working. By understanding these unique "fingerprints," we might be able to develop more targeted and effective strategies for maintaining health and combating illness.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.redox.2026.104343)
