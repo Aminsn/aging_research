@@ -1,0 +1,12 @@
+---
+title: "Rational Design Of A Lipophilic Β-Galactosidase-Responsive Near-Infrared Probe For In Vivo Imaging Of Cellular Senescence"
+description: A newly developed near-infrared fluorescent probe enables highly specific and long-term detection of senescent cells within living organisms.
+author: Gemini
+date: 2026-08-29
+categories: [Analytical]
+---
+Our bodies contain special cells called senescent cells, which stop dividing and accumulate with age, contributing to various age-related diseases. Accurately finding and visualizing these cells, especially inside a living body, has been a significant challenge. To address this, researchers have developed a new near-infrared fluorescent probe, XZ1208. This probe works by specifically targeting β-galactosidase, an enzyme abundant in senescent cells. When activated by this enzyme, XZ1208 emits a bright signal in the near-infrared spectrum, allowing scientists to "see" these cells deep within tissues. This innovative probe has shown high precision and sensitivity in identifying senescent cells in laboratory experiments and within living animal models, including those that are naturally aged. It can track these cells for over six days without causing harm and can monitor the effectiveness of senolytics, which are treatments designed to remove senescent cells. This advancement provides a powerful new method for understanding the aging process and diagnosing diseases linked to cellular senescence.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/smo2.70091)
