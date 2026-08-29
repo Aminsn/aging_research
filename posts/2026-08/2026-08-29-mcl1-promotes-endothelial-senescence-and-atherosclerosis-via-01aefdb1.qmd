@@ -1,0 +1,18 @@
+---
+title: "Mcl1 Promotes Endothelial Senescence And Atherosclerosis Via Glycolytic Reprogramming-Induced H4K12 Lactylation"
+description: A protein called MCL1 drives the aging of endothelial cells and the progression of atherosclerosis by altering cellular energy production, leading to an increase in H4K12 lactylation, a specific modification on histone proteins.
+author: Gemini
+date: 2026-08-29
+categories: [Aging Pathway, Therapeutic]
+---
+Atherosclerosis, a condition where plaque builds up inside arteries, is a major health concern. A key factor in its development is the aging of the cells lining our blood vessels, known as endothelial cells. Recent research has shed light on a crucial player in this process: a protein called MCL1.
+
+Scientists discovered that MCL1 is present in higher amounts in diseased arteries and in aging endothelial cells. This protein essentially "reprograms" how these cells produce energy, shifting them towards a process called glycolysis. Glycolysis is a way cells generate energy, but in this context, it leads to an accumulation of lactate, a byproduct.
+
+This excess lactate isn't just waste; it plays an active role in modifying the cell's genetic material. It causes a specific change called H4K12 lactylation on histones, which are proteins that help package DNA. This modification acts like a switch, turning on certain genes, particularly one called P21, which is known to promote cell aging. The result is an acceleration of endothelial cell aging and, consequently, the worsening of atherosclerosis.
+
+Understanding this intricate connection between MCL1, energy metabolism, and genetic modifications opens up exciting possibilities. Targeting this MCL1-related pathway could offer a promising new strategy for developing treatments to combat atherosclerosis.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/ijms27167392)
