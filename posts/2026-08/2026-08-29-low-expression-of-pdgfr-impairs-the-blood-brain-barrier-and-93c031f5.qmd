@@ -1,0 +1,18 @@
+---
+title: "Low Expression Of PDGFR-Β Impairs The Blood-Brain Barrier And Accelerates Cellular Aging In The Hippocampal Region"
+description: Reduced levels of a protein called PDGFR-β lead to damage in the brain's protective barrier and accelerate the aging of cells in the hippocampus, a brain region vital for memory.
+author: Gemini
+date: 2026-08-29
+categories: [Aging Theory, Aging Pathway]
+---
+Our brains are protected by a highly selective filter called the blood-brain barrier, which prevents harmful substances from entering. This barrier relies on specialized cells called pericytes, and a protein known as PDGFR-β is crucial for their proper function and for maintaining the barrier's integrity.
+
+Recent research explored what happens when PDGFR-β levels are low. Using a mouse model with reduced PDGFR-β, scientists observed significant changes in the hippocampus, a brain area critical for learning and memory. They found a notable loss of pericytes and a breakdown of the blood-brain barrier, meaning it became "leaky."
+
+These changes were accompanied by signs of accelerated cellular aging within the hippocampus, including increased DNA damage and more senescent cells—cells that have stopped dividing and can contribute to aging. Furthermore, the ability of the brain to generate new neurons, a process called neurogenesis, was significantly impaired.
+
+These findings suggest that problems with blood vessels and pericytes, driven by insufficient PDGFR-β, can directly contribute to brain aging and may link genetic predispositions to age-related declines in cognitive function. Understanding this connection could open new avenues for addressing age-related brain disorders.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bbrc.2026.154456)
