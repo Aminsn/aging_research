@@ -1,0 +1,18 @@
+---
+title: "A Bacterial Enzyme Enhances Both Energy Metabolism And Health Across The Life Span Of <I>C. Elegans</I> And Mice"
+description: A bacterial enzyme called Lipoic acid protein ligase A (LplA) has been found to improve energy metabolism and overall health throughout the lives of C. elegans worms and mice, without shortening their maximum lifespan.
+author: Gemini
+date: 2026-08-30
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+For a long time, scientists have debated the relationship between how much energy an organism uses and how long it lives. The common belief was that boosting energy metabolism, while beneficial in some ways, often came with the downside of increased oxidative stress, which can damage cells and tissues. This presented a challenge: how to gain the benefits of enhanced energy without accelerating aging.
+
+Recent research has introduced a fascinating solution from the microbial world: a bacterial enzyme called Lipoic acid protein ligase A, or LplA. This enzyme acts as a unique tool that can significantly improve an organism's energy processing capabilities while simultaneously fostering an environment with low oxidative stress. Think of it as getting more mileage out of your body's engine without causing it to wear out faster.
+
+Studies conducted in two different model organisms, the tiny worm *C. elegans* and mice, have shown remarkable results. When LplA was introduced, both the worms and the mice exhibited significantly enhanced energy metabolism and improved overall health throughout their lives. Crucially, these benefits were observed without any negative impact on their maximum lifespan. This means the organisms were healthier for longer, without dying any sooner.
+
+This discovery is a major step forward, as it helps to resolve the long-standing paradox between energy metabolism and a healthy lifespan. It also opens up exciting new avenues for developing strategies to intervene in the human aging process, potentially leading to ways to promote healthier aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1126/sciadv.aef3262)
