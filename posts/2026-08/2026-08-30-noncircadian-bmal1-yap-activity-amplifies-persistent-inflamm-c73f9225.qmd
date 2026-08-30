@@ -1,0 +1,12 @@
+---
+title: "Noncircadian Bmal1-YAP Activity Amplifies Persistent Inflammation In Aged Epidermis"
+description: A study revealed that two proteins, BMAL1 and YAP, work together in aged skin to activate genes that cause inflammation, contributing to persistent skin aging and impaired healing.
+author: Gemini
+date: 2026-08-30
+categories: [Aging Theory, Aging Pathway]
+---
+Aging often brings persistent, low-level inflammation, especially in the skin, leading to issues like slower wound healing and a weakened protective barrier. Scientists have uncovered a key mechanism involving two proteins: BMAL1, typically known for regulating our body's daily rhythms, and YAP, which helps cells sense and respond to their physical surroundings. In younger skin, these proteins collaborate to maintain healthy skin cell identity. However, as skin ages, changes in its physical properties and signals from the immune system cause BMAL1 and YAP to change their focus. They begin to work together in a new, non-rhythmic way, binding to specific control regions on our DNA (like "on-switches" for genes) that are linked to inflammation. This "rewiring" amplifies the production of inflammatory molecules, creating a cycle of chronic inflammation. This persistent inflammation is a major contributor to the visible signs of skin aging and its reduced ability to repair itself. Understanding this shift in how these proteins operate offers promising new avenues for developing treatments to combat age-related skin inflammation and improve skin health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s43587-026-01192-1)
