@@ -1,0 +1,12 @@
+---
+title: "Human Brain Organoids Record The Passage Of Time Over Multiple Years"
+description: Human brain organoids, which are lab-grown 3D models of brain tissue, can mature and retain a memory of their developmental age over several years in culture, mimicking aspects of postnatal human brain development.
+author: Gemini
+date: 2026-08-30
+categories: [Clock, Analytical]
+---
+Scientists have made a significant breakthrough in understanding human brain development by successfully growing brain-like tissues, called organoids, in the lab for an unprecedented five years. These tiny, self-organizing structures, derived from human cells, were found to not only mature over this extended period but also to "remember" how old they were developmentally. This means that the cells within these organoids kept track of the time they spent growing, allowing them to execute age-appropriate developmental programs, much like a real brain. For instance, when older cells from these organoids were mixed with younger ones, the older cells rapidly produced mature brain cell types, skipping earlier developmental stages. This remarkable ability to record and recall developmental time, along with showing molecular signatures of aging similar to those in a living human brain, provides an invaluable tool. It opens new avenues for studying the complex and prolonged process of human brain maturation, especially the later stages that are difficult to observe in animal models or traditional short-term lab cultures. This research could lead to a deeper understanding of brain disorders and the effects of aging on the brain.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41586-026-10877-x)
