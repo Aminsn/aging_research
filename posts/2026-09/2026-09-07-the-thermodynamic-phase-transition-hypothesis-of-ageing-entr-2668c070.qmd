@@ -1,0 +1,12 @@
+---
+title: "The Thermodynamic Phase Transition Hypothesis Of Ageing: Entropy Production And A Proposed Extension To Strehler'S Postulates"
+description: This research suggests that biological aging can be understood as a thermodynamic process where the disorder within a living system, known as entropy, follows a predictable pattern throughout life.
+author: Gemini
+date: 2026-09-07
+categories: [Aging Theory]
+---
+Have you ever wondered why we age? New research proposes a fascinating perspective: aging might be a fundamental thermodynamic process, much like how physical systems naturally tend towards disorder. Imagine "entropy" as a measure of this disorder or randomness within a system. This work suggests that in living organisms, entropy doesn't just steadily increase; instead, it follows a unique "bathtub" pattern. It decreases during growth and development, stabilizes during adulthood, and then increases as we age, leading towards death and decomposition. This idea paints a picture of life as a continuous, yet time-dependent, process of increasing disorder. The researchers also introduce the concept of a "biological phase transition" in aging, similar to how water changes from liquid to ice. This means that aging isn't just a gradual decline but involves distinct shifts in the organism's state. Furthermore, the rate at which this disorder increases could even serve as a measure of biological age and the overall health and resilience of a system. By connecting these thermodynamic principles to the complex process of aging, this research offers a deeper understanding of the mechanisms that drive our journey through life.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.biosystems.2026.105933)
