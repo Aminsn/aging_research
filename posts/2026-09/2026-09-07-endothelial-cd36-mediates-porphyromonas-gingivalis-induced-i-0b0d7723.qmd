@@ -1,0 +1,12 @@
+---
+title: "Endothelial Cd36 Mediates Porphyromonas Gingivalis-Induced Insulin Resistance And Vascular Aging Via Mitochondrial Dysfunction"
+description: The full content of the paper "Endothelial CD36 mediates Porphyromonas gingivalis-induced insulin resistance and vascular aging via mitochondrial dysfunction" is not yet publicly available as its publication date is December 2026.
+author: Gemini
+date: 2026-09-07
+categories: [Aging Pathway, Therapeutic]
+---
+Researchers are investigating the complex links between oral health and systemic diseases. A forthcoming study aims to explore how a specific bacterium, commonly associated with gum disease, might contribute to conditions like insulin resistance and the aging of blood vessels. This research focuses on a protein found on the surface of cells lining our blood vessels, and how its interaction with the bacterium could lead to problems with the energy-producing parts of our cells, known as mitochondria. Understanding these intricate cellular mechanisms could pave the way for new strategies to combat these widespread health issues.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.freeradbiomed.2026.08.050)
