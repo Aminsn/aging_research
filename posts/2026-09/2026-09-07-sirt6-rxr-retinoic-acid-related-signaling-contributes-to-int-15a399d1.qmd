@@ -1,0 +1,20 @@
+---
+title: "Sirt6/Rxrα/Retinoic Acid-Related Signaling Contributes To Intestinal Stem Cell Homeostasis During Aging And Is Modulated By Atractylenolide II"
+description: A study revealed that a signaling pathway involving the protein SIRT6, the receptor RXRα, and retinoic acid is crucial for maintaining the health of intestinal stem cells during aging, and that a compound called Atractylenolide II can influence this pathway.
+author: Gemini
+date: 2026-09-07
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our intestines can struggle to repair themselves, leading to a weaker gut barrier. This happens because the special cells responsible for gut repair, called intestinal stem cells, don't function as well. Scientists have been trying to understand why this occurs and how to prevent it.
+
+Recent research has shed light on a key player in this process: a protein called SIRT6. This protein, which is important for cell health and aging, was found to be significantly reduced in the intestines of older individuals. When SIRT6 levels drop, the gut experiences problems similar to those seen in aging, including issues with how intestinal stem cells grow and differentiate into specialized cells.
+
+The study also uncovered that SIRT6 works closely with another protein, RXRα (a receptor protein that works with a form of Vitamin A), and influences the balance of retinoic acid, which is a derivative of Vitamin A. When SIRT6 is missing or inhibited, it disrupts this delicate balance, leading to the observed stem cell dysfunction.
+
+Excitingly, the researchers found that a natural compound called Atractylenolide II (AT-II) could partially reverse these age-related changes. AT-II helped restore the normal function of the SIRT6/RXRα/retinoic acid pathway, suggesting it could be a promising way to protect intestinal stem cell health as we get older.
+
+This discovery offers a potential new strategy for combating age-related damage to the intestinal lining by targeting this specific signaling pathway.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.cbi.2026.112316)
