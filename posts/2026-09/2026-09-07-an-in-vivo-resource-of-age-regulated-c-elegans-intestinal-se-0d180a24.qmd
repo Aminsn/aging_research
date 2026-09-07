@@ -1,0 +1,20 @@
+---
+title: "An In Vivo Resource Of Age-Regulated C. Elegans Intestinal Secretory-Pathway Proteins Highlights Secreted Enzymes Associated With Lifespan Regulation"
+description: Researchers have identified specific proteins secreted by the intestine of C. elegans that change with age and influence lifespan, with one such protein, ACP7, being conserved in humans and capable of extending lifespan when overexpressed.
+author: Gemini
+date: 2026-09-07
+categories: [Aging Pathway, Analytical]
+---
+Our bodies rely on a complex network of communication between cells and tissues, often facilitated by proteins that are released, or "secreted," into the space outside cells. These secreted proteins are crucial for maintaining balance and proper function throughout life. However, their specific roles in the aging process have not been fully understood. 
+
+In a recent study, scientists investigated these important extracellular players in the context of aging, using the tiny worm C. elegans as a model organism. C. elegans is a popular choice for aging research because of its relatively short lifespan and genetic similarities to humans.
+
+The researchers focused on proteins secreted by the worm's intestine, a vital organ for health and longevity. They employed advanced techniques, including "proximity labeling" and "quantitative proteomics," to systematically identify and measure these secreted proteins as the worms aged. 
+
+Their findings revealed a number of intestine-secreted proteins whose levels changed significantly with age. Among these, one protein called ACP7 stood out. Interestingly, a similar version of ACP7 exists in humans. The study showed that increasing the amount of ACP7 in C. elegans extended the worms' lifespan, highlighting its importance in regulating how long an organism lives. Further investigation revealed that ACP7 functions as an enzyme, specifically a phosphatase, in the extracellular environment. The research also pinpointed other proteins involved in the cellular machinery responsible for secretion that play a role in lifespan regulation.
+
+This work provides a valuable resource of age-regulated secreted proteins and sheds new light on how enzymes operating outside of cells can influence longevity. Understanding these mechanisms could pave the way for new strategies to promote healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.celrep.2026.117902)
