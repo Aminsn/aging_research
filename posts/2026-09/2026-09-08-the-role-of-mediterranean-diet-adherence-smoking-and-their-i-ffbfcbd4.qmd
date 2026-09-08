@@ -1,0 +1,12 @@
+---
+title: "The Role Of Mediterranean Diet Adherence, Smoking And Their Interactions In Epigenetic Age Acceleration: A Cross-Sectional Analysis Of The Airwave Cohort"
+description: Adherence to a Mediterranean diet is associated with slower biological aging, and it can lessen the accelerated biological aging observed in smokers.
+author: Gemini
+date: 2026-09-08
+categories: [Clock, Lever, Analytical]
+---
+Our bodies have internal "epigenetic clocks" that can tell us our biological age, which sometimes differs from our chronological age. These clocks can be influenced by our lifestyle. A recent study explored how two significant lifestyle factors—diet and smoking—affect these biological age markers. Researchers found that individuals who followed a Mediterranean-style diet, rich in fruits, vegetables, and whole grains, tended to have a slower biological aging rate. Conversely, smoking was strongly linked to an accelerated biological age. Interestingly, among current smokers, those who adhered more closely to a Mediterranean diet showed less of this accelerated biological aging compared to smokers with poorer dietary habits. This suggests that while a healthy diet doesn't negate the harms of smoking, it might offer some protective effects against the molecular changes associated with accelerated aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jnha.2026.100964)
