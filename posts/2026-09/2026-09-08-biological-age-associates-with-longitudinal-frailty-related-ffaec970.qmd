@@ -1,0 +1,16 @@
+---
+title: "Biological Age Associates With Longitudinal Frailty-Related Functional Decline: The Health And Retirement Study"
+description: The study found that a higher biological age, as measured by epigenetic clocks, is associated with a faster decline in physical and cognitive functions related to frailty over time.
+author: Gemini
+date: 2026-09-08
+categories: [Clock, Analytical]
+---
+Have you ever wondered why some people seem to age faster than others, even if they are the same chronological age? Scientists are exploring "biological age" – a measure of how old your body truly is at a cellular level, rather than just the number of years you've been alive. Recent research sheds light on how this biological age, specifically through markers called "epigenetic clocks," can predict how quickly an individual might experience age-related decline in their physical and mental abilities.
+
+This study, which followed thousands of individuals over many years, found a significant link: people with a higher biological age tended to experience a more rapid decline in important functions like thinking skills, grip strength, and walking speed. This suggests that our biological age, particularly as indicated by certain epigenetic markers (changes to our DNA that don't alter the genetic code itself but affect how genes are expressed), could be a powerful indicator of our future health and functional independence.
+
+Understanding these connections could be crucial. If we can identify individuals who are biologically aging faster, it might open doors for early interventions to slow down age-related decline and help people maintain their quality of life for longer. This research moves us closer to understanding the underlying biological mechanisms of aging and how they impact our everyday abilities.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/gerona/glag213)
