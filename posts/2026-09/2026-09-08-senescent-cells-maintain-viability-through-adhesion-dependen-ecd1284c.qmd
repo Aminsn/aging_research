@@ -1,0 +1,18 @@
+---
+title: "Senescent Cells Maintain Viability Through Adhesion-Dependent Fragmentation That Promotes Debris Deposition"
+description: Senescent cells, which are cells that have stopped dividing, maintain their viability by shedding damaged internal components through a process called adhesion-dependent fragmentation, depositing these fragments into the surrounding tissue.
+author: Gemini
+date: 2026-09-08
+categories: [Aging Theory, Aging Pathway]
+---
+Our bodies contain cells that have stopped dividing, known as senescent cells. While these cells play roles in development and wound healing, their accumulation is linked to aging and various diseases. A recent discovery sheds new light on how these persistent cells manage to survive and, in doing so, potentially contribute to health problems.
+
+Researchers have found that these non-dividing cells can dispose of their damaged internal parts by breaking off large fragments, which they call "senescent-cell adhesion fragments" (SCAFs). This process relies on the cells sticking together. By shedding these fragments, which contain damaged components like mitochondria (the cell's powerhouses), the senescent cells can relieve internal stress and continue to survive.
+
+However, these discarded fragments don't just disappear. They can rupture, releasing a complex mix of proteins, including "damage-associated molecular patterns" (DAMPs)—essentially danger signals—and other proteins linked to conditions like neurodegenerative diseases, into the surrounding environment.
+
+This shedding mechanism not only helps senescent cells stay alive but also has broader implications. The released debris can activate processes related to wound healing and even cancer, potentially promoting cell migration and invasion. This new understanding suggests that the way these cells manage their internal damage could contribute to chronic inflammation, the buildup of harmful substances, and age-related diseases, offering a fresh perspective on how we might approach therapies for aging and associated conditions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.devcel.2026.08.002)
