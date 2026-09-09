@@ -1,0 +1,18 @@
+---
+title: "SPARC Drives Podocyte Mitochondrial Damage And Ferroptosis In Diabetic Kidney Disease Following Klotho Deficiency"
+description: Researchers found that a protein called SPARC causes damage to kidney filter cells and a specific type of iron-driven cell death when levels of the protective protein Klotho are low, which contributes to diabetic kidney disease.
+author: Gemini
+date: 2026-09-09
+categories: [Aging Pathway, Therapeutic]
+---
+Diabetic kidney disease is a serious complication of diabetes and a leading cause of kidney failure, often characterized by damage to specialized kidney cells called podocytes. These podocytes are crucial for filtering waste from the blood, and their loss is a major factor in the progression of the disease.
+
+Recent research has shed light on a critical pathway contributing to this damage. It was found that when levels of a protective protein called Klotho, which is often deficient in diabetic patients, decrease, it sets off a chain of events. This decline in Klotho leads to the activation of an enzyme known as PKCα, which then breaks down another protein called CUX1.
+
+Normally, CUX1 acts as a brake on the production of a protein called SPARC. However, with CUX1 degraded, SPARC levels rise significantly within the podocytes. This increased SPARC then directly interacts with and activates a receptor called TGFβ-RII, leading to severe damage to the cells' powerhouses, the mitochondria, and weakening their natural defenses against harmful molecules. Ultimately, this cascade triggers a specific form of iron-dependent cell death known as ferroptosis in the podocytes.
+
+These findings, confirmed through studies in both lab-grown human kidney cells and animal models, highlight SPARC as a key player connecting Klotho deficiency to podocyte damage. Importantly, blocking SPARC or restoring CUX1 was shown to protect these vital kidney cells from damage and ferroptosis. This discovery points to SPARC as a promising new target for developing treatments to protect kidney function in individuals with diabetic kidney disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/advs.77202)
