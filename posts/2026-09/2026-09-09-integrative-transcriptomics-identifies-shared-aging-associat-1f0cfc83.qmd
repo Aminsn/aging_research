@@ -1,0 +1,20 @@
+---
+title: "Integrative Transcriptomics Identifies Shared Aging-Associated Inhibitory-Neuron States And Prioritizes Rgl2 Across Postoperative Delirium And Alzheimer'S Disease"
+description: A study integrating brain and blood gene expression data identified shared aging-related changes in specific brain cells, called inhibitory neurons, that may link postoperative delirium and Alzheimer's disease, pinpointing a gene named RGL2 as a key factor.
+author: Gemini
+date: 2026-09-09
+categories: [Aging Pathway, Analytical]
+---
+Scientists are increasingly recognizing that conditions like postoperative delirium, a state of confusion after surgery, and Alzheimer's disease, a progressive memory disorder, might be connected. However, the specific changes in brain cells that link these conditions, especially as we age, haven't been well understood.
+
+Recent research utilized advanced techniques to examine gene activity, known as transcriptomics, in both brain tissue at a very detailed, single-cell level and in blood samples. This comprehensive approach allowed them to look for common patterns of aging-related changes across individuals with postoperative delirium and those with Alzheimer's disease.
+
+The study found that a particular type of brain cell, called inhibitory neurons, consistently showed significant aging-related alterations in both conditions. Inhibitory neurons are crucial for regulating brain activity, essentially acting as the "brakes" of the brain. Further investigation revealed specific subtypes of these inhibitory neurons that were particularly affected by aging.
+
+By combining these findings, the researchers identified several genes that were consistently altered. Among these, one gene, RGL2, stood out as a prime candidate. Higher levels of RGL2 activity were found to be associated with an increased risk of Alzheimer's disease. This gene was also linked to immune and inflammatory processes in the context of Alzheimer's.
+
+These discoveries suggest that postoperative delirium and Alzheimer's disease might share common pathways involving these vulnerable inhibitory neurons as we age. The identification of RGL2 provides a promising new target for future research to understand the underlying mechanisms and potentially develop new treatments.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s12031-026-02568-z)
