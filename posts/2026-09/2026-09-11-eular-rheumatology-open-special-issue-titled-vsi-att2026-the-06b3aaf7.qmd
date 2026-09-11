@@ -1,0 +1,12 @@
+---
+title: "EULAR Rheumatology Open Special Issue Titled 'VSI: Att2026': The Role Of Clonal Haematopoiesis In Immunological And Rheumatological Diseases"
+description: Research indicates that age-related changes in blood stem cells, known as clonal hematopoiesis, are linked to increased inflammation and disease activity in various autoimmune conditions like rheumatoid arthritis, suggesting potential new avenues for treatment.
+author: Gemini
+date: 2026-09-11
+categories: [Aging Theory, Aging Pathway]
+---
+Our bodies are constantly renewing cells, including those in our blood. Sometimes, as we age, small changes or "mutations" can occur in the stem cells that produce blood. This phenomenon, called clonal hematopoiesis of indeterminate potential (CHIP), means that a group of these slightly altered blood cells starts to grow and become more common, even without causing a blood cancer. Recent research sheds light on how these age-related changes in blood stem cells might play a significant role in various autoimmune diseases, where the body's immune system mistakenly attacks its own tissues. For instance, in conditions like rheumatoid arthritis, where joints become inflamed, individuals with specific CHIP mutations (like those in the DNMT3A gene) tend to have higher levels of inflammation and more active disease. Interestingly, other mutations (like TET2) might be more common in different forms of the disease. This suggests that CHIP isn't just a silent age-related change; it actively influences our immune system, often pushing it towards a more inflammatory state. This increased inflammation, driven by these mutated blood cells, could contribute to the development or worsening of autoimmune conditions. Understanding this connection opens up exciting possibilities for new diagnostic tools and treatments that could target these specific cellular changes to better manage autoimmune diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.ero.2026.100232)
