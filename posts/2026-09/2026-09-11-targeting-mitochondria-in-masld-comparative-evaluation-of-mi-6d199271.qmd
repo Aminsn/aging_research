@@ -1,0 +1,18 @@
+---
+title: "Targeting Mitochondria In MASLD: Comparative Evaluation Of Mitoq And SS-31 (Elamipretide) In Aged Female Mice Under Nutritional Stress"
+description: The study demonstrated that two mitochondria-targeted agents, MitoQ and SS-31, improved mitochondrial function and liver health in aged female mice with Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) under nutritional stress.
+author: Gemini
+date: 2026-09-11
+categories: [Aging Pathway, Therapeutic]
+---
+Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) is a significant liver condition that currently lacks approved drug treatments. This disease is often driven by problems within the mitochondria, the powerhouses of our cells, leading to fat imbalance, inflammation, and scarring in the liver.
+
+Recent research explored the potential of two compounds, MitoQ and SS-31, which are designed to specifically target and improve mitochondrial function. The study was conducted on aged female mice that were fed a diet high in fat and fructose to induce MASLD, mimicking the human condition.
+
+Both MitoQ and SS-31 showed promising results, significantly improving the expression of mitochondrial proteins and enhancing overall liver health in the treated mice compared to those with MASLD that did not receive treatment. Specifically, MitoQ primarily worked by boosting the liver's natural antioxidant defenses, which are crucial for neutralizing harmful molecules and reducing oxidative damage. In contrast, SS-31 was more effective at preserving the structural integrity of the mitochondria.
+
+Beyond their direct effects on mitochondria, both compounds also helped to reduce inflammation and improve insulin sensitivity, which are key factors in MASLD progression. Furthermore, microscopic examination of liver tissues revealed a notable decrease in fat accumulation. These findings suggest that therapies aimed at improving mitochondrial health could offer a new and effective approach to treating MASLD.
+
+---
+
+Source: [link to paper](None)
