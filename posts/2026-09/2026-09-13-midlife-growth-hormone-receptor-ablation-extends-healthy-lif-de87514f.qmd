@@ -1,0 +1,18 @@
+---
+title: "Midlife Growth Hormone Receptor Ablation Extends Healthy Lifespan And Induces Sex-Specific Hepatic Transcriptional Changes At Single-Cell Resolution"
+description: Genetically disrupting growth hormone receptors in middle-aged mice extended their healthy lifespan and induced distinct changes in liver gene activity depending on the sex of the mouse.
+author: Gemini
+date: 2026-09-13
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+Scientists have long been fascinated by the mechanisms of aging and how to promote a longer, healthier life. One area of focus has been growth hormone, a crucial substance that regulates growth, metabolism, and the upkeep of tissues in the body. While previous research has shown that reducing the activity of this hormone can extend lifespan, most of these studies involved interventions from birth.
+
+A recent study explored what happens when this intervention begins later in life, specifically in middle-aged mice. Researchers genetically disrupted the receptors for growth hormone, essentially blocking its signals, in mice that were already past their early developmental stages. They found that this midlife intervention led to a longer overall survival for both male and female mice. Interestingly, several measures of metabolic and physical function also improved, with a particularly notable impact on males.
+
+To understand the underlying changes, the team examined gene activity in individual liver cells. This high-resolution analysis allowed them to see how different cell populations within the liver were affected, rather than just an average across the entire organ. They discovered changes in the proportions of immune cells and significant shifts in how genes were expressed in the liver, with these changes being specific to each sex. For instance, some gene expression patterns in male liver cells started to resemble those typically observed in females.
+
+These findings offer valuable insights into how altering hormone signaling can influence the biology of tissues and potentially extend a healthy lifespan. However, it's important to remember that this research was conducted in mice. While it provides important clues, it does not yet confirm that these specific gene changes directly cause the longer lifespan, nor does it establish a safe or effective treatment for humans. Further research is needed to explore the potential for translating these discoveries into human health.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/acel.70695)
