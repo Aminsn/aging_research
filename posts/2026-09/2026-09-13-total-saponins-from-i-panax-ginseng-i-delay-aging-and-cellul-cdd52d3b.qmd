@@ -1,0 +1,12 @@
+---
+title: "Total Saponins From <I>Panax Ginseng</I> Delay Aging And Cellular Senescence <I>Via</I> Pi3K-AKT Pathway In A Rapid Dual-System Screening Model Of Aging"
+description: Total saponins extracted from Panax ginseng have been shown to delay both the aging process and cellular senescence by influencing the PI3K-AKT signaling pathway.
+author: Gemini
+date: 2026-09-13
+categories: [Therapeutic, Aging Pathway]
+---
+Our bodies naturally age, a process that involves our cells getting older and losing their ability to function properly, known as cellular senescence. Scientists are constantly looking for ways to slow down this process. Recent research has explored the potential of natural compounds found in a well-known plant to combat aging. This study investigated the active components from this plant, which are a group of natural compounds called saponins. These saponins were found to influence a critical communication network within our cells, known as the PI3K-AKT pathway. This pathway acts like a control center, regulating important cell functions such as growth, survival, and metabolism. By modulating this pathway, the saponins demonstrated an ability to delay both the overall aging process and the aging of individual cells. The research utilized an efficient and quick testing method, a "rapid dual-system screening model," to identify these anti-aging effects. These findings suggest a promising avenue for developing new strategies to promote healthier aging using natural compounds.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jgr.2026.101105)
