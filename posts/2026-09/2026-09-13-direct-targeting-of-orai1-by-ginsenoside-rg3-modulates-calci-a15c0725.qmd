@@ -1,0 +1,12 @@
+---
+title: "Direct Targeting Of Orai1 By Ginsenoside Rg3 Modulates Calcium Signaling And Senescence-Associated AMPK-Nrf2 Activation"
+description: Ginsenoside Rg3, a compound from red ginseng, directly targets the ORAI1 calcium channel to increase cellular calcium, activating a pathway that reduces cellular aging.
+author: Gemini
+date: 2026-09-13
+categories: [Aging Pathway, Therapeutic]
+---
+Scientists have uncovered a novel mechanism by which a natural compound, ginsenoside Rg3, derived from red ginseng, helps combat cellular aging. This compound directly interacts with a specific protein called ORAI1, which functions as a channel allowing calcium to enter our cells. By directly binding to ORAI1, ginsenoside Rg3 increases the levels of calcium inside the cell, initiating a crucial internal communication system known as calcium signaling. This influx of calcium then activates a protective cellular pathway known as AMPK-NRF2. This pathway is essential for regulating the cell's energy and bolstering its defenses against damage, ultimately contributing to the attenuation of cellular senescence, a process where cells stop dividing and can contribute to age-related diseases. This discovery provides new insights into how natural compounds can influence fundamental cellular processes to promote healthier aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jgr.2026.101069)
