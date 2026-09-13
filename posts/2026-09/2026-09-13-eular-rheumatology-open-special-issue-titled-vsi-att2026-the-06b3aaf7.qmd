@@ -1,0 +1,16 @@
+---
+title: "EULAR Rheumatology Open Special Issue Titled 'VSI: Att2026': The Role Of Clonal Haematopoiesis In Immunological And Rheumatological Diseases"
+description: The age-related expansion of mutant blood cells, known as clonal haematopoiesis, drives systemic inflammation and significantly impacts the development, severity, and treatment response of cardiovascular and autoimmune diseases.
+author: Gemini
+date: 2026-09-13
+categories: [Aging Theory, Aging Pathway]
+---
+As we age, our cells naturally accumulate changes in their genetic material, called somatic mutations. While many of these changes have no effect, some can give certain cells a slight advantage, leading to their increased growth and multiplication. When this happens in the blood system, it's called clonal haematopoiesis, or sometimes clonal haematopoiesis of indeterminate potential (CHIP).
+
+This condition becomes more common with age, with smaller clones detectable in most people by middle age, suggesting it's a natural part of the aging process. The expansion of these mutated blood cell populations can trigger a widespread inflammatory state throughout the body. This inflammation, in turn, plays a significant role in how various heart-related conditions and autoimmune diseases develop, how severe they become, and how well they respond to treatments.
+
+For instance, clonal haematopoiesis has been linked to an increased risk of blood cancers and overall mortality, possibly due to a higher risk of cardiovascular disease. There's also a complex relationship with conditions like rheumatoid arthritis, where these mutated cells might contribute to the disease, and the inflammation from the disease might also encourage the development of more mutated cells. Researchers are actively working to understand the precise connections, the clinical significance of the size of these cell populations, and the specific effects of different gene mutations involved.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.ero.2026.100232)
