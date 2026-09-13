@@ -1,0 +1,18 @@
+---
+title: "NAD<Sup>+</Sup> Metabolic Reprogramming Drives Cd8<Sup>+</Sup> T Cells Senescence And Exacerbates Ulcerative Colitis"
+description: A new study reveals that a disruption in NAD+ metabolism causes certain immune cells to age prematurely, worsening ulcerative colitis.
+author: Gemini
+date: 2026-09-13
+categories: [Aging Pathway, Therapeutic]
+---
+Our immune system is a complex network, and sometimes, its components can go awry, contributing to chronic diseases. Recent research sheds light on a crucial aspect of this, particularly in conditions like ulcerative colitis, a type of inflammatory bowel disease affecting the colon and rectum. 
+
+The study found that a specific type of immune cell, called CD8+ T cells, can enter a state of "senescence" or premature aging. These senescent cells stop dividing but remain active, releasing inflammatory signals that can worsen the disease. The key driver behind this cellular aging appears to be a disruption in the metabolism of a vital molecule called NAD+ (nicotinamide adenine dinucleotide).
+
+When NAD+ metabolism is dysregulated within these T cells, it leads to problems with their mitochondria, the "powerhouses" of the cell. This dysfunction causes mitochondrial DNA to leak into the cell's main compartment, triggering an alarm system known as the cGAS-STING pathway, which then pushes the T cells into this harmful senescent state. These aged, dysfunctional immune cells accumulate in inflamed areas of the gut, directly contributing to the severity of ulcerative colitis.
+
+Importantly, the presence of these senescent cells and their metabolic signature was linked to more severe disease and could even predict which patients would not respond well to current biologic treatments. The good news is that in experimental models, treatments designed to clear these senescent cells significantly reduced disease severity, offering a promising new avenue for developing therapies for ulcerative colitis. This discovery highlights the potential of targeting cellular aging and metabolism to combat chronic inflammatory diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/acel.70706)
