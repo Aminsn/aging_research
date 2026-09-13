@@ -1,0 +1,12 @@
+---
+title: "Muscle-Specific Upregulation Of Timeless Mediates Exercise-Induced Amelioration Of Age-Related Circadian Rhythm Disruption And Cardiac Dysfunction In Drosophila"
+description: Exercise can improve age-related disruptions in daily biological rhythms and heart function by increasing the activity of a specific gene called Timeless in muscles.
+author: Gemini
+date: 2026-09-13
+categories: [Aging Pathway, Lever]
+---
+Our bodies operate on internal 24-hour cycles, known as circadian rhythms, which regulate essential functions like sleep, metabolism, and heart health. As we age, these natural rhythms can become disrupted, contributing to various health problems, including a decline in heart function. This research, conducted using fruit flies (Drosophila) as a model organism, focused on a crucial gene called "Timeless" (Tim), which is a key player in maintaining these internal clocks. The study revealed that when the Timeless gene in muscle tissue was less active, the flies exhibited accelerated signs of aging, such as decreased physical activity, an elevated heart rate, and a shorter lifespan. Conversely, boosting the activity of this muscle-specific Timeless gene helped to delay these age-related declines. Importantly, the research demonstrated that regular exercise effectively counteracted the negative effects of reduced Timeless gene activity and further enhanced the positive impacts of increased Timeless activity. This suggests that one way exercise combats aging is by upregulating the Timeless gene in muscles, thereby helping to restore healthy circadian rhythms and improve heart function as we get older. These findings offer valuable insights into the mechanisms by which physical activity promotes healthy aging and could pave the way for new approaches to prevent and treat age-related diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/acel.70708)
