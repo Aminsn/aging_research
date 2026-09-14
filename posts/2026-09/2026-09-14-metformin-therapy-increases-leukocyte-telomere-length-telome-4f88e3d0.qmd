@@ -1,0 +1,16 @@
+---
+title: "Metformin Therapy Increases Leukocyte Telomere Length, Telomerase Activity, And Longevity Gene Expression In Asian Indians With Prediabetes: A 24-Week Participant-Blind, Outcome-Assessor-Blinded Randomized Controlled Trial"
+description: Metformin treatment in Asian Indians with prediabetes significantly increased the length of protective caps on DNA, boosted an enzyme that maintains these caps, and enhanced the expression of a gene linked to longevity, regardless of its effects on blood sugar.
+author: Gemini
+date: 2026-09-14
+categories: [Therapeutic, Aging Pathway]
+---
+Many people with prediabetes, especially those of Asian Indian descent, face a higher risk of developing type 2 diabetes, which is often associated with faster biological aging. A recent study explored whether a common medication, metformin, could offer benefits beyond blood sugar control by influencing the aging process itself. 
+
+The research involved individuals with prediabetes who received either metformin or a placebo for 24 weeks. The findings revealed that metformin significantly increased the length of "telomeres" in white blood cells. Telomeres are like protective caps at the ends of our chromosomes, and they naturally shorten with age, contributing to cellular aging and disease. The study also observed a substantial increase in "telomerase activity," which is the action of an enzyme responsible for maintaining and rebuilding these telomere caps. 
+
+Furthermore, metformin boosted the expression of a "longevity gene" called SIRT1. This gene plays a crucial role in cellular metabolism and is linked to a longer, healthier lifespan. Importantly, these positive effects on telomeres, telomerase, and SIRT1 occurred independently of any changes in the participants' blood sugar levels. This suggests that metformin may have "geroprotective" or anti-aging properties that are separate from its well-known role in managing diabetes risk, opening new avenues for understanding its broader health benefits.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.mad.2026.112241)
