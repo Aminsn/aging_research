@@ -1,0 +1,12 @@
+---
+title: "Applying A Systemic Approach That Extends Beyond The Brain To Alzheimer'S Disease Pathogenesis"
+description: Alzheimer's disease is increasingly understood as a systemic condition affecting the entire body, with widespread cellular dysfunctions occurring years before brain-specific symptoms appear.
+author: Gemini
+date: 2026-09-14
+categories: [Aging Theory, Aging Pathway]
+---
+For a long time, Alzheimer's disease has been primarily viewed as a disorder of the brain. However, emerging research suggests a more comprehensive picture, indicating that it's a condition involving the entire body. This new perspective highlights that various factors beyond the brain, such as metabolic imbalances, inflammation, cardiovascular problems, and even environmental exposures, play a significant role in its development. These diverse influences are often connected by underlying issues with how our cells produce energy and clear waste, specifically involving tiny cellular components called lysosomes and mitochondria. When these components don't function correctly, it can lead to widespread cellular problems throughout the body, potentially starting long before any noticeable changes in the brain. This means that the period before symptoms appear, often thought of as a 'silent' phase, is actually a crucial time when systemic dysfunction is developing. Recognizing these broader bodily changes opens up exciting new possibilities for earlier detection and interventions that could potentially alter the disease's progression. For instance, the connection between gut health and brain function, known as the gut-brain axis, is another example of how systemic issues can contribute to Alzheimer's risk. By adopting this whole-body view, we may develop more effective diagnostic tools and treatments that address not just the brain, but the interconnected systems throughout the body.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s43856-026-01831-z)
