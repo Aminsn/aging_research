@@ -1,0 +1,12 @@
+---
+title: "A Ph-Responsive Fluorescence Lifetime Probe Reveals Got1 Phase Separation In Cellular Anti-Senescence"
+description: A metabolic enzyme called GOT1 acts as a pH sensor, forming specialized compartments within cells to combat cellular aging by reducing harmful reactive oxygen species.
+author: Gemini
+date: 2026-09-14
+categories: [Aging Pathway, Analytical]
+---
+Our cells undergo a process called senescence, essentially cellular aging, which involves changes like increased acidity. How cells detect and adapt to these pH shifts has been a mystery. Recent research has uncovered that a key metabolic enzyme, GOT1, functions as a pH sensor. Under acidic conditions, similar to those found in aging cells, GOT1 undergoes a fascinating process called liquid-liquid phase separation. Imagine oil and water separating; similarly, molecules like GOT1 can separate into distinct, concentrated droplets or "condensates" within the cell. These GOT1-rich compartments then recruit another enzyme, ME1, to form dynamic clusters. These clusters are crucial because they work together to scavenge reactive oxygen species—harmful molecules that can damage cells and contribute to aging—thereby alleviating oxidative stress. To observe this in real-time, scientists developed a new fluorescent probe. This tool allowed them to visualize and measure the pH within these GOT1 condensates in living cells, confirming that these phase-separated regions create a highly acidic microenvironment essential for their anti-aging function. This discovery offers new insights into how cells adapt their metabolism during aging and provides a novel chemical tool for studying cellular environments.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/smo2.70096)
