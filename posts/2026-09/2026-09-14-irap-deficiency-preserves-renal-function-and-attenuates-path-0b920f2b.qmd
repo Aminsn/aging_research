@@ -1,0 +1,18 @@
+---
+title: "IRAP Deficiency Preserves Renal Function And Attenuates Pathology In Aged Mice"
+description: Deficiency or inhibition of insulin-regulated aminopeptidase (IRAP) protects against age-related decline in kidney function, reduces scarring, and decreases the accumulation of senescent cells in aged mice.
+author: Gemini
+date: 2026-09-14
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our kidneys naturally decline, often leading to a reduced ability to filter waste from the blood, a measure known as the glomerular filtration rate, and an increase in scarring, or fibrosis. A key contributor to this aging process is the accumulation of "senescent cells"—often called "zombie cells"—which are cells that have stopped dividing but remain in tissues, releasing harmful substances.
+
+Recent research has shed light on a protein called insulin-regulated aminopeptidase (IRAP), which is part of a larger system in the body that helps regulate blood pressure and fluid balance. Scientists investigated whether this protein plays a role in kidney aging.
+
+They found that mice genetically engineered to lack IRAP were protected from the typical age-related decline in kidney function. These mice maintained better filtration rates, showed less kidney scarring, and had fewer senescent cells compared to their normal aged counterparts. Furthermore, when older mice were given a treatment that inhibited IRAP, they also experienced similar protective effects, preventing the age-related drop in kidney function and reducing markers of cellular aging. At a cellular level, blocking IRAP helped kidney cells resist damage from oxidative stress (an imbalance between free radicals and antioxidants) and improved their metabolic function, suggesting a protective effect on the cells' energy-producing powerhouses, the mitochondria.
+
+These findings suggest that targeting IRAP could be a promising new strategy to combat age-related kidney disease and potentially other conditions linked to cellular aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1042/CS20261576)
