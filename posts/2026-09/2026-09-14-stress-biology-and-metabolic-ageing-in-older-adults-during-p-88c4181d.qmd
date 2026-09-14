@@ -1,0 +1,18 @@
+---
+title: "Stress Biology And Metabolic Ageing In Older Adults During Prolonged Crises: Ukraine As An Example"
+description: Prolonged crises, such as war, can accelerate biological aging and increase the risk of age-related diseases in older adults by disrupting stress response systems and metabolic processes.
+author: Gemini
+date: 2026-09-14
+categories: [Aging Theory, Aging Pathway, Lever]
+---
+When a country faces a long-term crisis, like a war, the impact goes beyond visible destruction and emotional distress. New research highlights a hidden consequence: the acceleration of biological aging, especially in older individuals. This isn't just about feeling older; it's about actual changes happening inside the body. 
+
+Our bodies have a natural 'fight or flight' response to stress, involving hormones like cortisol. While helpful in short bursts, constant stress keeps these systems on overdrive. This prolonged activation can lead to a cascade of problems. For instance, it can cause the body to store more fat around the abdomen, trigger inflammation (a process where the body's immune system overreacts), and make cells less responsive to insulin, which is crucial for managing blood sugar. These changes contribute to what scientists call 'metabolic aging,' essentially making the body's internal systems function as if they were older than they are chronologically. 
+
+At a microscopic level, chronic stress can damage cells, impair their energy-producing components (mitochondria), and even shorten protective caps on our DNA called telomeres, all of which are hallmarks of aging. These biological shifts can significantly increase the risk of developing age-related conditions such as diabetes, physical weakness (frailty), and even memory problems like dementia, long after the immediate crisis has passed. 
+
+Understanding this connection between prolonged stress and accelerated aging is crucial. It suggests that humanitarian efforts and healthcare strategies during and after crises should not only address immediate needs but also consider the long-term biological health of affected populations, particularly older adults. By recognizing these biological impacts, we can develop better ways to support people and mitigate the lasting health consequences of living through extended periods of hardship.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s10522-026-10502-4)
