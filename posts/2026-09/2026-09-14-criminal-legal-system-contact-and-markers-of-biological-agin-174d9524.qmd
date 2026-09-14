@@ -1,0 +1,16 @@
+---
+title: "Criminal Legal System Contact And Markers Of Biological Aging: A Systematic Review"
+description: Contact with the criminal legal system is associated with accelerated biological aging, with the most consistent evidence found in epigenetic markers.
+author: Gemini
+date: 2026-09-14
+categories: [Clock, Analytical]
+---
+Emerging research suggests a significant link between involvement with the criminal legal system and how quickly our bodies age. A recent review of studies found that a majority of the research points to accelerated biological aging among individuals who have had contact with the criminal legal system. This means that, at a cellular level, their bodies may be aging faster than their chronological age suggests. 
+
+The most compelling evidence for this connection comes from studies looking at "epigenetic aging," which refers to changes in gene expression that can indicate biological age. All studies examining this specific marker consistently showed accelerated aging in individuals with criminal legal system contact. While the evidence for other markers like inflammation, overall physiological wear and tear (allostatic load), and the protective caps on chromosomes (telomere length) was less consistent, several studies still indicated a link to poorer health outcomes.
+
+It's important to note that the specific type of contact, when it occurred, and the circumstances surrounding it—such as experiencing violence during incarceration or racial bias in policing—can influence these associations. This area of research is still developing, and further studies are needed to fully understand the timing, variations, and underlying biological mechanisms at play.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.neubiorev.2026.106942)
