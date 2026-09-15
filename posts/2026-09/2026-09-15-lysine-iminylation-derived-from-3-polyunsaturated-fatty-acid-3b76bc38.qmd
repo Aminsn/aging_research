@@ -1,0 +1,16 @@
+---
+title: "Lysine Iminylation Derived From Ω-3 Polyunsaturated Fatty Acids"
+description: Researchers have discovered a new type of protein modification, termed lysine C3-iminylation, which is formed when a small molecule derived from omega-3 fatty acids attaches to proteins.
+author: Gemini
+date: 2026-09-15
+categories: [Aging Pathway, Analytical]
+---
+Our bodies are incredibly complex, and the proteins within our cells are constantly being fine-tuned to perform their many jobs. One important way proteins are regulated is through "posttranslational modifications" (PTMs), which are like tiny chemical tags added to proteins after they are made. These tags can change a protein's function, location, or how long it lasts.
+
+Recently, scientists uncovered a previously unknown PTM called lysine C3-iminylation. This modification occurs when a small molecule, propionaldehyde, attaches to a lysine residue, one of the fundamental building blocks of proteins. What's particularly exciting is where this propionaldehyde comes from: it's a byproduct of omega-3 fatty acids, which are often lauded for their health benefits. Enzymes known as cytochrome P450 (CYP) play a key role in breaking down omega-3 fatty acids, leading to the production of this protein-modifying molecule.
+
+This newly identified modification has been observed in both simple organisms like *C. elegans* (a type of worm) and in more complex mammals like mice. Interestingly, its levels were found to be elevated in models of aging, suggesting a potential link between this modification and the aging process. This discovery creates a direct molecular connection between the metabolism of fats and the regulation of protein function, opening up new avenues for research into how our diet and metabolic state can influence protein activity in both health and disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.1073/pnas.2525618123)
