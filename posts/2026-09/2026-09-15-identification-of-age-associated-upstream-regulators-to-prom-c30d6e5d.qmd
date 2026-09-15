@@ -1,0 +1,12 @@
+---
+title: "Identification Of Age-Associated Upstream Regulators To Promote Neuronal Resilience In HD Patient-Derived Neurons"
+description: Researchers identified NFKB1 as a key age-associated upstream regulator whose reduced activity promotes neuronal resilience in neurons derived from Huntington's disease patients.
+author: Gemini
+date: 2026-09-15
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+Aging is a significant risk factor for neurodegenerative conditions like Huntington's disease, yet the precise connection between the aging of brain cells and the onset of neurodegeneration has remained elusive. Huntington's disease is an inherited disorder that primarily affects specific brain cells called striatal medium spiny neurons (MSNs), but how aging contributes to their degeneration was not well understood.To investigate this, scientists created MSNs directly from the skin cells (fibroblasts) of Huntington's disease patients. These patient-derived neurons allowed them to study age-related problems such as the death of brain cells, the clumping together of a harmful protein called mutant huntingtin (mHTT), and damage to DNA.Through a detailed analysis of gene activity in these aged neurons, they pinpointed four "upstream regulators"—NFKB1, SOD1, IRF3, and REST—which are molecules that control the expression of other genes in aged MSNs.Among these, NFKB1 stood out as being strongly linked to both the aging process in neurons and the progression of Huntington's disease.Crucially, when the activity of NFKB1 was reduced, it significantly lessened the disease-related issues in the patient-derived neurons, including cell death, DNA damage, and mHTT aggregation.Conversely, increasing NFKB1 activity reversed these protective effects.These findings highlight NFKB1 as a critical age-associated regulator, suggesting that targeting its activity could be a promising new strategy for developing treatments for Huntington's disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s12264-026-01711-5)
