@@ -1,0 +1,16 @@
+---
+title: "Posttranslational Oxidation Of Sod1 And Skin Aging: Evidence, Gaps, And Future Directions"
+description: Research indicates that modifications to the antioxidant enzyme SOD1 through oxidation play a significant role in the process of skin aging.
+author: Gemini
+date: 2026-09-15
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+As we age, our skin undergoes visible changes like wrinkles and loss of elasticity. A key factor contributing to this process is "oxidative stress," which occurs when there's an imbalance between harmful molecules called free radicals and the body's ability to neutralize them. This imbalance can damage cells and tissues.
+
+Recent research sheds light on how a crucial protective enzyme, Superoxide Dismutase 1 (SOD1), is involved in skin aging. SOD1 acts like a cellular bodyguard, neutralizing damaging free radicals and maintaining healthy skin. However, this enzyme itself can undergo changes after it's made, a process known as "posttranslational modification." Specifically, when SOD1 is exposed to oxidative stress, it can become "oxidized," meaning oxygen atoms attach to it. This oxidation can alter SOD1's structure and function, making it less effective at its job or even causing it to misfold.
+
+This study explores the evidence linking these oxidized forms of SOD1 to the aging of skin. Understanding how these modifications occur and their impact on skin health could pave the way for new strategies to protect our skin from the effects of aging and develop more effective anti-aging treatments.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.arr.2026.103351)
