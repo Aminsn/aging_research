@@ -1,0 +1,16 @@
+---
+title: "The GH-IGF Axis In Growth: An Overview"
+description: The growth hormone-insulin-like growth factor axis is a fundamental system regulating human growth, and various genetic defects within this axis can lead to different forms of growth failure.
+author: Gemini
+date: 2026-09-15
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+Our bodies have a remarkable internal communication system that orchestrates growth, especially during childhood and adolescence. At its core is what scientists call the GH-IGF axis, a partnership between two key players: Growth Hormone (GH) and Insulin-like Growth Factor-I (IGF-I).
+
+Think of Growth Hormone, produced by a small gland in your brain, as the master signal for growth. It travels through your bloodstream, primarily to the liver, where it prompts the production of Insulin-like Growth Factor-I. IGF-I then acts as a direct growth promoter, encouraging cells throughout the body to multiply and enlarge. Together, GH and IGF-I drive essential "anabolic cellular processes" – fancy terms for building up tissues, like "protein synthesis" (making new proteins) and "mitosis" (cell division), which are crucial for increasing body size. This axis also plays a role in regulating "apoptosis," which is the body's natural process of programmed cell death, ensuring a healthy balance of cells.
+
+However, sometimes this intricate system can go awry. "Genetic mutations," or changes in our DNA, can disrupt the normal functioning of the GH-IGF axis. These disruptions can lead to various forms of "growth failure," where a child doesn't grow at the expected rate or reach their full height potential. Understanding how this axis works and what can go wrong is vital for diagnosing and treating growth-related conditions, helping children achieve healthier development.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.ghir.2026.101723)
