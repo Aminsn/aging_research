@@ -1,0 +1,12 @@
+---
+title: "Longitudinal Infection Trajectories And Biological Aging Acceleration In Adults: A Prospective Cohort Study"
+description: Frequent infections are associated with a faster rate of biological aging in adults, particularly in those with a higher genetic predisposition.
+author: Gemini
+date: 2026-09-16
+categories: [Lever, Analytical]
+---
+This research explored how the frequency of infections throughout a person's life can influence their biological age, which is a measure of how old their body seems compared to their chronological age. Scientists tracked over 7,600 adults and categorized their infection histories into different patterns, such as having infections rarely, or having them frequently. The study revealed that individuals who experienced more frequent infections showed a more rapid acceleration in their biological aging. This connection between a higher number of infections and faster biological aging was consistent over time and was even more pronounced in people who had a higher genetic susceptibility to certain health issues. These findings suggest that the cumulative impact of infections can play a significant role in how quickly our bodies age at a biological level.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s11357-026-02514-2)
