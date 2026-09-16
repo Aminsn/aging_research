@@ -1,0 +1,20 @@
+---
+title: "Linking Epigenetic Age Acceleration To Self-Reported Daily Memory Lapses: Evidence From The National Study Of Daily Experiences"
+description: Among adults aged 40-49, a faster biological aging rate, as measured by epigenetic changes, was linked to more frequent future memory lapses and increased frustration and disruption caused by these lapses.
+author: Gemini
+date: 2026-09-16
+categories: [Clock, Analytical]
+---
+Have you ever wondered why some people seem to age faster than others, even if they are the same chronological age? Scientists are increasingly looking beyond the number of years we've lived to understand "biological age," which reflects the wear and tear on our bodies at a cellular level. One way to measure this is through "epigenetic aging," which looks at chemical modifications to our DNA that can influence how our genes behave. A specific measure called DunedinPACE helps track this pace of biological aging.
+
+While we know that a faster biological aging rate has been linked to conditions like cognitive impairment and dementia, less was understood about its connection to everyday memory issues, like forgetting where you put your keys or missing an appointment. These "subjective cognitive complaints" can be early indicators of future cognitive health.
+
+A recent study explored this very question, examining the relationship between the pace of biological aging and self-reported daily memory lapses in middle-aged and older adults. Interestingly, the researchers found that the link between biological aging and memory wasn't straightforward across all age groups.
+
+Specifically, for individuals in their forties (ages 40-49), a faster biological aging rate was associated with experiencing more "prospective memory lapses" about a decade later. Prospective memory lapses are those moments when you forget to do something you intended to do in the future, like forgetting to take medication or send an email. Not only did these younger midlife adults report more frequent lapses, but they also reported greater irritation and interference from these memory slips.
+
+This suggests that early midlife might be a crucial period where the rate of biological aging significantly impacts future cognitive experiences. Understanding these connections could open new doors for identifying individuals at higher risk for cognitive decline earlier and developing strategies to support brain health during this sensitive time.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/gerona/glag202)
