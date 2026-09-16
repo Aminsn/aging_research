@@ -1,0 +1,16 @@
+---
+title: "Gut Microbial Load Mediates The Longevity Effect Of Korean Red Ginseng In Drosophila Melanogaster"
+description: Korean red ginseng extends the lifespan of fruit flies by reducing the overall amount of microbes in their gut, which in turn influences key aging pathways.
+author: Gemini
+date: 2026-09-16
+categories: [Therapeutic, Aging Pathway]
+---
+Ever wondered if traditional remedies hold secrets to a longer life? Recent research using fruit flies, a common model in aging studies, sheds light on how a popular supplement might work its magic. This study found that a specific natural product, widely consumed in East Asia, can actually extend the lifespan of these flies.
+
+The key to this longevity boost appears to be in the gut. It turns out that this supplement significantly reduces the total number of microbes living in the flies' digestive system. Interestingly, it's not about changing the types of bacteria present, but rather the overall quantity of them. This reduction in gut microbial load then influences important biological pathways linked to aging, specifically the Insulin/IGF-1 signaling (IIS) and Sir2 pathways.
+
+To confirm these findings, scientists conducted experiments with germ-free flies and also used antibiotics to reduce microbial levels, observing similar lifespan-extending effects. This suggests a fascinating connection between gut health, microbial balance, and the fundamental processes that determine how long an organism lives.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/gerona/glag201)
