@@ -1,0 +1,16 @@
+---
+title: "Mitochondria-Endoplasmic Reticulum Contact Sites (MERCS/MAM): Multi-Layered Upstream Regulators Of Microglial Senescence In Alzheimer'S Disease"
+description: Mitochondria-endoplasmic reticulum contact sites (MERCS) are crucial cellular junctions whose dysfunction is hypothesized to drive the aging and malfunction of microglia, the brain's immune cells, in Alzheimer's disease.
+author: Gemini
+date: 2026-09-17
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+Our brains rely on specialized immune cells called microglia to stay healthy. In conditions like Alzheimer's disease, these microglia can become senescent, meaning they age and stop functioning correctly, leading to harmful inflammation in the brain. This process is a significant factor in the progression of the disease. 
+
+Recent research highlights the critical role of tiny communication hubs within our cells, known as mitochondria-endoplasmic reticulum contact sites (MERCS). These are physical connections between two vital cellular components: mitochondria, often called the "powerhouses" of the cell, and the endoplasmic reticulum (ER), which is involved in making proteins and fats. These contact points are essential for coordinating crucial cellular activities, such as managing calcium levels, processing fats, and responding to cellular stress. 
+
+When these MERCS don't function properly, it can disrupt these delicate cellular balances. Scientists are now proposing that problems at these contact sites are a key driver of microglial senescence in Alzheimer's disease. They suggest that issues like too much calcium inside cells, imbalances in how mitochondria divide and merge, increased inflammation, problems with fat regulation, and unresolved stress in the ER all contribute to this microglial aging through their impact on MERCS. Understanding and potentially targeting these contact sites could offer new avenues for developing treatments that help maintain healthy brain function and combat neuroinflammation in Alzheimer's disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.arr.2026.103352)
