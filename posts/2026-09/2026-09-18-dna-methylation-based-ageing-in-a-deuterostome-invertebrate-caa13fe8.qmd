@@ -1,0 +1,20 @@
+---
+title: "DNA Methylation-Based Ageing In A Deuterostome Invertebrate: An Epigenetic Clock For The Crown-Of-Thorns Seastar (Acanthaster Cf. Solaris)"
+description: Scientists have successfully developed a method to determine the age of crown-of-thorns seastars, an invertebrate, by analyzing specific chemical modifications on their DNA, known as an epigenetic clock.
+author: Gemini
+date: 2026-09-18
+categories: [Clock, Analytical]
+---
+Knowing the age of animals is incredibly important for conservation and managing populations, but it can be really tough for many wild species. For a long time, scientists have been exploring a promising new way to tell age by looking at "epigenetic clocks." These clocks work by tracking tiny chemical tags, called methyl groups, that attach to an organism's DNA. As an animal gets older, these tags change in predictable ways, essentially creating a biological timestamp.
+
+While this method has been successfully used in many vertebrates (animals with backbones) and some arthropods (like insects and crustaceans), its application to other invertebrates has been a challenge. This new research marks a significant step forward by creating the first epigenetic clock for a deuterostome invertebrate: the crown-of-thorns seastar.
+
+The crown-of-thorns seastar is a major predator of coral, and its outbreaks can severely damage coral reefs. Being able to accurately determine the age of these seastars is crucial for understanding their population dynamics and developing effective strategies to manage their impact on fragile reef ecosystems.
+
+To build this clock, researchers analyzed the entire genetic blueprint of the seastars, specifically looking at patterns of DNA methylation across different age groups. They pinpointed over a thousand specific spots on the DNA where these chemical tags reliably change with age. The resulting age-prediction model proved to be highly accurate, with an average error of only about 0.31 years, which is a small fraction of the seastar's typical lifespan.
+
+This breakthrough not only provides a vital tool for managing crown-of-thorns seastar populations but also demonstrates that DNA methylation-based aging can be applied to a broader range of invertebrates. This opens up exciting possibilities for better understanding and protecting many other invertebrate species for which traditional aging methods are difficult or impossible.
+
+---
+
+Source: [link to paper](https://doi.org/10.1098/rsbl.2026.0265)
