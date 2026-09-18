@@ -1,0 +1,20 @@
+---
+title: "Attenuating Monocytic Inflammaging Via The Mir-146A/Tlr4 Axis: Characterization And Bioactivity Of A Triterpenoid-Rich Callus Phytocomplex"
+description: A standardized plant extract rich in natural compounds called triterpenoids has been shown to reduce age-related inflammation in immune cells by enhancing an anti-inflammatory molecule and suppressing inflammatory signals.
+author: Gemini
+date: 2026-09-18
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our bodies can experience a persistent, low-grade inflammation, often referred to as "inflammaging," which contributes to the aging process and various age-related conditions. This chronic inflammation is partly driven by immune cells called monocytes becoming overactive. However, our bodies have natural mechanisms to keep this in check, such as a tiny regulatory molecule known as microRNA-146a (miR-146a). This molecule acts like a brake, silencing inflammatory proteins and reducing the release of pro-inflammatory signals.
+
+Recent research has explored a promising approach to combat this age-related inflammation using a special extract derived from plant callus cultures, specifically from the Red Sentinel plant. This extract is rich in beneficial compounds called pentacyclic triterpenoids, including ursolic and oleanolic acids.
+
+When tested on human monocytes, this plant-derived extract demonstrated remarkable effects. It significantly boosted the levels of the anti-inflammatory miR-146a, which in turn led to a reduction in a key inflammatory protein called IRAK-1. Furthermore, the extract successfully lowered the secretion of IL-6, a pro-inflammatory signaling molecule, all without causing harm to the cells. Computer simulations provided further insight, showing that these triterpenoids physically bind to a receptor called TLR4, which is responsible for initiating inflammatory responses.
+
+A significant aspect of this work is the method of production. The extract was created using biotechnology through plant callus cultures, ensuring a standardized and consistent product. This overcomes the variability often associated with traditional plant extraction methods, paving the way for reliable and scalable manufacturing.
+
+These findings suggest that natural compounds from plants, specifically these triterpenoids, could be developed into supplements or agents to help modulate the immune system and counteract age-related inflammation, potentially contributing to healthier aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.mad.2026.112251)
