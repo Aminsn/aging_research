@@ -1,0 +1,18 @@
+---
+title: "Tet2 Deficiency Drives Age-Related Heterogeneous Progression Of Myeloid Neoplasms Through Epigenetic-Immune Microenvironment Imbalance"
+description: A deficiency in the TET2 gene drives the development and varied progression of blood cancers, known as myeloid neoplasms, in an age-dependent manner by disrupting epigenetic regulation and the immune environment.
+author: Gemini
+date: 2026-09-19
+categories: [Aging Pathway, Therapeutic]
+---
+Our bodies have a remarkable system for making blood cells, but sometimes things go wrong, leading to conditions like myeloid neoplasms, which are a type of blood cancer. A key player in maintaining healthy blood cell development is a gene called TET2. This gene is crucial for a process called DNA methylation, which is like a switch that turns genes on or off without changing the underlying DNA code itself. When TET2 doesn't work properly, this epigenetic regulation gets disrupted, leading to abnormal gene activity.
+
+Recent research has shed light on how a faulty TET2 gene contributes to these blood cancers, particularly how the disease progresses differently with age. In younger individuals, a TET2 deficiency might only cause mild blood abnormalities. However, in older individuals, it can lead to more severe forms of myeloid neoplasms, including various subtypes of myelodysplastic syndrome, myeloproliferative neoplasm, and acute myeloid leukemia.
+
+This age-related progression is not just about the gene itself; it also involves the immune system. When TET2 is deficient, the bone marrow, where blood cells are made, develops an "immunosuppressive niche." This means the local environment actively suppresses immune responses. For example, certain immune cells called macrophages become "M2-like," which are known to promote tissue repair but also dampen immune reactions. Additionally, there's an increase in "Foxp3+ regulatory T cells," another type of immune cell that helps suppress the immune system. Changes in signaling molecules called cytokines also contribute to this imbalanced immune environment.
+
+Understanding how TET2 deficiency, age, and the immune system interact provides crucial insights into why myeloid neoplasms are so varied and often more aggressive in older patients. This knowledge is vital for developing new targeted treatments that could address both the epigenetic changes and the immune system imbalances in these challenging blood cancers.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s12967-026-08835-2)
