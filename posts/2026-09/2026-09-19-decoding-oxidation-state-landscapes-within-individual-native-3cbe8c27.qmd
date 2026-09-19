@@ -1,0 +1,18 @@
+---
+title: "Decoding Oxidation State Landscapes Within Individual Native Peptides By Nanopore"
+description: A new nanopore strategy has been developed to identify and differentiate various oxidation states within individual natural peptides.
+author: Gemini
+date: 2026-09-19
+categories: [Analytical]
+---
+Protein oxidation plays a dual role in our bodies: it's crucial for cell communication but also contributes to molecular damage as we age. Understanding these different oxidation states in individual proteins or peptides has been a major challenge because traditional methods tend to average out all the coexisting forms, losing important details.
+
+Researchers have now introduced a groundbreaking method using a tiny biological pore, called a nanopore. This nanopore is specially engineered with a tight recognition area that uses a network of hydrogen bonds to specifically detect and distinguish the subtle changes caused by different oxidation states within a single peptide. Think of it like a highly sensitive molecular scanner that can tell the difference between various "marks" on a peptide.
+
+This innovative technique can even tell apart reversible oxidation, which is often part of normal biological processes, from irreversible damage-related oxidation, even when these forms have the exact same mass. Crucially, it does this without needing to separate or purify the peptides beforehand. The method also allows for the precise measurement of how these different oxidation states are distributed under various conditions.
+
+This advancement offers a powerful new tool to examine oxidation at a molecular level within individual peptides. It holds significant promise for future biological research, particularly in understanding how oxidative modifications contribute to aging and various diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/anie.9376050)
