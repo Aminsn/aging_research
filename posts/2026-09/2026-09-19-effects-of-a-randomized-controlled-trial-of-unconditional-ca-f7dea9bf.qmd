@@ -1,0 +1,18 @@
+---
+title: "Effects Of A Randomized Controlled Trial Of Unconditional Cash Transfers On Epigenetic Measures Of Ageing And Cognition In Children And Mothers"
+description: A randomized controlled trial found that higher unconditional cash transfers to low-income mothers were associated with a slower pace of biological aging in their 4-year-old children.
+author: Gemini
+date: 2026-09-19
+categories: [Clock, Lever]
+---
+Imagine a simple change that could potentially influence a child's biological development. A recent study explored this by examining the impact of regular financial support given to mothers with low incomes during their children's early years. In this research, some mothers received a higher monthly cash gift, while others received a smaller amount, over the first four years of their child's life.
+
+The researchers focused on "epigenetic measures," which are like biological tags on our DNA that can be influenced by our environment and affect how our genes are expressed. They specifically looked at a marker called DunedinPACE, which indicates the pace of biological aging, and another called Epigenetic-g, related to cognitive function.
+
+What they discovered was quite interesting: children whose mothers received the larger cash gifts showed a slower pace of biological aging, as indicated by their DunedinPACE scores. This suggests that providing consistent financial support during early childhood might have a tangible effect on a child's biological development. However, the study did not find a significant impact on the children's cognitive marker or on any of the mothers' epigenetic measures.
+
+These findings contribute to the understanding that economic interventions, even without additional support like nutritional programs, could have subtle but important effects on a child's biology. While this research offers a fascinating glimpse into the potential biological benefits of income support policies, it's important to remember that it doesn't yet confirm long-term health improvements or reduced disease risk, and further research is needed to understand if these biological changes lead to lasting health benefits.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s41562-026-02568-4)
