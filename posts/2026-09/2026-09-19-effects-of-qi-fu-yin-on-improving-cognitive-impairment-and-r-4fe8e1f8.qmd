@@ -1,0 +1,12 @@
+---
+title: "Effects Of Qi-Fu-Yin On Improving Cognitive Impairment And Reducing Cellular Senescence In The Brains Of 5Xfad Mice"
+description: A traditional Chinese medicine prescription, Qi-fu-yin, was found to improve learning and memory and reduce markers of cellular aging and amyloid-beta plaques in a mouse model of Alzheimer's disease.
+author: Gemini
+date: 2026-09-19
+categories: [Therapeutic, Aging Pathway]
+---
+Researchers have been exploring new avenues to combat age-related cognitive decline, a hallmark of conditions like Alzheimer's disease. A recent study investigated the effects of a traditional herbal formula on a specific mouse model that mimics key aspects of Alzheimer's, known as 5xFAD mice. These mice are genetically engineered to develop features similar to human Alzheimer's, including problems with memory and thinking, which scientists call cognitive impairment. The findings suggest that treatment with this herbal formula significantly enhanced the mice's ability to learn and remember. It also reduced the accumulation of abnormal protein clumps, called amyloid-beta plaques, in their brains, which are characteristic of Alzheimer's. Furthermore, the treatment appeared to lessen cellular senescence, a process where cells stop dividing but remain active and can contribute to aging and disease. This was evidenced by a decrease in markers like senescence-associated β-galactosidase (SA-β-Gal) and p21 expression, which indicate the presence of these "aged" cells. The study also observed an increase in important proteins (GAP-43, PSD-95, and SYN) that are vital for the connections between brain cells, known as synapses, which are crucial for healthy brain function. Additionally, the herbal formula reduced the levels of inflammatory signaling molecules, called cytokines (such as IL-1α, IL-1β, IL-6, IL-17A, and IFN-γ), which are often elevated in conditions involving cellular senescence and inflammation. These results indicate that this traditional medicine could potentially offer a new therapeutic strategy for addressing cognitive decline and the cellular aging processes seen in Alzheimer's disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.3791/72118)
