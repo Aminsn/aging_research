@@ -1,0 +1,20 @@
+---
+title: "Border-Associated Macrophage Migrasomes In Alzheimer'S Disease: An Emerging Aβ-Senescence-Microglia Axis?"
+description: Border-associated macrophages at the brain's edges, when exposed to amyloid-beta and aging stress, release tiny vesicles called migrasomes that can damage blood vessels and spread harmful aging signals to other brain cells, contributing to Alzheimer's disease.
+author: Gemini
+date: 2026-09-27
+categories: [Aging Pathway, Therapeutic]
+---
+Our brains have special immune cells, called border-associated macrophages (BAMs), located at the interfaces between the brain and the rest of the body, such as around blood vessels. These cells are crucial for clearing waste products, including a protein fragment called amyloid-beta (Aβ) that is known to accumulate in Alzheimer's disease. They also help maintain the health of blood vessels in the brain and oversee immune responses.
+
+However, new research suggests that when these BAMs are exposed to persistent Aβ, particularly a form called Aβ40, and experience stress related to aging, they can undergo a harmful transformation. Instead of efficiently clearing waste, these BAMs can shift into a "senescent-like" state, meaning they stop functioning normally and can even release substances that harm surrounding cells.
+
+A key finding is that these stressed, senescent-like BAMs produce and release tiny sacs called migrasomes. Migrasomes are essentially small packages that cells shed, and they can carry various molecules. In this context, these migrasomes contain specific proteins that can have detrimental effects.
+
+One way these migrasomes cause harm is by damaging the blood-brain barrier, a protective shield that controls what enters the brain from the bloodstream. This damage can compromise the brain's delicate environment. Furthermore, these migrasomes can transmit their "senescent" or aged-like dysfunction to other important brain immune cells called microglia. When microglia become senescent, they also lose their ability to function properly, contributing to inflammation and further impairing the brain's ability to clear Aβ.
+
+This process creates a vicious cycle where Aβ accumulation and aging stress lead to dysfunctional BAMs, which then spread damage and senescence throughout the brain via migrasomes, ultimately contributing to the progression of neurovascular problems and cognitive decline seen in conditions like Alzheimer's disease. Understanding this pathway could open new avenues for therapies targeting these migrasomes to protect brain health during aging and in neurodegenerative diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/cells15181671)
