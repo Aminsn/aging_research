@@ -1,0 +1,16 @@
+---
+title: "Adenosine Deaminase-Mediated Purine Dysfunction Leads To DNA Repair Inhibition And Senescence In Sporadic Amyotrophic Lateral Sclerosis"
+description: Loss of the enzyme adenosine deaminase in brain support cells of individuals with sporadic Amyotrophic Lateral Sclerosis disrupts a vital metabolic process, leading to impaired DNA repair and premature cellular aging.
+author: Gemini
+date: 2026-09-27
+categories: [Aging Pathway, Therapeutic]
+---
+Amyotrophic Lateral Sclerosis (ALS) is a devastating disease that progressively paralyzes individuals by attacking nerve cells. While much research focuses on the nerve cells themselves, support cells in the brain, called astrocytes, also play a crucial role in the disease. Recent findings shed light on a significant problem within these astrocytes in sporadic ALS, the most common form of the disease.
+
+Researchers discovered that astrocytes from individuals with sporadic ALS have a reduced amount of a key enzyme called adenosine deaminase (ADA). This enzyme is vital for a process known as purine metabolism, which is essentially how our cells manage and use certain building blocks for DNA and energy. When ADA levels drop, this metabolic pathway goes awry.
+
+The disruption in purine metabolism has serious consequences. It leads to a reduced ability of the cells to repair their DNA, meaning that damage to the genetic material accumulates. Additionally, this dysfunction promotes cellular senescence, a state where cells stop dividing and begin to age prematurely, potentially contributing to the overall decline seen in ALS. The study also suggests a connection between this ADA-mediated purine dysfunction and problems with a protein called TDP43, which is frequently implicated in ALS pathology. These insights suggest that targeting the ADA pathway could offer a new strategy to slow down the progression of ALS by improving DNA repair and reducing cellular aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/ijms27188236)
