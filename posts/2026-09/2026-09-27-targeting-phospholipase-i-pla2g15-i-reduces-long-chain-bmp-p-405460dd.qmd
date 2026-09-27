@@ -1,0 +1,20 @@
+---
+title: "Targeting Phospholipase <I>Pla2G15</I> Reduces Long-Chain BMP Phospholipids Abundance And Senescence In Kidney Cells"
+description: Targeting the enzyme Pla2g15 reduces the accumulation of specific long-chain bis(monoacylglycerol)phosphate (BMP) phospholipids and cellular senescence in kidney cells, offering a potential therapeutic strategy for chronic kidney disease.
+author: Gemini
+date: 2026-09-27
+categories: [Aging Pathway, Therapeutic]
+---
+Our kidneys are vital organs, and as we age, their function can decline, often due to the accumulation of "senescent" cells – cells that have stopped dividing and can contribute to disease. A major age-related condition, chronic kidney disease, is driven by these aging kidney cells. While we know that changes in cell metabolism play a role in this process, the specific involvement of complex fats, or lipids, has been less clear.
+
+Recent research has shed light on this mystery, identifying a crucial link between a specific type of fat, called bis(monoacylglycerol)phosphate (BMP), and cellular aging in the kidney. It was found that BMP levels increase in aging kidneys and in senescent kidney cells.
+
+The study focused on an enzyme named Pla2g15, which plays a role in processing these BMP fats. When this enzyme was genetically removed from kidney cells, there was a notable reduction in the harmful long-chain unsaturated BMPs, which typically accumulate during cellular aging.
+
+Crucially, the absence of this enzyme also protected kidney cells from induced senescence, essentially preventing them from aging prematurely. This protective effect was linked to an improvement in the cells' energy production systems, specifically enhanced mitochondrial metabolism.
+
+These findings suggest that by targeting this enzyme, we might be able to control the levels of specific fats that contribute to cellular aging in the kidneys. This opens up a promising new avenue for developing treatments to prevent senescence and potentially slow the progression of chronic kidney disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.18632/aging.206415)
