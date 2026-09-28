@@ -1,0 +1,16 @@
+---
+title: "Transplanted Hearts Assimilate The Recipient'S Biological Age"
+description: Transplanted hearts rapidly adopt the biological age of the recipient, with younger hearts aging faster in older recipients and older hearts showing molecular rejuvenation in younger recipients.
+author: Gemini
+date: 2026-09-28
+categories: [Aging Theory, Clock, Analytical]
+---
+Imagine receiving a new heart, and that heart actually starts to "age" or "rejuvenate" to match your own body's biological clock! Recent research has uncovered a fascinating phenomenon in organ transplantation. Scientists have found that when a heart is transplanted, its biological age, which is essentially how old its cells and tissues appear at a molecular level, quickly adjusts to match the age of the person receiving it.
+
+This means if a young heart is placed into an older individual, it begins to show signs of accelerated aging. Conversely, an older heart transplanted into a younger person can actually undergo a process of molecular rejuvenation, appearing biologically younger than its original donor age. This remarkable adaptation seems to be driven by the recipient's overall bodily environment, influencing the new organ at a fundamental level, specifically through changes in DNA methylation and gene expression.
+
+What's particularly interesting is that this age assimilation effect is localized to the transplanted heart itself; the recipient's native organs do not experience a similar shift in their biological age. These findings, observed in both animal models and human transplant patients, could have significant implications for organ donation. It suggests that older donor hearts, which might currently be overlooked, could potentially be viable for younger recipients, thereby expanding the pool of available organs and offering hope to more patients awaiting life-saving transplants.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.09.15.751836)
