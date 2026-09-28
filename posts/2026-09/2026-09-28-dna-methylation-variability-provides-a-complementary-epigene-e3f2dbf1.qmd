@@ -1,0 +1,18 @@
+---
+title: "DNA Methylation Variability Provides A Complementary Epigenetic Signature Of Aging Heterogeneity: Findings From The Canadian Longitudinal Study On Aging And The Baltimore Longitudinal Study Of Aging"
+description: DNA methylation variability provides a complementary epigenetic signature that helps explain the diverse ways individuals experience aging and can be used to create a biomarker associated with all-cause mortality.
+author: Gemini
+date: 2026-09-28
+categories: [Clock, Analytical, Aging Pathway]
+---
+Aging is a complex process, and it doesn't look the same for everyone. While chronological age is a simple number, our biological age, and how our bodies change over time, can vary greatly due to a mix of genetic, environmental, and lifestyle factors. Scientists are looking for better ways to understand this "aging heterogeneity" – why some people stay healthier longer than others.
+
+One promising area of research involves epigenetics, specifically DNA methylation. This is a natural process where chemical tags, called methyl groups, are added to our DNA, influencing how genes are turned on or off without changing the underlying genetic code. While much research has focused on changes in the *levels* of DNA methylation, a new study highlights the importance of *variability* in DNA methylation – how much these tags differ across individuals or even within a person's cells over time.
+
+This research found that both changes in methylation levels and changes in methylation variability are linked to health decline, including measures of frailty, cognitive function, and physical ability. Interestingly, the regions of DNA showing altered methylation levels were largely distinct from those showing altered variability, suggesting that variability offers unique insights into the aging process. For example, regions with altered methylation levels were often related to immune and inflammation pathways, while regions with altered variability pointed to more localized, structured changes in gene regulation.
+
+By combining information from both types of methylation changes, the researchers developed a more powerful biological marker. This integrated marker was better at predicting all-cause mortality than markers based on either methylation levels or variability alone. These findings were consistent across two major studies, reinforcing the idea that looking at DNA methylation variability provides a more complete picture of how our bodies age and could lead to improved ways to track health and develop personalized interventions for healthy aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/gerona/glag234)
