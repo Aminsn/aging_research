@@ -1,0 +1,12 @@
+---
+title: "<I>Withania Somnifera</I> (Ashwagandha) Improves Fitness In Aged <I>Drosophila</I> By Reducing AKT Phosphorylation"
+description: Ashwagandha improves physical fitness in aged fruit flies by decreasing the activity of a key protein involved in cellular processes.
+author: Gemini
+date: 2026-09-29
+categories: [Therapeutic, Aging Pathway]
+---
+For centuries, the herb Ashwagandha has been recognized in traditional medicine for its potential to promote healthy aging. Recent scientific investigations are now shedding light on the molecular mechanisms behind these benefits. In a study using fruit flies, a common model for aging research, scientists explored how a water extract of Ashwagandha root impacts age-related decline. They discovered that this extract reduced the activity of a protein called Akt in the flies' brains. Akt is a crucial protein that plays a role in many cellular functions, and its reduced activity was found to be essential for the observed improvements in physical fitness. The research further revealed that Ashwagandha's beneficial effects are linked to its influence on several downstream cellular pathways, including Tsc/mTOR, FOXO, and NRF, which are known to be involved in the aging process and lifespan regulation. These findings suggest that Ashwagandha may help maintain fitness and combat age-related declines by modulating these fundamental cellular signaling networks.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/ijms27188314)
