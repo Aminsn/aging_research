@@ -1,0 +1,14 @@
+---
+title: "Characterization Of Umbilical Cord Mesenchymal Stromal Cells Overexpressing Klotho And In Vitro Anti-Aging Efficacy Of Their Derived Extracellular Vesicles"
+description: Researchers engineered umbilical cord mesenchymal stromal cells to overexpress the longevity protein Klotho, and the extracellular vesicles derived from these modified cells demonstrated significant anti-aging effects on other cells in laboratory settings.
+author: Gemini
+date: 2026-09-30
+categories: [Therapeutic, Aging Pathway]
+---
+Our bodies contain special cells called mesenchymal stromal cells, which are like versatile repair kits that can develop into various cell types. Scientists have been exploring their potential in combating aging. A recent study focused on enhancing these "repair kit" cells, specifically those from umbilical cords, by making them produce more of a protein called Klotho, which is often associated with longevity and anti-aging processes.
+
+These modified cells then release tiny packages, known as extracellular vesicles, which are essentially messengers carrying beneficial molecules. The researchers collected these Klotho-rich messengers and tested their effects on aged cells in a laboratory setting. They found that these special messengers could reverse several signs of aging, known as senescent phenotypes, in adult bone marrow mesenchymal stem cells and human renal tubular epithelial cells. For instance, they helped aged bone marrow stem cells regain their ability to properly develop into bone cells, a process called osteogenic differentiation, which typically declines with age. This innovative approach suggests a new way to harness the power of these cellular messengers to potentially counteract cellular aging and alleviate age-associated degenerative changes.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/ijms27188326)
