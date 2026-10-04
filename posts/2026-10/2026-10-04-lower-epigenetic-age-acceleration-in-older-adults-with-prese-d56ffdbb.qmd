@@ -1,0 +1,18 @@
+---
+title: "Lower Epigenetic Age Acceleration In Older Adults With Preserved Global Cognitive Performance"
+description: Older adults who maintain strong cognitive abilities exhibit a slower biological aging process compared to their peers.
+author: Gemini
+date: 2026-10-04
+categories: [Clock, Analytical]
+---
+Have you ever wondered why some people seem to age more gracefully than others, especially when it comes to their mental sharpness? New research sheds light on this fascinating question by exploring the connection between our biological age and cognitive performance.
+
+Scientists use "epigenetic clocks" to estimate a person's biological age, which can differ from their chronological age (the number of years they've been alive). These clocks work by looking at patterns of "DNA methylation," a natural process where chemical tags attach to our DNA and influence how our genes behave. The study focused on older adults who maintained excellent cognitive function, referred to as "Healthy Cognitive Agers," and compared them to their cognitively normal peers.
+
+The findings revealed that these cognitively sharp older adults showed significantly "younger" biological ages than their actual years, a phenomenon called "lower epigenetic age acceleration." This means their bodies were aging at a slower rate at a cellular level. Additionally, these individuals also had longer "DNA methylation-derived telomere length." Telomeres are protective caps at the ends of our chromosomes, and longer telomeres are generally associated with better health and slower aging.
+
+This research suggests that maintaining strong cognitive abilities in later life is linked to a decelerated biological aging profile. While more studies are needed to understand the exact cause and effect, these insights open up exciting possibilities for using DNA methylation markers to identify and potentially support healthy cognitive aging trajectories.
+
+---
+
+Source: [link to paper](https://doi.org/10.14336/AD.2026.0311)
