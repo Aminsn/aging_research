@@ -1,0 +1,18 @@
+---
+title: "Multi-Modality Profiling Identifies Neisseria Flavescens As A Central Geroprotective Oral Commensal In Humans"
+description: A common bacterium found in the human mouth, Neisseria flavescens, has been identified as a key factor associated with slower aging and has shown properties that protect against the aging process.
+author: Gemini
+date: 2026-10-05
+categories: [Clock, Therapeutic, Analytical]
+---
+Scientists have uncovered a fascinating link between a common mouth bacterium and the aging process. Using an advanced artificial intelligence system, researchers analyzed a vast amount of biological data, including information about microbes, metabolism, and gene activity, to develop "aging clocks" that predict biological age. This AI framework then screened for potential interventions that could reduce this predicted age. 
+
+The top candidate identified was a bacterium called *Neisseria flavescens*, which is a normal resident of the human oral cavity. The study found that a higher presence of this bacterium was associated with healthier physiological markers, a more beneficial gut microbiome, and the production of advantageous metabolic compounds. Further experiments showed that specific strains of this bacterium produce these beneficial substances. 
+
+In laboratory tests, live *Neisseria flavescens* was able to extend both the lifespan and "healthspan" (the period of life spent in good health) of tiny worms. Even more remarkably, when aged mice were given heat-killed versions of this bacterium, their blood chemistry, liver gene activity, and gut microbial communities shifted towards patterns typically seen in younger animals. 
+
+These findings suggest that the microbes in our mouths, often overlooked, could play a significant role in how our bodies age. This research not only points to *Neisseria flavescens* as a promising candidate for future anti-aging strategies but also demonstrates the power of AI in discovering new biological interventions.
+
+---
+
+Source: [link to paper](https://doi.org/10.1038/s43587-026-01220-0)
