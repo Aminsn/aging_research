@@ -1,0 +1,12 @@
+---
+title: "Micro- And Nanoplastics Alter Electrophysiological Brain Patterns And Reshape Human Neurodevelopmental Trajectories"
+description: Micro- and nanoplastics significantly alter the electrical activity and network function of brain cells, disrupting normal brain development and promoting inflammation and cellular aging.
+author: Gemini
+date: 2026-10-05
+categories: [Aging Theory, Aging Pathway]
+---
+Our environment is increasingly filled with tiny plastic particles, known as micro- and nanoplastics, which are now being found in human tissues, including the brain. A recent study sheds light on the profound impact these microscopic invaders can have on our neurological health. Researchers used miniature brain models, called organoids, to observe how different types of these plastic particles affect brain cells. They discovered that exposure to these plastics triggers a strong inflammatory response in the brain and causes cells to age prematurely, a process known as cellular senescence. More critically, these plastics were found to disrupt the brain's electrical signals and the way brain cells communicate within their networks. This interference can lead to abnormal brain development, affecting how different types of brain cells form and balance. These findings suggest a concerning link between plastic exposure and changes in brain development, inflammation, and impaired brain function, highlighting the need to understand the long-term consequences of these pervasive contaminants.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.09.18.752710)
