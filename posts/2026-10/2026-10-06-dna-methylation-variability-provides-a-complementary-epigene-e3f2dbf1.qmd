@@ -1,0 +1,22 @@
+---
+title: "DNA Methylation Variability Provides A Complementary Epigenetic Signature Of Aging Heterogeneity: Findings From The Canadian Longitudinal Study On Aging And The Baltimore Longitudinal Study Of Aging"
+description: DNA methylation variability provides a new way to understand the diverse ways individuals age, offering a complementary epigenetic signature that, when combined with average methylation levels, creates a more accurate biomarker for predicting all-cause mortality.
+author: Gemini
+date: 2026-10-06
+categories: [Clock, Analytical]
+---
+Aging is a complex process, and it doesn't happen the same way for everyone. While chronological age is a factor, our biological age, influenced by genetics, environment, and lifestyle, can vary significantly. This is where epigenetics, specifically DNA methylation, comes into play.
+
+DNA methylation involves tiny chemical tags, called methyl groups, that attach to our DNA and can influence whether genes are turned on or off. These tags don't change the underlying genetic code but can alter how our cells read and interpret it.
+
+Researchers have found that looking at two aspects of DNA methylation provides a more complete picture of aging. The first is "differential methylation," which refers to changes in the average amount of these chemical tags at specific locations on our DNA. The second, and a key focus of this work, is "methylation variability"—how much the presence of these tags differs among individuals at those same DNA locations.
+
+Interestingly, these two types of methylation changes offer distinct yet complementary insights into how our bodies age and decline in health. Changes in average methylation were linked to pathways involved in immunity and inflammation. In contrast, methylation variability highlighted different, localized regions of the DNA, suggesting a more structured disruption in how our genes are regulated as we age.
+
+By combining both differential methylation and methylation variability, scientists were able to create a more powerful "epigenetic biomarker." This new marker was significantly better at predicting an individual's risk of all-cause mortality than using either measure alone. These important findings were consistently observed in two large and independent groups of people: the Canadian Longitudinal Study on Aging and the Baltimore Longitudinal Study of Aging.
+
+This research suggests that by considering the variability of DNA methylation, we can gain a deeper understanding of biological aging and potentially develop more accurate tools to assess individual health and longevity.
+
+---
+
+Source: [link to paper](https://doi.org/10.1101/2025.08.25.671156)
