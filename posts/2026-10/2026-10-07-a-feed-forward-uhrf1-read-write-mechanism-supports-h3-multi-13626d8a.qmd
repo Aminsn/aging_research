@@ -1,0 +1,18 @@
+---
+title: "A Feed-Forward Uhrf1 Read-Write Mechanism Supports H3 Multi- Mono-Ubiquitination And DNA Methylation Maintenance At Cpg-Sparse Regions"
+description: UHRF1 employs a feed-forward "read-write" mechanism where it binds to its own mono-ubiquitinated histone H3 products to promote further ubiquitination, which is essential for maintaining DNA methylation in specific genomic regions.
+author: Gemini
+date: 2026-10-07
+categories: [Aging Pathway]
+---
+Our cells meticulously maintain their genetic instructions, not just through the DNA sequence itself, but also through "epigenetic" marks—chemical tags that influence how genes are read. One crucial epigenetic mark is DNA methylation, which plays a vital role in controlling gene activity and ensuring genomic stability. For these methylation patterns to be faithfully passed on when cells divide, a protein called UHRF1 works alongside another enzyme, DNMT1.
+
+Previously, we knew that UHRF1 helps recruit DNMT1 by attaching small protein tags called ubiquitins to histone H3, a protein around which DNA is wrapped. UHRF1 can add multiple ubiquitin tags to a single histone H3, but how it managed to do this repeatedly and why this "multi-mono-ubiquitination" was important remained a mystery.
+
+New research has uncovered a fascinating "read-write" mechanism within UHRF1. It turns out that UHRF1 doesn't just add ubiquitin tags; it also "reads" them. Specifically, UHRF1 directly binds to the histone H3 that it has already tagged with a single ubiquitin. This binding event then encourages UHRF1 to add even more ubiquitin tags, creating a self-reinforcing, or "feed-forward," loop.
+
+This discovery is significant because when this ubiquitin-reading ability of UHRF1 is disrupted, cells lose the ability to add multiple ubiquitin tags to histone H3. Consequently, this leads to a rapid loss of DNA methylation in specific areas of the genome, particularly in regions that are naturally sparse in CpG sites (where methylation typically occurs) and are known to be vulnerable in conditions like cancer and aging. This highlights that the ability of UHRF1 to both "write" and "read" these ubiquitin tags is crucial for protecting the integrity of our epigenetic landscape in these susceptible genomic regions.
+
+---
+
+Source: [link to paper](https://doi.org/10.64898/2026.09.25.754493)
