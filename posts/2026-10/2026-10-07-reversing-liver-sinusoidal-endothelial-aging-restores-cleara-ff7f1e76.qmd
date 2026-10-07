@@ -1,0 +1,20 @@
+---
+title: "Reversing Liver Sinusoidal Endothelial Aging Restores Clearance Of Amyloid-Beta And LDL"
+description: A study found that reversing the aging of liver sinusoidal endothelial cells in rats can restore the liver's ability to clear amyloid-beta and LDL from the bloodstream, suggesting a potential therapeutic approach for age-related conditions.
+author: Gemini
+date: 2026-10-07
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our bodies undergo many changes, and sometimes these changes can affect how well our organs function. A recent study sheds light on how aging impacts the liver's ability to clean our blood, specifically focusing on tiny cells lining the liver's blood vessels called liver sinusoidal endothelial cells (LSECs). In a healthy liver, these LSECs have small pores, or "fenestrations," that allow large molecules to pass through easily for the liver to process. However, with age, these pores often disappear, a process called pseudocapillarization, hindering the liver's filtering capabilities.
+
+Researchers investigated whether restoring the youthful characteristics of these aged LSECs could improve the clearance of harmful substances like amyloid-beta, a protein linked to Alzheimer's disease, and LDL (low-density lipoprotein), often called "bad cholesterol." They found that treating aged rats with a compound called cinaciguat for two weeks not only restored the fenestrations in their LSECs but also significantly reduced circulating amyloid-beta levels, bringing them back to those seen in younger rats.
+
+Surprisingly, cinaciguat also helped reduce age-related increases in LDL, even though LDL is small enough to cross the liver barrier regardless of fenestration. This led to the discovery of another crucial mechanism: LSECs communicate with the main liver cells (hepatocytes) through signaling molecules. While young LSECs promote the uptake of amyloid-beta and LDL by hepatocytes, aged LSECs lose this ability. Cinaciguat treatment restored this vital communication.
+
+The study identified a specific signaling molecule, heparin-binding epidermal growth factor-like growth factor (HB-EGF), as key to this interaction. Aged LSECs produce HB-EGF but fail to release it, and cinaciguat treatment successfully restored its secretion. This, in turn, helped liver cells regain surface receptors essential for clearing LDL and amyloid-beta.
+
+These findings suggest a promising new avenue for developing therapies to combat age-related increases in circulating amyloid-beta and LDL, highlighting the critical role of liver health in overall aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.jbc.2026.113608)
