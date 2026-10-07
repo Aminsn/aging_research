@@ -1,0 +1,18 @@
+---
+title: "Plasma And Cerebrospinal Fluid Proteomics Reveal Distinct Patterns Of Senescence And Neuropathology In Aging Rhesus Macaques"
+description: Research in aging rhesus macaques indicates that blood plasma provides a more comprehensive view of aging and brain disease markers than cerebrospinal fluid, mirroring patterns found in human aging.
+author: Gemini
+date: 2026-10-07
+categories: [Aging Pathway, Analytical]
+---
+As we age, our bodies undergo many changes, and understanding the difference between normal aging and the onset of brain diseases like Alzheimer's is crucial. A recent study explored this by looking at proteins in the blood plasma and cerebrospinal fluid of aging rhesus macaques, which are monkeys often used in research because their aging process is similar to humans.
+
+The researchers used a technique called "proteomics," which is the large-scale study of proteins, to analyze samples from these macaques across different life stages. They found that the proteins in the blood plasma—the liquid part of blood—were more effective at tracking both the general aging process and the accumulation of amyloid, a protein associated with Alzheimer's disease, compared to the cerebrospinal fluid, which surrounds the brain and spinal cord.
+
+The study identified specific protein markers related to "neurosenescence," essentially the aging of brain cells. These markers, including neurofilaments, GFAP, and TREM2, showed patterns consistent with those seen in human aging. They also observed higher levels of inflammatory and metabolic proteins, such as IL6 and GDF15, in older animals, indicating systemic inflammation. Furthermore, older macaques developed significant amyloid deposits in their brains, a hallmark of neurodegenerative diseases, though with less tau pathology, another protein implicated in these conditions.
+
+This work is important because it helps scientists better understand how a healthy brain ages versus how it begins to decline pathologically. The alignment of these findings with human biomarker trajectories suggests that rhesus macaques are a valuable model for testing new treatments for neurodegenerative diseases, potentially leading to more accessible ways to monitor brain health through simple blood tests.
+
+---
+
+Source: [link to paper](https://doi.org/10.1007/s11357-026-02555-7)
