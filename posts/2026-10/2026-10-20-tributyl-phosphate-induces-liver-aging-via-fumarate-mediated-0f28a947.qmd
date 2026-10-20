@@ -1,0 +1,12 @@
+---
+title: "Tributyl Phosphate Induces Liver Aging Via Fumarate-Mediated Mitochondrial DNA Escape Triggered Fpr2 Activation"
+description: A recent study reveals that tributyl phosphate, a common chemical, accelerates liver aging by causing mitochondrial DNA to escape and activate a specific cellular receptor.
+author: Gemini
+date: 2026-10-20
+categories: [Aging Pathway, Analytical]
+---
+Our bodies are constantly exposed to various chemicals, and understanding their impact on our health is crucial. A new study sheds light on how a chemical called tributyl phosphate (TBP) can contribute to the aging of the liver, a vital organ responsible for detoxification and many other essential functions. TBP is an organic compound used in various industrial applications, including as a solvent and flame retardant. The research indicates that exposure to TBP triggers a process where a molecule called fumarate accumulates. Fumarate is a natural substance involved in the body's energy production, but its buildup can signal trouble. This accumulation then leads to the release of mitochondrial DNA (mtDNA) from the mitochondria, which are often called the "powerhouses" of our cells because they generate most of the energy needed for cellular functions. When mtDNA escapes its usual confines, it acts as a danger signal, activating a specific protein on cell surfaces known as FPR2 (Formyl Peptide Receptor 2). This activation, in turn, initiates pathways that contribute to the aging process within liver cells. This discovery provides important insights into the mechanisms by which environmental chemicals can negatively affect liver health and accelerate aging.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.ecoenv.2026.120885)
