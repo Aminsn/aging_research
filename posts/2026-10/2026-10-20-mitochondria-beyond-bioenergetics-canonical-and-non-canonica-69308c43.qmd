@@ -1,0 +1,16 @@
+---
+title: "Mitochondria Beyond Bioenergetics: Canonical And Non-Canonical Functions In Ischemic Stroke And Aging"
+description: Mitochondria, traditionally known for energy production, play diverse roles in cellular health and disease, with both their established and newly recognized functions significantly impacting the progression of ischemic stroke and the aging process.
+author: Gemini
+date: 2026-10-20
+categories: [Aging Theory, Aging Pathway]
+---
+Beyond their well-known role as the "powerhouses" of the cell, generating energy through a process called oxidative phosphorylation, mitochondria are now understood to be crucial players in many other cellular activities. These tiny organelles have both established functions, like managing calcium levels and regulating cellular stress, and newly discovered roles that are vital for how cells respond to damage and aging. 
+
+For instance, in conditions like ischemic stroke, where blood flow to the brain is interrupted, mitochondrial dysfunction is a key factor in neuronal injury and inflammation. This isn't just about a lack of energy; it also involves the overproduction of harmful molecules called reactive oxygen species, and issues with "mitochondrial quality control," which is how cells maintain healthy mitochondria through processes like fusion, fission, and removal of damaged ones. 
+
+Furthermore, these non-canonical functions link mitochondrial health to various cellular processes, including a type of cell death called ferroptosis, the activation of the immune system (inflammasome activation), and even how genes are regulated. As we age, these mitochondrial quality control mechanisms can become compromised, making cells more vulnerable to damage. Understanding these broader roles of mitochondria opens up new avenues for developing treatments for conditions like stroke and age-related diseases, by targeting these diverse mitochondrial functions.
+
+---
+
+Source: [link to paper](https://doi.org/10.14336/AD.2026.0679)
