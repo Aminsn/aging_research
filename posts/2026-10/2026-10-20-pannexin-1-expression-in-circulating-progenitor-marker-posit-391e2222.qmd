@@ -1,0 +1,18 @@
+---
+title: "Pannexin 1 Expression In Circulating Progenitor Marker-Positive Cells Is Associated With Senescence And Cardiovascular Risk"
+description: Increased levels of a protein called Pannexin 1 in specific circulating cells are linked to cellular aging and a higher risk of developing cardiovascular disease.
+author: Gemini
+date: 2026-10-20
+categories: [Aging Pathway, Analytical]
+---
+Our bodies contain special cells, often called "progenitor cells," that act like a repair crew, helping to maintain and fix our blood vessels. As we age, these cells can become "senescent," meaning they stop dividing and can even contribute to inflammation and disease, including heart and blood vessel problems. Recent research has shed light on a protein called Pannexin 1 (Panx1), which forms channels in cell membranes, allowing small molecules to pass through and influencing cell communication. 
+
+Scientists have discovered that levels of Panx1 are elevated in these progenitor cells when they become senescent, particularly in older individuals. This increased Panx1 expression is not just a sign of aging cells; it's also associated with a greater risk of cardiovascular disease. 
+
+Intriguingly, the study found that by reducing the amount of Panx1, these aging progenitor cells could be "rejuvenated." Their ability to form new blood vessels, a crucial function for repair, improved significantly. This beneficial effect appears to be mediated by an increase in a growth factor called IGF-1, which is triggered by changes in other cellular pathways, including the FAK-ERK axis, following a reduction in calcium entering the cells. 
+
+These findings suggest that Panx1 could be a valuable indicator for identifying individuals at higher risk of age-related cardiovascular issues. Furthermore, targeting Panx1 could open new avenues for developing therapies to combat cellular aging and prevent or treat cardiovascular diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1186/s40364-026-01006-x)
