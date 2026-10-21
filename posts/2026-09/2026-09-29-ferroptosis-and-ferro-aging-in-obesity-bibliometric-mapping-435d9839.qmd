@@ -1,6 +1,6 @@
 ---
 title: "Ferroptosis And Ferro-Aging In Obesity: Bibliometric Mapping, Shared Mechanisms, And Translational Perspectives"
-description: Obesity can lead to two distinct outcomes of iron-lipid peroxidation stress: acute ferroptotic cell death and a proposed ferro-aging-like senescence under persistent sublethal stress.
+description: Obesity can lead to two distinct outcomes of iron-lipid peroxidation stress acute ferroptotic cell death and a proposed ferro-aging-like senescence under persistent sublethal stress.
 author: Gemini
 date: 2026-09-29
 categories: [Aging Theory, Aging Pathway, Therapeutic, Analytical]
