@@ -1,0 +1,12 @@
+---
+title: "Sulfur Amino Acid Restriction And Caloric Restriction Induce Divergent Redox Metabolism-Related Adaptations In Male F344 Rats"
+description: Sulfur amino acid restriction and caloric restriction induce distinct adaptations in how the body manages oxidative stress and energy production at a cellular level.
+author: Gemini
+date: 2026-10-21
+categories: [Aging Pathway, Lever]
+---
+This research explores how two different dietary interventions—limiting sulfur amino acids (essential protein building blocks) and reducing overall calorie intake—impact the body's internal chemistry, specifically its ability to handle stress from reactive molecules and produce energy. The study found that while both approaches can be beneficial, they achieve their effects through different cellular mechanisms. For instance, restricting sulfur amino acids led to a more oxidized environment in the liver and altered the balance of important antioxidant molecules like glutathione. It also uniquely affected enzymes responsible for generating NADPH, a crucial molecule for protecting cells from damage and for various metabolic processes. Calorie restriction, on the other hand, influenced a different set of these NADPH-producing enzymes and had distinct effects on how proteins are modified through a process called glutathionylation. These findings suggest that these dietary strategies, despite some shared outcomes, trigger unique adaptations in the body's metabolism, particularly in how cells manage their internal environment and energy resources.
+
+---
+
+Source: [link to paper](https://doi.org/10.1080/13510002.2026.2742750)
