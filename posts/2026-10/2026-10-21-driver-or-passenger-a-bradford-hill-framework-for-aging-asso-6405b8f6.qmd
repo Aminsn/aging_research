@@ -1,0 +1,16 @@
+---
+title: "Driver Or Passenger? A Bradford Hill Framework For Aging-Associated Lncrnas"
+description: A new framework has been developed to determine whether long noncoding RNAs (lncRNAs) that change with age are actively driving the aging process or are simply indicators of it.
+author: Gemini
+date: 2026-10-21
+categories: [Aging Theory, Analytical]
+---
+As we age, many molecules within our bodies change, and among these are long noncoding RNAs, or lncRNAs. These fascinating molecules play a crucial role in influencing how our genes work, but unlike other RNAs, they don't produce proteins. While it's clear that lncRNAs change as tissues age, a critical question arises: are these changes actively causing aging, or are they merely a consequence, like a passenger in a car rather than the driver?
+
+Distinguishing between "drivers" and "passengers" is incredibly important, especially when researchers are trying to identify potential targets for treatments aimed at slowing or reversing aging. To address this challenge, a new approach has been proposed, adapting a well-established set of guidelines known as the Bradford Hill criteria. Originally developed to assess whether an observed association is truly causal, these criteria have been tailored to evaluate aging-associated lncRNAs.
+
+This framework provides a structured way to test whether a particular lncRNA is a genuine cause of aging. It involves looking at various types of evidence, from molecular details to studies in living animals. The framework emphasizes evaluating each piece of evidence separately rather than combining them into a single score, ensuring a more nuanced understanding. Interestingly, when applied to several examples of lncRNAs, the framework revealed that none currently meet the highest standards for validation in animal studies. This doesn't mean these lncRNAs aren't important, but it highlights the need for more rigorous research. The key takeaway is to approach claims about lncRNA-based aging treatments with careful scrutiny, ensuring that the molecules being targeted are indeed drivers of aging and not just along for the ride.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.arr.2026.103409)
