@@ -1,0 +1,16 @@
+---
+title: "Harnessing Cgas-STING In Neurodegeneration: From Mitochondrial DNA Leakage And Microglial Reactivity To Species-Specific Translational Barriers"
+description: The paper highlights how the cGAS-STING immune pathway, activated by leaked mitochondrial DNA and reactive brain immune cells, drives neuroinflammation in various neurodegenerative diseases and discusses the challenges of developing effective treatments due to differences across species.
+author: Gemini
+date: 2026-10-24
+categories: [Aging Pathway, Therapeutic, Aging Theory]
+---
+Our bodies have an internal alarm system, called the cGAS-STING pathway, that normally protects us from invaders by detecting foreign DNA. However, this system can sometimes go awry. In conditions like Alzheimer's, Parkinson's, and ALS, DNA from our own cells, specifically from the mitochondria (the powerhouses of our cells), can leak out into the cell's main compartment. When this happens, the cGAS-STING pathway in the brain's immune cells, called microglia, gets activated.
+
+This activation triggers a continuous inflammatory response in the brain, which is a major contributor to the damage and progression seen in these neurodegenerative diseases. Understanding this pathway is crucial for developing new treatments. However, a significant hurdle is that the cGAS-STING pathway can behave differently across species. For example, a drug that effectively blocks this pathway in mice might not work the same way in humans.
+
+This means that future therapeutic strategies need to be very precise, aiming to fine-tune the pathway's activity rather than completely shutting it down, to ensure treatments are both effective and safe for people.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.cytogfr.2026.101537)
