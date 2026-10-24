@@ -1,0 +1,12 @@
+---
+title: "Loss Of CDON Aggravates Age-Related Heart Damage Driven By Compromised Foxo3 Nuclear Localization"
+description: The absence of a protein called CDON intensifies age-related heart damage by negatively impacting the proper function of another protein, FOXO3, within heart cells.
+author: Gemini
+date: 2026-10-24
+categories: [Aging Pathway, Therapeutic]
+---
+As we get older, our hearts naturally experience changes that can lead to damage and reduced function. Recent scientific findings highlight the critical role of a specific protein, let's call it "Protein C," in this aging process. Researchers discovered that as the heart ages, the amount of Protein C decreases. This reduction is associated with several indicators of heart damage, such as the enlargement of heart muscle (myocardial hypertrophy), the development of scar tissue (fibrosis), and a decrease in the heart's pumping efficiency. Studies in models lacking Protein C showed similar harmful effects, with an increase in various signs of cellular aging and damage within heart cells. Further investigation revealed that Protein C influences the activity of another important protein, "Protein F," which is known for its role in promoting cell health and longevity. When Protein C levels are low, Protein F doesn't move into the cell's control center (the nucleus) as it should. This disruption in Protein F's location appears to initiate a series of events that speed up cellular aging and damage in heart cells. In essence, Protein C acts as a protector for heart health, and its decline with age compromises the protective actions of Protein F, leading to more severe age-related heart problems. Understanding this complex interaction could open doors for new approaches to safeguard our hearts as we age.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.bbadis.2026.168502)
