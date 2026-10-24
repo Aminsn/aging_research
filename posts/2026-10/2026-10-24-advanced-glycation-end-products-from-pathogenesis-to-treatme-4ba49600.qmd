@@ -1,0 +1,12 @@
+---
+title: "Advanced Glycation End Products: From Pathogenesis To Treatment"
+description: Advanced glycation end products, formed from sugar reactions with biological molecules, contribute to aging and various chronic diseases by causing structural damage and triggering inflammatory responses.
+author: Gemini
+date: 2026-10-24
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+Our bodies naturally produce substances called advanced glycation end products, or AGEs, which are formed when sugars react with proteins, fats, or genetic material without the help of enzymes. These compounds can also come from our diet, especially from foods cooked at high temperatures. As we age, or if we have conditions like high blood sugar, these AGEs can build up in our tissues. Once accumulated, AGEs cause harm in two main ways. First, they can directly damage important biological molecules, like proteins, by altering their structure and function, and by creating unwanted links between them, which can stiffen tissues. Second, AGEs can bind to specific receptors on cells, particularly one known as RAGE (Receptor for Advanced Glycation End Products). This binding triggers a cascade of events inside the cell, leading to increased "oxidative stress" – an imbalance between harmful molecules called free radicals and the body's protective antioxidants – and "inflammation," the body's protective response to injury or infection. This dual action of AGEs contributes significantly to the development and progression of many chronic diseases, including diabetes and its complications, heart disease, kidney disease, and even neurodegenerative conditions like Alzheimer's. Understanding these mechanisms is crucial for developing strategies to counteract their harmful effects, such as preventing their formation, breaking down existing AGEs, or blocking their interaction with cellular receptors.
+
+---
+
+Source: [link to paper](https://doi.org/10.1002/mco2.71073)
