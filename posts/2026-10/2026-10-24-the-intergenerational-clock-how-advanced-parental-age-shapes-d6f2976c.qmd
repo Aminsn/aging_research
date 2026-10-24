@@ -1,0 +1,18 @@
+---
+title: "The Intergenerational Clock: How Advanced Parental Age Shapes Offspring Biological Aging, Longevity And Neurodegenerative Risk"
+description: Advanced parental age can influence the biological aging, longevity, and neurodegenerative risk of offspring through the transmission of epigenetic marks that shape gene regulation during early development.
+author: Gemini
+date: 2026-10-24
+categories: [Aging Theory, Aging Pathway]
+---
+As more people choose to have children later in life, a new area of research is exploring how the age of parents at conception might affect their children's long-term health. It turns out that the biological impact of parental age extends beyond immediate fertility concerns, potentially influencing how offspring age and their susceptibility to certain health conditions.
+
+This emerging concept, dubbed the "intergenerational clock," suggests that the timing of reproduction can actually set a trajectory for the next generation's aging process. Specifically, when mothers are around 35 or older and fathers are 40 or older, there's evidence that their advanced age can be linked to changes in their children's health.
+
+But how does this happen? It's not about changes to the fundamental DNA sequence itself. Instead, the mechanism involves "epigenetic marks." Think of epigenetics as a set of instructions that tell your genes when and how to work. These marks can be influenced by a parent's age and then passed on, subtly altering how genes are regulated during the early stages of a child's development.
+
+These epigenetic changes are associated with increased risks for various health issues in offspring, including neurodevelopmental and metabolic challenges, and even a higher likelihood of neurodegenerative diseases later in life. It's important to remember that these are increased risks, not guaranteed outcomes for every child of older parents. However, understanding these connections is crucial for public health, as it reframes aging not just as an individual journey, but as a continuous process that can be influenced across generations.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.neubiorev.2026.107035)
