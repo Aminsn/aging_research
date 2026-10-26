@@ -1,0 +1,16 @@
+---
+title: "Epigenetic Clocks Can Predict Age In The Largemouth Bass-Complex Despite Spatial And Sexual Variation"
+description: Scientists have developed a new method using "epigenetic clocks" to accurately determine the age of largemouth bass, including different species and hybrids, without harming the fish.
+author: Gemini
+date: 2026-10-26
+categories: [Clock, Analytical]
+---
+Understanding the age of fish populations is crucial for managing sustainable fisheries, but traditional methods often involve sacrificing the fish. Imagine being able to tell a fish's age just by taking a small, harmless sample! That's exactly what new research has achieved for the largemouth bass-complex, which includes largemouth bass, Florida bass, and their hybrid offspring. 
+
+The key to this breakthrough lies in "epigenetic clocks." These aren't physical clocks, but rather biological tools that measure changes in an organism's DNA over time. Specifically, they look at "DNA methylation," which are tiny chemical tags that attach to the DNA molecule. Think of these tags as bookmarks that can turn genes on or off, and their patterns change predictably as an organism ages. The researchers focused on specific spots on the DNA called "CpG loci" where these tags are common. 
+
+By analyzing these methylation patterns, scientists developed models that can accurately predict the chronological age of individual bass. What's particularly exciting is that these epigenetic clocks work well even when considering differences in the fish's sex or where they live. This non-lethal approach offers a significant improvement over older, more invasive methods, providing a valuable tool for conservation efforts and ensuring healthy fish populations for the future.
+
+---
+
+Source: [link to paper](https://doi.org/10.1111/eva.70328)
