@@ -1,0 +1,18 @@
+---
+title: "Mitofusin-2 (Mfn2) Is A Critical Regulator Of Metabolic Homeostasis In Neuronal Cells: A Metabolomic And Proteomic Study"
+description: A study revealed that the protein Mitofusin-2 (MFN2) is essential for maintaining healthy mitochondrial function and metabolism in brain cells, and that supplementing with taurine can reverse the negative effects of MFN2 deficiency.
+author: Gemini
+date: 2026-10-27
+categories: [Aging Pathway, Therapeutic, Analytical]
+---
+Our brain cells rely heavily on tiny powerhouses called mitochondria to function correctly and maintain a stable internal environment, a process known as metabolic homeostasis. Recent research has shed light on a crucial protein, Mitofusin-2 (MFN2), and its vital role in keeping these cellular power plants running smoothly in neuronal cells. 
+
+Scientists investigated what happens when MFN2 levels are reduced in brain cells. They found that a decrease in this protein led to a cascade of problems, including increased cellular stress from harmful molecules (oxidative stress), disruptions in the electrical balance across mitochondrial membranes, and a reduction in the genetic material within mitochondria. These changes also affected how cells grow and die, impacting processes like cell proliferation and programmed cell death.
+
+Using advanced techniques to analyze proteins and metabolites (small molecules involved in metabolism), the researchers identified specific proteins and metabolic pathways that were altered when MFN2 was deficient. Notably, they discovered that a neuromodulator called taurine was significantly reduced. 
+
+Remarkably, when taurine was added back to the cells, it was able to reverse the detrimental effects caused by the lack of MFN2, restoring normal mitochondrial function and cellular metabolism. This finding suggests that MFN2 is critical for healthy brain cell function and that taurine could be a promising target for addressing mitochondrial issues linked to MFN2 deficiencies.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.mito.2026.102226)
