@@ -1,0 +1,18 @@
+---
+title: "Identification Of Sgk1 As A Candidate Regulator Associated With Myeloid Cell Senescence In ME/CFS: An Integrative Transcriptomic And Experimental Study"
+description: This study identified SGK1 as a candidate molecule associated with aging-like changes in certain immune cells, specifically myeloid cells, in individuals with Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS).
+author: Gemini
+date: 2026-10-28
+categories: [Aging Pathway, Analytical]
+---
+Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) is a challenging illness that often presents with immune system problems and inflammation, similar to what is seen in the aging process. However, the specific role of "senescence"—a state where cells stop dividing and accumulate, much like older cells—in the immune cells of ME/CFS patients has been unclear. This research aimed to shed light on this mystery. 
+
+Researchers employed sophisticated genetic analysis, which involves studying the activity of genes (a process called transcriptomics), alongside laboratory experiments. Their goal was to pinpoint genes that might be involved in these aging-like changes in immune cells. 
+
+They made a significant discovery: a gene named SGK1 was found to be particularly active in specific types of immune cells, known as myeloid cells (which include important defenders like monocytes and neutrophils), in individuals with ME/CFS. Further investigation revealed that SGK1 is connected to cellular aging processes and inflammation. When the activity of SGK1 was experimentally reduced in lab-grown cells, key indicators of cellular aging, such as the proteins p16, p21, and p53, also decreased. 
+
+These findings suggest that SGK1 could be a crucial factor contributing to the "aging-like" alterations observed in the immune systems of people with ME/CFS. This discovery opens up new possibilities for understanding the underlying mechanisms of the illness and could potentially lead to novel approaches for diagnosis and treatment.
+
+---
+
+Source: [link to paper](https://doi.org/10.1371/journal.pone.0359082)
