@@ -1,0 +1,12 @@
+---
+title: "GDNF Sustains Female Germline Stem Cell Homeostasis During Ovarian Aging In Laying Hens"
+description: Glial cell line-derived neurotrophic factor (GDNF) helps maintain a stable population of female germline stem cells, which are crucial for egg production, as hens age.
+author: Gemini
+date: 2026-10-28
+categories: [Aging Pathway, Therapeutic]
+---
+As hens get older, their ability to lay eggs often declines. This is partly due to the aging of their ovaries, specifically a reduction in the number of special cells called female germline stem cells. These stem cells are like a reserve, capable of producing new eggs throughout a hen's life. A recent study has shed light on how a protein called Glial Cell Line-Derived Neurotrophic Factor, or GDNF, plays a vital role in keeping these egg-producing stem cells healthy and in balance. Think of GDNF as a crucial support system that helps these stem cells maintain their "homeostasis"—a fancy word for a stable and healthy internal environment. By sustaining these stem cells, GDNF helps to counteract the natural aging process in the ovary, potentially allowing hens to continue laying eggs for a longer period. This discovery could open doors for new strategies to improve egg production and extend the reproductive lifespan of laying hens.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.anireprosci.2026.108354)
