@@ -1,0 +1,18 @@
+---
+title: "Dysfunctional Lens Syndrome: Molecular, Biomechanical, Optical And Clinical Aspects Of Crystalline Lens Aging"
+description: Dysfunctional Lens Syndrome (DLS) describes the progressive age-related decline in the eye's natural lens function, encompassing presbyopia, increased optical imperfections, and reduced vision quality, even before a clinically diagnosable cataract forms.
+author: Gemini
+date: 2026-10-28
+categories: [Aging Pathway, Therapeutic]
+---
+As we age, our eyes undergo a natural process of change, and sometimes, these changes can lead to a decline in our vision quality even before a cataract fully develops. This progressive decline in the performance of the eye's natural lens is known as Dysfunctional Lens Syndrome (DLS).
+
+This syndrome isn't just about needing reading glasses; it encompasses a range of issues. You might experience presbyopia, which is the common difficulty in focusing on close-up objects. Beyond that, the quality of your vision can suffer due to increased higher-order aberrations—subtle optical imperfections that scatter light and reduce clarity—and a decrease in contrast sensitivity, making it harder to distinguish objects from their background.
+
+These visual changes stem from a combination of molecular, biomechanical, and optical alterations within the lens. At a molecular level, proteins within the lens, called crystallins, change over time, and the lens's internal environment can become imbalanced, leading to increased density and reduced transparency. Biomechanically, the lens grows and stiffens, losing its flexibility to change shape and focus, a process known as accommodation. Optically, the way light passes through the lens is affected, contributing to the scattering of light and the aforementioned imperfections.
+
+Crucially, these changes begin long before a traditional cataract, which is a significant clouding of the lens, becomes evident. Recognizing this earlier stage of lens dysfunction allows eye care professionals to offer more personalized and timely interventions, such as refractive lens exchange, to improve overall vision quality and address issues like presbyopia, rather than waiting for a cataract to fully mature.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.oftale.2026.502679)
