@@ -1,0 +1,12 @@
+---
+title: "The Senescence-Malignancy Axis: An Inflammaging Perspective"
+description: The paper reveals that the progression from normal cellular aging to cancer is a continuous process, largely driven by chronic, low-grade inflammation caused by aging cells.
+author: Gemini
+date: 2026-11-01
+categories: [Aging Theory, Aging Pathway]
+---
+Our bodies are constantly changing, and as we age, some cells enter a state called senescence. These "senescent cells" stop dividing, which can initially be a good thing, preventing damaged cells from multiplying. However, this paper highlights that these cells are far from inactive. Instead, they become factories for a mix of inflammatory molecules, growth factors, and enzymes, collectively known as the senescence-associated secretory phenotype (SASP). This SASP actively remodels the surrounding tissue, essentially creating a welcoming environment for tumors to grow. This process is further fueled by a metabolic shift in senescent cells, where they produce substances like lactate and prostaglandins that sustain their senescent state. The continuous accumulation of these senescent cells, coupled with a decline in our immune system's ability to clear them, leads to a persistent, low-grade systemic inflammation known as "inflammaging." This inflammaging acts as a crucial link, bridging the gap between aging and the development of cancer. Understanding this intricate connection between cellular aging and inflammation offers new avenues for developing strategies to prevent and treat age-related diseases, including cancer.
+
+---
+
+Source: [link to paper](https://doi.org/10.3390/antiox15101357)
