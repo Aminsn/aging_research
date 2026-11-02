@@ -1,0 +1,12 @@
+---
+title: "Integration Of Hydrogen Peroxide Sensing And Detoxification By The C. Elegans Nervous System"
+description: The nervous system of the nematode *C. elegans* detects hydrogen peroxide by monitoring the internal state of its detoxification system and then initiates an escape behavior.
+author: Gemini
+date: 2026-11-02
+categories: [Aging Theory, Aging Pathway]
+---
+Our bodies are constantly exposed to reactive chemicals, and one of the most common threats is hydrogen peroxide. While we know that organisms have ways to detoxify this chemical, how they sense it and react to avoid harm has been less clear. Recent research using the tiny worm *C. elegans* sheds light on this fascinating process. This study revealed that the worm's nervous system acts like a sophisticated alarm system, not just for the presence of hydrogen peroxide, but by actually "reading" the activity of its internal hydrogen peroxide-detoxifying machinery. When hydrogen peroxide is detected, it modifies a specific protein called PRDX-2, which is part of the detoxification system. This change in PRDX-2 then sends a signal to specialized channels on nerve cells, causing an influx of calcium. This calcium signal activates sensory neurons, which in turn communicate with other nerve cells to trigger a rapid escape response in the worm. This intricate sensing mechanism, which involves 24 different types of neurons, allows the worm to detect and avoid even non-lethal levels of hydrogen peroxide. This discovery is significant because it suggests that problems in how our cells handle hydrogen peroxide signals, rather than just direct damage from the chemical, could play a role in age-related neurological conditions and neurodegenerative diseases.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.cub.2026.09.062)
