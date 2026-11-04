@@ -1,0 +1,16 @@
+---
+title: "Inhibition Of Asparagine Endopeptidase Extends The Lifespan And Improves Health Span During Aging"
+description: Inhibiting a specific enzyme called asparagine endopeptidase has been shown to extend the lifespan and improve various health indicators in aging mice.
+author: Gemini
+date: 2026-11-04
+categories: [Aging Pathway, Therapeutic]
+---
+Scientists have made a significant discovery in the quest to understand and combat aging. They focused on a particular "worker protein" in the body, an enzyme known as asparagine endopeptidase (AEP), also called legumain. Enzymes are biological molecules that speed up chemical reactions, and AEP's job is to cut other proteins. As we age, this enzyme can become overactive, contributing to various age-related problems like memory decline, inflammation, and even conditions such as Alzheimer's and Parkinson's disease.
+
+In a recent study, researchers investigated whether blocking the activity of this enzyme could improve health and extend life. They used a special type of drug, a "small-molecule inhibitor," which is a compound designed to specifically stop AEP from working excessively. When this inhibitor was given to naturally aging mice, the results were remarkable. The treated mice lived longer and showed significant improvements in their "health span," which refers to the period of life spent in good health, free from chronic diseases and disabilities.
+
+Specifically, the mice exhibited better memory, reduced signs of physical weakness (frailty), improved sensitivity to insulin (a hormone crucial for regulating blood sugar), and less inflammation throughout their bodies. These findings suggest that targeting AEP could be a promising strategy for developing new treatments to promote healthier aging in humans.
+
+---
+
+Source: [link to paper](https://doi.org/10.1016/j.isci.2026.117990)
