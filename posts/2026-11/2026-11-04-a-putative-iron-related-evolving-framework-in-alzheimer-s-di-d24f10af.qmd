@@ -1,0 +1,12 @@
+---
+title: "A Putative Iron-Related Evolving Framework In Alzheimer'S Disease: From Iron Dyshomeostasis And Ferro-Aging To Ferroptosis"
+description: Disrupted iron metabolism and a specific type of cell death called ferroptosis are identified as crucial factors driving the progression of Alzheimer's disease.
+author: Gemini
+date: 2026-11-04
+categories: [Aging Theory, Aging Pathway, Therapeutic]
+---
+Scientists are uncovering new insights into Alzheimer's disease, a condition that progressively damages the brain. A key area of focus is how iron, a metal essential for many bodily functions, can become imbalanced in the brain. This imbalance, known as iron dyshomeostasis, leads to an accumulation of iron that can be harmful. This research highlights that this iron accumulation, along with a recently identified form of cell death called ferroptosis, plays a significant role in the disease's progression. Ferroptosis is a unique type of programmed cell death that relies on iron and involves damage to cell membranes through a process called lipid peroxidation. The paper also introduces "ferro-aging," a form of cellular aging characterized by its dependence on iron and lipid peroxidation-driven damage. The findings suggest a framework where iron dysregulation initiates damage, ferro-aging contributes to the long-term progression, and ferroptosis causes acute injury in Alzheimer's. Understanding these iron-related processes and cell death mechanisms could pave the way for new strategies to treat this challenging disease.
+
+---
+
+Source: [link to paper](https://doi.org/10.1177/13872877261501439)
