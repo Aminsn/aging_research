@@ -1,0 +1,18 @@
+---
+title: "Mapk15 Induces Cardiomyocyte Senescence And Atrial Fibrillation By Promoting Mitochondrial Calcium Overload Via Palmitoylating Mcub At The C91 Residue"
+description: A specific protein, MAPK15, contributes to the aging of heart muscle cells and the development of an irregular heartbeat called atrial fibrillation by causing an overload of calcium in the cells' powerhouses.
+author: Gemini
+date: 2026-11-04
+categories: [Aging Pathway, Therapeutic]
+---
+Our hearts are incredible organs, but like all parts of our body, they can show signs of aging. One common age-related heart condition is atrial fibrillation (AF), an irregular and often rapid heartbeat that can lead to serious health problems. A recent study sheds light on a new pathway that contributes to both the aging of heart muscle cells and the onset of AF.
+
+The research uncovered a crucial role for a protein called MAPK15. It appears that MAPK15 plays a part in promoting the aging of atrial heart muscle cells, a process known as senescence, which is closely linked to AF. The mechanism involves MAPK15 modifying another protein, Mcub, at a specific location (C91). This modification, called palmitoylation, causes Mcub to detach from the cell's "powerhouses," the mitochondria, and move into the surrounding cellular fluid.
+
+When Mcub detaches, it disrupts the normal regulation of calcium entering the mitochondria. This leads to an excessive accumulation of calcium within these powerhouses, causing them to become overwhelmed. This calcium overload, in turn, triggers the production of harmful molecules called reactive oxygen species (ROS) and ultimately leads to the premature aging of the heart muscle cells. These aged cells then exhibit characteristics that make the heart more prone to developing AF, such as increased electrical activity and changes in tissue structure.
+
+Interestingly, the study also suggests that a circulating inflammatory molecule, IL-17a, might be an upstream activator of MAPK15, providing another potential avenue for investigation. Understanding this intricate pathway, from MAPK15 to mitochondrial calcium overload and cellular senescence, opens up exciting possibilities for developing new treatments. Targeting MAPK15 or Mcub could offer a novel strategy to combat the aging of heart muscle cells and prevent or treat atrial fibrillation.
+
+---
+
+Source: [link to paper](https://doi.org/10.1093/cvr/cvag241)
